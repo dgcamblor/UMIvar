@@ -31,11 +31,13 @@ UMIvar takes as an input an NGS sample in the form of a **BAM file**, which must
 @MISEQ:177:C3Y1KACXX:2:1101:1465:1937_GATTAGATT
 ```
 
-On the other hand, the program reads the variants to be introduced from a **CSV file**. The CSV file must contain the following columns:
+On the other hand, the program reads the variants to be introduced from a **CSV** or a **VCF file**. If variants are stored in a CSV file, it must contain the following columns:
 
 ```text
 chromosome,position,reference,alternative,allele_frequency
 ```
+
+If variants are stored in a VCF file, it must contain the usual fields, and the allele frequency must be included in the `AF` tag under the `INFO` field.
 
 Variants should be sorted by chromosome and position, and they should be expressed in accordance with [normalization rules](https://genome.sph.umich.edu/wiki/Variant_Normalization).
 
@@ -66,11 +68,13 @@ The optional arguments are:
 
 UMIvar will examine the reads covering each variant and will introduce those variants at the nearest possible allele frequency to the one specified in the CSV file. It will then write the resulting reads in the specified output BAM file.
 
-As the final allele frequency may differ from the one specified in the CSV file (it is subject to the available UMIs and their frequencies), and as some of the variants may not be covered enough by the reads and discarded, a CSV file with the information of the variants introduced is also generated and saved to the output folder (`<output_bam_name>.csv`). This file contains the same columns as the input CSV file, in addition to the number of umis in which the variant was included and the strand bias:
+As the final allele frequency may differ from the one specified in the CSV file (it is subject to the available UMIs and their frequencies), and as some of the variants may not be covered enough by the reads and discarded, a CSV file with the information of the variants introduced is also generated and saved to the output folder (`<output_bam_name>.csv`). This file contains following columns:
 
 ```text
-chromosome,position,reference,alternative,achieved_af,umis,strand_bias
+chromosome,position,reference,alternative,achieved_af,var_coverage,umis,strand_bias
 ```
+
+Recording the achieved allele frequency (`achieved_af`), the number of reads covering the variant (`var_coverage`), the number of UMIs in which the variant was included (`umis`) and the strand bias (`strand_bias`).
 
 UMIvar will also generate two FASTQ files with the paired reads resulting from the simulation, ready to be realigned to the reference genome (`<output_bam_name>_R1.fastq` and `<output_bam_name>_R2.fastq`).
 

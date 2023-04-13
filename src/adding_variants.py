@@ -314,8 +314,17 @@ def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
             covering_reads = [read for read in bamfile.fetch(variant.chr, variant.pos0, variant.pos0 + 1)]
 
             if not covering_reads:
-                print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [no reads]{END}")
+                print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [no coverture]{END}")
                 continue
+            forward_reads = [read for read in covering_reads if not read.is_reverse]
+            reverse_reads = [read for read in covering_reads if read.is_reverse]
+
+            # Get the UMIs from the IDs of each read covering the variant
+            umis = list(map(lambda x: get_umi_from_qname(x.query_name), covering_reads))  # Extract the UMIs from the read IDs
+            umis_fwd = list(map(lambda x: get_umi_from_qname(x.query_name), forward_reads))
+            umis_rev = list(map(lambda x: get_umi_from_qname(x.query_name), reverse_reads))
+
+            var_coverage = len(set(umis))
 
             # Check the validity of each read
             read_blacklist, umi_blacklist = check_read_validity(var_record, variant, covering_reads)
@@ -323,13 +332,6 @@ def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
             if len(covering_reads) == len(read_blacklist):
                 print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [no valid reads]{END}")
                 continue
-
-            forward_reads = [read for read in covering_reads if not read.is_reverse]
-            reverse_reads = [read for read in covering_reads if read.is_reverse]
-
-            umis = list(map(lambda x: get_umi_from_qname(x.query_name), covering_reads))  # Extract the UMIs from the read IDs
-            umis_fwd = list(map(lambda x: get_umi_from_qname(x.query_name), forward_reads))
-            umis_rev = list(map(lambda x: get_umi_from_qname(x.query_name), reverse_reads))
 
             # Get the frequencies of each UMI and their counts
             _, umi_relfreqs, freq_counts = umi_freqs(umis)
@@ -427,7 +429,7 @@ def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
             print(f"{GREEN}Variant {variant} introduced at frequency {achieved_af:3f} in {len(umis_to_mutate)} UMIs (SB: {strand_bias:3f}){END}")
         elif added_vars == 8:
             print(f"{GREEN}More variants introduced... (see {out_varfile.name}){END}")
-        out_varfile.write(f"{variant.chr},{variant.pos1},{variant.ref},{variant.alt},{achieved_af},{len(umis_to_mutate)},{strand_bias}\n")
+        out_varfile.write(f"{variant.chr},{variant.pos1},{variant.ref},{variant.alt},{achieved_af},{var_coverage},{len(umis_to_mutate)},{strand_bias}\n")
 
     stats["added_variants"] = added_vars
 

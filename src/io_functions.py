@@ -1,9 +1,11 @@
 # io_functions.py | Functions for reading and writing in umivar
 
+import sys
 from subprocess import run
 from src.variant import Variant
 from src.adding_variants import get_read_id
 from multiprocessing import cpu_count
+from src.constants import *
 
 
 def create_ontarget(bedfile, bamfile):
@@ -22,22 +24,42 @@ def create_ontarget(bedfile, bamfile):
 
 
 def extract_variants(varfile):
-    """Extract variants from a CSV file.
+    """Extract variants from a CSV/VCF file.
     
     Args:
-        varfile (file): File with the variants. Each line must have the following format:
+        varfile (file): File with the variants. If CSV, each line must have the following format:
             chr,pos1,ref,alt,af
+        If VCF, the af field must be in the INFO column, under the AF tag.
     Returns:
         list: List of Variant objects
     """
     variants = []
-    for line in varfile:
-        fields = line.rstrip().split(",")
-        variants.append(Variant(chr = fields[0], 
-                                pos1 = int(fields[1]),
-                                ref = fields[2], 
-                                alt = fields[3], 
-                                af = float(fields[4])))
+
+    if varfile.name.endswith(".csv"):
+        for line in varfile:
+            fields = line.rstrip().split(",")
+            variants.append(Variant(chr = fields[0], 
+                                    pos1 = int(fields[1]),
+                                    ref = fields[2], 
+                                    alt = fields[3], 
+                                    af = float(fields[4])))
+            
+    elif varfile.name.endswith(".vcf"):
+        for line in varfile:
+            if line.startswith("#"):
+                continue
+            fields = line.rstrip().split("\t")
+            af = float(fields[7].split("AF=")[1].split(";")[0])
+            variants.append(Variant(chr = fields[0], 
+                                    pos1 = int(fields[1]),
+                                    ref = fields[3], 
+                                    alt = fields[4], 
+                                    af = af))
+            
+    else:
+        print(f"{RED}ERROR: Variants file must be a CSV or VCF file.{END}")
+        sys.exit(1)
+
     return variants
 
 

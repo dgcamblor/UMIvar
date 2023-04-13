@@ -42,7 +42,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description="Introduce UMI-aware variants in a BAM file.")
     
     parser.add_argument("-i", "--input_bam", help="BAM file to introduce variants in.", required=True)
-    parser.add_argument("-v", "--variants", help="CSV file with the variants to introduce.", required=True)
+    parser.add_argument("-v", "--variants", help="CSV/VCF file with the variants to introduce.", required=True)
 
     parser.add_argument("-o", "--output_bam", help="Output BAM file.", required=False)
     parser.add_argument("-b", "--bed", help="BED file with the target regions to delimit the file.", required=False)
@@ -159,9 +159,9 @@ def main():
         open(args.variants, "r") as in_varfile,
         open(output_var, "w") as out_varfile):
 
-        out_varfile.write("chr,pos,ref,alt,af,umis,sb\n")
+        out_varfile.write("chr,pos,ref,alt,af,cov,umis,sb\n")
 
-        # Obtain the variants from the CSV file 
+        # Obtain the variants from the CSV/VCF file 
         variants = extract_variants(in_varfile)
 
         # For each variant, introduce it in its covering reads from the BAM file
