@@ -2,9 +2,9 @@
 
 from collections import defaultdict
 import itertools
-import numpy as np
 import array
 import re
+import numpy as np
 
 from src.constants import *
 
@@ -12,6 +12,13 @@ from src.constants import *
 def rec_defaultdict():
     """Allows for a nested defaultdict using recursion."""
     return defaultdict(rec_defaultdict)
+
+
+def unique_umis(umis):
+    """Get the unique UMIs in order of appearance. Preserving the order allows
+    the seed to remain useful for reproducibility."""
+    seen = set()
+    return [umi for umi in umis if not (umi in seen or seen.add(umi))]
 
 
 def get_umi_from_qname(read_qname):
@@ -28,10 +35,11 @@ def get_umi_from_qname(read_qname):
 
 
 def get_read_id(read):
-    """Get a unique identifier for a read, using allf of its information"""
+    """Get a unique identifier for a read, using all of its information"""
     return hash(f"{read}")
 
 
+'''
 def umi_freqs(umis):
     """Get the frequencies of the UMIs.
 
@@ -55,276 +63,184 @@ def umi_freqs(umis):
     for umi in umi_absfreqs:
         umi_relfreqs[umi] = umi_absfreqs[umi] / total_count
 
-    # Get the count of each frequency appearing in the UMIs
-    freq_counts = defaultdict(int)
-    for umi_relfreq in umi_relfreqs.values():
-        freq_counts[umi_relfreq] += 1
-
-    return umi_absfreqs, umi_relfreqs, freq_counts
+    return umi_absfreqs, umi_relfreqs
+'''
 
 
-def get_umi_combination(variant, umi_relfreqs, freq_counts, umis_fwd, umis_rev, umi_blacklist, sb_correct, mode):
-    """Get the best combination of UMI to cover a variant at the specified allelic frequency.
+def umis_to_groups(umis, umi_groups):
+    """Convert a list of UMIs to their corresponding groups.
+
+    Args:
+        umis (list): List of UMIs
+        umi_groups (dict): Dictionary containing the UMIs (keys) and their corresponding groups (values).
+
+    Returns:
+        list: List of groups of UMIs
+    """
+    return unique_umis([umi_groups[umi] for umi in umis if umi in umi_groups])  #NOTE: Only use the UMIs that are in the dictionary
+
+
+def groups_to_umis(groups, umi_groups):
+    """For each UMI in groups, gets each UMI (key) that belongs to the group (value) 
+    in the umi_groups dictionary and adds it to the list. 
+
+    Args:
+        groups (list): List of groups of UMIs
+        umi_groups (dict): Dictionary containing the UMIs (keys) and their corresponding groups (values).
+    
+    Returns:
+        list: List of UMIs
+    """
+    return unique_umis([umi for group in groups for umi in umi_groups if umi_groups[umi] == group])
+
+
+def get_umi_combination(variant, umis, umis_fwd, umis_rev, umi_blacklist, umi_groups=None):
+    """Get a combination of UMIs to cover a variant at the specified allelic frequency.
     
     Args:
         variant (Variant): Variant to cover
-        umi_relfreqs (dict): Dictionary with the relative frequencies of the UMIs
-        freq_counts (dict): Dictionary with the count of each relative frequency appearing in the UMIs
+        umis (dict): Dictionary with the relative frequencies of the UMIs
         umis_fwd (list): List of UMIs covering the variant in the forward strand
         umis_rev (list): List of UMIs covering the variant in the reverse strand
         umi_blacklist (list): List of UMIs to ignore
-        sb_correct (bool): Correct for strand bias or not
-        mode (str): Mode to use. Can be "dedup" or "dup"
+        umi_groups (dict): Dictionary containing the groups of UMIs. If None, the UMIs will not be grouped.
 
     Returns:
         tuple: Tuple with the following elements:
-            best_af (float): Best allelic frequency
-            best_combination (list): List of frequencies of the UMIs to use
+            achieved_af (float): Best allelic frequency
+            umi_combination (list): List of UMIs to use
     """
+    if umi_groups:
+        # Convert each UMI in umis, umis_fwd, umis_rev and umi_blacklist to its group
+        umis = umis_to_groups(umis, umi_groups)
+        umis_fwd = umis_to_groups(umis_fwd, umi_groups)
+        umis_rev = umis_to_groups(umis_rev, umi_groups)
+        umi_blacklist = umis_to_groups(umi_blacklist, umi_groups)
+
     if variant.af == 0:
-        best_af = 0
-        best_combination = []
-        
-        return best_af, best_combination
+        achieved_af = 0
+        umi_combination = []
     
     elif variant.af == 1:
-        best_combination = [umi for umi in umi_relfreqs if umi not in umi_blacklist]
-        best_af = 1 if not umi_blacklist else sum([umi_relfreqs[umi] for umi in best_combination])
-
-        return best_af, best_combination
+        umi_combination = [umi for umi in umis if umi not in umi_blacklist]
+        achieved_af = 1 if not umi_blacklist else sum([umis[umi] for umi in umi_combination])
     
     else:
-        if mode == "dedup":
-            ind_freq = 1/len(umi_relfreqs)
-            best_af = 0
+        ind_freq = 1/len(umis)
+        achieved_af = 0
+        available_umis = [umi for umi in umis if umi not in umi_blacklist]
 
-            available_umis = [umi for umi in umi_relfreqs if umi not in umi_blacklist]
-
-            for i in range(1, len(available_umis)):
-                best_af += ind_freq
-
-                # If the current AF is greater than the target AF, evaluate it and the previous one
-                if best_af >= variant.af:
-                    diff_curr = abs(best_af - variant.af)
-                    diff_prev = abs((best_af - ind_freq) - variant.af)
-
-                    if diff_curr < diff_prev: 
-                        n_umis = i
-                    elif diff_curr > diff_prev:
-                        n_umis = i - 1
-                
-                    break
-            # If the for loop finishes, use all the UMIs
-            else:
-                n_umis = len(available_umis)
-
-            # Get a best combination of UMIs
-            best_combination = choose_umis_dedup(umi_relfreqs, umis_fwd, umis_rev, sb_correct, n_umis, umi_blacklist)
-
-        elif mode == "dup":  
-            # Invert frequencies for AF > 0.5 (speeds up the algorithm)
-            if variant.af < 0.5:
-                target_af = variant.af
-            else:
-                target_af = 1 - variant.af
-
-            best_distances = []
+        for i in range(1, len(available_umis)):
+            achieved_af += ind_freq
+            # If the current AF is greater than the target AF, evaluate it and the previous one
+            # The closest will be selected
+            if achieved_af >= variant.af:
+                diff_curr = abs(achieved_af - variant.af)
+                diff_prev = abs((achieved_af - ind_freq) - variant.af)
+                if diff_curr < diff_prev: 
+                    n_umis = i
+                elif diff_curr > diff_prev:
+                    n_umis = i - 1
             
-            # Remove the UMIs in the blacklist from the counts of each frequency
-            if umi_blacklist:
-                for umi in umi_blacklist:
-                    black_freq = umi_relfreqs[umi]
-                    freq_counts[black_freq] -= 1
+                break
+        # If the for loop finishes, use all the UMIs
+        else:
+            n_umis = len(available_umis)
 
-            for i in itertools.count(0):
-                combinations = itertools.combinations_with_replacement(freq_counts, i)
-                comb_sums = []
-                for combination in combinations:
-                    # Get the count of each frequency
-                    comb_counts = defaultdict(int)
-                    for freq in combination:
-                        comb_counts[freq] += 1
+        # Get a combination of UMIs that achieves the best target AF
+        umi_combination = choose_umis(umis_fwd, umis_rev, n_umis, umi_blacklist)
 
-                    # Check if the combination is valid (i.e. the number of UMIs with each 
-                    # frequency is not greater than the number of UMIs with that frequency in the sample)
-                    for freq in comb_counts:
-                        if comb_counts[freq] > freq_counts[freq]:
-                            break  # Not valid, skip to the next combination
-                    else:
-                        comb_sum = sum(combination)
-                        diff = abs(comb_sum - target_af)
-                        comb_sums.append((diff, combination, comb_sum))
+    if umi_groups:  # Convert the UMIs back to their original form
+        umi_combination = groups_to_umis(umi_combination, umi_groups)
 
-                comb_sums.sort(key=lambda x: x[0])
-                best_distances.append(comb_sums[0])
-
-                if i > 0 and best_distances[i][0] > best_distances[i - 1][0]:
-                    break
-
-            best_af = best_distances[-2][2]
-            freq_combination = best_distances[-2][1]
-
-            # If the variant has AF > 0.5, the frequencies must be inverted
-            if variant.af >= 0.5:
-                best_af = 1 - best_af
-
-                # Remove the determined best frequencies from the list of all frequencies
-                all_freqs = []
-                for frequency in freq_counts:
-                    all_freqs += [frequency] * freq_counts[frequency]
-                for frequency in freq_combination:
-                    all_freqs.remove(frequency)
-
-                freq_combination = all_freqs 
-
-            best_combination = choose_umis_dup(umi_relfreqs, umis_fwd, umis_rev, sb_correct, freq_combination, umi_blacklist)
-
-    return best_af, best_combination
+    return umi_combination, achieved_af
 
 
-def choose_umis_dedup(umi_relfreqs, umis_fwd, umis_rev, sb_correct, n_umis, umi_blacklist):
-    """Choose UMIs to use for the variant based on the UMIs alone. Intended for
-    the "dedup" mode, where frequencies are computed after removing duplicates.
+def choose_umis(umis_fwd, umis_rev, n_umis, umi_blacklist):
+    """Choose UMIs to use for the variant based on the UMIs alone. 
 
     Args:
-        umi_relfreqs (dict): Dictionary with the relative frequencies of the UMIs
         umis_fwd (list): List of UMIs that are on the forward strand
         umis_rev (list): List of UMIs that are on the reverse strand
-        sb_correct (bool): Whether to perform a simple strand bias correction
         n_umis (int): Number of UMIs to use
         umi_blacklist (list): List of UMIs to ignore
 
     Returns:
-        best_combination (list): List of frequencies of the UMIs to use
+        umi_combination (list): List of frequencies of the UMIs to use
     """
-    if not sb_correct:
-        possible = [umi for umi in umi_relfreqs if umi not in umi_blacklist]
-        best_combination = list(np.random.choice(possible, n_umis, replace=False))
-    else:
-        # Simple algorithm: try to get the same number of UMIs from each strand
-        possible_fwd = [umi for umi in umis_fwd if umi not in umi_blacklist]
-        possible_rev = [umi for umi in umis_rev if umi not in umi_blacklist]
-        best_combination = []
+    possible_fwd = [umi for umi in umis_fwd if umi not in umi_blacklist]
+    possible_rev = [umi for umi in umis_rev if umi not in umi_blacklist]
+    umi_combination = []
 
-        # For each UMI, choose a random UMI from the other strand
-        for _ in range(n_umis):
-            if len(possible_fwd) > len(possible_rev):
-                fwd_umi = np.random.choice(possible_fwd)
-                best_combination.append(fwd_umi)
-                possible_fwd.remove(fwd_umi)
-                if fwd_umi in possible_rev:
-                    possible_rev.remove(fwd_umi)
+    # Choose randomly between the forward and reverse strands until the number of UMIs is reached
+    for _ in range(n_umis):
+        if len(possible_fwd) > len(possible_rev):
+            fwd_umi = np.random.choice(possible_fwd)
+            umi_combination.append(fwd_umi)
+            possible_fwd.remove(fwd_umi)
+            if fwd_umi in possible_rev:
+                possible_rev.remove(fwd_umi)
 
-            elif len(possible_fwd) < len(possible_rev):
-                rev_umi = np.random.choice(possible_rev)
-                best_combination.append(rev_umi)
-                possible_rev.remove(rev_umi)
-                if rev_umi in possible_fwd:
-                    possible_fwd.remove(rev_umi)
+        elif len(possible_fwd) < len(possible_rev):
+            rev_umi = np.random.choice(possible_rev)
+            umi_combination.append(rev_umi)
+            possible_rev.remove(rev_umi)
+            if rev_umi in possible_fwd:
+                possible_fwd.remove(rev_umi)
 
-            else:
-                umi = np.random.choice(list(set(possible_fwd + possible_rev)))
-                best_combination.append(umi)
-                if umi in possible_fwd:
-                    possible_fwd.remove(umi)
-                if umi in possible_rev:
-                    possible_rev.remove(umi)
-
-    return best_combination
+        else:
+            umi = np.random.choice(unique_umis(possible_fwd + possible_rev))
+            umi_combination.append(umi)
+            if umi in possible_fwd:
+                possible_fwd.remove(umi)
+            if umi in possible_rev:
+                possible_rev.remove(umi)
+                
+    return umi_combination
 
 
-def choose_umis_dup(umi_relfreqs, umis_fwd, umis_rev, sb_correct, freq_combination, umi_blacklist):
-    """Choose UMIs to use for the variant based on the frequencies of the UMIs.
-    Intended for the "dup" mode, where frequencies are computed before removing
-    duplicates.
-
-    Args:
-        umi_relfreqs (dict): Dictionary with the relative frequencies of the UMIs
-        umis_fwd (list): List of UMIs that are on the forward strand
-        umis_rev (list): List of UMIs that are on the reverse strand
-        sb_correct (bool): Whether to perform a simple strand bias correction
-        freq_combination (list): List of frequencies of the UMIs to use
-        umi_blacklist (list): List of UMIs to ignore
-
-    Returns:
-        best_combination (list): List of frequencies of the UMIs to use
-    """
-    best_combination = []
-
-    if not sb_correct:
-        for freq in freq_combination:
-            possible = [umi for umi in umi_relfreqs if umi_relfreqs[umi] == freq and umi not in best_combination and umi not in umi_blacklist]
-            choice = np.random.choice(possible)
-            best_combination.append(choice)
-
-    else:
-        # Simple algorithm: try to get the same number of UMIs from each strand
-        strands = []
-        for freq in freq_combination:
-            possible_fwd = [umi for umi in umis_fwd if umi_relfreqs[umi] == freq and umi not in best_combination and umi not in umi_blacklist]
-            possible_rev = [umi for umi in umis_rev if umi_relfreqs[umi] == freq and umi not in best_combination and umi not in umi_blacklist]
-
-            if strands.count("+") > strands.count("-"):
-                possible = possible_rev if possible_rev else possible_fwd
-            elif strands.count("+") < strands.count("-"):
-                possible = possible_fwd if possible_fwd else possible_rev
-            else:
-                possible = list(set(possible_fwd + possible_rev))
-
-            choice = np.random.choice(possible)
-            best_combination.append(choice)
-
-            if choice in umis_fwd:
-                strands.append("+")
-            if choice in umis_rev:
-                strands.append("-")
-
-    return best_combination
-
-
-def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
+def add_variants(bam_file, variants, var_file, stats, umi_groups=None):
     """Adds variants in the reads of a BAM file. The variants are introduced in the reads
     covering the variant position. The reads are mutated in such a way that the allele frequency of the
     variant is as close as possible to the specified allele frequency.
 
-    Variants are not introduced directly in the bamfile, but, instead, mutated reads are recorded
+    Variants are not introduced directly in the bam_file, but, instead, mutated reads are recorded
     in a dictionary. The dictionary is then used to create a new BAM file with the mutated reads.
 
     Args:
-        bamfile (pysam.AlignmentFile): BAM file containing the reads to mutate
+        bam_file (pysam.AlignmentFile): BAM file containing the reads to mutate
         variants (list): List of variants to introduce
-        out_varfile (str): Path to the output file where the mutated reads will be stored
-        af_mode (str): Mode to use for the variant introduction. Can be "dedup" or "dup".
-        sb_correct (bool): Whether to correct for strand bias or not.
+        var_file (str): Path to the file where the mutated reads will be stored
         stats (dict): Dictionary containing the statistics of the program.
+        umi_groups (dict): Dictionary containing the groups of UMIs. If None, the UMIs will not be grouped.
 
     Returns:
         dict: A dictionary containing, for each chromosome, the IDs of the reads that have been mutated and 
         the corresponding reads and their information.
     """
-
     var_record = rec_defaultdict()
     indel_record = rec_defaultdict()
 
     added_vars = 0
 
     for variant in variants:
-        try:
+        try:  # Failsafe in case the variant cannot be introduced
             # Get all the reads covering the variant
-            covering_reads = [read for read in bamfile.fetch(variant.chr, variant.pos0, variant.pos0 + 1)]
-
+            covering_reads = [read for read in bam_file.fetch(variant.chr, variant.pos0, variant.pos0 + 1)]
             if not covering_reads:
                 print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [no coverture]{END}")
                 continue
-            forward_reads = [read for read in covering_reads if not read.is_reverse]
-            reverse_reads = [read for read in covering_reads if read.is_reverse]
+
+            # Separate the reads by strand
+            reads_fwd = [read for read in covering_reads if not read.is_reverse]
+            reads_rev = [read for read in covering_reads if read.is_reverse]
 
             # Get the UMIs from the IDs of each read covering the variant
-            umis = list(map(lambda x: get_umi_from_qname(x.query_name), covering_reads))  # Extract the UMIs from the read IDs
-            umis_fwd = list(map(lambda x: get_umi_from_qname(x.query_name), forward_reads))
-            umis_rev = list(map(lambda x: get_umi_from_qname(x.query_name), reverse_reads))
+            umis = unique_umis([get_umi_from_qname(read.query_name) for read in covering_reads])
+            umis_fwd = unique_umis([get_umi_from_qname(read.query_name) for read in reads_fwd])
+            umis_rev = unique_umis([get_umi_from_qname(read.query_name) for read in reads_rev])
 
-            var_coverage = len(set(umis))
+            var_coverage = len(umis)
 
             # Check the validity of each read
             read_blacklist, umi_blacklist = check_read_validity(var_record, variant, covering_reads)
@@ -333,11 +249,8 @@ def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
                 print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [no valid reads]{END}")
                 continue
 
-            # Get the frequencies of each UMI and their counts
-            _, umi_relfreqs, freq_counts = umi_freqs(umis)
-
             # Get the UMIs to be mutated
-            achieved_af, umis_to_mutate = get_umi_combination(variant, umi_relfreqs, freq_counts, umis_fwd, umis_rev, umi_blacklist, sb_correct, af_mode)
+            umis_to_mutate, achieved_af = get_umi_combination(variant, umis, umis_fwd, umis_rev, umi_blacklist, umi_groups)
 
             if not umis_to_mutate and umis:
                 print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [too low AF]{END}")
@@ -365,8 +278,9 @@ def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
                 # Get the position of the variant in the read
                 seq_pos = read.get_reference_positions().index(variant.pos0)
 
-                if read_id in indel_record[variant.chr][read.reference_start]:
-                    seq_pos, cigar_pos = change_pos(seq_pos, indel_record[variant.chr][read.reference_start][read_id])
+                if read_id in indel_record[variant.chr][read.reference_start] or check_indel_cigar(read.cigarstring):
+                    cigar_read = indel_record[variant.chr][read.reference_start][read_id] if read_id in indel_record[variant.chr][read.reference_start] else read
+                    seq_pos, cigar_pos = change_pos(seq_pos, cigar_read)
                 else:
                     cigar_pos = seq_pos
 
@@ -380,7 +294,7 @@ def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
 
                 # Change qualities for indels
                 if variant.type == "INS":
-                    new_quals = [np.random.choice(QUALITIES) for _ in range(len(variant.alt) - 1)]
+                    new_quals = [np.random.choice(INS_QUALITIES) for _ in range(len(variant.alt) - 1)]
                     new_quals = array.array('B', new_quals)
                     quals = quals[:seq_pos + 1] + new_quals + quals[seq_pos + 1:]
                 elif variant.type == "DEL":
@@ -397,20 +311,30 @@ def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
                 read.query_sequence = seq
                 read.query_qualities = quals
 
+                # Check if the read is valid after the mutation
+                if not valid_sim(read):
+                    print(f"{YELLOW}WARNING: Read {read.query_name} has not been mutated correctly — skipped. {END}")
+
+                    # Delete the read from the record if it has been mutated
+                    if read_id in var_record[variant.chr][read.reference_start]:
+                        del var_record[variant.chr][read.reference_start][read_id]
+
+                    continue
+
                 # Add the read to the record
                 var_record[variant.chr][read.reference_start][read_id] = read
 
                 # Add the read to the indel record if it contains an indel
-                if variant.type == "INS" or variant.type == "DEL":
-                    indel_record[variant.chr][read.reference_start][read_id] = expand_cigar(read.cigarstring)
+                if check_indel_cigar(read.cigarstring):
+                    indel_record[variant.chr][read.reference_start][read_id] = read
 
                 # Get the strand of the read
                 mut_strands += ["-"] if read.is_reverse else ["+"]
 
-                bamfile.reset()
+                bam_file.reset()
 
-        except TypeError:
-            print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [internal error]{END}")
+        except Exception as ex:
+            print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [internal error: {ex.__class__.__name__}]{END}")
             continue
 
         added_vars += 1
@@ -418,22 +342,24 @@ def add_variants(bamfile, variants, out_varfile, af_mode, sb_correct, stats):
         # Calculate strand bias
         b = mut_strands.count("+")
         d = mut_strands.count("-")
-        a = len(forward_reads) - b
-        c = len(reverse_reads) - d
+        a = len(reads_fwd) - b
+        c = len(reads_rev) - d
 
         strand_bias = calculate_sb(a, b, c, d)
 
-        bamfile.reset()
+        bam_file.reset()  # Reset the BAM file to the beginning
 
         if added_vars <= 7:
             print(f"{GREEN}Variant {variant} introduced at frequency {achieved_af:3f} in {len(umis_to_mutate)} UMIs (SB: {strand_bias:3f}){END}")
         elif added_vars == 8:
-            print(f"{GREEN}More variants introduced... (see {out_varfile.name}){END}")
-        out_varfile.write(f"{variant.chr},{variant.pos1},{variant.ref},{variant.alt},{achieved_af},{var_coverage},{len(umis_to_mutate)},{strand_bias}\n")
+            print(f"{GREEN}More variants introduced... (see {var_file.name}){END}")
+        
+        var_file.write(f"{variant.chr},{variant.pos1},{variant.ref},{variant.alt},{achieved_af},{var_coverage},{len(umis_to_mutate)},{strand_bias}\n")
 
     stats["added_variants"] = added_vars
 
     return var_record
+
 
 def check_read_validity(var_record, variant, covering_reads):
     """Check if the reads are valid for mutation.
@@ -492,6 +418,16 @@ def check_read_validity(var_record, variant, covering_reads):
     return read_blacklist, umi_blacklist
 
 
+def valid_sim(read):
+    """Check if the simulation has been done properly. This is done by checking
+    if the length of the CIGAR string matches the length of the sequence."""
+    expanded_cigar = expand_cigar(read.cigarstring)
+
+    cigar_length = len(expanded_cigar) - expanded_cigar.count("D") - expanded_cigar.count("H")
+
+    return cigar_length == len(read.seq)
+
+
 def calculate_sb(a, b, c, d):
     """Calculate strand bias from the counts of the four possible combinations of strands and mutations.
 
@@ -507,16 +443,17 @@ def calculate_sb(a, b, c, d):
     return abs((b / (a+b)) - (d / (c+d))) / ((b+d) / (a+b+c+d))
 
 
-def change_pos(pos, expanded_cigar):
-    """Change the position of a variant in a read after an indel has been introduced.
-    Deletions decrease the position of the variant, while insertions increase it.
+def change_pos(pos, read):
+    """Change the position of a variant in a read if an indel has been introduced (or is
+    already present in the read). Deletions decrease the position of the variant, 
+    while insertions increase it.
 
     Position in sequence and position in CIGAR string are handled separately,
     to comply with the pysam API.
     
     Args:
         pos (int): Intended position of the variant in the read.
-        expanded_cigar (str): Expanded CIGAR string of the read.
+        read (pysam.AlignedSegment): Read containing the variant.
     
     Returns:
         tuple: Tuple with the following elements:
@@ -524,6 +461,8 @@ def change_pos(pos, expanded_cigar):
             int: New position of the variant in the CIGAR string.
     """
     new_pos, cigar_pos = pos, pos 
+
+    expanded_cigar = expand_cigar(read.cigarstring)
 
     for elem in expanded_cigar:
         if elem == "D":
@@ -534,6 +473,11 @@ def change_pos(pos, expanded_cigar):
             cigar_pos += 1
 
     return new_pos, cigar_pos
+
+
+def check_indel_cigar(cigar):
+    """Return True if the CIGAR string contains an indel"""
+    return "I" in cigar or "D" in cigar
 
 
 def change_cigar(cigar, variant, pos):

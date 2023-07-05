@@ -1,2 +1,4 @@
-pysam
-numpy
+pysam==0.19.1
+numpy==1.23.5
+umi_tools==1.1.2
+pyfaidx==0.7.1
