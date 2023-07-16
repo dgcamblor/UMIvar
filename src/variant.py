@@ -1,3 +1,8 @@
+# variant.py | Variant class with basic information about a genetic variant
+
+from src.constants import CHR_ORDER
+
+
 class Variant:
     def __init__(self, chr, pos1, ref, alt, af=None):
         """This class represents basic information about a variant.
@@ -42,6 +47,14 @@ class Variant:
                self.pos1 == other.pos1 and \
                self.ref == other.ref and \
                self.alt == other.alt
+    
+    def __lt__(self, other):
+        if CHR_ORDER.index(self.chr) < CHR_ORDER.index(other.chr):
+            return True
+        elif CHR_ORDER.index(self.chr) == CHR_ORDER.index(other.chr):
+            return self.pos1 < other.pos1
+        else:
+            return False
     
     def __hash__(self):
         return hash((self.chr, self.pos1, self.ref, self.alt))
