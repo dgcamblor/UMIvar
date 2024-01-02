@@ -1,3 +1,7 @@
+---
+tags:
+  - phd
+---
 
 >A hot topic at the [American Society of Clinical Oncology (ASCO) 2023](https://conferences.asco.org/) in Chicago was approaches to liquid biopsy and how to best utilize them in clinical practice. One of the main debates is a liquid only (tumor naïve) or tissue plus liquid (tumor-informed) approach to testing.
 >
@@ -6,11 +10,6 @@
 >On the other hand, **tumor-agnostic assays**, which are independent of prior tumor genomic knowledge, may offer comparable sensitivity to tumor-informed assays and have the advantage of a more rapid turnaround time and reduced cost.
 >
 >Clinical studies have demonstrated increased sensitivity of tumor-informed MRD testing, especially for heterogeneous tumors.
-
-
-## Cuestiones
-
-- 
 
 ## Outline
 
@@ -47,10 +46,21 @@
 1. Recapitulation of Key Findings 
 2. Recommendations for Future Research
 
+## Cuestiones
+
+## Studies comparing both approaches
+
+### Genomics
+
+### Epigenomics
+
 ## Clinical trials
 
 ![[MRD ctDNA clinical trials]]
 
+## Assays
+
+![[MRD ctDNA assays]]
 ## References
 
 - [Τumor-informed Vs Tumor-naïve | Genomic Testing Cooperative](https://genomictestingcooperative.com/tumor-informed-vs-tumor-naive/)
