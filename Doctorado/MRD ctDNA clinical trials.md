@@ -14,7 +14,7 @@ tags:
 - [PEGASUS trial](https://clinicaltrials.gov/study/NCT04259944).
 	- **Commercial assay:** [[MRD ctDNA assays#^bef528|LUNAR-1]].
 	- Prospective study that uses ctDNA testing (+/-) using the LUNAR1 test (Guardant Health) to guide the treatment of CRC patients (II-III).
-	- [The PEGASUS trial: Post-surgical liquid biopsy-guided treatment of stage III and high-risk stage II colon cancer patients. | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.15_suppl.TPS4124). 
+	- [The PEGASUS trial: Post-surgical liquid biopsy-guided treatment of stage III and high-risk stage II colon cancer patients. | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.15_suppl.TPS4124).
 
 - [ASCOLT trial](https://clinicaltrials.gov/study/NCT00565708).
 	- **Commercial assay:** [[MRD ctDNA assays#^c59277|SafeSEQ]].
@@ -27,10 +27,11 @@ tags:
 
 ### Tumor-informed
 
-- GALAXY trial. [Molecular residual disease and efficacy of adjuvant chemotherapy in patients with colorectal cancer | Nature Medicine](https://www.nature.com/articles/s41591-022-02115-4).
+- [GALAXY trial](https://center6.umin.ac.jp/cgi-open-bin/icdr_e/ctr_view.cgi?recptno=R000044197). 
 	- **Commercial assay:** Signatera (Natera)
 	- Observational arm of the CIRCULATE-Japan study.
-	- WES was performed, and results for each patient were analyzed to design tumor-informed, personalized ctDNA assays. 
+	- WES was performed, and results for each patient were analyzed to design tumor-informed, personalized ctDNA assays ([Molecular residual disease and efficacy of adjuvant chemotherapy in patients with colorectal cancer | Nature Medicine](https://www.nature.com/articles/s41591-022-02115-4)).
+	- 
 - DYNAMIC trial. 
 
 ## References

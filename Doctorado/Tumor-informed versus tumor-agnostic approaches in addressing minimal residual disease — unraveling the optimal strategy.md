@@ -7,6 +7,11 @@
 >
 >Clinical studies have demonstrated increased sensitivity of tumor-informed MRD testing, especially for heterogeneous tumors.
 
+
+## Cuestiones
+
+- 
+
 ## Outline
 
 **I. Introduction** 
@@ -41,6 +46,10 @@
 
 1. Recapitulation of Key Findings 
 2. Recommendations for Future Research
+
+## Clinical trials
+
+![[MRD ctDNA clinical trials]]
 
 ## References
 
