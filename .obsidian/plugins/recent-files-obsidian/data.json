@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Comunicación interpersonal",
+      "path": "Notas de cursos/Comunicación interpersonal.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Clinical relevance of ctDNA analysis",
+      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
@@ -29,10 +49,6 @@
       "path": "Doctorado/Research caveats.md"
     },
     {
-      "basename": "Clinical relevance of ctDNA analysis",
-      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
-    },
-    {
       "basename": "PhD dashboard",
       "path": "Doctorado/PhD dashboard.md"
     },
@@ -53,10 +69,6 @@
       "path": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
     },
     {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
       "basename": "Detection of CRC-specific methylation profiles",
       "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     },
@@ -65,16 +77,8 @@
       "path": "Bioinformática y programación/Linguist settings for git repos.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Perl",
       "path": "Bioinformática y programación/Perl.md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
     },
     {
       "basename": "Improving INCLIVA ctDNA WES pipeline",
@@ -195,10 +199,6 @@
     {
       "basename": "Revisión de estudios de metilación en ctDNA",
       "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
-    },
-    {
-      "basename": "Presentación del proyecto de doctorado",
-      "path": "Doctorado/Presentaciones/Presentación del proyecto de doctorado.md"
     }
   ],
   "omittedPaths": [],
