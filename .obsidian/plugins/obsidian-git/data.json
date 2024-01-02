@@ -1,7 +1,7 @@
 {
-  "commitMessage": "vault backup: {{date}}\nchanges in: {{numFiles}} files",
+  "commitMessage": "vault backup: {{date}}\nchanges in: {{numFiles}} file/s",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 20,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "vault backup: {{date}}\nchanges in: {{numFiles}} file/s"
 }
