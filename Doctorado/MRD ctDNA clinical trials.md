@@ -28,7 +28,7 @@ tags:
 ### Tumor-informed
 
 - [GALAXY trial](https://center6.umin.ac.jp/cgi-open-bin/icdr_e/ctr_view.cgi?recptno=R000044197). 
-	- **Commercial assay:** Signatera (Natera)
+	- **Commercial assay:** [[MRD ctDNA assays#^f5e412|Signatera]].
 	- Observational arm of the CIRCULATE-Japan study. The GALAXY trial monitors ctDNA status for patients with CRC II-IV that can undergo complete surgical resection. Positive detection for ctDNA indicates MRD and leads to patient assignment to the treatment escalation study (ALTAIR); if ctDNA is not detected, the patient is assigned to the treatment de-escalation study (VEGA).
 	- WES was perfomed on tumoral tissue (FFPE), and results for each patient were analyzed to design tumor-informed, personalized ctDNA assays ([Molecular residual disease and efficacy of adjuvant chemotherapy in patients with colorectal cancer | Nature Medicine](https://www.nature.com/articles/s41591-022-02115-4)).
 	

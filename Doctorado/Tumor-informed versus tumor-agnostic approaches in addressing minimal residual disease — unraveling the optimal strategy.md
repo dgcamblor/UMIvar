@@ -51,7 +51,7 @@ tags:
 
 ## Main advantages and disadvantages
 
-- As the tumor-informed approach employs a tissue sample for variant analysis, this enables the filtering of CHIP mutations found in 
+- As the tumor-informed approach employs a tissue sample for variant analysis, this enables the filtering of CHIP mutations found in cfDNA (decreasing false positive rates).
 
 ## Studies comparing both approaches
 

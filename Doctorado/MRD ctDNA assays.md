@@ -13,4 +13,4 @@ tags:
 
 ### Tumor-informed
 
-- Signatera (Natera). First, both primary tumor tissue sample and matched normal tissue are required for whole exome sequencing. This information is used to design a Signatera test to detect somatic variants in ctDNA with optimization for sensitivity.
+- Signatera (Natera). First, both primary tumor tissue sample and matched normal tissue are required for whole exome sequencing. This information is used to design a Signatera test to detect somatic variants in ctDNA with optimization for sensitivity. ^f5e412
