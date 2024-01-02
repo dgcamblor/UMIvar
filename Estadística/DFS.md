@@ -1,0 +1,1 @@
+La supervivencia libre de enfermedad (DFS) se suele definir como el tiempo que 

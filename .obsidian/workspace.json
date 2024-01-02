@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+                "file": "Estadística/DFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+                "file": "Estadística/DFS.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+                "file": "Estadística/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+                "file": "Estadística/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+                "file": "Estadística/DFS.md"
               }
             }
           }
@@ -194,16 +194,17 @@
   },
   "active": "b2609a6fa4d01365",
   "lastOpenFiles": [
-    "Doctorado/Detection of CRC-specific methylation profiles.md",
-    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
-    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Doctorado/Revistas de interés.md",
-    "Doctorado/Research caveats.md",
-    "Doctorado/Possible controls for ctDNA methylation.md",
-    "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
+    "Estadística/DFS.md",
     "Doctorado/PhD dashboard.md",
+    "Doctorado/Possible controls for ctDNA methylation.md",
     "Doctorado/Possible lines of research for the PhD project.md",
+    "Doctorado/Research caveats.md",
+    "Doctorado/Revistas de interés.md",
+    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+    "Doctorado/Detection of CRC-specific methylation profiles.md",
+    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Doctorado/MRD ctDNA assays.md",
     "Bioinformática y programación/Linguist settings for git repos.md",
     "Dashboard.md",
     "Bioinformática y programación/Perl.md",
@@ -220,7 +221,6 @@
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Doctorado/Asociaciones y congresos de interés.md",
     "Biología y medicina/Oncología/Biopsia líquida.md",
-    "Doctorado/Biopsia líquida.md",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
     "Otros/Adjuntos/TrainAlgo.png",
