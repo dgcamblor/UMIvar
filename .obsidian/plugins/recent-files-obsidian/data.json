@@ -5,6 +5,14 @@
       "path": "Dashboard.md"
     },
     {
+      "basename": "Linguist settings for git repos",
+      "path": "Bioinformática y programación/Linguist settings for git repos.md"
+    },
+    {
+      "basename": "Perl",
+      "path": "Bioinformática y programación/Perl.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Tratamiento del CCR",
       "path": "Biología y medicina/Tratamientos/Tratamiento del CCR.md"
-    },
-    {
-      "basename": "Opioides",
-      "path": "Biología y medicina/Tratamientos/Opioides.md"
     }
   ],
   "omittedPaths": [],
