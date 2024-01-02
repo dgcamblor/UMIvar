@@ -17,7 +17,7 @@ tags:
 	- [The PEGASUS trial: Post-surgical liquid biopsy-guided treatment of stage III and high-risk stage II colon cancer patients. | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.15_suppl.TPS4124).
 
 - [ASCOLT trial](https://clinicaltrials.gov/study/NCT00565708).
-	- **Commercial assay:** [[MRD ctDNA assays#^c59277|SafeSEQ]].
+	- **Commercial assay:** [[MRD ctDNA assays#^c59277|SafeSEQ]]. Uses a panel of 14 genes (AKT1, APC, BRAF, CTNNB1, ERBB3, FBXW7, KRAS, NRAS, PIK3CA, POLE, PPP2R1A,RNF43, SMAD4 and TP53).
 	- Serial detection of ctDNA within 1 year of adjuvant chemotherapy is associated with recurrence in patients with resected CRC (http://dx.doi.org/10.1016/j.annonc.2023.09.1777).
 	- [Site Unreachable](https://www.annalsofoncology.org/article/S0923-7534(22)02369-9/fulltext).
 
