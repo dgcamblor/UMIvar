@@ -1,0 +1,1 @@
+Es una medidad de la discrepancia entre los datos y un modelo de estimación, como una regresión lineal.

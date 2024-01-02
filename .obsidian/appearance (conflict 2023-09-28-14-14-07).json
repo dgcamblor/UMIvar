@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Justify",
+    "justify",
+    "underline_h1"
+  ],
+  "translucency": false
+}

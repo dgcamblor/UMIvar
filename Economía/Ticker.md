@@ -1,0 +1,1 @@
+El **ticker** es un símbolo alfanumérico corto que se utiliza para identificar de manera única a un valor negociable en los mercados financieros. Por ejemplo, "MSFT" se refiere a las acciones de Microsoft Corporation.

@@ -1,0 +1,1 @@
+Scaling is useful for methods based on measures of distances between datapoints, such as [[Support Vector Machines]] or [[K-Nearest Neighbors]].

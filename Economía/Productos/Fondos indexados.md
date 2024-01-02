@@ -1,0 +1,1 @@
+Son [[Fondos de Inversión]] que replican un determinado [[Índice bursátil]]. 

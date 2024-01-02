@@ -1,0 +1,1 @@
+La **orden por lo mejor** es una orden de compra o venta al mejor precio en el mercado. Si es una compra, se busca el precio más bajo. Si es una venta, se busca el precio más alto. Si no se pudiera ejecutar la orden para todos los títulos (acciones, participaciones), se convierte en una orden limitada por el resto, con el primer precio de ejecución.

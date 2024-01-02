@@ -1,0 +1,126 @@
+{
+  "palette": [
+    {
+      "id": "SrC2h-OkK5Et9Y53-bnRl",
+      "name": "Mathematics yellow",
+      "value": "#dbd050"
+    },
+    {
+      "id": "a9paH_WxLRs_ijE36-l9d",
+      "name": "Zotero red",
+      "value": "#cf3842"
+    },
+    {
+      "id": "brAhH61efq7E7EdfBvwnU",
+      "name": "R blue",
+      "value": "#276dc3"
+    },
+    {
+      "id": "B_NfThX9GRurB2dh5MPdT",
+      "name": "Python blue",
+      "value": "#3776ab"
+    },
+    {
+      "id": "uXkfXaDzqCqdrzIrvRIDo",
+      "name": "Ubuntu orange",
+      "value": "#e95420"
+    },
+    {
+      "id": "U-Mc-uPu1SaVZfDihf8Y3",
+      "name": "Amazon orange",
+      "value": "#ff9900"
+    },
+    {
+      "id": "LK6YCCAw6QlhbfECdCMgh",
+      "name": "Biology blue",
+      "value": "#87d3f8"
+    },
+    {
+      "id": "PKknuwPyLkDVRbbICpr7G",
+      "name": "Light metalic blue",
+      "value": "#7787a5"
+    },
+    {
+      "id": "s07g0XNWqPqhf-1A-hHaQ",
+      "name": "Pale green",
+      "value": "#98fb98"
+    },
+    {
+      "id": "U4NQesdH0WDqBcqJw2rra",
+      "name": "PhD red",
+      "value": "#ff7c80"
+    },
+    {
+      "id": "1mW7fe2S1fgpgfVnfYu7U",
+      "name": "Specific plum",
+      "value": "#dda0dd"
+    },
+    {
+      "id": "kKgw6Cx1wBdNTLhFSSctA",
+      "name": "Earthly brown",
+      "value": "#c4a484"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Estadística",
+      "color": "SrC2h-OkK5Et9Y53-bnRl"
+    },
+    {
+      "path": "Economía",
+      "color": "SrC2h-OkK5Et9Y53-bnRl"
+    },
+    {
+      "path": "Literature notes",
+      "color": "a9paH_WxLRs_ijE36-l9d"
+    },
+    {
+      "path": "Bioinformática y programación/R",
+      "color": "brAhH61efq7E7EdfBvwnU"
+    },
+    {
+      "path": "Bioinformática y programación/Python",
+      "color": "B_NfThX9GRurB2dh5MPdT"
+    },
+    {
+      "path": "Bioinformática y programación/Linux cheatsheets",
+      "color": "uXkfXaDzqCqdrzIrvRIDo"
+    },
+    {
+      "path": "Kindle and book highlights",
+      "color": "U-Mc-uPu1SaVZfDihf8Y3"
+    },
+    {
+      "path": "Biología y medicina",
+      "color": "LK6YCCAw6QlhbfECdCMgh"
+    },
+    {
+      "path": "Bioinformática y programación",
+      "color": "PKknuwPyLkDVRbbICpr7G"
+    },
+    {
+      "path": "Doctorado",
+      "color": "U4NQesdH0WDqBcqJw2rra"
+    },
+    {
+      "path": "Notas de vídeos",
+      "color": "1mW7fe2S1fgpgfVnfYu7U"
+    },
+    {
+      "path": "Dieta y hábitos",
+      "color": "s07g0XNWqPqhf-1A-hHaQ"
+    },
+    {
+      "path": "Notas de cursos",
+      "color": "1mW7fe2S1fgpgfVnfYu7U"
+    },
+    {
+      "path": "General",
+      "color": "kKgw6Cx1wBdNTLhFSSctA"
+    },
+    {
+      "path": "Guías y referencias",
+      "color": "kKgw6Cx1wBdNTLhFSSctA"
+    }
+  ]
+}

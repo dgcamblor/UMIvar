@@ -1,0 +1,3 @@
+El EFI (Extensible Firmware Interface) es un firmware que se ejecuta antes que el sistema operativo y que se encarga de inicializar el hardware y de cargar el sistema operativo. El EFI es el sucesor del [[BIOS (Basic Input-Output System)]], añadiendo nuevas características para un mayor control.
+
+La forma correcta de instalar un sistema *dual boot* es que ambos sistemas se inicien desde la misma partición EFI. Esto permite que se lance el menú *dual boot*.

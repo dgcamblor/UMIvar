@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "af8989b98d9f4873",
+    "type": "split",
+    "children": [
+      {
+        "id": "43fbc1f50c6dd95b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2977467295c0fcac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d43de99a3f01a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioestadística/Confusion matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a2a98c27e5f32f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioestadística/Presión sanguínea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "353a0ec8d6260ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioestadística/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16686d1d941e51bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gradient boosting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbbf95ebf5497868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tamaño muestral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4a509b3139567db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4eef00bcb3895e33",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b77120e2f06e87dc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db14baa9d2f42c96",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f26801feb3de4644",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b874f16a4854a39a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "03155504cc53266c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Tamaño muestral.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "821fffda59198deb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Tamaño muestral.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "999b56f59564af99",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Tamaño muestral.md"
+          }
+        }
+      },
+      {
+        "id": "c4fc4b9b5bd8cc88",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "cbbf95ebf5497868",
+  "lastOpenFiles": [
+    "Teorema de Bayes.md",
+    "Tamaño muestral.md",
+    "gradient boosting.md",
+    "Bioestadística/Untitled 1.md",
+    "Linux/Sistema.md",
+    "Bioestadística/Untitled.md",
+    "Bioestadística/Presión sanguínea.md",
+    "Bioestadística/Confusion matrix.md",
+    "Bioestadística/Type I error.md",
+    "Bioestadística/Type II error.md",
+    "Untitled Pere.md",
+    "Esclerosis múltiple.md",
+    "Enfermedades",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-09-05 01.55.01.excalidraw.md",
+    "Pasted Image 20230905015613_865.jpg",
+    "Excalidraw",
+    "Biología/Fisiología/Sistema endocrino/Ácido gamma-aminobutírico (GABA).md",
+    "Biología/Fisiología/Sistema endocrino/Glutamato.md",
+    "Economía/Commodity.md",
+    "Bioinformática/R/Paquetes de R.md",
+    "Bioinformática/R/Citocinas.md",
+    "Zotero test.md",
+    "Economía/Comparativa de brókers.md",
+    "Bioestadística/Step-by-step ML.md",
+    "Bioestadística/Machine Learning/XGBoost.md",
+    "Bioestadística/Machine Learning/Machine learning algorithms.md",
+    "Bioestadística/Artificial intelligence.md",
+    "Bioinformática/R/XGBoost.md",
+    "Bioinformática/R/Ensemble learning.md"
+  ]
+}

@@ -1,0 +1,3 @@
+- [Scholar](https://beta.reddit.com/r/Scholar/)
+- [Nexus – Telegram](https://t.me/s/nexus_search?before=150); [Telegram: Contact @science\_nexus\_bot](https://t.me/science_nexus_bot)
+- [Science hub Mutual Aid community](https://www.wosonhj.com)

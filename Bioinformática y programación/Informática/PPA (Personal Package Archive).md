@@ -1,0 +1,1 @@
+A PPA (Personal Package Archive) repository is a repository hosted by an individual or organization, containing one or more packages.

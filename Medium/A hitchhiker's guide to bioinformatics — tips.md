@@ -1,0 +1,37 @@
+---
+writingStatus: planning
+---
+[[Cosas que he aprendido del TFM]]
+
+I've come across 1000 errors in my pipelines, here's what i learnt... or something like that would write your average clickbaiter
+
+For the most experts, these tips might be trivial, but sharing my experience...
+## Use a comfortable code editor
+
+## Develop good debugging skills
+## Automate things as much as possible
+
+It may be straightforward to some, but the power of using computers and scripts allows us to automate pretty much any analysis we have in mind. Even if you are thinking that you are going to execute a pipeline just once, you should aim to automate things as if they were going to be repeated - chances are you will have to repeat them.
+
+Not only it reduces times, but it also reduces tedious and the mistakes it come with it.
+
+## Keep a journal, write notes of the commands you use
+
+In that line, creating your own cheatsheet for the commands you usually use can help you learn them faster and 
+
+For this purpose, I personally use Obsidian. 
+
+## Document what you code and learn to follow good practice
+
+We are not the same meme
+## Organization is key
+
+When you are constructing a pipeline 
+
+Build up a system that is valid for you.
+
+Avoid duplicity of files
+
+## Don't forget about the bio in bioinformatics!
+
+As bioinformaticians we are really being asked to be a jack-of-all-trades

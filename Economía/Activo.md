@@ -1,0 +1,1 @@
+Un **activo** es todo aquel recurso que tiene un valor; se espera que la posesión de este activo permita generar un beneficio futuro. Los activos pueden ser tanto algo físico (lingote de oro) como algo intangible (acciones).

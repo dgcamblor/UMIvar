@@ -1,0 +1,1 @@
+Prediction using CpG sites can be performed using [[Lasso regression]], which penalizes and eliminates CpG sites that are not relevant to the model.

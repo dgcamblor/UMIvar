@@ -1,0 +1,10 @@
+{
+  "amazonRegion": "spain",
+  "highlightsFolder": "Kindle Highlights",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": false,
+  "syncOnBoot": false,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2023-07-09T17:37:12.142Z",
+  "fileNameTemplate": "{{title}}"
+}

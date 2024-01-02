@@ -1,0 +1,1 @@
+El ANOVA (analysis of variance) es el método para comparar la media de tres o más grupos.

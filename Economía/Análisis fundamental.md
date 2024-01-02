@@ -1,0 +1,1 @@
+El **análisis fundamental** se centra en evaluar el valor intrínseco de un producto financiero, examinando factores económicos y empresariales que podrían afectar a su precio.

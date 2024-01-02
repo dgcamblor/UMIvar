@@ -1,0 +1,1 @@
+La palabra "commodity" se utiliza para referirse a todo [[Activo]] que puede ser objeto de comercialización.

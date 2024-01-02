@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "52b6624ad44df700",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e2658543e85511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aebe1ce742970743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d001fcdb00ca4179",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e90acd7a413dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e06a643482b93ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "49c97c5289b16da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d225e5c6875f6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "chimeric",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d8a02ba03d8b513",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5550b3fcdcb1452",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c6881b70b3db1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b5248d2ba180ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6824ff3314a15f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39b578562f31026e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee34b43196b7d454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "51f82c5c9ebc8370",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "open-vscode:VSCode": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "aebe1ce742970743",
+  "lastOpenFiles": [
+    "Otros/Adjuntos/TrainAlgo.png",
+    "Otros/Adjuntos/Pasted image 20231025224127.png",
+    "Dashboard.md",
+    "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md",
+    "Otros/Untitled",
+    "Pasted image 20231025223758.png",
+    "Otros/Untitled.md",
+    "Otros/Adjuntos",
+    "Bioinformática y programación/Ómicas/Genómica/bwa.md",
+    "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
+    "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md",
+    "Bioinformática y programación/Ómicas/Genómica/Genomic benchmarking resources.md",
+    "Paper writing/Comparative analysis of UMI deduplication software in variant calling error correction.md",
+    "Bioinformática y programación/Untitled.md",
+    "Medium/Stories/Bioinformatician tips.md",
+    "Medium/Stories/Gamification of your personal development.md",
+    "Medium/Stories/My career.md",
+    "Bioinformática y programación/Linux cheatsheets/Commands/screen.md",
+    "Estadística/Machine Learning/Classification/Decision tree-based algorithms.md",
+    "Estadística/Machine Learning/Regression/Lasso regression.md",
+    "Estadística/Machine Learning/Regularization.md",
+    "Estadística/Machine Learning/Regression/Ridge regression.md",
+    "Bioinformática y programación/MSigDB.md",
+    "Estadística/Machine Learning/Untitled.md",
+    "Bioinformática y programación/Pandoc.md",
+    "Estadística/Tamaño muestral.md",
+    "Estadística/Criterio de información de Akaike (AIC).md",
+    "Bioinformática y programación/Installing Java on Ubuntu.md",
+    "Bioinformática y programación/Defensa del TFM.md",
+    "Bioinformática y programación/File management system for bioinformatics.md",
+    "Sin título",
+    "Otros/Adjuntos/Pasted image 20231018133455.jpg",
+    "Otros/Adjuntos/Pasted image 20231018133452.jpg",
+    "Otros/Adjuntos/fe67d436d9064a370cbe800b24b05ee8a68d491b.svg",
+    "Untitled.md.partial",
+    "Zotero imports/Paper notes",
+    "Bioinformática y programación/Linux cheatsheets/VSCode configuration.md.partial",
+    "Bioinformática y programación/Python/Cython basics.md.partial",
+    "Tutoriales/Autocompletado de datos personales con Google.md.partial",
+    "Tutoriales/Configurar correo UV.md.partial",
+    "Tutoriales/Removing chromosome headers after space.md.partial",
+    "Sin título.canvas",
+    "Sin título 1.canvas"
+  ]
+}

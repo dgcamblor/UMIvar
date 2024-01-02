@@ -1,0 +1,1 @@
+La probabilidad es una medida de la credibilidad de que un suceso ocurra. La credibilidad está basada en el [[Teorema de Bayes]].

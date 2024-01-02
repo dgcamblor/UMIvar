@@ -1,0 +1,3 @@
+Un **warrant** es un tipo de [[Opciones|Opción]], esto es, otorga al comprador el derecho a comprar (*warrant call*) o vender (*warrant put*) a un precio fijado en un momento determinado, pagando para ello una prima. En este caso, están emitidos por empresas o instituciones financieras, existiendo el riesgo de pérdida de capital por quiebra de la entidad emisora.
+
+Se puede comprar el derecho de compra o el derecho de venta, pero no podrán ser vendidos.

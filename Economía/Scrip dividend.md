@@ -1,0 +1,1 @@
+La empresa ofrece la posibilidad de cobrar los dividendos en acciones en lugar de metálico.

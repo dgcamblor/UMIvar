@@ -1,0 +1,2 @@
+Permite obtener una estimación no paramétrica (no se asume que los datos pertenecen a una distribución conocida) de la [[Densidad de probabilidad]] de una muestra.
+La idea del KDE es simple: cuantos más datos de una muestra ocurran alrededor de una localización, más alta será la probabilidad de que una observación ocurra en ese lugar. 

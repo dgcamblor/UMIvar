@@ -1,0 +1,1 @@
+La asignación de activos consiste 

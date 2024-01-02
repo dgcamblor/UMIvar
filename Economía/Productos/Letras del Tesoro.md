@@ -1,0 +1,1 @@
+A diferencia de los [[Bonos]], tienen plazos más cortos (generalmente de menos de un año).

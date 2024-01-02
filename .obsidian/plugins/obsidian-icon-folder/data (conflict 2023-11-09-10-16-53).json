@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabGithub",
+      "FabUbuntu",
+      "FasSuitcaseMedical",
+      "FasDna",
+      "FabLinux"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Economía": "FasDollarSign",
+  "Medium": "FabMedium",
+  "Dieta": "FasAppleWhole",
+  "Biología": "FasDna",
+  "Paper writing": "FasUserPen",
+  "Zotero imports": "FasZ",
+  "Kindle highlights": "FabAmazon",
+  "Notas diarias": "FasCalendarDay",
+  "Estadística": "FasLessThanEqual",
+  "Bioinformática y programación": "FasComputerMouse",
+  "Bioinformática y programación/Python": "FabPython",
+  "Bioinformática y programación/R": "FasR",
+  "Bioinformática y programación/Informática": "FasComputerMouse",
+  "Otros": "FasSquareArrowUpRight",
+  "Generative AIs": {
+    "iconName": "FasRobot",
+    "inheritanceIcon": "FasRobot"
+  },
+  "Tutoriales": "FasChalkboard",
+  "Enfermedades": "FasDisease",
+  "Cáncer": "FasDisease",
+  "Bioinformática y programación/Linux cheatsheets": "FabUbuntu",
+  "Bioinformática y programación/Ómicas": "FasDna",
+  "Cáncer/Tratamiento": "FasSuitcaseMedical",
+  "Zotero imports/Paper notes": "FasBookOpenReader",
+  "Bioinformática y programación/Repositorios": "FabGithub"
+}

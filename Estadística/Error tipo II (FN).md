@@ -1,0 +1,1 @@
+Type II error represents the mistaken failure to reject the null hypothesis as the result of a test procedure.

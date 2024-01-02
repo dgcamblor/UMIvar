@@ -1,0 +1,1 @@
+Es una proteína producida durante el desarrollo fetal, que no se detecta en la sangre de personas sanas adultas. Es utilizada como marcador tumoral en personas con diferentes tipos de cáncer ([[Cáncer colorrectal]], [[CÁNCER DE PÁNCREAS]], [[cáncer de pulmón]]) para seguir la evolución del cáncer tras el tratamiento y detectar recidivas de la enfermedad.

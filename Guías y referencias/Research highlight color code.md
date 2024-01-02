@@ -1,0 +1,8 @@
+- <font style="color:yellow">Yellow: basic highlighting.</font>
+- <font style="color:fuchsia">Fuchsia: important / key information.</font>
+- <font style="color:purple">Purple: translation of a word.</font>
+- <font style="color:green">Green: consult more bibliography.</font>
+- <font style="color:blue">Blue: interesting methodology.</font>
+- <font style="color:orange">Orange: insight or question.</font>
+- <font style="color:red">Red: discrepancy with author or potentially controversial phrase.</font>
+- <font style="color:grey">Grey: lesser highlight.</font>

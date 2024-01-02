@@ -1,0 +1,1 @@
+A LIMS is a software that manages a laboratory-related tasks.

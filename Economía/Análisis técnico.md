@@ -1,0 +1,1 @@
+El **análisis técnico** se centra en estudiar los patrones y tendencias históricas de precios de un activo para predecir su comportamiento futuro.

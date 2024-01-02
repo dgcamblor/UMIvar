@@ -1,0 +1,1 @@
+El **apalancamiento** es el uso de capital prestado (endeudamiento) para aumentar la exposición a una determinada inversión. Las ganancias y las pérdidas son magnificadas. 

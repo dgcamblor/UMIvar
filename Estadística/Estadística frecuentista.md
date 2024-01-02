@@ -1,0 +1,1 @@
+Para la estadística frecuentista, la probabilidad es la frecuencia de un suceso si se repitiera indefinidamente un experimento.

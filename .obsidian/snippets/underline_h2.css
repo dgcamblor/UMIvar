@@ -1,0 +1,10 @@
+/* Underline H2 headings in Edit mode */
+.cm-header-2 {
+	border-bottom: 1px solid var(--text-faint);
+  }
+
+  /* ==========headings======= */
+  /* Underline = border-bottom */
+  .markdown-preview-view h2 {
+	border-bottom: 1px solid var(--text-faint);
+  }

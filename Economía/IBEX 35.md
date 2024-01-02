@@ -1,0 +1,1 @@
+Principal índice bursátil de la Bolsa de Madrid en España. Representa a las 35 empresas más líquidas y negociadas en el mercado español. ^25619e

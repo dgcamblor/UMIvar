@@ -1,0 +1,3 @@
+El **EURIBOR** (Euro Interbank Offered Rate) es la tasa de interés (coste de un préstamo) de referencia utilizada en el mercado financiero europeo. Es una medida calculada a diario que representa el interés al que los bancos de la zona euro están dispuestos a prestarse dinero entre sí en el mercado interbancario.
+
+Suele utilizarse como referencia para una amplia gama de productos financieros como los préstamo hipotecarios. Por ejemplo, si se ofrece un préstamo hipotecario, es posible que se especifique que la tasa de interés será "EURIBOR + X%", lo que significa que dicha tasa de interés se basará en el EURIBOR más un margen adicional (diferencial de una hipoteca). Este será un **préstamo hipotecario variable**.

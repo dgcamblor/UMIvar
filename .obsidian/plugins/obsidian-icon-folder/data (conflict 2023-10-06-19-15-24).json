@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasBookOpenReader",
+      "FabLinux",
+      "FasCalendarDay",
+      "FasZ",
+      "FasUserPen"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Bioinformática/Python": "FabPython",
+  "Bioinformática/R": "FasR",
+  "Economía": "FasDollarSign",
+  "Medium": "FabMedium",
+  "Dieta": "FasAppleWhole",
+  "Biología": "FasDna",
+  "Recursos/Scripts": {
+    "iconName": "FasCode",
+    "inheritanceIcon": "FasCode"
+  },
+  "Paper writing": "FasUserPen",
+  "Zotero imports": "FasZ",
+  "Kindle highlights": "FabAmazon",
+  "Notas diarias": "FasCalendarDay",
+  "Linux": "FabLinux",
+  "Paper notes": "FasBookOpenReader"
+}

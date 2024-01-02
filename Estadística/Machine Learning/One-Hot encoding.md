@@ -1,0 +1,3 @@
+One-Hot encoding is a technique to represent categorical variables in a dataset. Each category is transformed into a binary vector (a series of 1s and 0s) where all elements are set to zero except for one element, which is set to one to represent the specific category. It is similar to [[Dummy encoding]], but creating `N` variables for each `N` categories of the original variable instead of `N-1`.
+
+One-hot encoding is commonly used to convert categorical features into a numerical format that can be fed into machine learning algorithms, as many algorithms require numerical inputs.

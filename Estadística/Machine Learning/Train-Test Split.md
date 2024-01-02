@@ -1,0 +1,2 @@
+The Train-Test split is a technique used to evaluate the performance of a model when building a ML supervised model. It consists in splitting the dataset into two subsets: the training set and the test set. The training set is used to train the model, while the test set is used to evaluate the performance of the model. The test set is not used in the training process, so it is an unbiased evaluation of the model.
+

@@ -1,0 +1,1 @@
+A **swimer plot** is used to represent the evolution of a set of patients over time. The x-axis represents the time, and the y-axis represents the patients.

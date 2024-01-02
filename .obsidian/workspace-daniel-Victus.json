@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "8c1261714d210980",
+    "type": "split",
+    "children": [
+      {
+        "id": "2243fca72fb07456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d5c112d8653ba8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b67849724dce355",
+    "type": "split",
+    "children": [
+      {
+        "id": "5394960e6a930828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94eee6e6e60e9e02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec1b43c43faa1a57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0ef4750fc37427b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbda673049ecf04c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc47ca77d953fc9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d2bf911d0d0f95f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a36864740593f079",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b0915bed8afb69f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d01cba3575a4235",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+    }
+  },
+  "active": "32d5c112d8653ba8",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "This is another note.md",
+    "This is another another note.md",
+    "This is a note.md",
+    "Excalidraw/Drawing 2023-07-09 19.42.13.excalidraw.md",
+    "Excalidraw",
+    "Kindle Highlights",
+    "Kindle Highlights/Rebelión en la granja.md",
+    "().md",
+    "Kindle Highlights/El bosón de Higgs no te va a hacer la cama.md",
+    "Kindle Highlights/El asesinato de Rogelio Ackroyd.md",
+    "Kindle Highlights/Misery.md",
+    "Kindle Highlights/El hombre ilustrado.md",
+    "Kindle Highlights/Breves respuestas a las grandes preguntas.md",
+    "Kindle Highlights/Asesinato en el Orient Express.md",
+    "Kindle Highlights/9 HÁBITOS JAPONESES.md",
+    "Kindle Highlights/Diez negritos.md",
+    "Kindle Highlights/El club de la lucha.md",
+    "Kindle Highlights/El arte de la guerra.md",
+    "Sun Tzu.md",
+    "Kindle Highlights/Siddhartha.md",
+    "Kindle Highlights/La casa torcida - Agatha Christie.md",
+    "Kindle Highlights/Padre rico, padre pobre - Robert Toru Kiyosaki.md",
+    "Kindle Highlights/Monstruos invisibles - Chuck Palahniuk.md",
+    "Bradbury-El hombre ilustrado.md",
+    "Christie-Diez negritos.md",
+    "Tzu-El arte de la guerra.md",
+    "Kindle Highlights",
+    "Hesse-Siddhartha.md",
+    "Kindle Highlights"
+  ]
+}

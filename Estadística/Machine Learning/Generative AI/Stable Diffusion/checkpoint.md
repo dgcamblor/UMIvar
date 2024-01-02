@@ -1,0 +1,1 @@
+Checkpoint files (models) are pre-trained Stable Diffusion weights aimed at creating a general or specific type of image.

@@ -1,0 +1,1 @@
+Una **orden limitada** es una orden de compra o venta a un determinado precio.

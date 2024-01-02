@@ -1,0 +1,1 @@
+En comparación con la [[Tomografía Computarizada (TC)]], es una prueba menos dañina y que permite un mayor grado de detalle, pero tarda más tiempo en completarse.

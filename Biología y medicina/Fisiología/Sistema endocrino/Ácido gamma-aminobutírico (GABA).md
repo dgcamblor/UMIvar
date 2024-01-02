@@ -1,0 +1,1 @@
+El ácido gamma-aminobutírico es uno de los principales neurotransmisores inhibidores, reduciendo la excitabilidad neuronal.

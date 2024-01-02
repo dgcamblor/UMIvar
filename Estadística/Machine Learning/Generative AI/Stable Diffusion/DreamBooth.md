@@ -1,0 +1,1 @@
+DreamBooth is a method to personalize text-to-image models like Stable Diffusion given just a few images of a subject. It allows the model to generate contextualized images of the subject in different scenes, poses, and views.

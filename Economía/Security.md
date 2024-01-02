@@ -1,0 +1,1 @@
+La palabra "security" se emplea para referirse a todo [[Activo]] que representa una inversión.

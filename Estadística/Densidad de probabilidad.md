@@ -1,0 +1,1 @@
+La función de **densidad de probabilidad** o **densidad** de una variable aleatoria continua es la probabilidad relativa según la cual dicha variable aleatoria tomará un determinado valor.

@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "52b6624ad44df700",
+    "type": "split",
+    "children": [
+      {
+        "id": "4554addb0626181e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55475b17379a04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper writing/Comparative analysis of UMI deduplication software in variant calling error correction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d001fcdb00ca4179",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e90acd7a413dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e06a643482b93ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "49c97c5289b16da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d225e5c6875f6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "conda",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d8a02ba03d8b513",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 454.5
+  },
+  "right": {
+    "id": "6c6881b70b3db1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b5248d2ba180ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd54fa8bf8a7a207",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paper writing/Comparative analysis of UMI deduplication software in variant calling error correction.md"
+              }
+            }
+          },
+          {
+            "id": "ee34b43196b7d454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "da1ab2d2fe0c3167",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paper writing/Comparative analysis of UMI deduplication software in variant calling error correction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71e54dea328150fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paper writing/Comparative analysis of UMI deduplication software in variant calling error correction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2956cb163398b54d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "6df394ecc0a33f2b",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "open-vscode:VSCode": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e55475b17379a04b",
+  "lastOpenFiles": [
+    "Obsidian.md",
+    "Bioinformática y programación/Ubuntu setup.md",
+    "Bioinformática y programación/VSCode configuration.md",
+    "Notas de vídeos/The Science of Making & Breaking Habits.md",
+    "GSEA for methylation data.md",
+    "Interesting AI tools.md",
+    "Dieta y hábitos/Kéfir.md",
+    "Dashboard.md",
+    "Dieta y hábitos/Sulfitos.md",
+    "Dieta y hábitos/Sin título.md",
+    "Dieta y hábitos/Meditación.md",
+    "Notas de vídeos/Coffee & Sleep — How Does Caffeine Work & Its Effects on Sleep.md",
+    "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md",
+    "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
+    "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md",
+    "Kindle and book highlights/Show your work.md",
+    "Biología y medicina/Fisiología/Sistema endocrino/Serotonina.md",
+    "Biología y medicina/Fisiología/Sistema endocrino/Glutamato.md",
+    "Biología y medicina/Fisiología/Sistema endocrino/Ácido gamma-aminobutírico (GABA).md",
+    "Dieta y hábitos/Wim Hof breathing technique.md",
+    "Keyboard shortcuts.md",
+    "Numeric keypad shortcuts for symbols.md",
+    "Doctorado/Implementing fgbio in INCLIVA pipeline.md",
+    "Bioinformática y programación/Ómicas/Genómica/Read deduplication/Untitled.md",
+    "Bioinformática y programación/Programas/Conda.md",
+    "Methylation deconvolution in cfDNA.md",
+    "Notas de vídeos",
+    "Doctorado/Presentaciones",
+    "Bioinformática y programación/Programas",
+    "Doctorado/Reviews",
+    "Dieta/Sin título",
+    "Bioinformática y programación/Linux cheatsheets/Sin título",
+    "Otros/Adjuntos/Pasted image 20231101185038.png",
+    "Otros/Adjuntos/Pasted image 20231018133455.jpg",
+    "Otros/Adjuntos/Pasted image 20231025224127.png",
+    "Estadística/Machine Learning/Natural Language Processing",
+    "Estadística/Machine Learning/Decision-tree based algorithms",
+    "Notas rápidas",
+    "HEY CHECK THIS.md.partial",
+    "Otros/Adjuntos/TrainAlgo.png",
+    "Otros/Adjuntos/fe67d436d9064a370cbe800b24b05ee8a68d491b.svg",
+    "Otros/Adjuntos/TrainAlgo.png",
+    "Pasted image 20231025223758.png",
+    "Otros/Adjuntos/Pasted image 20231018133452.jpg",
+    "Sin título.canvas",
+    "Sin título 1.canvas"
+  ]
+}

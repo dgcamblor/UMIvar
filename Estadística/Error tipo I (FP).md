@@ -1,0 +1,1 @@
+Type I error represents the mistaken rejection of a null hypothesis as the result of a test procedure.

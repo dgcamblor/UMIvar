@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "CORREOS ID",
+      "path": "CORREOS ID.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
+      "basename": "Metilación en el ctDNA",
+      "path": "Doctorado/Metilación en el ctDNA.md"
+    },
+    {
+      "basename": "ctDNA methylation studies",
+      "path": "Doctorado/ctDNA methylation studies.md"
+    },
+    {
+      "basename": "Detection of CRC-specific methylation profiles",
+      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
+    },
+    {
+      "basename": "Empresas de secuenciación",
+      "path": "Doctorado/Empresas de secuenciación.md"
+    },
+    {
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Implementing fgbio in INCLIVA pipeline",
+      "path": "Doctorado/Implementing fgbio in INCLIVA pipeline.md"
+    },
+    {
+      "basename": "Methylation relation to treatment resistance studies",
+      "path": "Doctorado/Methylation relation to treatment resistance studies.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Proyecto de páncreas",
+      "path": "Doctorado/Proyectos/Proyecto de páncreas.md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
+      "path": "Doctorado/Proyectos/Comparative analysis of UMI deduplication software in variant calling error correction.md"
+    },
+    {
+      "basename": "Revisión de estudios de metilación en ctDNA",
+      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
+    },
+    {
+      "basename": "Presentación del proyecto de doctorado",
+      "path": "Doctorado/Presentaciones/Presentación del proyecto de doctorado.md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC",
+      "path": "Doctorado/ctDNA methylation in CRC.md"
+    },
+    {
+      "basename": "Clinical relevance of ctDNA analysis",
+      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
+    },
+    {
+      "basename": "Cáncer colorrectal metastásico",
+      "path": "Doctorado/Cáncer colorrectal metastásico.md"
+    },
+    {
+      "basename": "Asociaciones y congresos de interés",
+      "path": "Doctorado/Asociaciones y congresos de interés.md"
+    },
+    {
+      "basename": "Arrays de metilación",
+      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
+    },
+    {
+      "basename": "Añadir color a citas, figuras y tablas en Word",
+      "path": "Guías/Añadir color a citas, figuras y tablas en Word.md"
+    },
+    {
+      "basename": "Autocompletado de datos personales con Google",
+      "path": "Guías/Autocompletado de datos personales con Google.md"
+    },
+    {
+      "basename": "Configurar correo UV",
+      "path": "Guías/Configurar correo UV.md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
+      "basename": "Efecto de red",
+      "path": "Efecto de red.md"
+    },
+    {
+      "basename": "GATK",
+      "path": "Bioinformática y programación/Programas/GATK.md"
+    },
+    {
+      "basename": "bcftools",
+      "path": "Bioinformática y programación/bcftools.md"
+    },
+    {
+      "basename": "Protocolo de WES en cfDNA (biopsia líquida)",
+      "path": "Biología y medicina/Genética molecular/Protocolo de WES en cfDNA (biopsia líquida).md"
+    },
+    {
+      "basename": "Preparación de librerías para NGS",
+      "path": "Biología y medicina/Genética molecular/Preparación de librerías para NGS.md"
+    },
+    {
+      "basename": "Metilación del ADN",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Metilación del ADN.md"
+    },
+    {
+      "basename": "Conversión de bisulfito",
+      "path": "Biología y medicina/Epigenética/Conversión de bisulfito.md"
+    },
+    {
+      "basename": "5hmC",
+      "path": "Biología y medicina/Epigenética/5hmC.md"
+    },
+    {
+      "basename": "cfDNA y ctDNA",
+      "path": "Biología y medicina/Genética molecular/cfDNA y ctDNA.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "Interesting AI tools",
+      "path": "Interesting AI tools.md"
+    },
+    {
+      "basename": "Keyboard shortcuts",
+      "path": "Keyboard shortcuts.md"
+    },
+    {
+      "basename": "Numeric keypad shortcuts for symbols",
+      "path": "Numeric keypad shortcuts for symbols.md"
+    },
+    {
+      "basename": "Research highlight color code",
+      "path": "Research highlight color code.md"
+    },
+    {
+      "basename": "DM analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/DM analysis.md"
+    },
+    {
+      "basename": "Biopsia líquida",
+      "path": "Doctorado/Biopsia líquida.md"
+    },
+    {
+      "basename": "Bisulfite conversion analysis pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion analysis pipeline.md"
+    },
+    {
+      "basename": "CpG loci identification",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md"
+    },
+    {
+      "basename": "ctDNA WGBS analysis pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS analysis pipeline.md"
+    },
+    {
+      "basename": "DNA methylation beta values",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/DNA methylation beta values.md"
+    },
+    {
+      "basename": "Epigenetic clock",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenetic clock.md"
+    },
+    {
+      "basename": "Epigenomic deconvolution analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
+    },
+    {
+      "basename": "Methylated DNA immunoprecipitation analysis pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylated DNA immunoprecipitation analysis pipeline.md"
+    },
+    {
+      "basename": "Testosterona",
+      "path": "Biología y medicina/Fisiología/Sistema endocrino/Testosterona.md"
+    },
+    {
+      "basename": "Free will",
+      "path": "Notas de vídeos/Free will.md"
+    },
+    {
+      "basename": "Amígdala",
+      "path": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

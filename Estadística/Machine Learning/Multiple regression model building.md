@@ -1,0 +1,5 @@
+- All-in
+- Backward elimination (stepwise regression)
+- Forward selection
+- Bidirectional elimination (stepwise regression)
+- Score comparison

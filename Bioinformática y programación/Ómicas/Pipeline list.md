@@ -1,0 +1,5 @@
+
+```dataview
+TABLE
+from #pipeline 
+```

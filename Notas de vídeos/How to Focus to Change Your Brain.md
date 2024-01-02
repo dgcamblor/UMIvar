@@ -1,0 +1,9 @@
+
+## AI summary
+
+- [04:21](https://www.youtube.com/watch?v=LG53Vxum0as&list=WL&index=3) 🌐 Neuroplasticity has developmental plasticity, mainly removing connections that don't serve goals well, from birth to around age 25. [10:34](https://www.youtube.com/watch?v=LG53Vxum0as&list=WL&index=3) 🔄 After age 25, changing the brain requires specific processes beyond the "fire together, wire together" principle.
+- [21:44](https://www.youtube.com/watch?v=LG53Vxum0as&list=WL&index=3) 🔍 The Kennard Principle suggests better recovery from brain injuries occurs when they happen early in life; neuroplasticity is not solely related to impairments.
+- [23:12](https://youtu.be/LG53Vxum0as?t=1392s) 🧠 The first step in neuroplasticity is recognizing the desire to change a behavior, thought, or acquire new information, signaling the brain to engage in conscious actions.
+- [35:26](https://youtu.be/LG53Vxum0as?t=2126s) 🌐 Plasticity is activated when attention is directed to specific stimuli, demonstrated through experiments highlighting the importance of paying attention to induce neural changes.
+- [54:50](https://youtu.be/LG53Vxum0as?t=3290s) 👁️ Mental focus is closely tied to visual focus. Practicing visual focus at the precise distance of the task can improve cognitive focus and increase activity in relevant brain areas associated with information processing. [01:02:28](https://youtu.be/LG53Vxum0as?t=3748s) 🚫 Blinking less and focusing visual attention on a smaller region of space can help maintain a tunnel of mental focus. This practice is valuable for learning on a computer screen and can be adapted for various tasks, including sports.
+- [01:15:37](https://youtu.be/LG53Vxum0as?t=4537s) 🔄 Non-Sleep Deep Rest (NSDR) protocols, like a 20-minute rest after learning, can significantly enhance learning rates. NSDR or brief naps of 90 minutes or less accelerate learning.

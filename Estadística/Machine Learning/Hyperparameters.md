@@ -1,0 +1,1 @@
+Hyperparameters are parameters to the [[Machine learning algorithms]] that are not learnt along the training process but, instead, are fixed inside the model equations.

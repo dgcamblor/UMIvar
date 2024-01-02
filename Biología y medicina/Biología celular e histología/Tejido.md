@@ -1,0 +1,1 @@
+Un tejido es un conjunto de células de diferente tipo que operan de forma conjunta para llevar a cabo una función específica.

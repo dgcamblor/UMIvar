@@ -1,0 +1,1 @@
+El **pip**, en el contexto del mercado de [[Divisas]], es la medida para cuantificar la variación en las tasas de cambio entre dos monedas. Un pip generalmente se refiere al cuarto decimal en la cotización de un par de divisas. Por ejemplo, si el par EUR/USD tiene una cotización de 1.1234 y luego sube a 1.1235, ha habido un movimiento de 1 pip.

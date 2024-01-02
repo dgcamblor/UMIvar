@@ -1,0 +1,1 @@
+A methylation extraction software. It outputs a collection of metrics, such as CpG, CHG and CHH methylation sites, per-CpG and merged methylation sites, etc.

@@ -1,0 +1,1 @@
+El Total expense ratio (TER) representa los costes asociados al mantenimiento de [[Exchange Traded Funds (ETFs)]] o [[Fondos de Inversión]] por parte de un gestor.

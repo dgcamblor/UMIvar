@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "52b6624ad44df700",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a4789b06d6b2aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c903d2383e85221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d001fcdb00ca4179",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e90acd7a413dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e06a643482b93ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "49c97c5289b16da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d225e5c6875f6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "25 ng",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d8a02ba03d8b513",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e98147d109daec1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "6c6881b70b3db1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b5248d2ba180ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd54fa8bf8a7a207",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          },
+          {
+            "id": "ee34b43196b7d454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "da1ab2d2fe0c3167",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71e54dea328150fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2956cb163398b54d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "open-vscode:VSCode": false,
+      "homepage:Open homepage": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "6c903d2383e85221",
+  "lastOpenFiles": [
+    "Show Your Work! - Austin Kleon.md",
+    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Doctorado/Revistas de interés.md",
+    "Doctorado/Research caveats.md",
+    "Doctorado/Possible lines of research for the PhD project.md",
+    "Doctorado/Possible controls for ctDNA methylation.md",
+    "Doctorado/PhD dashboard.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/Methylation and drug resistance.md",
+    "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
+    "Doctorado/Manual variant curation.md",
+    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+    "Doctorado/Detection of CRC-specific methylation profiles.md",
+    "Doctorado/ctDNA methylation studies — methodologies and results.md",
+    "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/ctDNA methylation in CRC.md",
+    "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md",
+    "Doctorado/Clinical relevance of ctDNA analysis.md",
+    "Doctorado/Asociaciones y congresos de interés.md",
+    "Biología y medicina/Oncología/Biopsia líquida.md",
+    "Doctorado/Biopsia líquida.md",
+    "Doctorado/Cáncer colorrectal metastásico.md",
+    "Economía/Commodity.md",
+    "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
+    "Otros/Adjuntos/kras-signaling-pathway.svg",
+    "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
+    "Otros/Adjuntos/TrainAlgo.png",
+    "Otros/Adjuntos/Profile_figure 2_2019-07-24.3_B1.webp",
+    "Otros/Adjuntos/plot.svg",
+    "Otros/Adjuntos/plot (1).svg",
+    "Sin título.canvas",
+    "Untitled",
+    "Doctorado/PhD dashboard.md.partial",
+    "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md.partial",
+    "Otros/Adjuntos/Pasted image 20231101185038.png",
+    "Otros/Adjuntos/Pasted image 20231018133455.jpg",
+    "Otros/Adjuntos/Pasted image 20231025224127.png",
+    "Estadística/Machine Learning/Natural Language Processing",
+    "Estadística/Machine Learning/Decision-tree based algorithms",
+    "Notas rápidas",
+    "HEY CHECK THIS.md.partial",
+    "PhD/Sin título",
+    "Doctorado",
+    "Otros/Adjuntos/fe67d436d9064a370cbe800b24b05ee8a68d491b.svg",
+    "Otros/Untitled",
+    "Sin título 1.canvas"
+  ]
+}

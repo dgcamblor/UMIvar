@@ -1,0 +1,1 @@
+Base Quality Score Recalibration (BQSR) is a **two-step process** used to correct systematic bias that affects the assignment of base quality scores by the sequencer. Generall

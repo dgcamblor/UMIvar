@@ -1,0 +1,1 @@
+LoRA models are small Stable Diffusion models that apply tiny changes to standard [[checkpoint]] models. They are usually 10 to 100 times smaller than checkpoint models. That makes them very attractive to people having an extensive collection of models.

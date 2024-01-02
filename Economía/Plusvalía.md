@@ -1,0 +1,1 @@
+La plusvalía es el beneficio obtenido como  el resultado de la diferencia positiva entre el precio al que se ha comprado un bien y el precio al que ha sido vendido en una operación económica.

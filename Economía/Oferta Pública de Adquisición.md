@@ -1,0 +1,1 @@
+La **Oferta Pública de Adquisición** es una operación por la cual una empresa hace una oferta para comprar todas o parte de las acciones de una empresa, lo que se hace con una prima (incremento) sobre el precio actual de la cotización.

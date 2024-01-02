@@ -1,0 +1,1 @@
+La regresión de Cox expresa la función de riesgo instantáneo de muerte en función del tiempo y de una serie de variables. 

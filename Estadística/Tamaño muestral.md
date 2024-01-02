@@ -1,0 +1,1 @@
+El tamaño muestral permite reducir el efecto de los factores confusores.

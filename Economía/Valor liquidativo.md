@@ -1,0 +1,1 @@
+El valor liquidativo o NAV el precio al que se compra o vende una participación en un [[Fondos de Inversión|Fondo de Inversión]]. Se calcula de forma diaria.

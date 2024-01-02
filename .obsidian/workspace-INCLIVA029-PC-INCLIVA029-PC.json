@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "52b6624ad44df700",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4a10e8091a60a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf551aa3d01e89eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d001fcdb00ca4179",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e90acd7a413dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e06a643482b93ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "49c97c5289b16da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d225e5c6875f6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "25 ng",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d8a02ba03d8b513",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e98147d109daec1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c6881b70b3db1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b5248d2ba180ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd54fa8bf8a7a207",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          },
+          {
+            "id": "ee34b43196b7d454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "da1ab2d2fe0c3167",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71e54dea328150fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2956cb163398b54d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "open-vscode:VSCode": false,
+      "homepage:Open homepage": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "bf551aa3d01e89eb",
+  "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Epigenómica/Epigenetic clock.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/SEQC2 epigenomics study.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation analysis pipeline.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation array.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/ATAC-seq.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md",
+    "Dashboard.md",
+    "Bioinformática y programación/Ómicas/Genómica/Genomic benchmarking resources.md",
+    "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md",
+    "Untitled",
+    "Doctorado/PhD dashboard.md",
+    "Doctorado/PhD dashboard.md.partial",
+    "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md.partial",
+    "Notas diarias/CHIP flagging.md",
+    "Medium/Own stories.md",
+    "Medium/Stories/Bioinformatician tips.md",
+    "Medium/Stories/Gamification of your personal development.md",
+    "Medium/Stories/My career.md",
+    "Medium/Stories/Up your pipeline game - Use a workflow manager.md",
+    "Medium/Stories/A new paradigm of scientific notetaking - Obsidian and Zotero.md",
+    "Medium/Writing on Medium.md",
+    "Quotes.md",
+    "Bioinformática y programación/Ubuntu setup.md",
+    "Paper writing/Comparative analysis of UMI deduplication software in variant calling error correction.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Liquid biopsy epigenomics in CRC.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/5hmC.md",
+    "Notas diarias/2023-11-05.md",
+    "Bioinformática y programación/Linux cheatsheets/Seqtk.md",
+    "Notas diarias/2023-10-16.md",
+    "Otros/Adjuntos/Pasted image 20231101185038.png",
+    "Otros/Adjuntos/Pasted image 20231018133455.jpg",
+    "Otros/Adjuntos/Pasted image 20231025224127.png",
+    "Estadística/Machine Learning/Natural Language Processing",
+    "Estadística/Machine Learning/Decision-tree based algorithms",
+    "Notas rápidas",
+    "HEY CHECK THIS.md.partial",
+    "PhD/Sin título",
+    "Doctorado",
+    "Otros/Adjuntos/TrainAlgo.png",
+    "Otros/Adjuntos/fe67d436d9064a370cbe800b24b05ee8a68d491b.svg",
+    "Otros/Adjuntos/TrainAlgo.png",
+    "Otros/Untitled",
+    "Pasted image 20231025223758.png",
+    "Otros/Adjuntos/Pasted image 20231018133452.jpg",
+    "Sin título.canvas",
+    "Sin título 1.canvas"
+  ]
+}

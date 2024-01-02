@@ -1,0 +1,36 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Zotero imports",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite Pandoc",
+      "format": "pandoc",
+      "brackets": true
+    },
+    {
+      "name": "Bibliography",
+      "format": "formatted-bibliography"
+    },
+    {
+      "name": "Cite formatted",
+      "format": "formatted-citation",
+      "cslStyle": "vancouver-brackets"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Create literature note",
+      "outputPathTemplate": "Literature notes/{{citekey}}.md",
+      "imageOutputPathTemplate": "Otros/Adjuntos/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Otros/Plantillas/Literature note.md",
+      "cslStyle": "vancouver-brackets"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

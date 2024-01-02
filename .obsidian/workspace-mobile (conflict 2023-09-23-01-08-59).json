@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "af8989b98d9f4873",
+    "type": "split",
+    "children": [
+      {
+        "id": "c46b5fc105735303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "befb54c8b324ce92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd6161ed4283a68c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4a509b3139567db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4eef00bcb3895e33",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b77120e2f06e87dc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db14baa9d2f42c96",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f26801feb3de4644",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b874f16a4854a39a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "03155504cc53266c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "821fffda59198deb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "999b56f59564af99",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "c4fc4b9b5bd8cc88",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bd6161ed4283a68c",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Bioestadística/Machine Learning/Machine learning algorithms.md",
+    "Linux/samtools.md",
+    "Linux/FHS de Linux.md",
+    "Linux/Linux cheatsheet.md",
+    "Linux/Bash scripting.md",
+    "Papers/Comparative analysis of UMI deduplicators and their effect on variant calling.md",
+    "Artículos/Untitled",
+    "Bioestadística/Step-by-step ML.md",
+    "Bioestadística/Machine Learning/XGBoost.md",
+    "Bioestadística/Machine Learning/Regression/Lasso regression.md",
+    "Bioestadística/Machine Learning/Cython.md",
+    "Data imputation methods.md",
+    "Linear regression.md",
+    "gradient boosting.md",
+    "Defensa del TFM.md",
+    "Teorema de Bayes.md",
+    "Opioides.md",
+    "Bioestadística/Untitled.md",
+    "Bioestadística/Presión sanguínea.md",
+    "Bioestadística/Confusion matrix.md",
+    "Bioestadística/Untitled 1.md",
+    "Linux/Sistema.md",
+    "Bioestadística/Type I error.md",
+    "Bioestadística/Type II error.md",
+    "Untitled Pere.md",
+    "Esclerosis múltiple.md",
+    "Enfermedades",
+    "Untitled.canvas",
+    "Pasted Image 20230905015613_865.jpg",
+    "Excalidraw"
+  ]
+}

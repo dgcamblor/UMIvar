@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"field\":biology]",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "[\"field\":bioinformatics]",
+      "color": {
+        "a": 1,
+        "rgb": 4549437
+      }
+    },
+    {
+      "query": "[\"field\":statistics]",
+      "color": {
+        "a": 1,
+        "rgb": 16746522
+      }
+    },
+    {
+      "query": "[\"field\":economy]",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.29539583333333,
+  "lineSizeMultiplier": 3.14856194690265,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3929424487345339,
+  "close": true
+}

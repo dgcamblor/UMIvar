@@ -1,0 +1,1 @@
+Es el primer programa que se ejecuta al encender un ordenador.

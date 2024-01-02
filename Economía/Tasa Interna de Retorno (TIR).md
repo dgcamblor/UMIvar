@@ -1,0 +1,1 @@
+La **tasa interna de retorno (TIR)** es la rentabilidad que ofrece una inversión.

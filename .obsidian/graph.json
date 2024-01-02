@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Estadística  ",
+      "color": {
+        "a": 1,
+        "rgb": 14405712
+      }
+    },
+    {
+      "query": "path:\"Biología y medicina\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8901624
+      }
+    },
+    {
+      "query": "tag:#phd  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743552
+      }
+    },
+    {
+      "query": "path:\"Bioinformática y programación\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9214385
+      }
+    },
+    {
+      "query": "path:\"Kindle and book highlights\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
+    },
+    {
+      "query": "path:\"Dieta y hábitos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10025880
+      }
+    },
+    {
+      "query": "path:\"Notas de vídeos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14524637
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.66085416666667,
+  "collapse-forces": false,
+  "centerStrength": 0.421875,
+  "repelStrength": 12.1625,
+  "linkStrength": 1,
+  "linkDistance": 277,
+  "scale": 0.2226471799193443,
+  "close": true
+}

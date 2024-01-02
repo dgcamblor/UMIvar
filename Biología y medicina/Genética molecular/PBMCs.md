@@ -1,0 +1,3 @@
+Las **PBMCs**, o células mononucleares de sangre periférica en inglés (Peripheral Blood Mononuclear Cells), son un tipo de células sanguíneas que tienen un núcleo único y se encuentran en la sangre periférica, es decir, en la sangre circulante fuera del sistema circulatorio central (corazón y pulmones). Las PBMCs incluyen varios tipos de células, como linfocitos (células B y células T), monocitos y células asesinas naturales.
+
+Se excluyen principalmente las células sanguíneas que no son mononucleares, como los glóbulos rojos (eritrocitos) y las plaquetas.

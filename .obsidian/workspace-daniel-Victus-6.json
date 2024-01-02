@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "52b6624ad44df700",
+    "type": "split",
+    "children": [
+      {
+        "id": "d13445164bfa1d33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c25bd0c08609c0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero in Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03fa1279c60d16c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/Research questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33fb584cb51c0c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATAC-seq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d001fcdb00ca4179",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e90acd7a413dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e06a643482b93ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "49c97c5289b16da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d225e5c6875f6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d8a02ba03d8b513",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c6881b70b3db1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b5248d2ba180ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5550b3fcdcb1452",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ATAC-seq.md"
+              }
+            }
+          },
+          {
+            "id": "b6824ff3314a15f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ATAC-seq.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39b578562f31026e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ATAC-seq.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee34b43196b7d454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "51f82c5c9ebc8370",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "open-vscode:VSCode": false,
+      "homepage:Open homepage": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "33fb584cb51c0c45",
+  "lastOpenFiles": [
+    "Doctorado/Research questions.md",
+    "ATAC-seq.md",
+    "Doctorado/Presentación del proyecto de doctorado.md",
+    "Estadística/Multicolinealidad.md",
+    "Estadística/Multicolinealidad 1.md",
+    "English gramatics.md",
+    "Bioinformática y programación/R/Magrittr pipe vs. base R pipe 1.md",
+    "Interesting AI tools.md",
+    "PhD/Sin título",
+    "Doctorado",
+    "Zotero in Obsidian.md",
+    "ZotFile and Zotero.md",
+    "Highlight color code.md",
+    "Obsidian.md",
+    "Correlation.md",
+    "Memoria proyecto.md",
+    "Dashboard.md",
+    "Tutoriales/Autocompletado de datos personales con Google.md",
+    "Tutoriales/Configurar correo UV.md",
+    "Tutoriales/Rebinding 'Tab' Key in ME3 LE.md",
+    "Tutoriales/Removing chromosome headers after space.md",
+    "Tutoriales/Setting up R with Jupyter (VSCode).md",
+    "Tutoriales/Spotify parcheado.md",
+    "Tutoriales/VPN fix no internet for browsing.md",
+    "Bioinformática y programación/Ómicas/Proteómica/Estrategias en proteómica.md",
+    "Bioinformática y programación/Ómicas/Proteómica/Métodos de separación.md",
+    "Bioinformática y programación/Ómicas/Proteómica/Métodos de ionización.md",
+    "Bioinformática y programación/Ómicas/Genómica/Genomics pipeline.md",
+    "Otros/Adjuntos/TrainAlgo.png",
+    "Otros/Adjuntos/Pasted image 20231025224127.png",
+    "Otros/Adjuntos/fe67d436d9064a370cbe800b24b05ee8a68d491b.svg",
+    "Otros/Adjuntos/TrainAlgo.png",
+    "Otros/Adjuntos/Pasted image 20231025224127.png",
+    "Otros/Untitled",
+    "Pasted image 20231025223758.png",
+    "Otros/Adjuntos",
+    "Otros/Adjuntos/Pasted image 20231018133455.jpg",
+    "Otros/Adjuntos/Pasted image 20231018133452.jpg",
+    "Untitled.md.partial",
+    "Zotero imports/Paper notes",
+    "Bioinformática y programación/Linux cheatsheets/VSCode configuration.md.partial",
+    "Bioinformática y programación/Python/Cython basics.md.partial",
+    "Tutoriales/Autocompletado de datos personales con Google.md.partial",
+    "Tutoriales/Configurar correo UV.md.partial",
+    "Sin título.canvas",
+    "Sin título 1.canvas"
+  ]
+}

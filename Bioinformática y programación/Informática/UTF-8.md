@@ -1,0 +1,1 @@
+UTF-8 is the standard text encoding.

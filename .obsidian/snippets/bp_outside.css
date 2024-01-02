@@ -1,0 +1,4 @@
+/* Bullet points outside the text, for vertical alignment */
+ul {
+	list-style-position: outside;
+  }
