@@ -157,14 +157,23 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "6f93d5e6f79a91d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +191,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "275490707509f727",
+  "active": "6f93d5e6f79a91d0",
   "lastOpenFiles": [
     "Bioinformática y programación/Perl.md",
     "Bioinformática y programación/Linguist settings for git repos.md",
