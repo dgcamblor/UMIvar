@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "cfDNA y ctDNA",
+      "path": "Biología y medicina/Genética molecular/cfDNA y ctDNA.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -13,10 +29,6 @@
       "path": "Notas de cursos/Comunicación interpersonal.md"
     },
     {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
       "basename": "Methylation and drug resistance",
       "path": "Doctorado/Methylation and drug resistance.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "Clinical relevance of ctDNA analysis",
       "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
       "basename": "MRD ctDNA assays",
@@ -51,10 +59,6 @@
     {
       "basename": "Research caveats",
       "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
     },
     {
       "basename": "PFS",
@@ -195,10 +199,6 @@
     {
       "basename": "Error tipo I (FP)",
       "path": "Estadística/Error tipo I (FP).md"
-    },
-    {
-      "basename": "Error tipo II (FN)",
-      "path": "Estadística/Error tipo II (FN).md"
     }
   ],
   "omittedPaths": [],

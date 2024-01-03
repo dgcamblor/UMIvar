@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lingu",
+                "query": "CTDNA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           }
@@ -194,19 +194,20 @@
   },
   "active": "503cb224abceb5b3",
   "lastOpenFiles": [
-    "Notas de cursos/Comunicación interpersonal.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
+    "Doctorado/PhD dashboard.md",
     "Dashboard.md",
+    "Notas de cursos/Comunicación interpersonal.md",
     "Doctorado/Methylation and drug resistance.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/Revistas de interés.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
     "Doctorado/Possible lines of research for the PhD project.md",
     "Doctorado/Research caveats.md",
-    "Doctorado/PhD dashboard.md",
     "Biología y medicina/Oncología/PFS.md",
     "Biología y medicina/Oncología/DFS.md",
     "Estadística/Análisis de supervivencia.md",
@@ -219,7 +220,6 @@
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Manual variant curation.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
-    "Doctorado/ctDNA methylation overview.md",
     "Doctorado/ctDNA methylation overview.md",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",

@@ -48,13 +48,20 @@ tags:
 
 ## Cuestiones
 
+- Parece que está claro que los assays tumor-informed presentan resultados más sensibles (porque están centrados en las mutaciones específicas del tumor concreto y no en regio)
 
 ## Main advantages and disadvantages
 
 - Tumor-informed assays demand more time than tumor-naïve approaches for personalization.
 - As the tumor-informed approach employs a tissue sample for variant analysis, this enables the filtering of CHIP mutations found in cfDNA (decreasing false positive rates).
+- Tumor-informed assays are reported to have greater sensitivity than tumor-naive panels, even when they use large gene panels [@kasiImpactCirculatingTumor2022]. A tumor-naïve panel may not cover variants found in some patients.
+- Tumor-naïve approaches assay 
 
 ## Studies comparing both approaches
+
+%%TODO
+- [ ] Study the nature of these studies. Use several headings as needed
+%%
 
 - Comparison of tumor-informed and tumor-naïve sequencing assays for ctDNA detection in breast cancer [@santonjaComparisonTumorinformedTumornaive2023]. 
 
