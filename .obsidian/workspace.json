@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a5720c595566456",
+        "id": "c5ad713fbcba60f1",
         "type": "tabs",
         "children": [
           {
-            "id": "503cb224abceb5b3",
+            "id": "c1a878ed96d75130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Doctorado/MRD ctDNA clinical trials.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+                "file": "Doctorado/MRD ctDNA clinical trials.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Doctorado/MRD ctDNA clinical trials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Doctorado/MRD ctDNA clinical trials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+                "file": "Doctorado/MRD ctDNA clinical trials.md"
               }
             }
           }
@@ -192,18 +192,18 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "503cb224abceb5b3",
+  "active": "c1a878ed96d75130",
   "lastOpenFiles": [
+    "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Dashboard.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
     "Doctorado/PhD dashboard.md",
-    "Dashboard.md",
     "Notas de cursos/Comunicación interpersonal.md",
     "Doctorado/Methylation and drug resistance.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
-    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Doctorado/MRD ctDNA assays.md",
     "Doctorado/Revistas de interés.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
     "Doctorado/Possible lines of research for the PhD project.md",

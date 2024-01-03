@@ -2,6 +2,7 @@
 tags:
   - phd
 ---
+Tumor-informed and tumor-agnostic approaches are two different methods for detecting minimal residual disease (MRD) using circulating tumor DNA (ctDNA) as a biomarker. Tumor-informed assays use information from a patient's tumor sample to design a personalized test, while tumor-agnostic assays do not require prior tumor genomic knowledge and are more generic. Both approaches have their own advantages and limitations.
 
 >A hot topic at the [American Society of Clinical Oncology (ASCO) 2023](https://conferences.asco.org/) in Chicago was approaches to liquid biopsy and how to best utilize them in clinical practice. One of the main debates is a liquid only (tumor naïve) or tissue plus liquid (tumor-informed) approach to testing.
 >
@@ -35,8 +36,6 @@ tags:
 2. Liquid Biopsy Technologies 
 3. Advanced Imaging Techniques
 
-
-
 **VI. Future Directions --> WGS, Epigenomics, fragmentomics**
 
 1. Advancements in Precision Medicine 
@@ -51,8 +50,10 @@ tags:
 ## Cuestiones
 
 - Parece que está claro que los assays tumor-informed presentan resultados más sensibles (porque están centrados en las mutaciones específicas del tumor concreto y no en regiones que pueden o no ser relevantes) y específicos (no se identifican falsos positivos en regiones no relevantes para el tumor). 
-	- Esta observación está fundamentalmente basada en estudios individuales, mientras que 
+	- Esta observación está fundamentalmente basada en estudios individuales.
 	- Sería bueno recopilar todos los estudios posibles que hayan comparado 
+
+- ¿Qué debería ir en el apartado 
 
 ## Main advantages and disadvantages
 
@@ -66,6 +67,10 @@ tags:
 %%TODO
 - [ ] Study the nature of these studies. Use several headings as needed
 %%
+
+- Circulating Tumor DNA As A MRD Assessment And Recurrence Risk In Patients Undergoing Curative Intent Resection With Or Without Adjuvant Chemotherapy In Colorectal Cancer: A Meta-analysis [@chidharlaCirculatingTumorDNA2022].
+	- Meta-analysis of studies detecting ctDNA as a proxy for MRD in Stage I-IV CRC patients after curative-intent surgery.
+	- They perform a subgroup analysis for tumor-informed vs. tumor-agnostic studies, favoring the former over the later.
 
 - Comparison of tumor-informed and tumor-naïve sequencing assays for ctDNA detection in breast cancer [@santonjaComparisonTumorinformedTumornaive2023]. 
 
