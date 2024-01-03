@@ -51,9 +51,12 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 
 - Parece que está claro que los assays tumor-informed presentan resultados más sensibles (porque están centrados en las mutaciones específicas del tumor concreto y no en regiones que pueden o no ser relevantes) y específicos (no se identifican falsos positivos en regiones no relevantes para el tumor). 
 	- Esta observación está fundamentalmente basada en estudios individuales.
-	- Sería bueno recopilar todos los estudios posibles que hayan comparado 
+	- Sería bueno recopilar todos los estudios posibles (IV. Comparative Analysis) que hayan comparado objetivamente estas dos estrategias (ver [[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy#Studies comparing both approaches]]).
 
-- ¿Qué debería ir en el apartado 
+- ¿Qué debería ir en el apartado de Next-Generation Sequencing, **V. Emerging Technologies and Innovations**? Muchos assays como Signatera ya están incorporando la NGS...
+	- Quizás incorporar un apartado previo en **I. Introduction** sobre la descripción de las técnicas de detección de ctDNA actuales: similar a lo que se encuentra en [@zhuPlasmaAssayCellFree2023].
+
+
 
 ## Main advantages and disadvantages
 
@@ -66,6 +69,7 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 
 %%TODO
 - [ ] Study the nature of these studies. Use several headings as needed
+- [ ] Add studies in epigenetic data
 %%
 
 - Circulating Tumor DNA As A MRD Assessment And Recurrence Risk In Patients Undergoing Curative Intent Resection With Or Without Adjuvant Chemotherapy In Colorectal Cancer: A Meta-analysis [@chidharlaCirculatingTumorDNA2022].

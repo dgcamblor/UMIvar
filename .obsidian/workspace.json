@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md",
+                "file": "Doctorado/ctDNA methylation overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md"
+                "file": "Doctorado/ctDNA methylation overview.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md",
+                "file": "Doctorado/ctDNA methylation overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md",
+                "file": "Doctorado/ctDNA methylation overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md"
+                "file": "Doctorado/ctDNA methylation overview.md"
               }
             }
           }
@@ -194,9 +194,9 @@
   },
   "active": "c1a878ed96d75130",
   "lastOpenFiles": [
+    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
-    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Dashboard.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
     "Doctorado/PhD dashboard.md",
