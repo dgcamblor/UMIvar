@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md",
+                "file": "Doctorado/ctDNA methylation in CRC.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md"
+                "file": "Doctorado/ctDNA methylation in CRC.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md",
+                "file": "Doctorado/ctDNA methylation in CRC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md",
+                "file": "Doctorado/ctDNA methylation in CRC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md"
+                "file": "Doctorado/ctDNA methylation in CRC.md"
               }
             }
           }
@@ -194,12 +194,12 @@
   },
   "active": "c1a878ed96d75130",
   "lastOpenFiles": [
+    "Doctorado/ctDNA methylation overview.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
     "Biología y medicina/Oncología/Enfermedad mínima residual (EMR).md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Doctorado/ctDNA methylation overview.md",
     "Dashboard.md",
     "Doctorado/PhD dashboard.md",
     "Notas de cursos/Comunicación interpersonal.md",
