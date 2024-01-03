@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Odds ratio",
+      "path": "Estadística/Odds ratio.md"
+    },
+    {
       "basename": "Matriz de confusión",
       "path": "Estadística/Matriz de confusión.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Research highlight color code",
       "path": "Guías y referencias/Research highlight color code.md"
-    },
-    {
-      "basename": "Accuracy vs. ROC-AUC",
-      "path": "Estadística/Machine Learning/Accuracy vs. ROC-AUC.md"
     }
   ],
   "omittedPaths": [],
