@@ -31,9 +31,11 @@ tags:
 
 **V. Emerging Technologies and Innovations** 
 
-1. Next-Generation Sequencing. The use of UMI molecular tagging has enabled significant increases in both sensitivity and precision.
+1. Next-Generation Sequencing. 
 2. Liquid Biopsy Technologies 
 3. Advanced Imaging Techniques
+
+
 
 **VI. Future Directions --> WGS, Epigenomics, fragmentomics**
 
@@ -48,7 +50,9 @@ tags:
 
 ## Cuestiones
 
-- Parece que está claro que los assays tumor-informed presentan resultados más sensibles (porque están centrados en las mutaciones específicas del tumor concreto y no en regio)
+- Parece que está claro que los assays tumor-informed presentan resultados más sensibles (porque están centrados en las mutaciones específicas del tumor concreto y no en regiones que pueden o no ser relevantes) y específicos (no se identifican falsos positivos en regiones no relevantes para el tumor). 
+	- Esta observación está fundamentalmente basada en estudios individuales, mientras que 
+	- Sería bueno recopilar todos los estudios posibles que hayan comparado 
 
 ## Main advantages and disadvantages
 
