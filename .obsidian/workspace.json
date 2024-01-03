@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Odds ratio.md",
+                "file": "Estadística/Risk ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Odds ratio.md"
+                "file": "Estadística/Risk ratio.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Odds ratio.md",
+                "file": "Estadística/Risk ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Odds ratio.md",
+                "file": "Estadística/Risk ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Odds ratio.md"
+                "file": "Estadística/Risk ratio.md"
               }
             }
           }
@@ -194,9 +194,10 @@
   },
   "active": "c1a878ed96d75130",
   "lastOpenFiles": [
+    "Estadística/Odds ratio.md",
+    "Estadística/Risk ratio.md",
     "Otros/Adjuntos/calculating-odds-ratios_1350.webp",
     "Estadística/Matriz de confusión.md",
-    "Estadística/Odds ratio.md",
     "Estadística/Tabla de contingencia.md",
     "Estadística/Multicolinealidad.md",
     "Otros/Adjuntos/Pasted image 20240103200602.png",
@@ -234,7 +235,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md.partial",
     "Otros/Adjuntos/Pasted image 20231101185038.png",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
-    "Otros/Adjuntos/Pasted image 20231025224127.png",
     "Estadística/Machine Learning/Natural Language Processing",
     "Estadística/Machine Learning/Decision-tree based algorithms",
     "Notas rápidas",

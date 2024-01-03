@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Risk ratio",
+      "path": "Estadística/Risk ratio.md"
+    },
+    {
       "basename": "Odds ratio",
       "path": "Estadística/Odds ratio.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Statement",
       "path": "Guías y referencias/Statement.md"
-    },
-    {
-      "basename": "Research highlight color code",
-      "path": "Guías y referencias/Research highlight color code.md"
     }
   ],
   "omittedPaths": [],

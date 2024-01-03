@@ -1,0 +1,1 @@
+El **risk ratio** compara 
