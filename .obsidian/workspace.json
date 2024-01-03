@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed8e3f1cec52d9f",
+        "id": "1a5720c595566456",
         "type": "tabs",
         "children": [
           {
-            "id": "0c61bc95a6525b3f",
+            "id": "503cb224abceb5b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md"
+                "file": "Dashboard.md"
               }
             }
           }
@@ -192,10 +192,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0c61bc95a6525b3f",
+  "active": "503cb224abceb5b3",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Notas de cursos/Comunicación interpersonal.md",
+    "Dashboard.md",
     "Doctorado/Methylation and drug resistance.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",

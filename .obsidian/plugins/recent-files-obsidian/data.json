@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Comunicación interpersonal",
-      "path": "Notas de cursos/Comunicación interpersonal.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "Nextflow",
+      "path": "Bioinformática y programación/Nextflow.md"
+    },
+    {
+      "basename": "Comunicación interpersonal",
+      "path": "Notas de cursos/Comunicación interpersonal.md"
     },
     {
       "basename": "MRD ctDNA clinical trials",
@@ -195,10 +199,6 @@
     {
       "basename": "Error tipo II (FN)",
       "path": "Estadística/Error tipo II (FN).md"
-    },
-    {
-      "basename": "Revisión de estudios de metilación en ctDNA",
-      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
     }
   ],
   "omittedPaths": [],
