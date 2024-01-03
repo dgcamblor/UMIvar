@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Matriz de confusión",
+      "path": "Estadística/Matriz de confusión.md"
+    },
+    {
+      "basename": "Tabla de contingencia",
+      "path": "Estadística/Tabla de contingencia.md"
+    },
+    {
+      "basename": "Multicolinealidad",
+      "path": "Estadística/Multicolinealidad.md"
+    },
+    {
       "basename": "ctDNA methylation in CRC",
       "path": "Doctorado/ctDNA methylation in CRC.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Accuracy vs. ROC-AUC",
       "path": "Estadística/Machine Learning/Accuracy vs. ROC-AUC.md"
-    },
-    {
-      "basename": "Hyperparameter tuning",
-      "path": "Estadística/Machine Learning/Hyperparameter tuning.md"
-    },
-    {
-      "basename": "Machine learning algorithms",
-      "path": "Estadística/Machine Learning/Machine learning algorithms.md"
-    },
-    {
-      "basename": "Model evaluation",
-      "path": "Estadística/Machine Learning/Model evaluation.md"
     }
   ],
   "omittedPaths": [],

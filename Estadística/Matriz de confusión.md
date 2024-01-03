@@ -2,27 +2,22 @@
 field: statistics
 ---
 
-The confusion matrix is a two-dimensional contigency table that contains the number of predicted and actual labels, allowing to visualize the performance of a test or algorithm.
+La matriz de confusión es una tabla de contingencia bidimensional que contiene el número de etiquetas predichas y reales, lo que permite visualizar el rendimiento de una prueba o algoritmo.
 
-| | Predicted: 0 | Predicted: 1 |
-| --- | --- | --- |
-| Actual: 0 | True Negative (TN) | False Positive (FP) |
-| Actual: 1 | False Negative (FN) | True Positive (TP) |
+![[Pasted image 20240103200602.png]]
 
-## Metrics
+## Métricas
 
-A description of the direct metrics is:
+Al aplicar una prueba, y respecto de la situación real de la enfermedad, nos podemos encontrar los siguientes casos:
 
-- True Positive (TP): The number of positive cases correctly classified as positive.
-- True Negative (TN): The number of negative cases correctly classified as negative.
-- False Positive (FP) ([[Error tipo I (FP)]]): The number of negative cases incorrectly classified as positive.
-- False Negative (FN) ([[Error tipo II (FN)]]): The number of positive cases incorrectly classified as negative.
+- Verdaderos positivos (TP). El número de casos positivos correctamente clasificados como positivos.
+- Verdadero negativo (TN). El número de casos negativos correctamente clasificados como negativos.
+- Falso positivo (FP) ([[Error tipo I (FP)]]). El número de casos negativos clasificados incorrectamente como positivos.
+- Falso negativo (FN) ([[Error tipo II (FN)]]). El número de casos positivos clasificados incorrectamente como negativos.
 
-The metrics derived from the confusion matrix are:
+Las métricas derivadas de la matriz de confusión son:
 
-- Sensitivity or recall (sensiblidad): The proportion of positive cases correctly classified as positive. It is the probability that a positive case is correctly classified as positive. It is calculated as $TP/(TP+FN)$.
-- Specificity (especificidad): The proportion of negative cases correctly classified as negative. It is the probability that a negative case is correctly classified as negative. It is calculated as $TN/(TN+FP)$.
-- Precision (precisión): The proportion of positive cases correctly classified as positive. It is the probability that a positive case is correctly classified as positive. It is calculated as $TP/(TP+FP)$.
-## Other metrics
-
-[[ROC Curve]]
+- Sensibilidad o recall (sensiblidad): La proporción de casos positivos correctamente clasificados como positivos. Es la probabilidad de que un caso positivo se clasifique correctamente como positivo. Se calcula como $TP/(TP+FN)$.
+- Especificidad: Es la proporción de casos negativos correctamente clasificados como negativos. Es la probabilidad de que un caso negativo se clasifique correctamente como negativo. Se calcula como $TN/(TN+FP)$.
+- Precisión: Proporción de casos positivos clasificados correctamente como positivos. Es la probabilidad de que un caso positivo se clasifique correctamente como positivo. Se calcula como $TP/(TP+FP)$.
+## Otras métricas

@@ -10,5 +10,6 @@
     "dashboard"
   ],
   "translucency": false,
-  "cssTheme": ""
+  "cssTheme": "",
+  "baseFontSize": 15
 }
