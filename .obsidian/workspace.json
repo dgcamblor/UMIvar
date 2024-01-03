@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Risk ratio.md",
+                "file": "Estadística/Odds ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Risk ratio.md"
+                "file": "Estadística/Odds ratio.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Risk ratio.md",
+                "file": "Estadística/Odds ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Risk ratio.md",
+                "file": "Estadística/Odds ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Risk ratio.md"
+                "file": "Estadística/Odds ratio.md"
               }
             }
           }
@@ -194,8 +194,9 @@
   },
   "active": "c1a878ed96d75130",
   "lastOpenFiles": [
-    "Estadística/Odds ratio.md",
     "Estadística/Risk ratio.md",
+    "Estadística/Odds ratio.md",
+    "Otros/Adjuntos/calculating-risk-ratios_1350.webp",
     "Otros/Adjuntos/calculating-odds-ratios_1350.webp",
     "Estadística/Matriz de confusión.md",
     "Estadística/Tabla de contingencia.md",
@@ -221,7 +222,6 @@
     "Doctorado/Research caveats.md",
     "Biología y medicina/Oncología/PFS.md",
     "Biología y medicina/Oncología/DFS.md",
-    "Estadística/Análisis de supervivencia.md",
     "Nuevo Documento de texto.txt",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
@@ -234,7 +234,6 @@
     "Doctorado/PhD dashboard.md.partial",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md.partial",
     "Otros/Adjuntos/Pasted image 20231101185038.png",
-    "Otros/Adjuntos/Pasted image 20231018133455.jpg",
     "Estadística/Machine Learning/Natural Language Processing",
     "Estadística/Machine Learning/Decision-tree based algorithms",
     "Notas rápidas",

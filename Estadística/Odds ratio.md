@@ -9,5 +9,5 @@ Donde: a = casos expuestos, b = controles expuestos, c = casos no expuestos, d =
 ![[calculating-odds-ratios_1350.webp]]
 ## Referencias
 
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640017/#:~:text=The%20relative%20risk%20(also%20known,event%20in%20the%20other%20group
+- [Common pitfalls in statistical analysis: Odds versus risk - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640017/#:~:text=The%20relative%20risk%20)
 - https://ourworldindata.org/risk-ratios-odds-ratios-risk-differences-how-do-researchers-calculate-the-risk-from-a-risk-factor
