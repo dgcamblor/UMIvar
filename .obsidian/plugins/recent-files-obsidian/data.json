@@ -5,24 +5,28 @@
       "path": "Doctorado/ctDNA methylation overview.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+      "basename": "cfDNA y ctDNA",
+      "path": "Biología y medicina/Genética molecular/cfDNA y ctDNA.md"
     },
     {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
+      "basename": "Enfermedad mínima residual (EMR)",
+      "path": "Biología y medicina/Oncología/Enfermedad mínima residual (EMR).md"
     },
     {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
     },
     {
-      "basename": "cfDNA y ctDNA",
-      "path": "Biología y medicina/Genética molecular/cfDNA y ctDNA.md"
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "PhD dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Model evaluation",
       "path": "Estadística/Machine Learning/Model evaluation.md"
-    },
-    {
-      "basename": "Error tipo I (FP)",
-      "path": "Estadística/Error tipo I (FP).md"
     }
   ],
   "omittedPaths": [],

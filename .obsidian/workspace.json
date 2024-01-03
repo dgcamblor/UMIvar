@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CTDNA",
+                "query": "emr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,11 +194,13 @@
   },
   "active": "c1a878ed96d75130",
   "lastOpenFiles": [
-    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
-    "Dashboard.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
+    "Biología y medicina/Oncología/Enfermedad mínima residual (EMR).md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Doctorado/ctDNA methylation overview.md",
+    "Dashboard.md",
     "Doctorado/PhD dashboard.md",
     "Notas de cursos/Comunicación interpersonal.md",
     "Doctorado/Methylation and drug resistance.md",
@@ -219,8 +221,6 @@
     "Show Your Work! - Austin Kleon.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Manual variant curation.md",
-    "Doctorado/ctDNA methylation studies — methodologies and results.md",
-    "Doctorado/ctDNA methylation overview.md",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
     "Otros/Adjuntos/TrainAlgo.png",

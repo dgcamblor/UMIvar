@@ -70,7 +70,7 @@ Consult more studies in [@huangCellFreeDNAMethylation2019]. #check
 
 **The pattern of cfDNA methylation is consistent with their originated cells or tissues [@huangCellFreeDNAMethylation2019, @lianidouDetectionRelevanceEpigenetic2021].** Therefore, it can be used to infer the underlying cell type via **deconvolution methods**, and could be used to infer cancer subtypes (with implications in prognosis and treatment). #insight
 
-### Detection of Minimal Residual Disease
+### Detection of Minimal Residual Disease (MRD)
 
 Hasta la fecha, la biopsia líquida centrada en la detección de [[Enfermedad mínima residual (EMR)]] se ha centrado en la detección de mutaciones somáticas. Sin embargo, el uso de la metilación aberrante del ctDNA como biomarcador para la detección de EMR es de enorme utilidad porque [@johnstonEpigeneticLiquidBiopsies2023a]:
 
@@ -79,11 +79,13 @@ Hasta la fecha, la biopsia líquida centrada en la detección de [[Enfermedad m�
 
 Epigenetic changes are more frequent and universal than genetic alterations in cancer, and ctDNA retains much of these changes, therefore making them suitable for MRD detection [@johnstonEpigeneticLiquidBiopsies2023a]. 
 
+A study in 51 metastatic cancer patients (INSPIRE trial) showed that cancer specific methylation (CSM, using cf-MeDIPseq) predicted OS and PFS comparably to mutation concentration (MC) in ctDNA, both tumor-naïve approaches. Adding in the short fragment fraction (SFF) determination to the CSM, OS and PFS could be predicted better than the gold-standard MC.
+
 Un estudio en [[cáncer de mama]] localizado identificó como la detección de cfDNA a través de los patrones de metilación del cfDNA con una sensibilidad del 80% y una especificidad del 97%.
 
 ### Respuesta a terapia y resistencia
 
-## Ensayos clínicos
+## Clinical trials
 
 Una buena revisión de los ensayos clínicos activos a abril de 2023 se encuentra en: [@johnstonEpigeneticLiquidBiopsies2023a].
 
