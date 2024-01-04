@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Aproximaciones a la secuenciación genómica",
+      "path": "Biología y medicina/Genética molecular/Aproximaciones a la secuenciación genómica.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "Step-by-step ML",
+      "path": "Estadística/Machine Learning/Step-by-step ML.md"
     },
     {
       "basename": "Ensayos clínicos",
@@ -187,18 +195,6 @@
     {
       "basename": "Profile_figure 2_2019-07-24.3_B1",
       "path": "Otros/Adjuntos/Profile_figure 2_2019-07-24.3_B1.webp"
-    },
-    {
-      "basename": "Using Your Nervous System to Enhance Your Immune System",
-      "path": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md"
-    },
-    {
-      "basename": "Free will",
-      "path": "Notas de vídeos/Free will.md"
-    },
-    {
-      "basename": "Gestión del tiempo",
-      "path": "Notas de cursos/Gestión del tiempo.md"
     }
   ],
   "omittedPaths": [],
