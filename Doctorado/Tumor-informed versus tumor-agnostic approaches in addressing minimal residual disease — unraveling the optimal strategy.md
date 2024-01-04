@@ -20,6 +20,8 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 2. Significance of MRD in Oncology 
 3. Evolving Landscape of Tumor-Informed and Tumor-Agnostic Approaches
 
+>Introduction to MRD, 
+
 **II. Tumor-Informed Strategies** 
 
 **III. Tumor-Agnostic Approaches --> EC en marcha a nivel mundial empleando ambos enfoques**
