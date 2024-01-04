@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dieta y hábitos/Índice glucémico.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dieta y hábitos/Índice glucémico.md"
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dieta y hábitos/Índice glucémico.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dieta y hábitos/Índice glucémico.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dieta y hábitos/Índice glucémico.md"
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md"
               }
             }
           }
@@ -205,8 +205,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "65f5aec54295afdf",
+  "active": "49c97c5289b16da1",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single",
+    "Bioinformática y programación/Nextflow.md",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md",
+    "Bioinformática y programación/Ómicas/Multiomics/Sin título.md",
+    "Bioinformática y programación/nf-core.md",
     "Dieta y hábitos/Maltodextrina.md",
     "Dieta y hábitos/Índice glucémico.md",
     "Dashboard.md",
@@ -231,11 +236,6 @@
     "Doctorado/ctDNA methylation overview.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
     "Biología y medicina/Oncología/Enfermedad mínima residual (EMR).md",
-    "Doctorado/MRD ctDNA clinical trials.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/PhD dashboard.md",
-    "Notas de cursos/Comunicación interpersonal.md",
-    "Doctorado/Methylation and drug resistance.md",
     "Nuevo Documento de texto.txt",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",

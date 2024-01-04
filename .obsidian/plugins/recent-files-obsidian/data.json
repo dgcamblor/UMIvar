@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Índice glucémico",
-      "path": "Dieta y hábitos/Índice glucémico.md"
+      "basename": "Sin título",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md"
+    },
+    {
+      "basename": "Nextflow",
+      "path": "Bioinformática y programación/Nextflow.md"
+    },
+    {
+      "basename": "nf-core",
+      "path": "Bioinformática y programación/nf-core.md"
     },
     {
       "basename": "Maltodextrina",
       "path": "Dieta y hábitos/Maltodextrina.md"
+    },
+    {
+      "basename": "Índice glucémico",
+      "path": "Dieta y hábitos/Índice glucémico.md"
     },
     {
       "basename": "Dashboard",
@@ -91,10 +103,6 @@
     {
       "basename": "PhD dashboard",
       "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "Nextflow",
-      "path": "Bioinformática y programación/Nextflow.md"
     },
     {
       "basename": "Comunicación interpersonal",
@@ -191,14 +199,6 @@
     {
       "basename": "kras-signaling-pathway",
       "path": "Otros/Adjuntos/kras-signaling-pathway.svg"
-    },
-    {
-      "basename": "guillermo-ferla-kEEl9csCutg-unsplash",
-      "path": "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg"
-    },
-    {
-      "basename": "TrainAlgo",
-      "path": "Otros/Adjuntos/TrainAlgo.png"
     }
   ],
   "omittedPaths": [],
