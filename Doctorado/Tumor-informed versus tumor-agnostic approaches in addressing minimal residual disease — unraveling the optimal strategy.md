@@ -50,6 +50,8 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 2. Potential Therapeutic Implications 
 3. Role in Personalized Treatment Paradigms
 
+Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-informed assays. However, the use of additional biomarkers could prove useful to enhance their capabilities. The use of ctDNA methylation could prove useful.
+
 **VII. Conclusion** 
 
 1. Recapitulation of Key Findings 
@@ -70,7 +72,7 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 - Tumor-informed assays demand more time than tumor-naïve approaches for personalization.
 - As the tumor-informed approach employs a tissue sample for variant analysis, this enables the filtering of CHIP mutations found in cfDNA (decreasing false positive rates).
 - Tumor-informed assays are reported to have greater sensitivity than tumor-naive panels, even when they use large gene panels [@kasiImpactCirculatingTumor2022]. A tumor-naïve panel may not cover variants found in some patients.
-- Tumor-naïve approaches assay 
+- Currently, the development of tumorinformed assays is challenging in the clinical setting given the high cost, the mandatory requirement for tumor and germline samples, and the time required for patient-specific assay development [@santonjaComparisonTumorinformedTumornaive2023].
 
 ## Studies comparing both approaches
 
@@ -86,6 +88,7 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 	- They perform a subgroup analysis for tumor-informed vs. tumor-agnostic studies, favoring the former over the later.
 
 - Comparison of tumor-informed and tumor-naïve sequencing assays for ctDNA detection in breast cancer [@santonjaComparisonTumorinformedTumornaive2023]. 
+	- Uses whole-genome rather than whole-exome for somatic mutation identification in the tumor-informed approach.
 
 - 
 
