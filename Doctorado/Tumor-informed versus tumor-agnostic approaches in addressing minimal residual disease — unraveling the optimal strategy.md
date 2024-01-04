@@ -20,7 +20,8 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 2. Significance of MRD in Oncology 
 3. Evolving Landscape of Tumor-Informed and Tumor-Agnostic Approaches
 
->Introduction to MRD, 
+>Introduction to MRD, ctDNA and its potential usage for MRD detection, overview of ctDNA detection strategies (?).
+>Detection of ctDNA can be particularly challenging in settings of low tumoral burden, such as early disease and minimal residual disease monitoring
 
 **II. Tumor-Informed Strategies** 
 
@@ -32,11 +33,16 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 2. Strengths and Weaknesses of Tumor-Agnostic Approaches 
 3. Integration of Complementary Strategies
 
+>Incluir estudios específicos que resalten 
+
 **V. Emerging Technologies and Innovations** 
 
 1. Next-Generation Sequencing. 
 2. Liquid Biopsy Technologies 
 3. Advanced Imaging Techniques
+
+> Contar Next-Generation Sequencing en el primer apartado.
+> Liquid Biopsy Technologies -> CTCs for MRD assessment?
 
 **VI. Future Directions --> WGS, Epigenomics, fragmentomics**
 
