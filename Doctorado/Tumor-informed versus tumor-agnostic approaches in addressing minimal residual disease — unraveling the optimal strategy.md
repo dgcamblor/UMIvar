@@ -55,9 +55,7 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 
 - ¿Qué debería ir en el apartado de Next-Generation Sequencing, **V. Emerging Technologies and Innovations**? Muchos assays como Signatera ya están incorporando la NGS...
 	- Quizás incorporar un apartado previo en **I. Introduction** sobre la descripción de las técnicas de detección de ctDNA actuales: similar a lo que se encuentra en [@zhuPlasmaAssayCellFree2023].
-
-
-
+	
 ## Main advantages and disadvantages
 
 - Tumor-informed assays demand more time than tumor-naïve approaches for personalization.
@@ -72,6 +70,8 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 - [ ] Add studies in epigenetic data
 %%
 
+### Genomics
+
 - Circulating Tumor DNA As A MRD Assessment And Recurrence Risk In Patients Undergoing Curative Intent Resection With Or Without Adjuvant Chemotherapy In Colorectal Cancer: A Meta-analysis [@chidharlaCirculatingTumorDNA2022].
 	- Meta-analysis of studies detecting ctDNA as a proxy for MRD in Stage I-IV CRC patients after curative-intent surgery.
 	- They perform a subgroup analysis for tumor-informed vs. tumor-agnostic studies, favoring the former over the later.
@@ -79,8 +79,6 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 - Comparison of tumor-informed and tumor-naïve sequencing assays for ctDNA detection in breast cancer [@santonjaComparisonTumorinformedTumornaive2023]. 
 
 - 
-
-### Genomics
 
 ### Epigenomics
 

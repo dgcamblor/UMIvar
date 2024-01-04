@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Odds ratio.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 251.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Odds ratio.md"
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Odds ratio.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Odds ratio.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Odds ratio.md"
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           }
@@ -194,8 +194,8 @@
   },
   "active": "c1a878ed96d75130",
   "lastOpenFiles": [
-    "Estadística/Risk ratio.md",
     "Estadística/Odds ratio.md",
+    "Estadística/Risk ratio.md",
     "Otros/Adjuntos/calculating-risk-ratios_1350.webp",
     "Otros/Adjuntos/calculating-odds-ratios_1350.webp",
     "Estadística/Matriz de confusión.md",
