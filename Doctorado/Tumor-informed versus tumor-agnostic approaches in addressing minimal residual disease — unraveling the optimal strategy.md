@@ -63,6 +63,7 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 
 - ¿Qué debería ir en el apartado de Next-Generation Sequencing, **V. Emerging Technologies and Innovations**? Muchos assays como Signatera ya están incorporando la NGS...
 	- Quizás incorporar un apartado previo en **I. Introduction** sobre la descripción de las técnicas de detección de ctDNA actuales: similar a lo que se encuentra en [@zhuPlasmaAssayCellFree2023].
+	- ¿Hace referencia a que NGS sea emergente? ¿O contar algo dentro de la NGS que sea emergente? Los UMIs ya llevan unos años...
 	
 ## Main advantages and disadvantages
 

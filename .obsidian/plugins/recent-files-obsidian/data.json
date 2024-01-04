@@ -5,6 +5,10 @@
       "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
       "basename": "Aproximaciones a la secuenciación genómica",
       "path": "Biología y medicina/Genética molecular/Aproximaciones a la secuenciación genómica.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Possible lines of research for the PhD project",
       "path": "Doctorado/Possible lines of research for the PhD project.md"
-    },
-    {
-      "basename": "Research caveats",
-      "path": "Doctorado/Research caveats.md"
     },
     {
       "basename": "PFS",
