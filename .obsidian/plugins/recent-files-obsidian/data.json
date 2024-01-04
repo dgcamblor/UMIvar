@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Sin título",
+      "path": "Biología y medicina/Sin título.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
       "basename": "Clinical relevance of ctDNA analysis",
       "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Cáncer colorrectal",
       "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
       "basename": "Odds ratio",
@@ -195,10 +199,6 @@
     {
       "basename": "Gestión del tiempo",
       "path": "Notas de cursos/Gestión del tiempo.md"
-    },
-    {
-      "basename": "A hitchhiker's guide to bioinformatics — tips",
-      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
     }
   ],
   "omittedPaths": [],
