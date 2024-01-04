@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Clinical relevance of ctDNA analysis",
+      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
+    },
+    {
+      "basename": "5-fluorouracilo",
+      "path": "Biología y medicina/Tratamientos/5-fluorouracilo.md"
+    },
+    {
+      "basename": "Cáncer colorrectal",
+      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
@@ -71,10 +83,6 @@
     {
       "basename": "Evaluación cruzada entre WGBS y array de metilación",
       "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
-      "basename": "Clinical relevance of ctDNA analysis",
-      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
     },
     {
       "basename": "Revistas de interés",
@@ -191,14 +199,6 @@
     {
       "basename": "A hitchhiker's guide to bioinformatics — tips",
       "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
-    },
-    {
-      "basename": "Show Your Work!",
-      "path": "Kindle and book highlights/Show Your Work!.md"
-    },
-    {
-      "basename": "Statement",
-      "path": "Guías y referencias/Statement.md"
     }
   ],
   "omittedPaths": [],

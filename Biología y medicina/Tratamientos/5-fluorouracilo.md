@@ -1,0 +1,2 @@
+>A meta-analysis published by Buyse et al. in 1988 comparing adjuvant 5-FU with surgery alone favored adjuvant chemotherapy with a mortality odds ratio of 0.83 (95% CI 0.70-0.98.
+>[@chidharlaCirculatingTumorDNA2022]
