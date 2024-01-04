@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 323.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md"
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md"
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md"
               }
             }
           }
@@ -205,11 +205,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "49c97c5289b16da1",
+  "active": "65f5aec54295afdf",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Transcriptómica/Single",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq resources.md",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single/Sin título",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq",
     "Bioinformática y programación/Nextflow.md",
-    "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md",
     "Bioinformática y programación/Ómicas/Multiomics/Sin título.md",
     "Bioinformática y programación/nf-core.md",
     "Dieta y hábitos/Maltodextrina.md",
@@ -235,7 +238,6 @@
     "Doctorado/ctDNA methylation in CRC.md",
     "Doctorado/ctDNA methylation overview.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
-    "Biología y medicina/Oncología/Enfermedad mínima residual (EMR).md",
     "Nuevo Documento de texto.txt",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
@@ -252,8 +254,6 @@
     "Estadística/Machine Learning/Decision-tree based algorithms",
     "Notas rápidas",
     "HEY CHECK THIS.md.partial",
-    "PhD/Sin título",
-    "Doctorado",
     "Sin título 1.canvas"
   ]
 }

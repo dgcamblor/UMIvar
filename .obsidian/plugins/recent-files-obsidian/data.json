@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Sin título",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Sin título.md"
+      "basename": "scRNA-Seq processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md"
+    },
+    {
+      "basename": "scRNA-seq analysis",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
+    },
+    {
+      "basename": "scRNA-seq resources",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq resources.md"
     },
     {
       "basename": "Nextflow",
@@ -191,14 +199,6 @@
     {
       "basename": "Daily note",
       "path": "Otros/Plantillas/Daily note.md"
-    },
-    {
-      "basename": "Literature note",
-      "path": "Otros/Plantillas/Literature note.md"
-    },
-    {
-      "basename": "kras-signaling-pathway",
-      "path": "Otros/Adjuntos/kras-signaling-pathway.svg"
     }
   ],
   "omittedPaths": [],
