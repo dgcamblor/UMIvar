@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Índice glucémico",
+      "path": "Dieta y hábitos/Índice glucémico.md"
+    },
+    {
+      "basename": "Maltodextrina",
+      "path": "Dieta y hábitos/Maltodextrina.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "TrainAlgo",
       "path": "Otros/Adjuntos/TrainAlgo.png"
-    },
-    {
-      "basename": "Profile_figure 2_2019-07-24.3_B1",
-      "path": "Otros/Adjuntos/Profile_figure 2_2019-07-24.3_B1.webp"
     }
   ],
   "omittedPaths": [],

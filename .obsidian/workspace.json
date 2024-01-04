@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ad713fbcba60f1",
+        "id": "2f13df48478961c0",
         "type": "tabs",
         "children": [
           {
-            "id": "c1a878ed96d75130",
+            "id": "320bb298c65d040d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Dieta y hábitos/Maltodextrina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f5aec54295afdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dieta y hábitos/Índice glucémico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+                "file": "Dieta y hábitos/Índice glucémico.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Dieta y hábitos/Índice glucémico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Dieta y hábitos/Índice glucémico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+                "file": "Dieta y hábitos/Índice glucémico.md"
               }
             }
           }
@@ -192,8 +205,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c1a878ed96d75130",
+  "active": "65f5aec54295afdf",
   "lastOpenFiles": [
+    "Dieta y hábitos/Maltodextrina.md",
+    "Dieta y hábitos/Índice glucémico.md",
+    "Dashboard.md",
     "Doctorado/Research caveats.md",
     "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Biología y medicina/Genética molecular/Aproximaciones a la secuenciación genómica.md",
@@ -217,12 +233,9 @@
     "Biología y medicina/Oncología/Enfermedad mínima residual (EMR).md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/MRD ctDNA assays.md",
-    "Dashboard.md",
     "Doctorado/PhD dashboard.md",
     "Notas de cursos/Comunicación interpersonal.md",
     "Doctorado/Methylation and drug resistance.md",
-    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
-    "Doctorado/Revistas de interés.md",
     "Nuevo Documento de texto.txt",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",

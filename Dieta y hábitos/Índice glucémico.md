@@ -1,0 +1,1 @@
+El índice glucémico es la medida de la rapidez con la que un alimento ingerido puede elevar el nivel de glucosa en sangre.
