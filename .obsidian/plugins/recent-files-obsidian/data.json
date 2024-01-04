@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Comunicación interpersonal",
+      "path": "Notas de cursos/Comunicación interpersonal.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "scRNA-Seq processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Índice glucémico",
       "path": "Dieta y hábitos/Índice glucémico.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
@@ -113,10 +117,6 @@
       "path": "Doctorado/PhD dashboard.md"
     },
     {
-      "basename": "Comunicación interpersonal",
-      "path": "Notas de cursos/Comunicación interpersonal.md"
-    },
-    {
       "basename": "Methylation and drug resistance",
       "path": "Doctorado/Methylation and drug resistance.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Soft-clipped",
       "path": "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md"
-    },
-    {
-      "basename": "Daily note",
-      "path": "Otros/Plantillas/Daily note.md"
     }
   ],
   "omittedPaths": [],
