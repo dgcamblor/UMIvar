@@ -11,4 +11,4 @@ One specific area of interest is its role in assessing minimal residual disease 
 
 In cancer types such as CRC, ctDNA can be used for [[Enfermedad mínima residual (EMR)|MRD]] assessment, being a strong prognostic marker of RFS [@chidharlaCirculatingTumorDNA2022]. ctDNA-based MRD detection can predict recurrence with lead times that precede standard imaging, with times up to 12 months [@kasiImpactCirculatingTumor2022].
 
-A good meta-analysis is [@chidharlaCirculatingTumorDNA2022].
+A good meta-analysis for CRC is [@chidharlaCirculatingTumorDNA2022], the largest up to the date of November, 2022.

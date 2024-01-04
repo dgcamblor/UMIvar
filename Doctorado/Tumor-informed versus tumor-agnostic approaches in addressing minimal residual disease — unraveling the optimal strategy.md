@@ -50,7 +50,7 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 ## Cuestiones
 
 - Parece que está claro que los assays tumor-informed presentan resultados más sensibles (porque están centrados en las mutaciones específicas del tumor concreto y no en regiones que pueden o no ser relevantes) y específicos (no se identifican falsos positivos en regiones no relevantes para el tumor). 
-	- Esta observación está fundamentalmente basada en estudios individuales.
+	- Esta observación está fundamentalmente basada en estudios individuales, pero hay pocos estudios que hayan hecho una comparación directa entre ellos [@santonjaComparisonTumorinformedTumornaive2023].
 	- Sería bueno recopilar todos los estudios posibles (IV. Comparative Analysis) que hayan comparado objetivamente estas dos estrategias (ver [[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy#Studies comparing both approaches]]).
 
 - ¿Qué debería ir en el apartado de Next-Generation Sequencing, **V. Emerging Technologies and Innovations**? Muchos assays como Signatera ya están incorporando la NGS...
