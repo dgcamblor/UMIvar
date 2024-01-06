@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Metilación del ADN.md",
+                "file": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bioinformática y programación/Ómicas/Genómica/Metilación del ADN.md",
+            "file": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bioinformática y programación/Ómicas/Genómica/Metilación del ADN.md",
+            "file": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bioinformática y programación/Ómicas/Genómica/Metilación del ADN.md"
+            "file": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md"
           }
         }
       },
@@ -149,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-book-search-plugin:Create new book note": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
