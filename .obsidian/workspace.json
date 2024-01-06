@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md",
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md"
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md",
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md",
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md"
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md"
               }
             }
           }
@@ -194,8 +194,11 @@
   },
   "active": "d3c954a11b404796",
   "lastOpenFiles": [
-    "Biología y medicina/Fisiología/Sistema nervioso/Giro cingulado.md",
     "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md",
+    "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md",
+    "Otros/Adjuntos/Pasted image 20240106030826.png",
+    "2024-01-06.md",
+    "Biología y medicina/Fisiología/Sistema nervioso/Giro cingulado.md",
     "Biología y medicina/Fisiología/Sistema nervioso/Sistema nervioso central.md",
     "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md",
     "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
@@ -220,8 +223,6 @@
     "Dieta y hábitos/Maltodextrina.md",
     "Dieta y hábitos/Índice glucémico.md",
     "Doctorado/Research caveats.md",
-    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Biología y medicina/Genética molecular/Aproximaciones a la secuenciación genómica.md",
     "Otros/Adjuntos/calculating-risk-ratios_1350.webp",
     "Otros/Adjuntos/calculating-odds-ratios_1350.webp",
     "Otros/Adjuntos/Pasted image 20240103200602.png",
@@ -236,7 +237,6 @@
     "Untitled",
     "Doctorado/PhD dashboard.md.partial",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md.partial",
-    "Otros/Adjuntos/Pasted image 20231101185038.png",
     "Estadística/Machine Learning/Natural Language Processing",
     "Estadística/Machine Learning/Decision-tree based algorithms",
     "Notas rápidas",

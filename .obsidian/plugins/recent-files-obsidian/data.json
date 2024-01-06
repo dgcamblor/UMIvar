@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Hipocampo",
+      "path": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md"
+    },
+    {
       "basename": "Sistema límbico",
       "path": "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md"
+    },
+    {
+      "basename": "2024-01-06",
+      "path": "2024-01-06.md"
     },
     {
       "basename": "Giro cingulado",
@@ -191,14 +199,6 @@
     {
       "basename": "DFS",
       "path": "Biología y medicina/Oncología/DFS.md"
-    },
-    {
-      "basename": "Análisis de supervivencia",
-      "path": "Estadística/Análisis de supervivencia.md"
-    },
-    {
-      "basename": "Detection of CRC-specific methylation profiles",
-      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     }
   ],
   "omittedPaths": [],
