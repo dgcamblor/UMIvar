@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "Amígdala",
+      "path": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md"
+    },
+    {
+      "basename": "Análisis de supervivencia - Curso de R INCLIVA",
+      "path": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
+    },
+    {
+      "basename": "I watch your videos but nothing changes",
+      "path": "Notas de vídeos/I watch your videos but nothing changes.md"
+    },
+    {
+      "basename": "Free will",
+      "path": "Notas de vídeos/Free will.md"
+    },
+    {
+      "basename": "ADHD and How Anyone Can Improve Their Focus",
+      "path": "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md"
+    },
+    {
+      "basename": "The Science of Making & Breaking Habits",
+      "path": "Notas de vídeos/The Science of Making & Breaking Habits.md"
     },
     {
       "basename": "Using Your Nervous System to Enhance Your Immune System",
       "path": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md"
+    },
+    {
+      "basename": "How to Focus to Change Your Brain",
+      "path": "Notas de vídeos/How to Focus to Change Your Brain.md"
+    },
+    {
+      "basename": "Gestión del tiempo",
+      "path": "Notas de cursos/Gestión del tiempo.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Comunicación interpersonal",
@@ -153,10 +185,6 @@
       "path": "Estadística/Análisis de supervivencia.md"
     },
     {
-      "basename": "Análisis de supervivencia - Curso de R INCLIVA",
-      "path": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
-    },
-    {
       "basename": "Detection of CRC-specific methylation profiles",
       "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Improving INCLIVA ctDNA WES pipeline",
       "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
-    },
-    {
-      "basename": "ctDNA methylation studies — methodologies and results",
-      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
-    },
-    {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
-      "path": "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md"
-    },
-    {
-      "basename": "Asociaciones y congresos de interés",
-      "path": "Doctorado/Asociaciones y congresos de interés.md"
-    },
-    {
-      "basename": "Biopsia líquida",
-      "path": "Biología y medicina/Oncología/Biopsia líquida.md"
-    },
-    {
-      "basename": "Commodity",
-      "path": "Economía/Commodity.md"
-    },
-    {
-      "basename": "Hard-clipped",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md"
-    },
-    {
-      "basename": "Soft-clipped",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md"
     }
   ],
   "omittedPaths": [],

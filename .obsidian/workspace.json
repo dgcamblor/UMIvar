@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68c8e113e6807b51",
+        "id": "bc888ceb29b5290d",
         "type": "tabs",
         "children": [
           {
-            "id": "c52c430a09b00955",
+            "id": "d3c954a11b404796",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md"
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md"
+                "file": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md"
               }
             }
           }
@@ -192,11 +192,19 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c52c430a09b00955",
+  "active": "d3c954a11b404796",
   "lastOpenFiles": [
+    "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
+    "Notas de vídeos/I watch your videos but nothing changes.md",
+    "Notas de vídeos/Free will.md",
+    "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md",
+    "Notas de vídeos/The Science of Making & Breaking Habits.md",
+    "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
+    "Notas de vídeos/How to Focus to Change Your Brain.md",
+    "Notas de cursos/Gestión del tiempo.md",
+    "Dashboard.md",
     "Notas de cursos/Sin título.md",
     "Notas de cursos/Comunicación interpersonal.md",
-    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq resources.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md",
@@ -214,17 +222,9 @@
     "Estadística/Machine Learning/Step-by-step ML.md",
     "Biología y medicina/Ensayos clínicos.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
-    "Biología y medicina/Tratamientos/5-fluorouracilo.md",
-    "Biología y medicina/Oncología/Cáncer colorrectal.md",
-    "Estadística/Odds ratio.md",
-    "Estadística/Risk ratio.md",
     "Otros/Adjuntos/calculating-risk-ratios_1350.webp",
     "Otros/Adjuntos/calculating-odds-ratios_1350.webp",
-    "Estadística/Matriz de confusión.md",
-    "Estadística/Tabla de contingencia.md",
-    "Estadística/Multicolinealidad.md",
     "Otros/Adjuntos/Pasted image 20240103200602.png",
-    "Doctorado/ctDNA methylation in CRC.md",
     "Nuevo Documento de texto.txt",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
