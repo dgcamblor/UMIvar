@@ -1,5 +1,5 @@
 
-El sistema nervioso central se divide en tres partes con características funcionales específicas:
+El sistema nervioso central está conformado por el [[encéfalo]] y la médula espinal. Funcionalmente, se divide en tres partes con características funcionales específicas:
 
 - El nivel medular
 - El nivel encefálico inferior (subcortical)
@@ -12,4 +12,4 @@ El sistema nervioso central se divide en tres partes con características funcio
 Es el responsable del control de las actividades incoscientes del organismo.
 ## Nivel encefálico superior
 
-La corteza cerebral es la responsable de la mayor parte de los procesos del pensamiento
+La [[corteza cerebral]] es la responsable de la mayor parte de los procesos del pensamiento.

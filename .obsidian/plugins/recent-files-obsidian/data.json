@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Sistema límbico",
+      "path": "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md"
+    },
+    {
+      "basename": "Giro cingulado",
+      "path": "Biología y medicina/Fisiología/Sistema nervioso/Giro cingulado.md"
+    },
+    {
       "basename": "Sistema nervioso central",
       "path": "Biología y medicina/Fisiología/Sistema nervioso/Sistema nervioso central.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Detection of CRC-specific methylation profiles",
       "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
-    },
-    {
-      "basename": "Linguist settings for git repos",
-      "path": "Bioinformática y programación/Linguist settings for git repos.md"
-    },
-    {
-      "basename": "Perl",
-      "path": "Bioinformática y programación/Perl.md"
     }
   ],
   "omittedPaths": [],
