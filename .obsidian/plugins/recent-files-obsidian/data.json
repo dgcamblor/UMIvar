@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sistema nervioso central",
+      "path": "Biología y medicina/Fisiología/Sistema nervioso/Sistema nervioso central.md"
+    },
+    {
       "basename": "Amígdala",
       "path": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Perl",
       "path": "Bioinformática y programación/Perl.md"
-    },
-    {
-      "basename": "Improving INCLIVA ctDNA WES pipeline",
-      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
     }
   ],
   "omittedPaths": [],
