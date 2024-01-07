@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aproximacion",
+                "query": "comunic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           }
@@ -194,8 +194,8 @@
   },
   "active": "d3c954a11b404796",
   "lastOpenFiles": [
-    "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md",
     "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md",
+    "Biología y medicina/Fisiología/Sistema nervioso/Sistema límbico.md",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "2024-01-06.md",
     "Biología y medicina/Fisiología/Sistema nervioso/Giro cingulado.md",

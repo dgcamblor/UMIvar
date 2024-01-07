@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Comunicación interpersonal",
+      "path": "Notas de cursos/Comunicación interpersonal.md"
+    },
+    {
       "basename": "Hipocampo",
       "path": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "Comunicación interpersonal",
-      "path": "Notas de cursos/Comunicación interpersonal.md"
     },
     {
       "basename": "scRNA-Seq processing pipeline",
