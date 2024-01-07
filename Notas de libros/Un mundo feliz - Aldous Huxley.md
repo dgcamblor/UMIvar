@@ -6,11 +6,18 @@ kindle-sync:
   highlightsCount: 7
 ---
 # Un mundo feliz
+
 ## Metadata
+
 * Author: [[Aldous Huxley]]
 
 ## Highlights
-Les utopies apparaissent comme bien plus réalisables qu'on le croyait autrefois. Et nous trouvons actuellement devant une question bien autrement angoissante: Comment éviter leur réalisation définitive…? Les utopies sont réalisables. La vie marche vers les utopies. Et peut-être un siècle nouveau commence-t-il, un siècle où les intellectuels et la classe cultivée reveront aux moyens d'eviter les utopies et de retourner à une société non utopique, moins «parfaite» et plus libre. — location: [14]() ^ref-27569
+
+>Les utopies apparaissent comme bien plus réalisables qu'on le croyait autrefois. Et nous trouvons actuellement devant une question bien autrement angoissante: Comment éviter leur réalisation définitive…? Les utopies sont réalisables. La vie marche vers les utopies. Et peut-être un siècle nouveau commence-t-il, un siècle où les intellectuels et la classe cultivée reveront aux moyens d'eviter les utopies et de retourner à une société non utopique, moins «parfaite» et plus libre. [Location: 14]
+>
+>Location: [14]() ^ref-27569
+
+---
 
 ---
 Un Estado totalitario realmente eficaz sería aquel en el cual los jefes políticos todopoderosos y su ejército de colaboradores pudieran gobernar una población de esclavos sobre los cuales no fuese necesario ejercer coerción alguna por cuanto amarían su servidumbre. — location: [113]() ^ref-23591

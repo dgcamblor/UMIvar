@@ -10,7 +10,7 @@ kindle-sync:
 * Author: [[David Allen]]
 
 ## Highlights
-whenever anyone loops back through the material, they invariably have a response like, “Oh my God, this is totally different information and perspective than I could recognize and absorb when I read it earlier.” — location: [272]() ^ref-1348
+>whenever anyone loops back through the material, they invariably have a response like, “Oh my God, this is totally different information and perspective than I could recognize and absorb when I read it earlier.” — location: [272]() ^ref-1348
 
 Relee las cosas! Puedes obtener nuevas perspectivas
 

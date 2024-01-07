@@ -8,9 +8,11 @@ kindle-sync:
 # 9 HÁBITOS JAPONESES
 ## Metadata
 * Author: [[Rodríguez, Andrea]]
-
+[[9 HÁBITOS JAPONESES^]]
 ## Highlights
-Esta práctica se relaciona con la filosofía japonesa wabi sabi, que se basa en ver la belleza en la imperfección. — location: [336]() ^ref-43750
+Esta práctica se relaciona con la filosofía japonesa wabi sabi, que se basa en ver la belleza en la imperfección. | 
+
+Location: [336]() ^ref-43750
 
 ---
 “Cuando algo ha sufrido y tiene una historia, se vuelve más hermoso” — location: [341]() ^ref-42093

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBook",
       "FasPaperPlane",
       "FasChalkboardUser",
       "FasEarthEurope",
-      "FasVideo",
-      "FasBookOpenReader"
+      "FasVideo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,6 @@
   "Bioinformática y programación/Informática": "FasComputerMouse",
   "Otros": "FasSquareArrowUpRight",
   "Bioinformática y programación/Linux cheatsheets": "FabUbuntu",
-  "Kindle and book highlights": "FabAmazon",
   "Doctorado": "FasGraduationCap",
   "Literature notes": "FasBookOpenReader",
   "Bioinformática y programación/Ómicas": "FasDna",
@@ -47,5 +46,6 @@
   "Estadística/Machine Learning/Generative AI": {
     "iconName": "FasRobot",
     "inheritanceIcon": "FasRobot"
-  }
+  },
+  "Notas de libros": "FasBook"
 }
