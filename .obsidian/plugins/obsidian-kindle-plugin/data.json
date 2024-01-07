@@ -1,10 +1,11 @@
 {
   "amazonRegion": "spain",
-  "highlightsFolder": "Kindle Highlights",
-  "lastSyncMode": "amazon",
+  "highlightsFolder": "Kindle and book highlights",
+  "lastSyncMode": "my-clippings",
   "isLoggedIn": false,
   "syncOnBoot": false,
   "downloadBookMetadata": true,
-  "lastSyncDate": "2023-07-09T17:37:12.142Z",
-  "fileNameTemplate": "{{title}}"
+  "lastSyncDate": "2024-01-07T16:34:02.261Z",
+  "fileNameTemplate": "{{title}} - {{author}}",
+  "fileTemplate": "# {{title}}\n## Metadata\n{% trim %}\n{% if authorUrl %}\n* Author: [{{author}}]({{authorUrl}})\n{% elif author %}\n* Author: [[{{author}}]]\n{% endif %}\n{% if asin %}* ASIN: {{asin}}{% endif %}\n{% if isbn %}* ISBN: {{isbn}}{% endif %}\n{% if pages %}* Pages: {{pages}}{% endif %}\n{% if publication %}* Publication: {{publication}}{% endif %}\n{% if publisher %}* Publisher: {{publisher}}{% endif %}\n{% if url %}* Reference: {{url}}{% endif %}\n{% if appLink %}* [Kindle link]({{appLink}}){% endif %}\n{% endtrim %}\n\n## Highlights\n{{highlights}}\n"
 }

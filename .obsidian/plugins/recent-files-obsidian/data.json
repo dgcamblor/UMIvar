@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Padre rico, padre pobre - Robert Toru Kiyosaki",
+      "path": "Kindle and book highlights/Padre rico, padre pobre - Robert Toru Kiyosaki.md"
+    },
+    {
+      "basename": "Misery - Stephen King",
+      "path": "Kindle and book highlights/Misery - Stephen King.md"
+    },
+    {
+      "basename": "El hombre ilustrado",
+      "path": "Kindle and book highlights/El hombre ilustrado.md"
+    },
+    {
+      "basename": "Rebelión en la granja - George Orwell",
+      "path": "Kindle and book highlights/Rebelión en la granja - George Orwell.md"
+    },
+    {
+      "basename": "Show Your Work!",
+      "path": "Kindle and book highlights/Show Your Work!.md"
+    },
+    {
+      "basename": "No soy mi ADN",
+      "path": "Kindle and book highlights/No soy mi ADN.md"
+    },
+    {
+      "basename": "El club de la lucha",
+      "path": "Kindle and book highlights/El club de la lucha.md"
+    },
+    {
+      "basename": "9 HÁBITOS JAPONESES",
+      "path": "Kindle and book highlights/9 HÁBITOS JAPONESES.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Comunicación interpersonal",
       "path": "Notas de cursos/Comunicación interpersonal.md"
     },
@@ -59,10 +95,6 @@
     {
       "basename": "Gestión del tiempo",
       "path": "Notas de cursos/Gestión del tiempo.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "scRNA-Seq processing pipeline",
@@ -167,38 +199,6 @@
     {
       "basename": "MRD ctDNA assays",
       "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
-    },
-    {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Possible lines of research for the PhD project",
-      "path": "Doctorado/Possible lines of research for the PhD project.md"
-    },
-    {
-      "basename": "PFS",
-      "path": "Biología y medicina/Oncología/PFS.md"
-    },
-    {
-      "basename": "DFS",
-      "path": "Biología y medicina/Oncología/DFS.md"
     }
   ],
   "omittedPaths": [],
