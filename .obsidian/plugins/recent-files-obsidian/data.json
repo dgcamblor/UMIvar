@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Getting Things Done",
+      "path": "Kindle and book highlights/Getting Things Done.md"
+    },
+    {
       "basename": "Padre rico, padre pobre - Robert Toru Kiyosaki",
       "path": "Kindle and book highlights/Padre rico, padre pobre - Robert Toru Kiyosaki.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
     }
   ],
   "omittedPaths": [],
