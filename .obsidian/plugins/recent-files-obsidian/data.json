@@ -1,56 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "9 HÁBITOS JAPONESES",
-      "path": "Notas de libros/9 HÁBITOS JAPONESES.md"
-    },
-    {
-      "basename": "Un mundo feliz - Aldous Huxley",
-      "path": "Notas de libros/Un mundo feliz - Aldous Huxley.md"
-    },
-    {
       "basename": "Show Your Work!",
       "path": "Notas de libros/Show Your Work!.md"
     },
     {
-      "basename": "La casa torcida - Agatha Christie",
-      "path": "Notas de libros/La casa torcida - Agatha Christie.md"
-    },
-    {
-      "basename": "Getting Things Done",
-      "path": "Notas de libros/Getting Things Done.md"
-    },
-    {
-      "basename": "Siddhartha",
-      "path": "Notas de libros/Siddhartha.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "Padre rico, padre pobre - Robert Toru Kiyosaki",
-      "path": "Notas de libros/Padre rico, padre pobre - Robert Toru Kiyosaki.md"
-    },
-    {
-      "basename": "Misery - Stephen King",
-      "path": "Notas de libros/Misery - Stephen King.md"
-    },
-    {
-      "basename": "El hombre ilustrado",
-      "path": "Notas de libros/El hombre ilustrado.md"
-    },
-    {
-      "basename": "Rebelión en la granja - George Orwell",
-      "path": "Notas de libros/Rebelión en la granja - George Orwell.md"
-    },
-    {
-      "basename": "No soy mi ADN",
-      "path": "Notas de libros/No soy mi ADN.md"
-    },
-    {
-      "basename": "El club de la lucha",
-      "path": "Notas de libros/El club de la lucha.md"
     },
     {
       "basename": "Comunicación interpersonal",
@@ -191,10 +147,6 @@
     {
       "basename": "Multicolinealidad",
       "path": "Estadística/Multicolinealidad.md"
-    },
-    {
-      "basename": "ctDNA methylation in CRC",
-      "path": "Doctorado/ctDNA methylation in CRC.md"
     }
   ],
   "omittedPaths": [],

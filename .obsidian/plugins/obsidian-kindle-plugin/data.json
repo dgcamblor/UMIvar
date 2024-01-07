@@ -1,12 +1,12 @@
 {
   "amazonRegion": "spain",
   "highlightsFolder": "Notas de libros",
-  "lastSyncMode": "my-clippings",
+  "lastSyncMode": "amazon",
   "isLoggedIn": false,
   "syncOnBoot": false,
   "downloadBookMetadata": true,
   "lastSyncDate": "2024-01-07T20:01:56.311Z",
   "fileNameTemplate": "{{title}} - {{author}}",
   "fileTemplate": "# {{title}}\n\n## Metadata\n\n{% trim %}\n{% if authorUrl %}\n* Author: [{{author}}]({{authorUrl}})\n{% elif author %}\n* Author: [[{{author}}]]\n{% endif %}\n{% if asin %}* ASIN: {{asin}}{% endif %}\n{% if isbn %}* ISBN: {{isbn}}{% endif %}\n{% if pages %}* Pages: {{pages}}{% endif %}\n{% if publication %}* Publication: {{publication}}{% endif %}\n{% if publisher %}* Publisher: {{publisher}}{% endif %}\n{% if url %}* Reference: {{url}}{% endif %}\n{% if appLink %}* [Kindle link]({{appLink}}){% endif %}\n{% endtrim %}\n\n## Highlights\n\n{{highlights}}\n",
-  "highlightTemplate": "{{ text }} — location: [{{ location }}]({{ appLink }})\n\n{% if note %}{{note}}{% endif %}\n\n---\n"
+  "highlightTemplate": ">{{ text }} — location: [{{ location }}]({{ appLink }})\n\n{% if note %}{{note}}{% endif %}\n\n---"
 }
