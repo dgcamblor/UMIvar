@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b4b901f9fa269b1",
+        "id": "f8bdd12de11a40a9",
         "type": "tabs",
         "children": [
           {
-            "id": "4da79eca6c5f6ea2",
+            "id": "086cecd1f942dafb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md",
+                "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 570.5
+    "width": 225.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md"
+                "file": "Notas de libros/Show Your Work! - Austin Kleon.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md",
+                "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md",
+                "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md"
+                "file": "Notas de libros/Show Your Work! - Austin Kleon.md"
               }
             }
           }
@@ -192,8 +192,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "4da79eca6c5f6ea2",
+  "active": "49c97c5289b16da1",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Notas de libros/Getting Things Done - David Allen.md",
     "Notas de libros/El club de la lucha - Chuck Palahniuk.md",
     "Notas de libros/El bosón de Higgs no te va a hacer la cama - Javier Santaolalla.md",
@@ -204,7 +205,7 @@
     "Notas de libros/Padre rico, padre pobre - Robert Toru Kiyosaki - Robert Toru Kiyosaki.md",
     "Notas de libros/No soy mi ADN - Manel Esteller.md",
     "Notas de libros/El arte de la guerra - Sun Tzu.md",
-    "Notas de libros/Show Your Work!.md",
+    "Notas de libros/Show Your Work! - Austin Kleon.md",
     "Notas de libros/Un mundo feliz - Aldous Huxley.md",
     "Notas de libros/Siddhartha - Hermann Hesse.md",
     "Notas de libros/La casa torcida - Agatha Christie - Agatha Christie.md",
@@ -219,7 +220,6 @@
     "Notas de libros/Asesinato en el Orient Express.md",
     "Notas de libros/9 HÁBITOS JAPONESES.md",
     "Notas de libros/().md",
-    "Notas de libros/La casa torcida - Agatha Christie.md",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single/Sin título",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq",
