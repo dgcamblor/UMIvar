@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Comunicación interpersonal",
+      "path": "Notas de cursos/Comunicación interpersonal.md"
+    },
+    {
+      "basename": "Análisis de supervivencia - Curso de R INCLIVA",
+      "path": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
+    },
+    {
+      "basename": "Gestión del tiempo",
+      "path": "Notas de cursos/Gestión del tiempo.md"
+    },
+    {
       "basename": "Show Your Work! - Austin Kleon",
       "path": "Notas de libros/Show Your Work! - Austin Kleon.md"
     },
@@ -41,10 +53,6 @@
       "path": "Notas de libros/El arte de la guerra - Sun Tzu.md"
     },
     {
-      "basename": "Comunicación interpersonal",
-      "path": "Notas de cursos/Comunicación interpersonal.md"
-    },
-    {
       "basename": "Hipocampo",
       "path": "Biología y medicina/Fisiología/Sistema nervioso/Hipocampo.md"
     },
@@ -69,10 +77,6 @@
       "path": "Biología y medicina/Fisiología/Sistema nervioso/Amígdala.md"
     },
     {
-      "basename": "Análisis de supervivencia - Curso de R INCLIVA",
-      "path": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
-    },
-    {
       "basename": "I watch your videos but nothing changes",
       "path": "Notas de vídeos/I watch your videos but nothing changes.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "How to Focus to Change Your Brain",
       "path": "Notas de vídeos/How to Focus to Change Your Brain.md"
-    },
-    {
-      "basename": "Gestión del tiempo",
-      "path": "Notas de cursos/Gestión del tiempo.md"
     },
     {
       "basename": "scRNA-Seq processing pipeline",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de libros/Show Your Work! - Austin Kleon.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de libros/Show Your Work! - Austin Kleon.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           }
@@ -192,8 +192,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "49c97c5289b16da1",
+  "active": "086cecd1f942dafb",
   "lastOpenFiles": [
+    "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
+    "Notas de cursos/Gestión del tiempo.md",
+    "Notas de libros/Show Your Work! - Austin Kleon.md",
     "Dashboard.md",
     "Notas de libros/Getting Things Done - David Allen.md",
     "Notas de libros/El club de la lucha - Chuck Palahniuk.md",
@@ -205,7 +208,6 @@
     "Notas de libros/Padre rico, padre pobre - Robert Toru Kiyosaki - Robert Toru Kiyosaki.md",
     "Notas de libros/No soy mi ADN - Manel Esteller.md",
     "Notas de libros/El arte de la guerra - Sun Tzu.md",
-    "Notas de libros/Show Your Work! - Austin Kleon.md",
     "Notas de libros/Un mundo feliz - Aldous Huxley.md",
     "Notas de libros/Siddhartha - Hermann Hesse.md",
     "Notas de libros/La casa torcida - Agatha Christie - Agatha Christie.md",
@@ -218,8 +220,6 @@
     "Notas de libros/Asesinato en el Orient Express - Agatha Christie.md",
     "Notas de libros/Diez negritos.md",
     "Notas de libros/Asesinato en el Orient Express.md",
-    "Notas de libros/9 HÁBITOS JAPONESES.md",
-    "Notas de libros/().md",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single/Sin título",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq",

@@ -21,3 +21,7 @@ El mensaje, desde que se origina en el emisor hasta que llega al receptor, pasa 
 Los testigos de incidentes suelen errar en la descripción de los hechos que recuerdan.
 
 Es importante tener claras las palabras clave que queremos transmitir, que la esencia del mensaje sea clara y concisa. Percibe el feedback del receptor para saber si ha entendido el mensaje.
+
+## Adáptate a cada comunicación
+
+Eres el responsable de que el receptor del mensaje lo reciba correctamente. El feedback en la otra persona es importante, ya que evidencia 
