@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Matriz de confusión",
+      "path": "Estadística/Matriz de confusión.md"
+    },
+    {
+      "basename": "Tabla de contingencia",
+      "path": "Estadística/Tabla de contingencia.md"
+    },
+    {
       "basename": "2024-01-09",
       "path": "Notas diarias/2024-01-09.md"
     },
@@ -175,14 +183,6 @@
     {
       "basename": "Risk ratio",
       "path": "Estadística/Risk ratio.md"
-    },
-    {
-      "basename": "Matriz de confusión",
-      "path": "Estadística/Matriz de confusión.md"
-    },
-    {
-      "basename": "Tabla de contingencia",
-      "path": "Estadística/Tabla de contingencia.md"
     },
     {
       "basename": "Multicolinealidad",
