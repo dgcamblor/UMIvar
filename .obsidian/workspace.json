@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas diarias/2024-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas diarias/2024-01-09.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas diarias/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas diarias/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas diarias/2024-01-09.md"
               }
             }
           }
@@ -192,8 +192,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9e98147d109daec1",
+  "active": "086cecd1f942dafb",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Notas diarias/2024-01-09.md",
     "Notas diarias/2024-01-08.md",
     "Notas de cursos/Comunicación interpersonal.md",
     "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
@@ -202,7 +204,6 @@
     "2024-01-08.md",
     "Notas diarias/10-10-2023.md",
     "Notas de libros/Show Your Work! - Austin Kleon.md",
-    "Dashboard.md",
     "Notas de libros/Getting Things Done - David Allen.md",
     "Notas de libros/El club de la lucha - Chuck Palahniuk.md",
     "Notas de libros/El bosón de Higgs no te va a hacer la cama - Javier Santaolalla.md",
@@ -219,7 +220,6 @@
     "Notas de libros/Misery - Stephen King.md",
     "Notas de libros/El hombre ilustrado - Ray Bradbury.md",
     "Notas de libros/Rebelión en la granja - George Orwell - George Orwell.md",
-    "Notas de libros/Breves respuestas a las grandes preguntas - Stephen Hawking.md",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single/Sin título",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq",
