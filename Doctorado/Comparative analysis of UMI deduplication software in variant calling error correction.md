@@ -47,3 +47,4 @@ from "Bioinformática/Genómica/Read deduplication"
 - [Systematic benchmark of state-of-the-art variant calling pipelines identifies major factors affecting accuracy of coding sequence variant discovery - BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08365-3)
 - [A review of somatic single nucleotide variant calling algorithms for next-generation sequencing data](https://www.sciencedirect.com/science/article/pii/S2001037017300946)
 - [Gencore: an efficient tool to generate consensus reads for error suppressing and duplicate removing of NGS data - BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3280-9?ref=https://githubhelp.com)
+- [biorxiv.org/content/10.1101/2022.06.03.494742v2.full.pdf](https://www.biorxiv.org/content/10.1101/2022.06.03.494742v2.full.pdf)

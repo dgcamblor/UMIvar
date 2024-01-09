@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
+      "path": "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC",
+      "path": "Doctorado/ctDNA methylation in CRC.md"
+    },
+    {
+      "basename": "ctDNA methylation studies — methodologies and results",
+      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "Improving INCLIVA ctDNA WES pipeline",
+      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
+    },
+    {
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Detection of CRC-specific methylation profiles",
+      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "Possible lines of research for the PhD project",
+      "path": "Doctorado/Possible lines of research for the PhD project.md"
+    },
+    {
       "basename": "Matriz de confusión",
       "path": "Estadística/Matriz de confusión.md"
     },
@@ -145,14 +189,6 @@
       "path": "Dieta y hábitos/Índice glucémico.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
-    },
-    {
-      "basename": "Research caveats",
-      "path": "Doctorado/Research caveats.md"
-    },
-    {
       "basename": "Aproximaciones a la secuenciación genómica",
       "path": "Biología y medicina/Genética molecular/Aproximaciones a la secuenciación genómica.md"
     },
@@ -163,30 +199,6 @@
     {
       "basename": "Ensayos clínicos",
       "path": "Biología y medicina/Ensayos clínicos.md"
-    },
-    {
-      "basename": "Clinical relevance of ctDNA analysis",
-      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
-    },
-    {
-      "basename": "5-fluorouracilo",
-      "path": "Biología y medicina/Tratamientos/5-fluorouracilo.md"
-    },
-    {
-      "basename": "Cáncer colorrectal",
-      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
-    },
-    {
-      "basename": "Odds ratio",
-      "path": "Estadística/Odds ratio.md"
-    },
-    {
-      "basename": "Risk ratio",
-      "path": "Estadística/Risk ratio.md"
-    },
-    {
-      "basename": "Multicolinealidad",
-      "path": "Estadística/Multicolinealidad.md"
     }
   ],
   "omittedPaths": [],
