@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de cursos/Comunicación interpersonal.md"
+                "file": "Dashboard.md"
               }
             }
           }
@@ -178,24 +178,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "open-vscode:VSCode": false,
-      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "086cecd1f942dafb",
+  "active": "9e98147d109daec1",
   "lastOpenFiles": [
+    "Notas diarias/2024-01-08.md",
+    "Notas de cursos/Comunicación interpersonal.md",
     "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
     "Notas de cursos/Gestión del tiempo.md",
+    "Notas diarias/2024-01-06.md",
+    "2024-01-08.md",
+    "Notas diarias/10-10-2023.md",
     "Notas de libros/Show Your Work! - Austin Kleon.md",
     "Dashboard.md",
     "Notas de libros/Getting Things Done - David Allen.md",
@@ -215,11 +220,6 @@
     "Notas de libros/El hombre ilustrado - Ray Bradbury.md",
     "Notas de libros/Rebelión en la granja - George Orwell - George Orwell.md",
     "Notas de libros/Breves respuestas a las grandes preguntas - Stephen Hawking.md",
-    "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md",
-    "Notas de libros/Diez negritos - Agatha Christie.md",
-    "Notas de libros/Asesinato en el Orient Express - Agatha Christie.md",
-    "Notas de libros/Diez negritos.md",
-    "Notas de libros/Asesinato en el Orient Express.md",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single/Sin título",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq",

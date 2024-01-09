@@ -24,4 +24,12 @@ Es importante tener claras las palabras clave que queremos transmitir, que la es
 
 ## Adáptate a cada comunicación
 
-Eres el responsable de que el receptor del mensaje lo reciba correctamente. El feedback en la otra persona es importante, ya que evidencia 
+Eres el responsable de que el receptor del mensaje lo reciba correctamente. El feedback en la otra persona es importante, ya que evidencia cómo ha entendido el mensaje enviado.
+
+## El enfoque rogeriano
+
+Hace referencia a un enfoque para el tratamiento terapéutico.
+
+- Empatía
+- Congruencia
+- No juicio

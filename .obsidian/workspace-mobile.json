@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f99061a9d4970f9",
+        "id": "589c5fba7faf0359",
         "type": "tabs",
         "children": [
           {
-            "id": "f4780dc56b5d54a8",
+            "id": "841b43c17507616d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -161,8 +161,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4780dc56b5d54a8",
+  "active": "841b43c17507616d",
   "lastOpenFiles": [
+    "Notas diarias/2024-01-08.md",
     "Dashboard.md",
     "Notas Diarias/2023-12-21.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
@@ -199,7 +200,6 @@
     "Guías y referencias/Removing chromosome headers after space.md",
     "Guías y referencias/VPN fix no internet for browsing.md",
     "Guías y referencias/Añadir color a citas, figuras y tablas en Word.md",
-    "Guías y referencias/Autocompletado de datos personales con Google.md",
     "Guías y referencias",
     "General",
     "Biología y medicina/Tratamientos",
