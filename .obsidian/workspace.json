@@ -167,9 +167,17 @@
                 "file": "Doctorado/MRD ctDNA clinical trials.md"
               }
             }
+          },
+          {
+            "id": "b165273c2213445a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,22 +202,24 @@
   },
   "active": "963cf95a2be3dbd0",
   "lastOpenFiles": [
-    "Doctorado/Revistas de interés.md",
-    "Doctorado/Possible lines of research for the PhD project.md",
-    "Doctorado/ctDNA methylation overview.md",
     "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/Possible controls for ctDNA methylation.md",
+    "Doctorado/Research caveats.md",
+    "Doctorado/Revistas de interés.md",
+    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Possible lines of research for the PhD project.md",
     "Dashboard.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
     "Biología y medicina/Genética molecular/Check, write.md",
     "Sin título",
-    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/Methylation and drug resistance.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Detection of CRC-specific methylation profiles.md",
-    "Doctorado/Research caveats.md",
     "Estadística/Matriz de confusión.md",
     "Estadística/Tabla de contingencia.md",
     "Notas diarias/2024-01-09.md",
@@ -219,8 +229,6 @@
     "Notas de cursos/Gestión del tiempo.md",
     "Notas diarias/2024-01-06.md",
     "2024-01-08.md",
-    "Notas diarias/10-10-2023.md",
-    "Notas de libros/Show Your Work! - Austin Kleon.md",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single/Sin título",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq",

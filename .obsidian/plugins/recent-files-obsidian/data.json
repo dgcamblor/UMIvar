@@ -5,20 +5,32 @@
       "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
       "basename": "Revistas de interés",
       "path": "Doctorado/Revistas de interés.md"
     },
     {
-      "basename": "Possible lines of research for the PhD project",
-      "path": "Doctorado/Possible lines of research for the PhD project.md"
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
     },
     {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
+      "basename": "Possible lines of research for the PhD project",
+      "path": "Doctorado/Possible lines of research for the PhD project.md"
     },
     {
       "basename": "Dashboard",
@@ -35,10 +47,6 @@
     {
       "basename": "Check, write",
       "path": "Biología y medicina/Genética molecular/Check, write.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
@@ -63,10 +71,6 @@
     {
       "basename": "Detection of CRC-specific methylation profiles",
       "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
-    },
-    {
-      "basename": "Research caveats",
-      "path": "Doctorado/Research caveats.md"
     },
     {
       "basename": "Matriz de confusión",
@@ -195,10 +199,6 @@
     {
       "basename": "Nextflow",
       "path": "Bioinformática y programación/Nextflow.md"
-    },
-    {
-      "basename": "nf-core",
-      "path": "Bioinformática y programación/nf-core.md"
     }
   ],
   "omittedPaths": [],

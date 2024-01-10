@@ -57,7 +57,23 @@ MSP is based on the use of two distinct methylation-specific primer sets for det
 ## Relevancia clínica en los procedimientos oncológicos
 ### Early diagnosis
 
-As mentioned before, aberrant methylation can be one of the earliest changes in tumors. Por esta razón, la mayoría de los estudios que se han realizado han tenido enfoque en la detección temprana del cáncer.
+Aberrant DNA methylation, in comparison with DNA mutations, has a series of specific advantages that make them more suitable for early cancer detection [@royDiagnosticPowerDNA2020]:
+
+- They happen early in tumorigenesis, and can be tissue- and cancer-specific. 
+
+- In regard to the tissue specificity, patterns of methylation in ctDNA can be used through deconvolution algorithms in order to determine the tissue of origin.
+
+- DNA methylation patterns are widespread across the tumor tissue and across same tumor types. Somatic mutations, instead, are often limited to subpopulations or specific clones of tumor cells.
+
+- DNA methylation is consistent across a large genomic region. This enables the use of multiple CpG sites for detection.
+
+Por esta razón, la mayoría de los estudios que se han realizado han tenido enfoque en la detección temprana del cáncer.
+
+A good review of current diagnostic tests can be found at: [@royDiagnosticPowerDNA2020]. Examples are:
+
+- Epi proColon (see [[ctDNA methylation in CRC — biomarkers]]).
+- Cologuard
+- (...)
 ### Tumor-specific methylation detection
 
 As I well know, the ctDNA concentration in cfDNA is generally low in cancer patients. The most promising approach to detect the specific ctDNA methylation patterns is to recover the tumor signal by using **deconvolution algorithms**. 
