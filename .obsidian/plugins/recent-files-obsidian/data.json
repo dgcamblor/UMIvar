@@ -5,12 +5,12 @@
       "path": "Doctorado/MRD ctDNA assays.md"
     },
     {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
       "basename": "Possible controls for ctDNA methylation",
@@ -21,20 +21,24 @@
       "path": "Doctorado/Research caveats.md"
     },
     {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
+      "basename": "Possible lines of research for the PhD project",
+      "path": "Doctorado/Possible lines of research for the PhD project.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
-    },
-    {
-      "basename": "Possible lines of research for the PhD project",
-      "path": "Doctorado/Possible lines of research for the PhD project.md"
     },
     {
       "basename": "ctDNA methylation in CRC — biomarkers",
@@ -195,10 +199,6 @@
     {
       "basename": "scRNA-seq resources",
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq resources.md"
-    },
-    {
-      "basename": "Nextflow",
-      "path": "Bioinformática y programación/Nextflow.md"
     }
   ],
   "omittedPaths": [],

@@ -27,7 +27,7 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 
 **III. Tumor-Agnostic Approaches --> EC en marcha a nivel mundial empleando ambos enfoques**
 
-**IV. Comparative Analysis ---> EC publicados (PEGASUS, GALAXY, DYNAMIC)**
+**IV. Comparative Analysis ---> EC publicados (PEGASUS / LUNAR1, GALAXY / SIGNATERA, DYNAMIC / SAFESEQ)**
 
 1. Strengths and Weaknesses of Tumor-Informed Approaches 
 2. Strengths and Weaknesses of Tumor-Agnostic Approaches 
@@ -61,11 +61,13 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 
 - Parece que está claro que los assays tumor-informed presentan resultados más sensibles (porque están centrados en las mutaciones específicas del tumor concreto y no en regiones que pueden o no ser relevantes) y específicos (no se identifican falsos positivos en regiones no relevantes para el tumor). 
 	- Esta observación está fundamentalmente basada en estudios individuales, pero hay pocos estudios que hayan hecho una comparación directa entre ellos [@santonjaComparisonTumorinformedTumornaive2023].
-	- Sería bueno recopilar todos los estudios posibles (IV. Comparative Analysis) que hayan comparado objetivamente estas dos estrategias (ver [[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy#Studies comparing both approaches]]).
+	- Sería bueno recopilar todos los estudios posibles (IV. Comparative Analysis) que hayan comparado objetivamente estas dos estrategias (ver [[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy#Studies comparing both approaches]]). P. ej.: el metaanálisis que encontré.
 
 - ¿Qué debería ir en el apartado de Next-Generation Sequencing, **V. Emerging Technologies and Innovations**? Muchos assays como Signatera ya están incorporando la NGS...
 	- Quizás incorporar un apartado previo en **I. Introduction** sobre la descripción de las técnicas de detección de ctDNA actuales: similar a lo que se encuentra en [@zhuPlasmaAssayCellFree2023].
-	- ¿Hace referencia a que NGS sea emergente? ¿O contar algo dentro de la NGS que sea emergente? Los UMIs ya llevan unos años...
+		- Métodos basados en PCR
+		- Métodos basados en NGS
+	- ¿Hace referencia a que NGS sea emergente? ¿O contar algo dentro de la NGS que sea emergente? Los UMIs ya llevan unos años... El propio DYNAMIC usa SafeSEQ
 	
 ## Main advantages and disadvantages
 

@@ -4,13 +4,13 @@ tags:
   - review
 ---
 
-### Tumor-naïve
+## Tumor-naïve
 
 - LUNAR-1 (Guardant Health) ^bef528
 - LUNAR-2 (Guardant Health)
 - Guardant360 (Guardant Health). 74-gene ctDNA profiling assay. ^3db513
 
-### Tumor-informed
+## Tumor-informed
 
 - Signatera (Natera). First, both primary tumor tissue sample and matched normal tissue are required for whole exome sequencing. This information is used to design a Signatera test to detect somatic variants in ctDNA with optimization for sensitivity. ^f5e412
 

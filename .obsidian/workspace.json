@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a40ff1bb8b1feb41",
+        "id": "564fa57ff58513c7",
         "type": "tabs",
         "children": [
           {
-            "id": "841182c8eba9019b",
+            "id": "8a4514ded5c232b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,19 +199,20 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "841182c8eba9019b",
+  "active": "8a4514ded5c232b8",
   "lastOpenFiles": [
-    "Doctorado/MRD ctDNA clinical trials.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Dashboard.md",
-    "Consejos para un póster científico.md",
-    "Consejos para un póster científico.md~RF6e542.TMP",
-    "Doctorado/Possible controls for ctDNA methylation.md",
-    "Doctorado/Research caveats.md",
     "Doctorado/Revistas de interés.md",
     "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/Possible controls for ctDNA methylation.md",
+    "Doctorado/Research caveats.md",
     "Doctorado/Possible lines of research for the PhD project.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/PhD dashboard.md",
+    "Dashboard.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Consejos para un póster científico.md",
+    "Consejos para un póster científico.md~RF6e542.TMP",
+    "Doctorado/ctDNA methylation overview.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
     "Biología y medicina/Genética molecular/Check, write.md",
     "Sin título",
@@ -229,7 +229,6 @@
     "Notas de cursos/Comunicación interpersonal.md",
     "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
     "Notas de cursos/Gestión del tiempo.md",
-    "Notas diarias/2024-01-06.md",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single/Sin título",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq",
