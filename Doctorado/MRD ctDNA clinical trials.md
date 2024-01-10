@@ -38,6 +38,8 @@ tags:
 	- **Commercial assay:** [[MRD ctDNA assays#^c59277|SafeSEQ]] (informed panel). Prior detection in tumor tissue (primary tumor) of somatic mutations in 15 genes (SMAD4, TP53, AKT1, APC, BRAF, CTNNB1, ERBB3, FBXW7, HRAS, KRAS, NRAS, PIK3CA, PPP2R1A, RNF43, POLE). Detection of found mutations in ctDNA using Safe-Seq [nejm.org/doi/suppl/10.1056/NEJMoa2200075/suppl\_file/nejmoa2200075\_appendix.pdf](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2200075/suppl_file/nejmoa2200075_appendix.pdf).
 	- A ctDNA-guided approach to the treatment of stage II colon cancer reduced adjuvant chemotherapy use without compromising recurrence-free survival [@tieCirculatingTumorDNA2022].
 
+[GRAIL Announces Significant Progress with Multi-Cancer Early Detection Test Including FDA Breakthrough Device Designation - GRAIL](https://grail.com/press-releases/grail-announces-significant-progress-with-multi-cancer-early-detection-test-including-fda-breakthrough-device-designation/) #write 
+
 ## References
 
 - [Studies confirm promise of ctDNA for MRD assessment in crc](https://dailyreporter.esmo.org/esmo-congress-2023/highlights-from-esmo-2023/studies-confirm-the-promise-of-ctdna-for-mrd-assessment-in-colorectal-cancer-but-limitations-remain)

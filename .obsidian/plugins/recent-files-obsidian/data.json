@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "Possible lines of research for the PhD project",
+      "path": "Doctorado/Possible lines of research for the PhD project.md"
+    },
+    {
+      "basename": "ctDNA methylation overview",
+      "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "ctDNA methylation in CRC — biomarkers",
       "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
     },
@@ -13,20 +37,8 @@
       "path": "Biología y medicina/Genética molecular/Check, write.md"
     },
     {
-      "basename": "ctDNA methylation overview",
-      "path": "Doctorado/ctDNA methylation overview.md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
-    },
-    {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
@@ -55,10 +67,6 @@
     {
       "basename": "Research caveats",
       "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "Possible lines of research for the PhD project",
-      "path": "Doctorado/Possible lines of research for the PhD project.md"
     },
     {
       "basename": "Matriz de confusión",
@@ -191,14 +199,6 @@
     {
       "basename": "nf-core",
       "path": "Bioinformática y programación/nf-core.md"
-    },
-    {
-      "basename": "Maltodextrina",
-      "path": "Dieta y hábitos/Maltodextrina.md"
-    },
-    {
-      "basename": "Índice glucémico",
-      "path": "Dieta y hábitos/Índice glucémico.md"
     }
   ],
   "omittedPaths": [],
