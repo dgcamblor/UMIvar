@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
+    },
+    {
+      "basename": "cfDNA y ctDNA",
+      "path": "Biología y medicina/Genética molecular/cfDNA y ctDNA.md"
+    },
+    {
+      "basename": "Check, write",
+      "path": "Biología y medicina/Genética molecular/Check, write.md"
+    },
+    {
+      "basename": "ctDNA methylation overview",
+      "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
       "path": "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md"
-    },
-    {
-      "basename": "ctDNA methylation in CRC",
-      "path": "Doctorado/ctDNA methylation in CRC.md"
     },
     {
       "basename": "ctDNA methylation studies — methodologies and results",
@@ -35,14 +55,6 @@
     {
       "basename": "Research caveats",
       "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
-    },
-    {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
     },
     {
       "basename": "Possible lines of research for the PhD project",
@@ -187,18 +199,6 @@
     {
       "basename": "Índice glucémico",
       "path": "Dieta y hábitos/Índice glucémico.md"
-    },
-    {
-      "basename": "Aproximaciones a la secuenciación genómica",
-      "path": "Biología y medicina/Genética molecular/Aproximaciones a la secuenciación genómica.md"
-    },
-    {
-      "basename": "Step-by-step ML",
-      "path": "Estadística/Machine Learning/Step-by-step ML.md"
-    },
-    {
-      "basename": "Ensayos clínicos",
-      "path": "Biología y medicina/Ensayos clínicos.md"
     }
   ],
   "omittedPaths": [],

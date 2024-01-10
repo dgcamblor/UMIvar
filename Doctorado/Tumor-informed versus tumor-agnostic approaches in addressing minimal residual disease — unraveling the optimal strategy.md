@@ -33,7 +33,7 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 2. Strengths and Weaknesses of Tumor-Agnostic Approaches 
 3. Integration of Complementary Strategies
 
->Incluir estudios específicos que resalten 
+>Incluir estudios específicos que resalten las diferencias entre una aproximación y otra.
 
 **V. Emerging Technologies and Innovations** 
 

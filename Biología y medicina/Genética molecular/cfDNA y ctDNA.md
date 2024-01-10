@@ -3,6 +3,8 @@ aliases:
   - cfDNA
   - ctDNA
 ---
+El ctDNA es liberado por células apoptóticas o necróticas, y posiblemente también a través de secreción activa ??? #check 
+
 En individuos sanos, el cfDNA está presente en el plasma en la forma de fragmentos de dsDNA. El 70 - 90% deriva de leucocitos, y el restante se origina en otros órganos, como el hígado.
 
 Los patrones de fragmentación del ADN reflejan que la mayoría del cfDNA proviene del ADN que se encuentra en íntima asociación con los nucleosomas y que, por tanto, ha resistido la acción de las nucleasas.

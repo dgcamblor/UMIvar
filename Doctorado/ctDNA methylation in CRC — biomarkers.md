@@ -19,6 +19,8 @@ Una buena revisión de todos los biomarcadores de metilación con aplicación cl
 	- Sensibilidad: 89.7%
 	- Especificidad: 86.8%
 
+- SEPT9, 
+SDC2
 ## Pronóstico
 
 - *RASSF1A*. La metilación de *RASSF1A* ha sido correlacionada con el pronóstico de pacientes de CCR en estadios II y II recibiendo quimioterapia basada en oxaliplatino. [Medical Science Monitor | Promoter Methylation of RASSF1A indicates Prognosis for Patients with Stage II and III Colorectal Cancer Treated with Oxaliplatin-Based Chemotherapy - Article abstract #903927](https://doi.org/10.12659%2FMSM.903927).

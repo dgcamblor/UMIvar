@@ -19,7 +19,7 @@ NOTA: Si algún estudio pone algo de correlación entre array y WGBS, ponerlo.
 
 ## Marcadores encontrados en CRC
 
-![[ctDNA methylation in CRC]]
+![[ctDNA methylation in CRC — biomarkers]]
 ## Principales metodologías y estudios
 
 [[Revisión de estudios de metilación en ctDNA]]
