@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
       "path": "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "2024-01-09",
       "path": "Notas diarias/2024-01-09.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Comunicación interpersonal",
