@@ -14,7 +14,7 @@ tags:
 
 - Signatera (Natera). First, both primary tumor tissue sample and matched normal tissue are required for whole exome sequencing. This information is used to design a Signatera test to detect somatic variants in ctDNA with optimization for sensitivity. ^f5e412
 
-- [RaDaR (Inivata)](https://finditwithradar.com/providers/colorectal-cancer-crc).
+- [RaDaR (Inivata)](https://finditwithradar.com/providers/colorectal-cancer-crc). Exome sequencing informs the design of a secondary somatic mutation PCR panel and tracks up to 48 mutations in blood using NGS. 
 
 ## Unassigned
 

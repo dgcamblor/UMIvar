@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md",
+                "file": "Doctorado/MRD ctDNA assays.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md"
+                "file": "Doctorado/MRD ctDNA assays.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md",
+                "file": "Doctorado/MRD ctDNA assays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md",
+                "file": "Doctorado/MRD ctDNA assays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials.md"
+                "file": "Doctorado/MRD ctDNA assays.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "841182c8eba9019b",
   "lastOpenFiles": [
+    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/MRD ctDNA assays.md",
     "Dashboard.md",
     "Consejos para un póster científico.md",
@@ -211,7 +212,6 @@
     "Doctorado/Revistas de interés.md",
     "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Doctorado/ctDNA methylation overview.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Possible lines of research for the PhD project.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
     "Biología y medicina/Genética molecular/Check, write.md",
