@@ -68,6 +68,9 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 		- Métodos basados en PCR
 		- Métodos basados en NGS
 	- ¿Hace referencia a que NGS sea emergente? ¿O contar algo dentro de la NGS que sea emergente? Los UMIs ya llevan unos años... El propio DYNAMIC usa SafeSEQ
+
+- En epigenética se puede hablar un poco de las particularidades y hasta ensayos clínicos que siguen una u otra aproximación.
+	- Tengo una referencia en cáncer de pulmón de un estudio que comparó directamente las dos estrategias usando puramente marcadores epigenéticos
 	
 ## Main advantages and disadvantages
 
