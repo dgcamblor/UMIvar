@@ -38,7 +38,8 @@ Current ctDNA methylation trials are found at: [@johnstonEpigeneticLiquidBiopsie
 	
 - [DYNAMIC trial](https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12615000381583).
 	- **Commercial assay:** [[MRD ctDNA assays#^c59277|SafeSEQ]] (informed panel). Prior detection in tumor tissue (primary tumor) of somatic mutations in 15 genes (SMAD4, TP53, AKT1, APC, BRAF, CTNNB1, ERBB3, FBXW7, HRAS, KRAS, NRAS, PIK3CA, PPP2R1A, RNF43, POLE). Detection of found mutations in ctDNA using Safe-Seq [nejm.org/doi/suppl/10.1056/NEJMoa2200075/suppl\_file/nejmoa2200075\_appendix.pdf](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2200075/suppl_file/nejmoa2200075_appendix.pdf).
-	- A ctDNA-guided approach to the treatment of stage II colon cancer reduced adjuvant chemotherapy use without compromising recurrence-free survival [@tieCirculatingTumorDNA2022].
+	- Tie J et al., 2016. The detection of ctDNA after surgery was associated with a markedly reduced RFS compared to patients with ctDNA negative status.
+	- DYNAMIC II (Tie J et al., 2022). They concluded that, following a ctDNA-guided approach to the treatment of stage II colon cancer was  adjuvant chemotherapy use without compromising recurrence-free survival [@tieCirculatingTumorDNA2022].
 
 [GRAIL Announces Significant Progress with Multi-Cancer Early Detection Test Including FDA Breakthrough Device Designation - GRAIL](https://grail.com/press-releases/grail-announces-significant-progress-with-multi-cancer-early-detection-test-including-fda-breakthrough-device-designation/) #write 
 

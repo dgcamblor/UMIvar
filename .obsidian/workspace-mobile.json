@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "589c5fba7faf0359",
+        "id": "27f77708601965b6",
         "type": "tabs",
         "children": [
           {
-            "id": "841b43c17507616d",
+            "id": "7e219a819f4a8324",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "938cbfdcd3437f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consejos para un póster científico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "Consejos para un póster científico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "Consejos para un póster científico.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "Consejos para un póster científico.md"
           }
         }
       },
@@ -161,10 +174,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "841b43c17507616d",
+  "active": "938cbfdcd3437f56",
   "lastOpenFiles": [
-    "Notas diarias/2024-01-08.md",
     "Dashboard.md",
+    "Consejos para un póster científico.md",
+    "Notas diarias/2024-01-09.md",
+    "Notas diarias/2024-01-08.md",
     "Notas Diarias/2023-12-21.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Bioinformática y programación/Ómicas/Genómica/cutadapt.md",
@@ -198,8 +213,6 @@
     "Guías y referencias/Spotify parcheado.md",
     "Guías y referencias/Setting up R with Jupyter (VSCode).md",
     "Guías y referencias/Removing chromosome headers after space.md",
-    "Guías y referencias/VPN fix no internet for browsing.md",
-    "Guías y referencias/Añadir color a citas, figuras y tablas en Word.md",
     "Guías y referencias",
     "General",
     "Biología y medicina/Tratamientos",

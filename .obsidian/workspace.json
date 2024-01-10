@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb7bdf53d57d409e",
+        "id": "a40ff1bb8b1feb41",
         "type": "tabs",
         "children": [
           {
-            "id": "963cf95a2be3dbd0",
+            "id": "841182c8eba9019b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,9 +200,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "963cf95a2be3dbd0",
+  "active": "841182c8eba9019b",
   "lastOpenFiles": [
     "Doctorado/MRD ctDNA assays.md",
+    "Dashboard.md",
+    "Consejos para un póster científico.md",
+    "Consejos para un póster científico.md~RF6e542.TMP",
     "Doctorado/Possible controls for ctDNA methylation.md",
     "Doctorado/Research caveats.md",
     "Doctorado/Revistas de interés.md",
@@ -210,7 +213,6 @@
     "Doctorado/ctDNA methylation overview.md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Possible lines of research for the PhD project.md",
-    "Dashboard.md",
     "Biología y medicina/Genética molecular/cfDNA y ctDNA.md",
     "Biología y medicina/Genética molecular/Check, write.md",
     "Sin título",
@@ -228,7 +230,6 @@
     "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
     "Notas de cursos/Gestión del tiempo.md",
     "Notas diarias/2024-01-06.md",
-    "2024-01-08.md",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single/Sin título",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq",
@@ -248,7 +249,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md.partial",
     "Estadística/Machine Learning/Natural Language Processing",
     "Estadística/Machine Learning/Decision-tree based algorithms",
-    "Notas rápidas",
     "Sin título 1.canvas"
   ]
 }

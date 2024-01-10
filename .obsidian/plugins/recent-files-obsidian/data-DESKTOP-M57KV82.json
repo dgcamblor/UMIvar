@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
       "basename": "MRD ctDNA assays",
       "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Possible controls for ctDNA methylation",
