@@ -4,9 +4,10 @@
 
 ## SEQC2 Liquid Biopsy
 
-[Ultra-deep sequencing data from a liquid biopsy proficiency study demonstrating analytic validity | Scientific Data](https://www.nature.com/articles/s41597-022-01276-8)
+The papers can be found at:
 
-[Evaluating the analytical validity of circulating tumor DNA sequencing assays for precision oncology | Nature Biotechnology](https://www.nature.com/articles/s41587-021-00857-z#code-availability)
+- [Ultra-deep sequencing data from a liquid biopsy proficiency study demonstrating analytic validity | Scientific Data](https://www.nature.com/articles/s41597-022-01276-8)
+- [Evaluating the analytical validity of circulating tumor DNA sequencing assays for precision oncology | Nature Biotechnology](https://www.nature.com/articles/s41587-021-00857-z#code-availability)
 
 360 datasets generated from two reference samples. Samples were:
 
@@ -16,8 +17,12 @@
 - **Sample E:** mix of A and B (1:24). Also termed "LBx-low". Median VAF: 0.2%. Majority above 0.1%
 - **Sample F:** mix of A and B (1:124). 
 
+### Burning Rock Project data
+
 > BRP (Burning Rock Dx) assay provided the highest accuracy in the project, and we therefore chose the BRP datasets for our benchmark. 
 > [Processing UMI Datasets at High Accuracy and Efficiency with the Sentieon ctDNA Analysis Pipeline | bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.03.494742v1)
+
+Sequencing data can be found at:
 
 - LBx-high (Sample Df): [PRJNA677999 BURNING ROCK SampleDf - SRA - NCBI](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA677999+BURNING+ROCK+SampleDf)
 - LBx-low (Sample Ef): 

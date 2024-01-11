@@ -8,16 +8,20 @@ NOTE: Search for variant caller benchmarking papers. See what pipelines do they 
 - Comparing the effect of a series of open source UMI deduplication softwares in the endstream variant calling process:
 	- [[UMI-tools]]
 	- [[fgbio]]
-	- [[AmpUMI]] (DISCARDED)
 	- [[UMICollapse]]
 	- [[UMIc]]
 	- [[gencore]]
-- Comparing the effect against a reference of deduplication: [[GATK]] MarkDuplicates ([MarkDuplicates (Picard) – GATK](https://gatk.broadinstitute.org/hc/en-us/articles/360037052812-MarkDuplicates-Picard-)). **For that purpose, the UMI sequence at the start of each read must be removed.** 
-- The comparison will be both in terms of endstream **variant calling efficiency** (decrease in FP, increase in TP) and **computing times**.
-- The comparison will be done in two datasets: UMIvar and SEQC2.
-- (?) Study the patrons of the noise that is reduced with each software.
+- Tools such as zUMIs and umis (UMICollapse paper) are more RNA-seq oriented and, thus, were discarded. [[AmpUMI]] was considered but finally discarded due to it only working in settings where R1 and R2 overlap.
 
-Other tools such as zUMIs and umis (UMICollapse paper) are more RNA-seq oriented. 
+- Comparing the effect against a reference of deduplication: [[GATK]] MarkDuplicates ([MarkDuplicates (Picard) – GATK](https://gatk.broadinstitute.org/hc/en-us/articles/360037052812-MarkDuplicates-Picard-)). 
+
+- The comparison will be in terms of endstream **variant calling efficiency** (decrease in FP, increase in TP).
+
+- The comparison will be done in two datasets:
+	- SEQC2
+	- UMIvar
+
+
 
 ## Deduplication software
 
@@ -29,17 +33,17 @@ from "Bioinformática/Genómica/Read deduplication"
 
 ## Datasets
 
-### UMIvar
-
 ### SEQC2 Liquid Biopsy
+
+[Ultra-deep sequencing data from a liquid biopsy proficiency study demonstrating analytic validity | Scientific Data](https://www.nature.com/articles/s41597-022-01276-8). BRP dataset was chosen because it was sequenced with UMI tags, and it proved to have the best results).
+
+#### General characteristics
 ![[Genomic benchmarking resources#SEQC2 Liquid Biopsy]]
 
-[Ultra-deep sequencing data from a liquid biopsy proficiency study demonstrating analytic validity | Scientific Data](https://www.nature.com/articles/s41597-022-01276-8). BRP dataset (sequenced with UMI tags, best results).
+#### Specific data
 
-- Known positives and study results: [SEQC2 Onco-panel Sequencing Working Group - Liquid Biopsy Study: Variant calling results](https://figshare.com/collections/SEQC2_Onco-panel_Sequencing_Working_Group_-_Liquid_Biopsy_Study_Variant_calling_results/5836214/1)
-- Target regions: [LBx panels' target regions](https://figshare.com/articles/dataset/LBx_panels_target_regions/19092086)
-- NCBI SRA: [PRJNA677999](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA677999)
 
+### UMIvar
 ## Benchmarking references
 
 - [Evaluating assembly and variant calling software for strain-resolved analysis of large DNA viruses](https://academic.oup.com/bib/article/22/3/bbaa123/5868070)

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Genomic benchmarking resources",
+      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
+      "path": "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md"
+    },
+    {
+      "basename": "AmpUMI",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/AmpUMI.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "IDAT",
       "path": "Bioinformática y programación/Ómicas/IDAT.md"
-    },
-    {
-      "basename": "Genomic benchmarking resources",
-      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
     },
     {
       "basename": "MethylDackel",
@@ -191,14 +199,6 @@
     {
       "basename": "DNA methylation beta values",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/DNA methylation beta values.md"
-    },
-    {
-      "basename": "scRNA-seq resources",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq resources.md"
-    },
-    {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
     }
   ],
   "omittedPaths": [],
