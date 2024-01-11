@@ -12,27 +12,6 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 >
 >Clinical studies have demonstrated increased sensitivity of tumor-informed MRD testing, especially for heterogeneous tumors.
 
-## Outline final
-
-I. Introduction
-	1. Significance of MRD in Oncology
-	2. ctDNA in MRD and detection methods (relación del ctDNA con el rastreo de la EMR, breve repaso de los métodos basados en PCR/NGS)
-	3. Evolving Landscape of Tumor-Informed and Tumor-Agnostic Approaches (introducción a las dos metodologías).
-
-II. Tumor-Informed Strategies. Ensayos clínicos: PEGASUS (LUNAR-1), ASCOLT, PRECISION (Guardant Reveal).
-
-III. Tumor-Naïve Strategies. Ensayos clínicos: GALAXY (Signatera), DYNAMIC.
-
-IV. Comparative Analysis (tabla de los ensayos clínicos, mención al metaanálisis de CCR)
-
-V. Emerging Technologies and Future Directions
-
-1. Liquid Biopsy Technologies
-2. Epigenomics (introducción metilación y EMR, mencionar los trials de test puramente epigenéticos)
-3. Advanced Imaging Techniques
-
-VI. Conclusions
-
 ## Outline
 
 **I. Introduction** 
