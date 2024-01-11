@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "CHIP filtering",
+      "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Webpage creation",
       "path": "Bioinformática y programación/Webpage creation.md"
-    },
-    {
-      "basename": "CHIP filtering",
-      "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
     },
     {
       "basename": "scRNA-seq processing pipeline",
@@ -167,10 +171,6 @@
     {
       "basename": "Estadística frecuentista",
       "path": "Estadística/Estadística frecuentista.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Revistas de interés",
