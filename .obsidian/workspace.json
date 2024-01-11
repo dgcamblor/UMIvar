@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas de libros/No soy mi ADN - Manel Esteller.md"
               }
             }
           },
@@ -201,6 +201,8 @@
   },
   "active": "b0f2f56458b68bd0",
   "lastOpenFiles": [
+    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/IDAT.md",
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md",
@@ -225,8 +227,6 @@
     "Bioinformática y programación/FHS de Linux.md",
     "Bioinformática y programación/File management system for bioinformatics.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
-    "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
