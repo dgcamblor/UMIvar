@@ -12,6 +12,11 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 >
 >Clinical studies have demonstrated increased sensitivity of tumor-informed MRD testing, especially for heterogeneous tumors.
 
+## Outline final
+
+I. Introduction
+	1. Significance 
+
 ## Outline
 
 **I. Introduction** 

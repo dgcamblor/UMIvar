@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           },
@@ -201,8 +201,16 @@
   },
   "active": "1e11e530675a16a0",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
+    "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
+    "Doctorado/Methylation and drug resistance.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Possible lines of research for the PhD project.md",
+    "Bioinformática y programación/Ubuntu setup.md",
+    "Bioinformática y programación/VSCode configuration.md",
+    "Bioinformática y programación/Webpage creation.md",
     "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
@@ -219,14 +227,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/DM analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/DNA methylation beta values.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/CpG site analysis.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
-    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq resources.md",
-    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
-    "Doctorado/PhD dashboard.md",
-    "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

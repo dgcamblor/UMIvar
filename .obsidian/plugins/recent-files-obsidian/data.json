@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "Improving INCLIVA ctDNA WES pipeline",
+      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Possible lines of research for the PhD project",
+      "path": "Doctorado/Possible lines of research for the PhD project.md"
+    },
+    {
+      "basename": "Ubuntu setup",
+      "path": "Bioinformática y programación/Ubuntu setup.md"
+    },
+    {
+      "basename": "VSCode configuration",
+      "path": "Bioinformática y programación/VSCode configuration.md"
+    },
+    {
+      "basename": "Webpage creation",
+      "path": "Bioinformática y programación/Webpage creation.md"
+    },
+    {
       "basename": "CHIP filtering",
       "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
     },
@@ -121,14 +157,6 @@
       "path": "Bioinformática y programación/Nextflow.md"
     },
     {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
       "basename": "Tamaño muestral",
       "path": "Estadística/Tamaño muestral.md"
     },
@@ -141,10 +169,6 @@
       "path": "Estadística/Estadística frecuentista.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -155,10 +179,6 @@
     {
       "basename": "Research caveats",
       "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "Possible lines of research for the PhD project",
-      "path": "Doctorado/Possible lines of research for the PhD project.md"
     },
     {
       "basename": "Possible controls for ctDNA methylation",
@@ -179,26 +199,6 @@
     {
       "basename": "Check, write",
       "path": "Biología y medicina/Genética molecular/Check, write.md"
-    },
-    {
-      "basename": "ctDNA methylation studies — methodologies and results",
-      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "Improving INCLIVA ctDNA WES pipeline",
-      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
-    },
-    {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
-      "basename": "Detection of CRC-specific methylation profiles",
-      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     }
   ],
   "omittedPaths": [],
