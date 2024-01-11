@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasVideo",
+      "FasBookOpenReader",
+      "FasWind",
+      "FasGraduationCap",
+      "FabGithub"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Economía": "FasDollarSign",
+  "Medium": "FabMedium",
+  "Notas diarias": "FasCalendarDay",
+  "Estadística": "FasLessThanEqual",
+  "Bioinformática y programación": "FasComputerMouse",
+  "Bioinformática y programación/Python": "FabPython",
+  "Bioinformática y programación/R": "FasR",
+  "Bioinformática y programación/Informática": "FasComputerMouse",
+  "Otros": "FasSquareArrowUpRight",
+  "Bioinformática y programación/Linux cheatsheets": "FabUbuntu",
+  "Doctorado": "FasGraduationCap",
+  "Literature notes": "FasBookOpenReader",
+  "Bioinformática y programación/Ómicas": "FasDna",
+  "Biología y medicina": "FasDna",
+  "Biología y medicina/Enfermedades": "FasDisease",
+  "Biología y medicina/Oncología": "FasDisease",
+  "Dieta y hábitos": "FasAppleWhole",
+  "Estadística/Machine Learning/Generative AIs": {
+    "iconName": null,
+    "inheritanceIcon": "FasRobot"
+  },
+  "Notas de vídeos": "FasVideo"
+}
