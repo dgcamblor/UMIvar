@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "Tamaño muestral",
+      "path": "Estadística/Tamaño muestral.md"
+    },
+    {
+      "basename": "Risk ratio",
+      "path": "Estadística/Risk ratio.md"
+    },
+    {
+      "basename": "Estadística frecuentista",
+      "path": "Estadística/Estadística frecuentista.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
@@ -23,14 +43,6 @@
     {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
       "basename": "PhD dashboard",
@@ -187,18 +199,6 @@
     {
       "basename": "How to Focus to Change Your Brain",
       "path": "Notas de vídeos/How to Focus to Change Your Brain.md"
-    },
-    {
-      "basename": "scRNA-Seq processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-Seq processing pipeline.md"
-    },
-    {
-      "basename": "scRNA-seq analysis",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
-    },
-    {
-      "basename": "scRNA-seq resources",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq resources.md"
     }
   ],
   "omittedPaths": [],
