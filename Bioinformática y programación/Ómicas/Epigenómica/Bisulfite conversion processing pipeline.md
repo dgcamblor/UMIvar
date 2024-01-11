@@ -3,6 +3,7 @@ tags:
   - pipeline
   - phd
   - write
+nf-core: https://nf-co.re/methylseq/2.6.0
 ---
 ## Alignment
 

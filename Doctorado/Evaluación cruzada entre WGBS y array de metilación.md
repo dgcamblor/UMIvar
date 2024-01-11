@@ -4,7 +4,7 @@ tags:
 ---
 
 - Los datos de [[arrays de metilación]] vienen de la forma sonda:señal. La señal es un indicativo del nivel de metilación en la región de la sonda.
-- Los datos de [[WGBS]] requerirían procesamiento ([[ctDNA WGBS analysis pipeline]]) y resultarían en metilaciones por citosina.
+- Los datos de [[WGBS]] requerirían procesamiento ([[ctDNA WGBS processing pipeline]]) y resultarían en metilaciones por citosina.
 
 A partir de esto:
 

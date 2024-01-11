@@ -9,5 +9,5 @@ GATK has good documentation on best practices.
 
 Starting with version 4.0, GATK contains a copy of the [Picard](http://broadinstitute.github.io/picard/) toolkit, so all Picard tools are available from within GATK itself.
 
-![[Picard]]
+![[Bioinformática y programación/Programas/Picard]]
 

@@ -34,7 +34,6 @@
   "Bioinformática y programación/Linux cheatsheets": "FabUbuntu",
   "Doctorado": "FasGraduationCap",
   "Literature notes": "FasBookOpenReader",
-  "Bioinformática y programación/Ómicas": "FasDna",
   "Biología y medicina": "FasDna",
   "Biología y medicina/Enfermedades": "FasDisease",
   "Biología y medicina/Oncología": "FasDisease",
@@ -47,5 +46,6 @@
     "iconName": "FasRobot",
     "inheritanceIcon": "FasRobot"
   },
-  "Notas de libros": "FasBook"
+  "Notas de libros": "FasBook",
+  "Bioinformática y programación/Ómicas": "FasDna"
 }

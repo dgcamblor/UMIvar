@@ -6,7 +6,7 @@ tags:
 description: Particularies of ctDNA analysis that a standard methylation pipeline (WGBS) should account for.
 ---
 
-The steps of ctDNA WGBS analysis pipeline mostly follow the basics of the [[Bisulfite conversion analysis pipeline]], while needing to account for the particularities of cfDNA and ctDNA detection. There are no apparent differences in analysis strategies between ctDNA methylation and conventional data analysis [@luoLiquidBiopsyMethylation2021; @huangCellFreeDNAMethylation2019] A good review on ctDNA methylation methods is: [@huangCellFreeDNAMethylation2019].
+The steps of ctDNA WGBS analysis pipeline mostly follow the basics of the [[Bisulfite conversion processing pipeline]], while needing to account for the particularities of cfDNA and ctDNA detection. There are no apparent differences in analysis strategies between ctDNA methylation and conventional data analysis [@luoLiquidBiopsyMethylation2021; @huangCellFreeDNAMethylation2019] A good review on ctDNA methylation methods is: [@huangCellFreeDNAMethylation2019].
 
 There are three essential approximations:
 
