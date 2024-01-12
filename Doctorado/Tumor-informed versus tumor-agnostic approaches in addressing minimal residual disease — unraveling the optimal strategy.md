@@ -12,6 +12,10 @@ Tumor-informed and tumor-agnostic approaches are two different methods for detec
 >
 >Clinical studies have demonstrated increased sensitivity of tumor-informed MRD testing, especially for heterogeneous tumors.
 
+## Snippets
+
+Beyond purely genomic-based detection of ctDNA, the identification of epigenomic biomarkers is gaining traction...
+
 ## Outline
 
 **I. Introduction** 
