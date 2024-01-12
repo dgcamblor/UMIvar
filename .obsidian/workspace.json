@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03c5d1240945ca58",
+        "id": "9c3e952b978f32ec",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec782885a166952",
+            "id": "973bbe53c586d17e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           },
@@ -199,12 +199,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "1ec782885a166952",
+  "active": "973bbe53c586d17e",
   "lastOpenFiles": [
+    "Doctorado/Possible controls for ctDNA methylation.md",
+    "Dashboard.md",
     "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/AmpUMI.md",
     "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Dashboard.md",
     "Bioinformática y programación/Ómicas/IDAT.md",
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md",
@@ -226,7 +227,6 @@
     "Bioinformática y programación/VSCode configuration.md",
     "Bioinformática y programación/Webpage creation.md",
     "Bioinformática y programación/Defensa del TFM.md",
-    "Bioinformática y programación/FHS de Linux.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

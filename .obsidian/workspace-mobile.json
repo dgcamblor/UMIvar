@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "70fde86939a9f03a",
+        "id": "27d6641c67a1fbdd",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3c08cfe6706b1e",
+            "id": "1dd14a4b7eacb4c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-                "mode": "preview",
+                "file": "Medium/Writing on Medium.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+            "file": "Medium/Writing on Medium.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+            "file": "Medium/Writing on Medium.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+            "file": "Medium/Writing on Medium.md"
           }
         }
       },
@@ -161,14 +161,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4eef00bcb3895e33",
+  "active": "1dd14a4b7eacb4c2",
   "lastOpenFiles": [
+    "Medium/Own stories.md",
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
-    "Dashboard.md",
     "Consejos para un póster científico.md",
     "Notas diarias/2024-01-09.md",
     "Notas diarias/2024-01-08.md",
@@ -198,7 +199,6 @@
     "Notas de vídeos/Dr. Matthew Walker — The Science & Practice of Perfecting Your Sleep.md",
     "Kindle and book highlights/Show Your Work!.md",
     "Notas de cursos/Gestión del tiempo.md",
-    "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
     "Notas de cursos",
     "Guías y referencias",
     "General",

@@ -13,6 +13,9 @@
 - **Health**
 	- [Wise & Well](https://medium.com/wise-well/a-call-for-health-and-wellness-writers-for-a-new-medium-publication-2cca2c66ff74). Science-backed health insights. 
 
+- Science
+- [Science For Life](https://medium.com/science-for-life)
+
 ## Resources
 
 - [Interested in Writing on Medium? Start Here. | by Medium Creators | Creators Hub | Medium](https://medium.com/creators-hub/interested-in-writing-on-medium-start-here-8b8191cb6618)

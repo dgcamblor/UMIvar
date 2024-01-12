@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Writing on Medium",
+      "path": "Medium/Writing on Medium.md"
+    },
+    {
+      "basename": "Own stories",
+      "path": "Medium/Own stories.md"
+    },
+    {
       "basename": "Genomic benchmarking resources",
       "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "AmpUMI",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/AmpUMI.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "No soy mi ADN - Manel Esteller",
@@ -187,18 +199,6 @@
     {
       "basename": "GSEA for methylation data",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/GSEA for methylation data.md"
-    },
-    {
-      "basename": "IDAT",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/IDAT.md"
-    },
-    {
-      "basename": "Epigenomic deconvolution analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
-    },
-    {
-      "basename": "DNA methylation beta values",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/DNA methylation beta values.md"
     }
   ],
   "omittedPaths": [],
