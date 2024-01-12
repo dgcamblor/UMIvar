@@ -24,7 +24,7 @@ Input data must be provided in FASTQ files, with the UMI assumed to be placed at
 
 ## Parameters
 
-Parameters must be selected in `UMIsProject.R`. For the [[Comparative analysis of UMI deduplication software in variant calling error correction]]:
+Parameters must be selected in `UMIsProject.R`. For the [[Comparative analysis of UMI deduplication software in variant calling error correction (planning)]]:
 
 ```
 pairedData <- TRUE

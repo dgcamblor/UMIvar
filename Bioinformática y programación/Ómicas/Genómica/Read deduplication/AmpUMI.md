@@ -18,7 +18,7 @@ Single FASTQ with R1 and R2 merged.
 > First, merge your R1 and R2 using [FLASh](https://ccb.jhu.edu/software/FLASH/) or a similar tool. These merged reads can then be used as input for AmpUMI.
 > For scRNA-seq or other applications where paired reads may not overlap (and cannot be merged before deduplicating) there are other tools (e.g. [UMI-tools](https://github.com/CGATOxford/UMI-tools/blob/master/doc/QUICK_START.md#paired-end-sequencing)) that are designed for those use cases.
 
-This renders the software not useful for the [[Comparative analysis of UMI deduplication software in variant calling error correction]].
+This renders the software not useful for the [[Comparative analysis of UMI deduplication software in variant calling error correction (planning)]].
 ## Use
 
 Using the process mode with `python AmpUMI.py`. The Process mode will parse and trim the UMI. Performs two error correction steps:

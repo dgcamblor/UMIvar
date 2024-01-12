@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
       "basename": "Possible controls for ctDNA methylation",
@@ -23,10 +27,6 @@
     {
       "basename": "Genomic benchmarking resources",
       "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
-    },
-    {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction",
-      "path": "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md"
     },
     {
       "basename": "AmpUMI",
@@ -195,10 +195,6 @@
     {
       "basename": "Methylated DNA immunoprecipitation analysis pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylated DNA immunoprecipitation analysis pipeline.md"
-    },
-    {
-      "basename": "GSEA for methylation data",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/GSEA for methylation data.md"
     }
   ],
   "omittedPaths": [],

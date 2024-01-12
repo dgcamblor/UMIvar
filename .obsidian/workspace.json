@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 878.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
               }
             }
           },
@@ -201,11 +201,14 @@
   },
   "active": "973bbe53c586d17e",
   "lastOpenFiles": [
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+    "Doctorado/Paper planning",
+    "Doctorado/Paper writing",
+    "Doctorado/Sin título.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
     "Dashboard.md",
-    "Doctorado/Comparative analysis of UMI deduplication software in variant calling error correction.md",
+    "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/AmpUMI.md",
-    "Doctorado/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Bioinformática y programación/Ómicas/IDAT.md",
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md",
@@ -225,8 +228,6 @@
     "Bioinformática y programación/Nextflow.md",
     "Bioinformática y programación/Ubuntu setup.md",
     "Bioinformática y programación/VSCode configuration.md",
-    "Bioinformática y programación/Webpage creation.md",
-    "Bioinformática y programación/Defensa del TFM.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
@@ -246,8 +247,6 @@
     "Untitled",
     "Doctorado/PhD dashboard.md.partial",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md.partial",
-    "Estadística/Machine Learning/Natural Language Processing",
-    "Estadística/Machine Learning/Decision-tree based algorithms",
     "Sin título 1.canvas"
   ]
 }

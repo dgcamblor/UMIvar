@@ -65,7 +65,7 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 
 - Parece que está claro que los assays tumor-informed presentan resultados más sensibles (porque están centrados en las mutaciones específicas del tumor concreto y no en regiones que pueden o no ser relevantes) y específicos (no se identifican falsos positivos en regiones no relevantes para el tumor). 
 	- Esta observación está fundamentalmente basada en estudios individuales, pero hay pocos estudios que hayan hecho una comparación directa entre ellos [@santonjaComparisonTumorinformedTumornaive2023].
-	- Sería bueno recopilar todos los estudios posibles (IV. Comparative Analysis) que hayan comparado objetivamente estas dos estrategias (ver [[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy#Studies comparing both approaches]]). P. ej.: el metaanálisis que encontré.
+	- Sería bueno recopilar todos los estudios posibles (IV. Comparative Analysis) que hayan comparado objetivamente estas dos estrategias (ver [[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Studies comparing both approaches]]). P. ej.: el metaanálisis que encontré.
 
 - ¿Qué debería ir en el apartado de Next-Generation Sequencing, **V. Emerging Technologies and Innovations**? Muchos assays como Signatera ya están incorporando la NGS...
 	- Quizás incorporar un apartado previo en **I. Introduction** sobre la descripción de las técnicas de detección de ctDNA actuales: similar a lo que se encuentra en [@zhuPlasmaAssayCellFree2023].
@@ -98,8 +98,6 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 
 - Comparison of tumor-informed and tumor-naïve sequencing assays for ctDNA detection in breast cancer [@santonjaComparisonTumorinformedTumornaive2023]. 
 	- Uses whole-genome rather than whole-exome for somatic mutation identification in the tumor-informed approach.
-
-- 
 
 ### Epigenomics
 
