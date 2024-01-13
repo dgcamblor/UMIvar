@@ -5,6 +5,14 @@
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
     },
     {
+      "basename": "nf-core",
+      "path": "Bioinformática y programación/nf-core.md"
+    },
+    {
+      "basename": "Picard",
+      "path": "Bioinformática y programación/Programas/Picard.md"
+    },
+    {
       "basename": "scRNA-seq analysis",
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "SEQC2 epigenomics study",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/SEQC2 epigenomics study.md"
-    },
-    {
-      "basename": "Methylation array(1)",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array(1).md"
-    },
-    {
-      "basename": "Methylation array",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array.md"
     }
   ],
   "omittedPaths": [],
