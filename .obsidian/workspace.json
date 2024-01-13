@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6838edd8c5bfe5d9",
+        "id": "811ee9a4cf650c95",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e50b7aaf153224",
+            "id": "c0f5d7ec88c830c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Virología/Rhinovirus.md",
+                "file": "Biología y medicina/Virología/Influenzavirus.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Virología/Rhinovirus.md"
+                "file": "Biología y medicina/Virología/Influenzavirus.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Virología/Rhinovirus.md",
+                "file": "Biología y medicina/Virología/Influenzavirus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Virología/Rhinovirus.md",
+                "file": "Biología y medicina/Virología/Influenzavirus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Virología/Rhinovirus.md"
+                "file": "Biología y medicina/Virología/Influenzavirus.md"
               }
             }
           },
@@ -199,12 +199,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e6e50b7aaf153224",
+  "active": "c0f5d7ec88c830c9",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Biología y medicina/Virología/Influenzavirus.md",
     "Doctorado/Possible lines of research for the PhD project.md",
     "Biología y medicina/Virología/Rhinovirus.md",
     "Biología y medicina/Virología",
-    "Dashboard.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Paper planning",
     "Doctorado/Paper writing",
@@ -229,7 +230,6 @@
     "Bioinformática y programación/Laboratory Information Management Systems (LIMS).md",
     "Bioinformática y programación/Linguist settings for git repos.md",
     "Bioinformática y programación/Nextflow.md",
-    "Bioinformática y programación/Ubuntu setup.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

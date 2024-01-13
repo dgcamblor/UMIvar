@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Influenzavirus",
+      "path": "Biología y medicina/Virología/Influenzavirus.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Methylation array",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array.md"
-    },
-    {
-      "basename": "Methylated DNA immunoprecipitation analysis pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylated DNA immunoprecipitation analysis pipeline.md"
     }
   ],
   "omittedPaths": [],
