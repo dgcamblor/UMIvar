@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Virología/Influenzavirus.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Virología/Influenzavirus.md"
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Virología/Influenzavirus.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Virología/Influenzavirus.md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Virología/Influenzavirus.md"
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
               }
             }
           },
@@ -201,9 +201,10 @@
   },
   "active": "c0f5d7ec88c830c9",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
+    "Biología y medicina/Virología/Influenzavirus.md",
     "Doctorado/Consejos para un póster científico.md~RFaa7489.TMP",
     "Dashboard.md",
-    "Biología y medicina/Virología/Influenzavirus.md",
     "Doctorado/Possible lines of research for the PhD project.md",
     "Biología y medicina/Virología/Rhinovirus.md",
     "Biología y medicina/Virología",
@@ -247,7 +248,6 @@
     "Otros/Adjuntos/plot (1).svg",
     "Sin título.canvas",
     "Untitled",
-    "Doctorado/PhD dashboard.md.partial",
     "Sin título 1.canvas"
   ]
 }
