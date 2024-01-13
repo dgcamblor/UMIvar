@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3e952b978f32ec",
+        "id": "6838edd8c5bfe5d9",
         "type": "tabs",
         "children": [
           {
-            "id": "973bbe53c586d17e",
+            "id": "e6e50b7aaf153224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
+                "file": "Biología y medicina/Virología/Rhinovirus.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 878.5
+    "width": 200
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+                "file": "Biología y medicina/Virología/Rhinovirus.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
+                "file": "Biología y medicina/Virología/Rhinovirus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
+                "file": "Biología y medicina/Virología/Rhinovirus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+                "file": "Biología y medicina/Virología/Rhinovirus.md"
               }
             }
           },
@@ -199,14 +199,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "973bbe53c586d17e",
+  "active": "e6e50b7aaf153224",
   "lastOpenFiles": [
+    "Doctorado/Possible lines of research for the PhD project.md",
+    "Biología y medicina/Virología/Rhinovirus.md",
+    "Biología y medicina/Virología",
+    "Dashboard.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Paper planning",
     "Doctorado/Paper writing",
     "Doctorado/Sin título.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
-    "Dashboard.md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/AmpUMI.md",
     "Bioinformática y programación/Ómicas/IDAT.md",
@@ -227,7 +230,6 @@
     "Bioinformática y programación/Linguist settings for git repos.md",
     "Bioinformática y programación/Nextflow.md",
     "Bioinformática y programación/Ubuntu setup.md",
-    "Bioinformática y programación/VSCode configuration.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
@@ -246,7 +248,6 @@
     "Sin título.canvas",
     "Untitled",
     "Doctorado/PhD dashboard.md.partial",
-    "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md.partial",
     "Sin título 1.canvas"
   ]
 }
