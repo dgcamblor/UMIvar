@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Rhinovirus",
       "path": "Biología y medicina/Virología/Rhinovirus.md"
     },
     {
       "basename": "Possible lines of research for the PhD project",
       "path": "Doctorado/Possible lines of research for the PhD project.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
