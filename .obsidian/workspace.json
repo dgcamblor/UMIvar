@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e769647fe8cdd525",
+        "id": "08a392c82dc7689d",
         "type": "tabs",
         "children": [
           {
-            "id": "d14c9200f6fc0f1c",
+            "id": "c51a9c265db64d74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -185,13 +185,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-vscode:VSCode": false,
@@ -200,11 +200,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d14c9200f6fc0f1c",
+  "active": "c51a9c265db64d74",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
-    "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Dashboard.md",
+    "Notas diarias/2024-01-14.md",
+    "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
+    "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
     "Bioinformática y programación/nf-core.md",
@@ -231,7 +232,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/CpG site analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
