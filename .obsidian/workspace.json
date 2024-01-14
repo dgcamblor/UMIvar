@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Bioinformática y programación/Anki.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Bioinformática y programación/Anki.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Bioinformática y programación/Anki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Bioinformática y programación/Anki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Bioinformática y programación/Anki.md"
               }
             }
           },
@@ -202,6 +202,9 @@
   },
   "active": "c51a9c265db64d74",
   "lastOpenFiles": [
+    "Notas diarias/2023-11-22.md",
+    "Bioinformática y programación/Anki.md",
+    "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
     "Dashboard.md",
     "Notas diarias/2024-01-14.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
@@ -229,9 +232,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/DM analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/CpG site analysis.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

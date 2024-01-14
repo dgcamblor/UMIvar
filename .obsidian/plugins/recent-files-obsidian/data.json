@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Anki",
+      "path": "Bioinformática y programación/Anki.md"
+    },
+    {
+      "basename": "2023-11-22",
+      "path": "Notas diarias/2023-11-22.md"
+    },
+    {
+      "basename": "Antígeno carcinoembrionario (CAE)",
+      "path": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Improving INCLIVA ctDNA WES pipeline",
       "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
     }
   ],
   "omittedPaths": [],
