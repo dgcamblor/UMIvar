@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Base Quality Score Recalibration",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Variant calling processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Influenzavirus",
       "path": "Biología y medicina/Virología/Influenzavirus.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Rhinovirus",
@@ -191,14 +195,6 @@
     {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
-      "basename": "bedGraph",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md"
-    },
-    {
-      "basename": "SEQC2 epigenomics study",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/SEQC2 epigenomics study.md"
     }
   ],
   "omittedPaths": [],
