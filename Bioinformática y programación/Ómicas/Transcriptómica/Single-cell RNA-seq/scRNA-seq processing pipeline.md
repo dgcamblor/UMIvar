@@ -24,11 +24,16 @@ Outputs can be summarized with MultiQC.
 
 ## Computing read counts
 
+- Salmon
+- Kallisto
+- CellRanger
 - HTSeq
 - Cufflinks
 - featureCounts
 
-The output of this processing workflow should be a count matrix.
+The output of this processing workflow should be a UMI count matrix. 
 
 - Rows: transcripts.
 - Columns: cells.
+
+The `mtx` and `h5ad` formats are used to store gene expression matrices, with `h5ad` offering additional capabilities for storing metadata and annotations.

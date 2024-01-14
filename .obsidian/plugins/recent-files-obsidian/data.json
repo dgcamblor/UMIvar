@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Variant calling processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+    },
+    {
+      "basename": "scRNA-seq analysis",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
+    },
+    {
       "basename": "scRNA-seq processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Picard",
       "path": "Bioinformática y programación/Programas/Picard.md"
-    },
-    {
-      "basename": "scRNA-seq analysis",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
     },
     {
       "basename": "Influenzavirus",
@@ -151,10 +155,6 @@
     {
       "basename": "Variant calling analysis",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
-    },
-    {
-      "basename": "Variant calling processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
     },
     {
       "basename": "Hard-clipped",
