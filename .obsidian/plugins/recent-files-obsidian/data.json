@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
     },
     {
       "basename": "Possible controls for ctDNA methylation",
@@ -21,8 +29,8 @@
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
     {
       "basename": "Methylation and drug resistance",
@@ -39,10 +47,6 @@
     {
       "basename": "PhD dashboard",
       "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "Research caveats",
-      "path": "Doctorado/Research caveats.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "FHS de Linux",
       "path": "Bioinformática y programación/FHS de Linux.md"
-    },
-    {
-      "basename": "File management system for bioinformatics",
-      "path": "Bioinformática y programación/File management system for bioinformatics.md"
     }
   ],
   "omittedPaths": [],
