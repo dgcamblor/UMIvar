@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Anki",
       "path": "Bioinformática y programación/Anki.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Antígeno carcinoembrionario (CAE)",
       "path": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2024-01-14",
