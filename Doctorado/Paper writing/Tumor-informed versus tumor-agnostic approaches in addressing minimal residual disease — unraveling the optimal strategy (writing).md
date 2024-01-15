@@ -5,7 +5,14 @@ tags:
 ---
 ## III. Tumor-informed strategies: strengths and weaknesses
 
-By sequencing both the tumor tissue and the ctDNA, CHIP mutations can be directly filtered 
+As previously stated, the tumor-informed approach, as its name implies, aims to molecularly characterize the tumor tissue prior to ctDNA detection. T
+
+
+The addition of tumor sequencing has both advantages and disadvantages when compared to the tumor-agnostic strategy. 
+
+By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
+
+
 
 [CHIP]
 ## V. Emerging Technologies and Future Directions
