@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "scRNA-seq analysis",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
+    },
+    {
+      "basename": "Seurat",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/Seurat.md"
+    },
+    {
+      "basename": "scRNA-seq processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -83,14 +95,6 @@
     {
       "basename": "Variant calling processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
-    },
-    {
-      "basename": "scRNA-seq analysis",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
-    },
-    {
-      "basename": "scRNA-seq processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
     },
     {
       "basename": "nf-core",
@@ -195,10 +199,6 @@
     {
       "basename": "VSCode configuration",
       "path": "Bioinformática y programación/VSCode configuration.md"
-    },
-    {
-      "basename": "Webpage creation",
-      "path": "Bioinformática y programación/Webpage creation.md"
     }
   ],
   "omittedPaths": [],
