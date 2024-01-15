@@ -11,8 +11,12 @@
             "id": "1a21593d1b52bed3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biología y medicina/Inmunología/Vacunas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biología y medicina/Inmunología/Vacunas.md"
+              }
             }
           },
           {
@@ -117,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biología y medicina/Inmunología/Vacunas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biología y medicina/Inmunología/Vacunas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Biología y medicina/Inmunología/Vacunas.md"
+              }
             }
           },
           {
@@ -192,6 +202,13 @@
   },
   "active": "1a21593d1b52bed3",
   "lastOpenFiles": [
+    "Biología y medicina/Inmunología/Inmunidad humoral.md",
+    "Biología y medicina/Inmunología/Linfocitos B.md",
+    "Biología y medicina/Inmunología/Sin título.md",
+    "Biología y medicina/Inmunología/Linfocitos T.md",
+    "Biología y medicina/Inmunología/Vacunas.md",
+    "Dieta y hábitos/Maltodextrina.md",
+    "Dieta y hábitos/Wim Hof breathing technique.md",
     "Dieta y hábitos/Autoexploración de la piel.md",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Bioinformática y programación/R/Magrittr pipe vs. base R pipe.md",
@@ -212,12 +229,6 @@
     "Doctorado/Methylation and drug resistance.md",
     "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
     "Doctorado/ctDNA methylation overview.md",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
-    "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
-    "Notas diarias/2023-11-22.md",
-    "Bioinformática y programación/Anki.md",
-    "Notas diarias/2024-01-14.md",
-    "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Doctorado/Consejos para un póster científico.md~RFaa7489.TMP",
     "Biología y medicina/Virología",
     "Doctorado/Paper planning",

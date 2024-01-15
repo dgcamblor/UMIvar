@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Vacunas",
+      "path": "Biología y medicina/Inmunología/Vacunas.md"
+    },
+    {
+      "basename": "Inmunidad humoral",
+      "path": "Biología y medicina/Inmunología/Inmunidad humoral.md"
+    },
+    {
+      "basename": "Linfocitos B",
+      "path": "Biología y medicina/Inmunología/Linfocitos B.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "Biología y medicina/Inmunología/Sin título.md"
+    },
+    {
+      "basename": "Linfocitos T",
+      "path": "Biología y medicina/Inmunología/Linfocitos T.md"
+    },
+    {
+      "basename": "Maltodextrina",
+      "path": "Dieta y hábitos/Maltodextrina.md"
+    },
+    {
+      "basename": "Wim Hof breathing technique",
+      "path": "Dieta y hábitos/Wim Hof breathing technique.md"
+    },
+    {
       "basename": "Autoexploración de la piel",
       "path": "Dieta y hábitos/Autoexploración de la piel.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "CpG loci identification",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md"
-    },
-    {
-      "basename": "Cell type deconvolution methods",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
-    },
-    {
-      "basename": "Bisulfite vs. enrichment pipelines",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
-    },
-    {
-      "basename": "Bisulfite conversion processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
-      "basename": "Installing Java on Ubuntu",
-      "path": "Bioinformática y programación/Installing Java on Ubuntu.md"
-    },
-    {
-      "basename": "Laboratory Information Management Systems (LIMS)",
-      "path": "Bioinformática y programación/Laboratory Information Management Systems (LIMS).md"
-    },
-    {
-      "basename": "Linguist settings for git repos",
-      "path": "Bioinformática y programación/Linguist settings for git repos.md"
-    },
-    {
-      "basename": "Nextflow",
-      "path": "Bioinformática y programación/Nextflow.md"
     }
   ],
   "omittedPaths": [],
