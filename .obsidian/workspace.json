@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f09e4b2059c0f00",
+        "id": "edcf09600e4397c2",
         "type": "tabs",
         "children": [
           {
-            "id": "9efacdc765e7754b",
+            "id": "e811053ae9044800",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +200,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9efacdc765e7754b",
+  "active": "e811053ae9044800",
   "lastOpenFiles": [
     "Notas diarias/2023-11-22.md",
     "Bioinformática y programación/Anki.md",
