@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a89539523be66765",
+        "id": "48238ca633dcb127",
         "type": "tabs",
         "children": [
           {
-            "id": "1a21593d1b52bed3",
+            "id": "799fdadaec92b020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Inmunología/Linfocitos B.md",
+                "file": "Bioinformática y programación/Python/Loading bars.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Inmunología/Linfocitos B.md"
+                "file": "Bioinformática y programación/Python/Loading bars.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Inmunología/Linfocitos B.md",
+                "file": "Bioinformática y programación/Python/Loading bars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Inmunología/Linfocitos B.md",
+                "file": "Bioinformática y programación/Python/Loading bars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Inmunología/Linfocitos B.md"
+                "file": "Bioinformática y programación/Python/Loading bars.md"
               }
             }
           },
@@ -200,8 +200,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "1a21593d1b52bed3",
+  "active": "799fdadaec92b020",
   "lastOpenFiles": [
+    "Otros/Adjuntos/Pasted image 20240115223212.jpg",
+    "Dashboard.md",
+    "Bioinformática y programación/Python/Loading bars.md",
     "Biología y medicina/Inmunología/Vacunas.md",
     "Biología y medicina/Inmunología/Sistema del complemento.md",
     "Biología y medicina/Inmunología/Linfocitos T.md",
@@ -213,7 +216,6 @@
     "Dieta y hábitos/Autoexploración de la piel.md",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Bioinformática y programación/R/Magrittr pipe vs. base R pipe.md",
-    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/Seurat.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
@@ -227,8 +229,6 @@
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
-    "Doctorado/Methylation and drug resistance.md",
-    "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
     "Doctorado/Consejos para un póster científico.md~RFaa7489.TMP",
     "Biología y medicina/Virología",
     "Doctorado/Paper planning",

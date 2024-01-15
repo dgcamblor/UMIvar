@@ -17,5 +17,14 @@
       "key": "F"
     }
   ],
-  "global-search:open": []
+  "global-search:open": [],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ]
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Loading bars",
+      "path": "Bioinformática y programación/Python/Loading bars.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Linfocitos B",
       "path": "Biología y medicina/Inmunología/Linfocitos B.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Magrittr pipe vs. base R pipe",
       "path": "Bioinformática y programación/R/Magrittr pipe vs. base R pipe.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "scRNA-seq analysis",
