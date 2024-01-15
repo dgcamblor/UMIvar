@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
+                "file": "Doctorado/Líneas de investigación y estudios de interés.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md"
+                "file": "Doctorado/Líneas de investigación y estudios de interés.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
+                "file": "Doctorado/Líneas de investigación y estudios de interés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
+                "file": "Doctorado/Líneas de investigación y estudios de interés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md"
+                "file": "Doctorado/Líneas de investigación y estudios de interés.md"
               }
             }
           },
@@ -200,25 +200,25 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "49c97c5289b16da1",
+  "active": "af5bae01ab86741d",
   "lastOpenFiles": [
+    "Doctorado/Research caveats.md",
+    "Doctorado/Revistas de interés.md",
+    "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
+    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/ctDNA methylation overview.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
-    "Doctorado/Revistas de interés.md",
-    "Doctorado/Research caveats.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
-    "Doctorado/Possible lines of research for the PhD project.md",
+    "Doctorado/Líneas de investigación y estudios de interés.md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Doctorado/Methylation and drug resistance.md",
     "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/PhD dashboard.md",
     "Dashboard.md",
     "Notas diarias/2023-11-22.md",
     "Bioinformática y programación/Anki.md",
-    "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
     "Notas diarias/2024-01-14.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",

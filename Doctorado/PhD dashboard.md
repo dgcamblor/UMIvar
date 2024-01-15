@@ -2,7 +2,7 @@
 tags:
   - phd
 ---
-- [[Possible lines of research for the PhD project]]
+- [[Líneas de investigación y estudios de interés]]
 - [[Research caveats]]
 
 ## Reviews
