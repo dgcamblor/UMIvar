@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Python/Loading bars.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Python/Loading bars.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Python/Loading bars.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Python/Loading bars.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Python/Loading bars.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           },
@@ -202,9 +202,10 @@
   },
   "active": "799fdadaec92b020",
   "lastOpenFiles": [
+    "Notas de cursos/Gestión del tiempo.md",
+    "Bioinformática y programación/Python/Loading bars.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Dashboard.md",
-    "Bioinformática y programación/Python/Loading bars.md",
     "Biología y medicina/Inmunología/Vacunas.md",
     "Biología y medicina/Inmunología/Sistema del complemento.md",
     "Biología y medicina/Inmunología/Linfocitos T.md",
@@ -246,7 +247,6 @@
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
     "Otros/Adjuntos/TrainAlgo.png",
     "Otros/Adjuntos/Profile_figure 2_2019-07-24.3_B1.webp",
-    "Otros/Adjuntos/plot.svg",
     "Sin título.canvas",
     "Untitled",
     "Sin título 1.canvas"

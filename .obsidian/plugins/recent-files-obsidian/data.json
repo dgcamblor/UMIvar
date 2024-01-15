@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Comunicación interpersonal",
+      "path": "Notas de cursos/Comunicación interpersonal.md"
+    },
+    {
+      "basename": "Gestión del tiempo",
+      "path": "Notas de cursos/Gestión del tiempo.md"
+    },
+    {
       "basename": "Loading bars",
       "path": "Bioinformática y programación/Python/Loading bars.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "DM analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/DM analysis.md"
-    },
-    {
-      "basename": "ctDNA WGBS processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md"
-    },
-    {
-      "basename": "CpG site analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG site analysis.md"
     }
   ],
   "omittedPaths": [],

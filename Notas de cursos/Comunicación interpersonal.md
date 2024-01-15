@@ -30,6 +30,10 @@ Eres el responsable de que el receptor del mensaje lo reciba correctamente. El f
 
 Hace referencia a un enfoque para el tratamiento terapéutico.
 
-- Empatía
+- Empatía. Es necesaria para entender al interlocutor. Primero escuchar y luego tratar de entender con sinceridad.
 - Congruencia
 - No juicio
+
+## Establecer el vínculo de comunicación
+
+La **sincronización** implica adaptar tu actitud y postura a la actitud y postura del otro.
