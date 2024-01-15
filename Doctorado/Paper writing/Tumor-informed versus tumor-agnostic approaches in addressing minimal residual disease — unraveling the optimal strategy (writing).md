@@ -19,6 +19,11 @@ Focusing only on variants found in tumor tissue also raises the question of tumo
 
 A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. In this line, one of the most insightful studies is the DYNAMIC trial (ACTRN12615000381583). 
 
+Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a Safe-SeqS (UMI-based) assay.
+
+
+ACTRN12612000326897
+
 The DYNAMIC trial for stage II colon cancer is a multi-center randomized controlled clinical trial that aims to determine whether adjuvant chemotherapy
 
 ### Galaxy trial
