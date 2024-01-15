@@ -36,4 +36,8 @@ Hace referencia a un enfoque para el tratamiento terapéutico.
 
 ## Establecer el vínculo de comunicación
 
-La **sincronización** implica adaptar tu actitud y postura a la actitud y postura del otro.
+La sincronización no verbal en la comunicación se refiere a la coordinación de gestos, posturas, tono de voz y otros aspectos no verbales entre las personas que interactúan. Esta sincronización puede ser verbal o no verbal, directa o cruzada, y tiene como objetivo crear un clima de confianza y empatía, facilitando la comunicación y la conexión entre los interlocutores
+
+- No verbal. Adoptar una postura (sentado, etc.) o sincronizar la respiración.
+
+La sincronización no verbal es fundamental en la Programación Neurolingüística (PNL).

@@ -5,6 +5,10 @@
       "path": "Notas de cursos/Comunicación interpersonal.md"
     },
     {
+      "basename": "Sin título",
+      "path": "Notas de cursos/Sin título.md"
+    },
+    {
       "basename": "Gestión del tiempo",
       "path": "Notas de cursos/Gestión del tiempo.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "R packages for DNA methylation analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/R packages for DNA methylation analysis.md"
-    },
-    {
-      "basename": "DM analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/DM analysis.md"
     }
   ],
   "omittedPaths": [],
