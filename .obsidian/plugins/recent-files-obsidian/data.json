@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Líneas de investigación y estudios de interés",
-      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
-    },
-    {
-      "basename": "Research caveats",
-      "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
-    },
-    {
-      "basename": "Antígeno carcinoembrionario (CAE)",
-      "path": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md"
-    },
-    {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Improving INCLIVA ctDNA WES pipeline",
+      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
+      "basename": "Antígeno carcinoembrionario (CAE)",
+      "path": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md"
     },
     {
       "basename": "ctDNA methylation overview",
@@ -37,24 +57,8 @@
       "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
     },
     {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
       "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Webpage creation",
       "path": "Bioinformática y programación/Webpage creation.md"
-    },
-    {
-      "basename": "Defensa del TFM",
-      "path": "Bioinformática y programación/Defensa del TFM.md"
     }
   ],
   "omittedPaths": [],
