@@ -91,9 +91,17 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 
 ### Genomics
 
+The body of research in CRC:
+
 - Circulating Tumor DNA As A MRD Assessment And Recurrence Risk In Patients Undergoing Curative Intent Resection With Or Without Adjuvant Chemotherapy In Colorectal Cancer: A Meta-analysis [@chidharlaCirculatingTumorDNA2022].
 	- Meta-analysis of studies detecting ctDNA as a proxy for MRD in Stage I-IV CRC patients after curative-intent surgery.
 	- They perform a subgroup analysis for tumor-informed vs. tumor-agnostic studies, favoring the former over the later.
+
+- Tumor-informed or tumor-agnostic circulating tumor DNA as a biomarker for risk of recurrence in resected colorectal cancer patients [@chanTumorinformedTumoragnosticCirculating2023].
+	- 
+	- Utilizing the tumor-agnostic approach reduced the recurrence detection sensitivity to 67%.
+
+Studies in other types of cancer:
 
 - Comparison of tumor-informed and tumor-naïve sequencing assays for ctDNA detection in breast cancer [@santonjaComparisonTumorinformedTumornaive2023]. 
 	- Uses whole-genome rather than whole-exome for somatic mutation identification in the tumor-informed approach.

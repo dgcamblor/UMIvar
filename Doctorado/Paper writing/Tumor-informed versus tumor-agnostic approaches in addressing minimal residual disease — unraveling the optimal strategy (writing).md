@@ -11,6 +11,8 @@ tags:
 
 As previously stated, the tumor-informed approach, aims to molecularly characterize the tumor tissue prior to ctDNA detection. This way, a bespoke ctDNA assay can be created to directly target the specific mutations of said tumor. The addition of tumor sequencing has both advantages and disadvantages when compared to the tumor-agnostic strategy. 
 
+- Focusing only on variants found in tumor tissue also raises the question of tumor heterogeneity and resistance mechanisms, where treatment may lead to the appearance or increase of different clonal cells harboring different mutations than those initially found.
+
 A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. One of the most meaningful is the GALAXY trial
 
 To establish the ctDNA status of the patients a Signatera assay (Natera) was used.

@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 577.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -202,15 +202,16 @@
   },
   "active": "af5bae01ab86741d",
   "lastOpenFiles": [
+    "Doctorado/Possible controls for ctDNA methylation.md",
+    "Doctorado/Possible lines of research for the PhD project.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+    "Doctorado/Revistas de interés.md",
     "Doctorado/Methylation and drug resistance.md",
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
-    "Doctorado/Possible controls for ctDNA methylation.md",
     "Doctorado/PhD dashboard.md",
-    "Doctorado/Possible lines of research for the PhD project.md",
     "Doctorado/Research caveats.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Dashboard.md",
     "Notas diarias/2023-11-22.md",
     "Bioinformática y programación/Anki.md",
@@ -231,7 +232,6 @@
     "Doctorado/Sin título.md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/AmpUMI.md",
-    "Bioinformática y programación/Ómicas/IDAT.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

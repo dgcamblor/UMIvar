@@ -5,6 +5,22 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Possible lines of research for the PhD project",
+      "path": "Doctorado/Possible lines of research for the PhD project.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
       "basename": "Methylation and drug resistance",
       "path": "Doctorado/Methylation and drug resistance.md"
     },
@@ -17,24 +33,12 @@
       "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
       "basename": "PhD dashboard",
       "path": "Doctorado/PhD dashboard.md"
     },
     {
-      "basename": "Possible lines of research for the PhD project",
-      "path": "Doctorado/Possible lines of research for the PhD project.md"
-    },
-    {
       "basename": "Research caveats",
       "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "File management system for bioinformatics",
       "path": "Bioinformática y programación/File management system for bioinformatics.md"
-    },
-    {
-      "basename": "Variant calling analysis",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
     }
   ],
   "omittedPaths": [],
