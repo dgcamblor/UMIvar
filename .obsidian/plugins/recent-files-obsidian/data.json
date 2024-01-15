@@ -5,6 +5,34 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
+      "basename": "Possible lines of research for the PhD project",
+      "path": "Doctorado/Possible lines of research for the PhD project.md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
@@ -61,16 +89,8 @@
       "path": "Biología y medicina/Virología/Rhinovirus.md"
     },
     {
-      "basename": "Possible lines of research for the PhD project",
-      "path": "Doctorado/Possible lines of research for the PhD project.md"
-    },
-    {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
       "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
     },
     {
       "basename": "Writing on Medium",
@@ -179,26 +199,6 @@
     {
       "basename": "Variant calling analysis",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
-    },
-    {
-      "basename": "Hard-clipped",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md"
-    },
-    {
-      "basename": "Liquid biopsy SEQC2",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
-    },
-    {
-      "basename": "Swimmer plot",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Swimmer plot.md"
-    },
-    {
-      "basename": "Soft-clipped",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md"
-    },
-    {
-      "basename": "CHIP filtering",
-      "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
     }
   ],
   "omittedPaths": [],

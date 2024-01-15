@@ -3,12 +3,19 @@ tags:
   - paper
   - phd
 ---
+%%TODO
+- [ ] BESPOKE study protocol [@kasiBESPOKEStudyProtocol2021]
+%%
+
 ## III. Tumor-informed strategies: strengths and weaknesses
 
-As previously stated, the tumor-informed approach, as its name implies, aims to molecularly characterize the tumor tissue prior to ctDNA detection. T
+As previously stated, the tumor-informed approach, aims to molecularly characterize the tumor tissue prior to ctDNA detection. This way, a bespoke ctDNA assay can be created to directly target the specific mutations of said tumor. The addition of tumor sequencing has both advantages and disadvantages when compared to the tumor-agnostic strategy. 
 
+A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. One of the most meaningful is the GALAXY trial
 
-The addition of tumor sequencing has both advantages and disadvantages when compared to the tumor-agnostic strategy. 
+To establish the ctDNA status of the patients a Signatera assay (Natera) was used.
+
+The DYNAMIC trial has also led to meaningful insights.
 
 By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
 
