@@ -98,6 +98,7 @@ The body of research in CRC:
 	- They perform a subgroup analysis for tumor-informed vs. tumor-agnostic studies, favoring the former over the later.
 
 - Tumor-informed or tumor-agnostic circulating tumor DNA as a biomarker for risk of recurrence in resected colorectal cancer patients [@chanTumorinformedTumoragnosticCirculating2023].
+	- They use both a tumor-agnostic and a tumor-informed approach to determine their sensitivity.
 	- 
 	- Utilizing the tumor-agnostic approach reduced the recurrence detection sensitivity to 67%.
 
