@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edcf09600e4397c2",
+        "id": "678e42cdca94f459",
         "type": "tabs",
         "children": [
           {
-            "id": "e811053ae9044800",
+            "id": "af5bae01ab86741d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -200,12 +200,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e811053ae9044800",
+  "active": "af5bae01ab86741d",
   "lastOpenFiles": [
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Dashboard.md",
     "Notas diarias/2023-11-22.md",
     "Bioinformática y programación/Anki.md",
     "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md",
-    "Dashboard.md",
     "Notas diarias/2024-01-14.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
@@ -218,7 +220,6 @@
     "Doctorado/Possible lines of research for the PhD project.md",
     "Biología y medicina/Virología/Rhinovirus.md",
     "Biología y medicina/Virología",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Paper planning",
     "Doctorado/Paper writing",
     "Doctorado/Sin título.md",
@@ -231,7 +232,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/R packages for DNA methylation analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/DM analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/ctDNA methylation analysis pipeline.md",
     "Consejos para un póster científico.md~RF6e542.TMP",
     "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

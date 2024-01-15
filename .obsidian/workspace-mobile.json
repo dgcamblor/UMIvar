@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27d6641c67a1fbdd",
+        "id": "6187fb4144cfb2a0",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd14a4b7eacb4c2",
+            "id": "ccdccb2a2f97ac33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medium/Writing on Medium.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medium/Writing on Medium.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Medium/Writing on Medium.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Medium/Writing on Medium.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -149,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -161,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dd14a4b7eacb4c2",
+  "active": "ccdccb2a2f97ac33",
   "lastOpenFiles": [
     "Medium/Own stories.md",
     "Dashboard.md",
