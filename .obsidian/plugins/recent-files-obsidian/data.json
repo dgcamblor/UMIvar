@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Autoexploración de la piel",
+      "path": "Dieta y hábitos/Autoexploración de la piel.md"
+    },
+    {
+      "basename": "Magrittr pipe vs. base R pipe",
+      "path": "Bioinformática y programación/R/Magrittr pipe vs. base R pipe.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Nextflow",
       "path": "Bioinformática y programación/Nextflow.md"
-    },
-    {
-      "basename": "Ubuntu setup",
-      "path": "Bioinformática y programación/Ubuntu setup.md"
-    },
-    {
-      "basename": "VSCode configuration",
-      "path": "Bioinformática y programación/VSCode configuration.md"
     }
   ],
   "omittedPaths": [],
