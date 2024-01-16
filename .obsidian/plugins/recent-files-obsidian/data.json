@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
       "basename": "MRD ctDNA assays",
       "path": "Doctorado/MRD ctDNA assays.md"
     },
     {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Aceites",
+      "path": "Dieta y hábitos/Aceites.md"
+    },
+    {
+      "basename": "Hábitos seguidos",
+      "path": "Dieta y hábitos/Hábitos seguidos.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "Líneas de investigación y estudios de interés",
@@ -191,14 +199,6 @@
     {
       "basename": "Pipeline list",
       "path": "Bioinformática y programación/Ómicas/Pipeline list.md"
-    },
-    {
-      "basename": "IDAT",
-      "path": "Bioinformática y programación/Ómicas/IDAT.md"
-    },
-    {
-      "basename": "MethylDackel",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
     }
   ],
   "omittedPaths": [],
