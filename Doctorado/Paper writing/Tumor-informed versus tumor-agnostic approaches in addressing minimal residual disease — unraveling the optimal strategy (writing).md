@@ -17,7 +17,12 @@ Focusing only on variants found in tumor tissue also raises the question of tumo
 
 ### DYNAMIC trial
 
-A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. In this line, one of the most insightful studies is the DYNAMIC trial (ACTRN12615000381583). In a prospective cohort of 230 CRC stage II patients, a group suggested the 
+A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients, where ctDNA detection after resection showed higher risk of recurrence as determined by radiologic 
+
+
+In this line, one of the most insightful studies is the DYNAMIC trial (ACTRN12615000381583). In a prospective cohort of 230 CRC stage II patients, a group suggested the
+
+This study was followed with the DYNAMIC trial, which aims at further proving...
 
 Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a Safe-SeqS (UMI-based) assay.
 
