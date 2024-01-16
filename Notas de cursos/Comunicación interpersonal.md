@@ -48,3 +48,10 @@ La sincronización no verbal es fundamental en la Programación Neurolingüísti
 La disonancia cognitiva es la sensación de malestar que se produce cuando una persona se enfrenta a un hecho que conflictúa con una de sus ideas o creencias. La persona se siente incómoda y busca una solución para eliminar esa sensación de malestar, generalmente aferrándose a dicha creencia.
 
 Las creencias inconscientes son las más difíciles de cambiar.
+
+## El concepto de meta programas
+
+El mapa del mundo es una representación de la realidad que cada persona tiene en su mente. Los filtros que cada persona aplica a la realidad son los meta programas:
+
+- Selección. La selección primaria es la principal característica que un interlocutor recuerda de sus experiencias.
+- Operadores. De dirección, para alcanzar una meta o evitar un problema. De compromiso, siendo la postura pasiva o activa, etc. Modales. Son las palabras que se utilizan para expresar una idea. Pueden ser de posibilidad, necesidad, etc.
