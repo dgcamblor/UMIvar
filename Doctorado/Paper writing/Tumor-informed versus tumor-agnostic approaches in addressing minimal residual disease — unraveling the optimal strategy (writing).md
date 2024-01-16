@@ -19,19 +19,12 @@ Focusing only on variants found in tumor tissue also raises the question of tumo
 
 A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. 
 
-One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients, where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a Safe-SeqS (UMI-based) assay, which enables deep sequencing with error correction. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations. The results showed that postoperative cTDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
+One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a Safe-SeqS (UMI-based) assay, which enables deep sequencing with error correction. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations. The results showed that postoperative cTDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
 
-The same approximation was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the benefits derived from the administration of adjuvant therapy in patients with CRC stage II and a positive-ctDNA status. 
-
-
-In this line, one of the most insightful studies is the DYNAMIC trial (). In a prospective cohort of 230 CRC stage II patients, a group suggested the
-
-This study was followed with the DYNAMIC trial, which aims at further proving...
+The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the posibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In the ctDNA-guided 
 
 
 
-
-ACTRN12612000326897
 
 The DYNAMIC trial for stage II colon cancer is a multi-center randomized controlled clinical trial that aims to determine whether adjuvant chemotherapy
 
