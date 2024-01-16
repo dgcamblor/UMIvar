@@ -41,3 +41,10 @@ La sincronización no verbal en la comunicación se refiere a la coordinación d
 - No verbal. Adoptar una postura (sentado, etc.) o sincronizar la respiración.
 
 La sincronización no verbal es fundamental en la Programación Neurolingüística (PNL).
+
+
+## Definiendo las creencias
+
+La disonancia cognitiva es la sensación de malestar que se produce cuando una persona se enfrenta a un hecho que conflictúa con una de sus ideas o creencias. La persona se siente incómoda y busca una solución para eliminar esa sensación de malestar, generalmente aferrándose a dicha creencia.
+
+Las creencias inconscientes son las más difíciles de cambiar.
