@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99cb4fc3113449ea",
+        "id": "85838c197737921e",
         "type": "tabs",
         "children": [
           {
-            "id": "17c0ed4707b84c9b",
+            "id": "dd8fa3ea0a7c2693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
               }
             }
           },
@@ -201,12 +201,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "17c0ed4707b84c9b",
+  "active": "dd8fa3ea0a7c2693",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Genómica/Tumor-normal paired sequencing.md",
+    "Bioinformática y programación/Ómicas/Genómica/Strelka2.md",
+    "Dashboard.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Notas de cursos/Comunicación interpersonal.md",
-    "Dashboard.md",
     "Doctorado/ctDNA methylation overview.md",
     "Dieta y hábitos/Aceites.md",
     "Doctorado/MRD ctDNA assays.md",
@@ -232,9 +234,7 @@
     "Biología y medicina/Inmunología/Sin título.md",
     "Dieta y hábitos/Maltodextrina.md",
     "Dieta y hábitos/Wim Hof breathing technique.md",
-    "Dieta y hábitos/Autoexploración de la piel.md",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
-    "Bioinformática y programación/R/Magrittr pipe vs. base R pipe.md",
     "Doctorado/Consejos para un póster científico.md~RFaa7489.TMP",
     "Biología y medicina/Virología",
     "Doctorado/Paper planning",

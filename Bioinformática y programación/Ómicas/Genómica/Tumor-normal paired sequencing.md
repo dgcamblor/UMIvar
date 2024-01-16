@@ -1,0 +1,1 @@
+Tumor-normal sequencing refers to the sequencing of both a tumor sample and a matched normal sample from the same individual. The normal sample is typically a blood or tissue sample that is not cancerous.

@@ -1,0 +1,2 @@
+
+Strelka2 is the improved version of Strelka, and is a variant caller optimized for the analysis of germline variation in small cohorts and somatic variation in [[Tumor-normal paired sequencing]] sample pairs.

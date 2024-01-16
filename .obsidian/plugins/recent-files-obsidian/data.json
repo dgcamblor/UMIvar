@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Strelka2",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
+    },
+    {
+      "basename": "Tumor-normal paired sequencing",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Tumor-normal paired sequencing.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Comunicación interpersonal",
       "path": "Notas de cursos/Comunicación interpersonal.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "ctDNA methylation overview",
@@ -191,10 +199,6 @@
     {
       "basename": "AmpUMI",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/AmpUMI.md"
-    },
-    {
-      "basename": "No soy mi ADN - Manel Esteller",
-      "path": "Notas de libros/No soy mi ADN - Manel Esteller.md"
     }
   ],
   "omittedPaths": [],
