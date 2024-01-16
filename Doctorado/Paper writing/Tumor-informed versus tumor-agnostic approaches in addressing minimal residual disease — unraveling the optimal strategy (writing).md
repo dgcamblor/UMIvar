@@ -29,7 +29,7 @@ Focusing only on variants found in tumor tissue also raises the question of tumo
 
 A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. 
 
-One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a Safe-SeqS (UMI-based) assay, which enables deep sequencing with error correction. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations. The results showed that postoperative cTDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
+One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with error correction [@kindeDetectionQuantificationRare2011], which enables deep sequencing with error correction. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations. The results showed that postoperative cTDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
 
 The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the posibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In this approximation, patients that were ctDNA-positive at 4 or 7 weeks after surgery were recommended to receive adjuvant oxaliplatin- or fluoropyrimidine-based chemotherapy. Conversely, patients testing negative for ctDNA did not receive adjuvant chemotherapy. The RFS for the ctDNA-guided group was comparable to that of the standard management group (93.5% vs. 92.4%), indicating the suitability of chemotherapy reduction in ctDNA negative patients [@tieCirculatingTumorDNA2022].
 
@@ -37,7 +37,12 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 ### Galaxy trial
 
-WES is performed on tumor issue, which is used to determine the 16 variants with a highest VAF, which are used to make a bespoke assay based on ultradeep multiplex PCR.
+Another key study is the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV)  
+
+WES was performed on tumor issue
+
+
+, which is used to determine the 16 variants with a highest VAF, which are used to make a bespoke assay based on ultradeep multiplex PCR.
 
 is the GALAXY trial
 
