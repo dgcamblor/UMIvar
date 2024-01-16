@@ -5,8 +5,24 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
     },
     {
       "basename": "2023-11-23",
@@ -81,14 +97,6 @@
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
     },
     {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
       "basename": "Revistas de interés",
       "path": "Doctorado/Revistas de interés.md"
     },
@@ -103,14 +111,6 @@
     {
       "basename": "Improving INCLIVA ctDNA WES pipeline",
       "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "Líneas de investigación y estudios de interés",
-      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
     },
     {
       "basename": "Methylation and drug resistance",
