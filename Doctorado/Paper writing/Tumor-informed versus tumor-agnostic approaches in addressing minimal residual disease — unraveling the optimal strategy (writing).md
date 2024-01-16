@@ -50,7 +50,15 @@ Other groups have explored
 
 ### 1. NGS
 
-### 2. Epigenomics
+> 
+
+### 2. Other omics
+
+The addition of other omics to ctDNA detection shows great promise for MRD assessment.
+
+
+
+Epigenomics
 
 Beyond purely genomic-based detection of ctDNA for MRD assessment, the identification of epigenomic biomarkers is gaining traction for MRD, of which methylation is the most studied.
 
@@ -74,6 +82,11 @@ The potential of
 > The application of AI in radiomics.
 > However, ctDNA still takes 
 
+
+[@tibermacineRadiomicsModellingRectal2021]
+
 ### 5. AI
+
+>
 
 > Beyond radiomics, AI also has interesting applications...
