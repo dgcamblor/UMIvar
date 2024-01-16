@@ -55,3 +55,5 @@ El mapa del mundo es una representación de la realidad que cada persona tiene e
 
 - Selección. La selección primaria es la principal característica que un interlocutor recuerda de sus experiencias.
 - Operadores. De dirección, para alcanzar una meta o evitar un problema. De compromiso, siendo la postura pasiva o activa, etc. Modales. Son las palabras que se utilizan para expresar una idea. Pueden ser de posibilidad, necesidad, etc.
+- Funciones. Selección de uno mismo o de los demás.
+- Estructura de acuerdo vs. estructura de desacuerdo.

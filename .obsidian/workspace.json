@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "17c0ed4707b84c9b",
   "lastOpenFiles": [
-    "Doctorado/ctDNA methylation overview.md",
     "Dashboard.md",
+    "Doctorado/ctDNA methylation overview.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Dieta y hábitos/Aceites.md",
     "Doctorado/MRD ctDNA assays.md",
