@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48238ca633dcb127",
+        "id": "a698b5d5387fc822",
         "type": "tabs",
         "children": [
           {
-            "id": "799fdadaec92b020",
+            "id": "49454435e30117d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/MRD ctDNA assays.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Doctorado/MRD ctDNA assays.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/MRD ctDNA assays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/MRD ctDNA assays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Doctorado/MRD ctDNA assays.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,18 +191,18 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "799fdadaec92b020",
+  "active": "49454435e30117d3",
   "lastOpenFiles": [
-    "Doctorado/MRD ctDNA clinical trials.md",
-    "Dieta y hábitos/Aceites.md",
-    "Dieta y hábitos/Hábitos seguidos.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Dashboard.md",
+    "Dieta y hábitos/Aceites.md",
     "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Dieta y hábitos/Hábitos seguidos.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
     "Doctorado/PhD dashboard.md",
     "Notas diarias/2023-11-23.md",
-    "Dashboard.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
     "Notas de cursos/Sin título.md",

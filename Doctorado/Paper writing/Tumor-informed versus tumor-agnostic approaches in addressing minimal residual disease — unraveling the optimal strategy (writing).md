@@ -18,6 +18,8 @@ One great example are WIF1 and neuropeptide Y.
 
 As previously stated, the tumor-informed approach, aims to molecularly characterize the tumor tissue prior to ctDNA detection. This way, a bespoke ctDNA assay can be created to directly target the specific mutations of said tumor. The addition of tumor sequencing has both advantages and disadvantages when compared to the tumor-agnostic strategy. 
 
+[CHIP]
+
 However, the addition of tumor sequencing comes at a cost, both in terms of he 
 
 Focusing only on variants found in tumor tissue also raises the question of tumor heterogeneity and resistance mechanisms, where treatment may lead to the appearance or increase of different clonal cells harboring different mutations than those initially found. Thus, potential new variants could be omitted.
@@ -51,7 +53,9 @@ The DYNAMIC trial has also led to meaningful insights.
 
 By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
 
-[CHIP]
+
+
+[A multicenter, prospective observational study to evaluate the impact of circulating tumor DNA guide](https://www.natera.com/resource-library/signatera-published-data-in-mrd/a-multicenter-prospective-observational-study-to-evaluate-the-impact-of-circulating-tumor-dna-guided-therapy-on-patients-with-colorectal-cancer) BESPOKE
 
 ### Other trials
 
@@ -60,6 +64,10 @@ Other recent studies have explored the
 [@tarazonaTargetedNextgenerationSequencing2019]
 
 ## IV. Comparison
+
+### Strengths and weaknesses
+
+### Discussion of studies comparing both approaches
 
 ![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Studies comparing both approaches]]
 
