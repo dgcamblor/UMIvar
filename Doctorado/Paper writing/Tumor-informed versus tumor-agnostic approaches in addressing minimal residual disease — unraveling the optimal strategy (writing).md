@@ -17,14 +17,18 @@ Focusing only on variants found in tumor tissue also raises the question of tumo
 
 ### DYNAMIC trial
 
-A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients, where ctDNA detection after resection showed higher risk of recurrence as determined by radiologic 
+A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. 
+
+One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients, where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a Safe-SeqS (UMI-based) assay, which enables deep sequencing with error correction. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations. The results showed that postoperative cTDNA-positive status was related to 
+
+The same approximation was implemented in the DYNAMIC trial (ACTRN12615000381583), which 
 
 
-In this line, one of the most insightful studies is the DYNAMIC trial (ACTRN12615000381583). In a prospective cohort of 230 CRC stage II patients, a group suggested the
+In this line, one of the most insightful studies is the DYNAMIC trial (). In a prospective cohort of 230 CRC stage II patients, a group suggested the
 
 This study was followed with the DYNAMIC trial, which aims at further proving...
 
-Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a Safe-SeqS (UMI-based) assay.
+
 
 
 ACTRN12612000326897
