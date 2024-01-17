@@ -4,10 +4,12 @@ cancerType: solid
 tags:
   - phd
 ---
-Hay dos tipos de cáncer colorrectal:
+El cáncer colorrectal abarca dos tipos de cáncer:
 
 - **Cáncer de colon.** Desarrollado en ciego, colon, ascendente, transverso, descendente o sigma. Según varios estudios, los pacientes con tumores en el lado izquierdo del colon suelen tener un mejor pronóstico que aquellos con tumores en el lado derecho. https://dx.doi.org/10.17235/reed.2018.5544/2018.
 - **Cáncer de recto.** El que aparece en los últimos 15 cm del intestino grueso, situado dentro de la pelvis. Supone 1/3 del total CCR.
+
+Estos dos tipos de cáncer se estudian a menudo juntos porque comparte muchas similitudes en términos de factores de riesgo, síntomas y tratamiento. Se originan del mismo tipo de células, y comparten vías genéticas comunes. Esto hace que tenga sentido englobarlos en una misma categoría, aunque no falte la propuesta de separarlos por diferencias en características clínicas.
 
 Según los datos de [Globocan 2020](https://gco.iarc.fr/today/data/factsheets/cancers/10_8_9-Colorectum-fact-sheet.pdf), el CCR es el tercer cáncer en incidencia (10% de los nuevos casos) y el segundo en mortalidad (datos de ambos sexos) [@sungGlobalCancerStatistics2021]. Este tipo de cáncer ocurre con más frecuencia en los países desarrollados.
 

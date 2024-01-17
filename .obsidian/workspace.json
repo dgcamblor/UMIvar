@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5cb8a515017fb76",
+        "id": "ff1147dae35db14d",
         "type": "tabs",
         "children": [
           {
-            "id": "5a9cc51e407f2247",
+            "id": "401f80934e5d5956",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dieta y hábitos/Suplementos.md",
+                "file": "Biología y medicina/Genética molecular/Genes/APC.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dieta y hábitos/Suplementos.md"
+                "file": "Biología y medicina/Genética molecular/Genes/APC.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dieta y hábitos/Suplementos.md",
+                "file": "Biología y medicina/Genética molecular/Genes/APC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dieta y hábitos/Suplementos.md",
+                "file": "Biología y medicina/Genética molecular/Genes/APC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dieta y hábitos/Suplementos.md"
+                "file": "Biología y medicina/Genética molecular/Genes/APC.md"
               }
             }
           },
@@ -201,12 +201,20 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5a9cc51e407f2247",
+  "active": "401f80934e5d5956",
   "lastOpenFiles": [
+    "Biología y medicina/Genética molecular/Genes/CDX2.md",
+    "Biología y medicina/Genética molecular/Genes/EGFR.md",
+    "Biología y medicina/Genética molecular/Genes/HLA.md",
+    "Biología y medicina/Genética molecular/Genes/KLF4.md",
+    "Biología y medicina/Genética molecular/Genes/KRAS.md",
+    "Biología y medicina/Genética molecular/Genes/MST1.md",
+    "Biología y medicina/Genética molecular/Genes/SEPT9.md",
+    "Biología y medicina/Oncología/Cáncer colorrectal.md",
+    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Dashboard.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/ctDNA methylation overview.md",
-    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Consejos para un póster científico.md",
     "Bioinformática y programación/Ómicas/Genómica/Tumor-normal paired sequencing.md",
     "Bioinformática y programación/Ómicas/Genómica/Strelka2.md",
@@ -223,17 +231,9 @@
     "Notas diarias/2023-11-23.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
-    "Notas de cursos/Sin título.md",
     "Notas de cursos/Sin título.md.partial",
     "Notas de cursos/Comunicación interpersonal.md.partial",
-    "Bioinformática y programación/Python/Loading bars.md",
     "Bioinformática y programación/Python/Loading bars.md.partial",
-    "Notas de cursos/Gestión del tiempo.md",
-    "Biología y medicina/Inmunología/Vacunas.md",
-    "Biología y medicina/Inmunología/Sistema del complemento.md",
-    "Biología y medicina/Inmunología/Linfocitos T.md",
-    "Biología y medicina/Inmunología/Linfocitos B.md",
-    "Biología y medicina/Inmunología/Inmunidad humoral.md",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Doctorado/Consejos para un póster científico.md~RFaa7489.TMP",
     "Biología y medicina/Virología",

@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Suplementos",
-      "path": "Dieta y hábitos/Suplementos.md"
+      "basename": "APC",
+      "path": "Biología y medicina/Genética molecular/Genes/APC.md"
+    },
+    {
+      "basename": "CDX2",
+      "path": "Biología y medicina/Genética molecular/Genes/CDX2.md"
+    },
+    {
+      "basename": "EGFR",
+      "path": "Biología y medicina/Genética molecular/Genes/EGFR.md"
+    },
+    {
+      "basename": "HLA",
+      "path": "Biología y medicina/Genética molecular/Genes/HLA.md"
+    },
+    {
+      "basename": "KLF4",
+      "path": "Biología y medicina/Genética molecular/Genes/KLF4.md"
+    },
+    {
+      "basename": "KRAS",
+      "path": "Biología y medicina/Genética molecular/Genes/KRAS.md"
+    },
+    {
+      "basename": "MST1",
+      "path": "Biología y medicina/Genética molecular/Genes/MST1.md"
+    },
+    {
+      "basename": "SEPT9",
+      "path": "Biología y medicina/Genética molecular/Genes/SEPT9.md"
+    },
+    {
+      "basename": "Cáncer colorrectal",
+      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "Suplementos",
+      "path": "Dieta y hábitos/Suplementos.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
@@ -19,10 +59,6 @@
     {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
-    },
-    {
-      "basename": "ctDNA methylation in CRC — biomarkers",
-      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
     },
     {
       "basename": "Consejos para un póster científico",
@@ -163,42 +199,6 @@
     {
       "basename": "Anki",
       "path": "Bioinformática y programación/Anki.md"
-    },
-    {
-      "basename": "2023-11-22",
-      "path": "Notas diarias/2023-11-22.md"
-    },
-    {
-      "basename": "2024-01-14",
-      "path": "Notas diarias/2024-01-14.md"
-    },
-    {
-      "basename": "Base Quality Score Recalibration",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
-    },
-    {
-      "basename": "Variant calling processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
-    },
-    {
-      "basename": "nf-core",
-      "path": "Bioinformática y programación/nf-core.md"
-    },
-    {
-      "basename": "Picard",
-      "path": "Bioinformática y programación/Programas/Picard.md"
-    },
-    {
-      "basename": "Influenzavirus",
-      "path": "Biología y medicina/Virología/Influenzavirus.md"
-    },
-    {
-      "basename": "Rhinovirus",
-      "path": "Biología y medicina/Virología/Rhinovirus.md"
-    },
-    {
-      "basename": "Writing on Medium",
-      "path": "Medium/Writing on Medium.md"
     }
   ],
   "omittedPaths": [],
