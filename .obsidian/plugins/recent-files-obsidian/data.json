@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
+    },
+    {
+      "basename": "Consejos para un póster científico",
+      "path": "Doctorado/Consejos para un póster científico.md"
+    },
+    {
+      "basename": "ctDNA methylation overview",
+      "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
+      "basename": "ctDNA methylation studies — methodologies and results",
+      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Strelka2",
       "path": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
     },
     {
       "basename": "Tumor-normal paired sequencing",
       "path": "Bioinformática y programación/Ómicas/Genómica/Tumor-normal paired sequencing.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
@@ -23,10 +39,6 @@
     {
       "basename": "Comunicación interpersonal",
       "path": "Notas de cursos/Comunicación interpersonal.md"
-    },
-    {
-      "basename": "ctDNA methylation overview",
-      "path": "Doctorado/ctDNA methylation overview.md"
     },
     {
       "basename": "Suplementos",
@@ -187,18 +199,6 @@
     {
       "basename": "Writing on Medium",
       "path": "Medium/Writing on Medium.md"
-    },
-    {
-      "basename": "Own stories",
-      "path": "Medium/Own stories.md"
-    },
-    {
-      "basename": "Genomic benchmarking resources",
-      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
-    },
-    {
-      "basename": "AmpUMI",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/AmpUMI.md"
     }
   ],
   "omittedPaths": [],
