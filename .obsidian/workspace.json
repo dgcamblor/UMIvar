@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e7e300802722c1a9",
+        "id": "c5cb8a515017fb76",
         "type": "tabs",
         "children": [
           {
-            "id": "770ac3231014a54a",
+            "id": "5a9cc51e407f2247",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Dieta y hábitos/Suplementos.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Dieta y hábitos/Suplementos.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Dieta y hábitos/Suplementos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Dieta y hábitos/Suplementos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Dieta y hábitos/Suplementos.md"
               }
             }
           },
@@ -201,13 +201,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "770ac3231014a54a",
+  "active": "5a9cc51e407f2247",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/ctDNA methylation overview.md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Consejos para un póster científico.md",
-    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/Tumor-normal paired sequencing.md",
     "Bioinformática y programación/Ómicas/Genómica/Strelka2.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",

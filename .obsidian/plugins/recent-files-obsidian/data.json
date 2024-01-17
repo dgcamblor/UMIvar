@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Suplementos",
+      "path": "Dieta y hábitos/Suplementos.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -21,10 +29,6 @@
       "path": "Doctorado/Consejos para un póster científico.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Strelka2",
       "path": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Comunicación interpersonal",
       "path": "Notas de cursos/Comunicación interpersonal.md"
-    },
-    {
-      "basename": "Suplementos",
-      "path": "Dieta y hábitos/Suplementos.md"
     },
     {
       "basename": "Aceites",
