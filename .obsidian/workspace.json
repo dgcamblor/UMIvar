@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0426b7983155337",
+        "id": "c459e79374312ffb",
         "type": "tabs",
         "children": [
           {
-            "id": "37b66d6d1f962592",
+            "id": "86f3f9aece159c4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -201,12 +201,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "37b66d6d1f962592",
+  "active": "86f3f9aece159c4c",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Dieta y hábitos/Autoexploración de la piel.md",
     "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
     "Dieta y hábitos/Aceites.md",
-    "Dashboard.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Biología y medicina/Epigenética/Epigenética y cáncer.md",

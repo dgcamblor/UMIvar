@@ -8,9 +8,10 @@ tags:
 %%
 
 
+
 ## II. Tumor-agnostic strategies
 
-Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD. Indeed, the key characteristics of aberrant methylation pose great implications in favor of their use in tumor agnoatic approaches: 
+Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, the key characteristics of aberrant methylation pose great implications in favor of their use in tumor agnoatic approaches: 
 T
 
 he use of specific 
