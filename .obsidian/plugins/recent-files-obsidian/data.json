@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Pérdida de Y (LOY)",
+      "path": "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md"
+    },
+    {
+      "basename": "Autoexploración de la piel",
+      "path": "Dieta y hábitos/Autoexploración de la piel.md"
+    },
+    {
+      "basename": "Aceites",
+      "path": "Dieta y hábitos/Aceites.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Epigenética y cáncer",
@@ -149,10 +161,6 @@
       "path": "Notas de cursos/Comunicación interpersonal.md"
     },
     {
-      "basename": "Aceites",
-      "path": "Dieta y hábitos/Aceites.md"
-    },
-    {
       "basename": "MRD ctDNA assays",
       "path": "Doctorado/MRD ctDNA assays.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Linfocitos B",
       "path": "Biología y medicina/Inmunología/Linfocitos B.md"
-    },
-    {
-      "basename": "Vacunas",
-      "path": "Biología y medicina/Inmunología/Vacunas.md"
-    },
-    {
-      "basename": "Sistema del complemento",
-      "path": "Biología y medicina/Inmunología/Sistema del complemento.md"
     }
   ],
   "omittedPaths": [],
