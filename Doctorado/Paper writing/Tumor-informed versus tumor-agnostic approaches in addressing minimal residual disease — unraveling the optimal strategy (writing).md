@@ -12,11 +12,13 @@ tags:
 ## II. Tumor-agnostic strategies
 
 Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, the key characteristics of aberrant methylation pose great implications in favor of their use in tumor agnoatic approaches: 
-T
+
 
 he use of specific 
 
-One great example are WIF1 and neuropeptide Y.
+One great example are WIF1 and neuropeptide Y, genes that have consistently been found hypermethilated in CRC tumor tissue
+
+Tumor naive: SEPT9, BCAT1, IKZF1
 
 ## III. Tumor-informed strategies
 
@@ -39,9 +41,10 @@ One of the earliest key studies that supported this approach was performed in a 
 
 The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the posibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In this approximation, patients that were ctDNA-positive at 4 or 7 weeks after surgery were recommended to receive adjuvant oxaliplatin- or fluoropyrimidine-based chemotherapy. Conversely, patients testing negative for ctDNA did not receive adjuvant chemotherapy. The RFS for the ctDNA-guided group was comparable to that of the standard management group (93.5% vs. 92.4%), indicating the suitability of chemotherapy reduction in ctDNA negative patients [@tieCirculatingTumorDNA2022].
 
-> The DYNAMIC trial for stage II colon cancer is a multi-center randomized controlled clinical trial that aims to determine whether adjuvant chemotherapy
-
 ### GALAXY trial
+
+- [ ] Add further studies that use Signatera
+- [ ] [A multicenter, prospective observational study to evaluate the impact of circulating tumor DNA guide](https://www.natera.com/resource-library/signatera-published-data-in-mrd/a-multicenter-prospective-observational-study-to-evaluate-the-impact-of-circulating-tumor-dna-guided-therapy-on-patients-with-colorectal-cancer) BESPOKE
 
 Another key evidence for the support the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. The detection of ctDNA was performed using the tumor-informed Signatera (Natera) assay. In brief, WES is performed 
 
@@ -53,23 +56,19 @@ is the GALAXY trial
 
 To establish the ctDNA status of the patients a Signatera assay (Natera) was used.
 
-The DYNAMIC trial has also led to meaningful insights.
-
-By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
-
-
-
-[A multicenter, prospective observational study to evaluate the impact of circulating tumor DNA guide](https://www.natera.com/resource-library/signatera-published-data-in-mrd/a-multicenter-prospective-observational-study-to-evaluate-the-impact-of-circulating-tumor-dna-guided-therapy-on-patients-with-colorectal-cancer) BESPOKE
-
 ### Other trials
+
+- [ ] [@tarazonaTargetedNextgenerationSequencing2019]
 
 Other recent studies have explored the 
 
-[@tarazonaTargetedNextgenerationSequencing2019]
+
 
 ## IV. Comparison
 
 ### Strengths and weaknesses
+
+By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
 
 ### Discussion of studies comparing both approaches
 
@@ -93,7 +92,7 @@ Beyond purely genomic-based detection of ctDNA for MRD assessment, the identific
 
 Methylation biomarkers have mostly proven useful in the tumor-agnostic setting. 
 
-Tumor naive: SEPT9, BCAT1, IKZF1
+FRAGMENTOMICS!!!!!!!!!!!!!!!!
 
 Characteristics of methylation markers
 
