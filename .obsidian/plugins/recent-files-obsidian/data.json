@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Kaplan-Meier",
-      "path": "Estadística/Kaplan-Meier.md"
+      "basename": "Misery - Stephen King",
+      "path": "Notas de libros/Misery - Stephen King.md"
     },
     {
       "basename": "Análisis de supervivencia",
       "path": "Estadística/Análisis de supervivencia.md"
+    },
+    {
+      "basename": "Kaplan-Meier",
+      "path": "Estadística/Kaplan-Meier.md"
     },
     {
       "basename": "Tamaño muestral",
@@ -195,10 +199,6 @@
     {
       "basename": "PhD dashboard",
       "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "2023-11-23",
-      "path": "Notas diarias/2023-11-23.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Análisis de supervivencia.md",
+                "file": "Notas de libros/Misery - Stephen King.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Kaplan-Meier.md"
+                "file": "Notas de libros/Misery - Stephen King.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Kaplan-Meier.md",
+                "file": "Notas de libros/Misery - Stephen King.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Kaplan-Meier.md",
+                "file": "Notas de libros/Misery - Stephen King.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Kaplan-Meier.md"
+                "file": "Notas de libros/Misery - Stephen King.md"
               }
             }
           },
@@ -214,7 +213,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0e3a0193f048f593",
+  "active": "86f3f9aece159c4c",
   "lastOpenFiles": [
     "Estadística/Análisis de supervivencia.md",
     "Estadística/Kaplan-Meier.md",
