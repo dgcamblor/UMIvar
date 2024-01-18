@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Kaplan-Meier",
+      "path": "Estadística/Kaplan-Meier.md"
+    },
+    {
+      "basename": "Análisis de supervivencia",
+      "path": "Estadística/Análisis de supervivencia.md"
+    },
+    {
+      "basename": "Tamaño muestral",
+      "path": "Estadística/Tamaño muestral.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2023-11-23",
       "path": "Notas diarias/2023-11-23.md"
-    },
-    {
-      "basename": "Gestión del tiempo",
-      "path": "Notas de cursos/Gestión del tiempo.md"
-    },
-    {
-      "basename": "Loading bars",
-      "path": "Bioinformática y programación/Python/Loading bars.md"
-    },
-    {
-      "basename": "Linfocitos B",
-      "path": "Biología y medicina/Inmunología/Linfocitos B.md"
     }
   ],
   "omittedPaths": [],

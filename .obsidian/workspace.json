@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Estadística/Análisis de supervivencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e3a0193f048f593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estadística/Kaplan-Meier.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Estadística/Kaplan-Meier.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Estadística/Kaplan-Meier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Estadística/Kaplan-Meier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Estadística/Kaplan-Meier.md"
               }
             }
           },
@@ -201,13 +214,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "86f3f9aece159c4c",
+  "active": "0e3a0193f048f593",
   "lastOpenFiles": [
+    "Estadística/Análisis de supervivencia.md",
+    "Estadística/Kaplan-Meier.md",
+    "Estadística/Tamaño muestral.md",
+    "Estadística/Sin título.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Dashboard.md",
     "Dieta y hábitos/Autoexploración de la piel.md",
     "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
     "Dieta y hábitos/Aceites.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Biología y medicina/Epigenética/Epigenética y cáncer.md",
     "Biología y medicina/Epigenética/5hmC.md",
@@ -225,10 +242,6 @@
     "Biología y medicina/Genética molecular/Genes/EGFR.md",
     "Biología y medicina/Genética molecular/Genes/HLA.md",
     "Biología y medicina/Genética molecular/Genes/KLF4.md",
-    "Biología y medicina/Genética molecular/Genes/KRAS.md",
-    "Biología y medicina/Genética molecular/Genes/MST1.md",
-    "Biología y medicina/Genética molecular/Genes/SEPT9.md",
-    "Biología y medicina/Oncología/Cáncer colorrectal.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
     "Notas de cursos/Sin título.md.partial",
