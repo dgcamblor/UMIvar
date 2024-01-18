@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Epigenética y cáncer",
+      "path": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
+    },
+    {
+      "basename": "Epigenética y envejecimiento",
+      "path": "Biología y medicina/Epigenética/Epigenética y envejecimiento.md"
+    },
+    {
+      "basename": "5hmC",
+      "path": "Biología y medicina/Epigenética/5hmC.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Pirosecuenciación",
+      "path": "Biología y medicina/Epigenética/Pirosecuenciación.md"
+    },
+    {
       "basename": "Gamification of your personal development",
       "path": "Medium/Gamification of your personal development.md"
     },
@@ -23,10 +43,6 @@
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Resonancia Magnética",
@@ -183,22 +199,6 @@
     {
       "basename": "Sistema del complemento",
       "path": "Biología y medicina/Inmunología/Sistema del complemento.md"
-    },
-    {
-      "basename": "Linfocitos T",
-      "path": "Biología y medicina/Inmunología/Linfocitos T.md"
-    },
-    {
-      "basename": "Inmunidad humoral",
-      "path": "Biología y medicina/Inmunología/Inmunidad humoral.md"
-    },
-    {
-      "basename": "Maltodextrina",
-      "path": "Dieta y hábitos/Maltodextrina.md"
-    },
-    {
-      "basename": "Wim Hof breathing technique",
-      "path": "Dieta y hábitos/Wim Hof breathing technique.md"
     }
   ],
   "omittedPaths": [],
