@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6187fb4144cfb2a0",
+        "id": "049982d5d25db987",
         "type": "tabs",
         "children": [
           {
-            "id": "ccdccb2a2f97ac33",
+            "id": "5aa73daa855b9ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Medium/Gamification of your personal development.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "Medium/Gamification of your personal development.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "Medium/Gamification of your personal development.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "Medium/Gamification of your personal development.md"
           }
         }
       },
@@ -162,10 +162,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ccdccb2a2f97ac33",
+  "active": "4eef00bcb3895e33",
   "lastOpenFiles": [
-    "Medium/Own stories.md",
+    "Medium/Writing on Medium.md",
+    "Medium/What is life.md",
+    "Medium/Up your pipeline game - Use a workflow manager.md",
+    "Medium/My career.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Dashboard.md",
+    "Medium/Own stories.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
@@ -195,11 +200,6 @@
     "Notas Diarias/2023-11-23.md",
     "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md",
     "Notas de vídeos/I watch your videos but nothing changes.md",
-    "Notas de vídeos/How to Focus to Change Your Brain.md",
-    "Notas de vídeos/Free will.md",
-    "Notas de vídeos/Dr. Matthew Walker — The Science & Practice of Perfecting Your Sleep.md",
-    "Kindle and book highlights/Show Your Work!.md",
-    "Notas de cursos/Gestión del tiempo.md",
     "Notas de cursos",
     "Guías y referencias",
     "General",

@@ -10,7 +10,10 @@ tags:
 
 ## II. Tumor-agnostic strategies
 
-The use of specific 
+Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD. Indeed, the key characteristics of aberrant methylation pose great implications in favor of their use in tumor agnoatic approaches: 
+T
+
+he use of specific 
 
 One great example are WIF1 and neuropeptide Y.
 

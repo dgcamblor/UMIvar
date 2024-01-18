@@ -1,0 +1,1 @@
+Es similar a la [[Inmunohistoquímica]], pero la visualización está basada en fluorescencia y se observa por microscopía fluorescente.

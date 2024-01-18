@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Gamification of your personal development",
+      "path": "Medium/Gamification of your personal development.md"
+    },
+    {
+      "basename": "Writing on Medium",
+      "path": "Medium/Writing on Medium.md"
+    },
+    {
+      "basename": "What is life",
+      "path": "Medium/What is life.md"
+    },
+    {
+      "basename": "Up your pipeline game - Use a workflow manager",
+      "path": "Medium/Up your pipeline game - Use a workflow manager.md"
+    },
+    {
+      "basename": "My career",
+      "path": "Medium/My career.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Resonancia Magnética",
+      "path": "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md"
+    },
+    {
+      "basename": "Tomografía Computarizada (TC)",
+      "path": "Biología y medicina/Pruebas diagnósticas/Tomografía Computarizada (TC).md"
+    },
+    {
+      "basename": "Métodos de imagen",
+      "path": "Biología y medicina/Pruebas diagnósticas/Métodos de imagen.md"
+    },
+    {
+      "basename": "Inmunofluorescencia",
+      "path": "Biología y medicina/Pruebas diagnósticas/Inmunofluorescencia.md"
+    },
+    {
+      "basename": "Inmunohistoquímica",
+      "path": "Biología y medicina/Pruebas diagnósticas/Inmunohistoquímica.md"
+    },
+    {
+      "basename": "Empresas de secuenciación",
+      "path": "Biología y medicina/Genética molecular/Empresas de secuenciación.md"
+    },
+    {
+      "basename": "PBMCs",
+      "path": "Biología y medicina/Genética molecular/PBMCs.md"
+    },
+    {
+      "basename": "Check, write",
+      "path": "Check, write.md"
+    },
+    {
       "basename": "APC",
       "path": "Biología y medicina/Genética molecular/Genes/APC.md"
     },
@@ -41,16 +101,8 @@
       "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Suplementos",
       "path": "Dieta y hábitos/Suplementos.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "ctDNA methylation studies — methodologies and results",
@@ -147,58 +199,6 @@
     {
       "basename": "Wim Hof breathing technique",
       "path": "Dieta y hábitos/Wim Hof breathing technique.md"
-    },
-    {
-      "basename": "Autoexploración de la piel",
-      "path": "Dieta y hábitos/Autoexploración de la piel.md"
-    },
-    {
-      "basename": "Magrittr pipe vs. base R pipe",
-      "path": "Bioinformática y programación/R/Magrittr pipe vs. base R pipe.md"
-    },
-    {
-      "basename": "scRNA-seq analysis",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
-    },
-    {
-      "basename": "Seurat",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/Seurat.md"
-    },
-    {
-      "basename": "scRNA-seq processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
-    },
-    {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
-    },
-    {
-      "basename": "Research caveats",
-      "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
-      "basename": "Improving INCLIVA ctDNA WES pipeline",
-      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "Antígeno carcinoembrionario (CAE)",
-      "path": "Biología y medicina/Oncología/Antígeno carcinoembrionario (CAE).md"
-    },
-    {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
-      "basename": "Anki",
-      "path": "Bioinformática y programación/Anki.md"
     }
   ],
   "omittedPaths": [],

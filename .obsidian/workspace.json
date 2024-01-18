@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Genes/APC.md",
+                "file": "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Genes/APC.md"
+                "file": "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Genes/APC.md",
+                "file": "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Genes/APC.md",
+                "file": "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Genética molecular/Genes/APC.md"
+                "file": "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md"
               }
             }
           },
@@ -203,6 +203,15 @@
   },
   "active": "401f80934e5d5956",
   "lastOpenFiles": [
+    "Biología y medicina/Pruebas diagnósticas/Tomografía Computarizada (TC).md",
+    "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md",
+    "Biología y medicina/Pruebas diagnósticas/Métodos de imagen.md",
+    "Biología y medicina/Pruebas diagnósticas/Inmunofluorescencia.md",
+    "Biología y medicina/Pruebas diagnósticas/Inmunohistoquímica.md",
+    "Biología y medicina/Genética molecular/Empresas de secuenciación.md",
+    "Biología y medicina/Genética molecular/PBMCs.md",
+    "Check, write.md",
+    "Biología y medicina/Genética molecular/Genes/APC.md",
     "Biología y medicina/Genética molecular/Genes/CDX2.md",
     "Biología y medicina/Genética molecular/Genes/EGFR.md",
     "Biología y medicina/Genética molecular/Genes/HLA.md",
@@ -220,15 +229,6 @@
     "Bioinformática y programación/Ómicas/Genómica/Strelka2.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
-    "Notas de cursos/Comunicación interpersonal.md",
-    "Dieta y hábitos/Aceites.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
-    "Dieta y hábitos/Hábitos seguidos.md",
-    "Doctorado/Líneas de investigación y estudios de interés.md",
-    "Doctorado/Possible controls for ctDNA methylation.md",
-    "Doctorado/PhD dashboard.md",
-    "Notas diarias/2023-11-23.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
     "Notas de cursos/Sin título.md.partial",
