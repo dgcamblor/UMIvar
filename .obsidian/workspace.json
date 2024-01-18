@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e995fa4282f88593",
+        "id": "eec6aa5b3b719630",
         "type": "tabs",
         "children": [
           {
-            "id": "5130b018a6c6354d",
+            "id": "7fd532ef6ac96a5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Epigenética/Epigenética y cáncer.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Epigenética y cáncer.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Epigenética y cáncer.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -201,12 +201,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5130b018a6c6354d",
+  "active": "7fd532ef6ac96a5c",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Biología y medicina/Epigenética/Epigenética y cáncer.md",
     "Biología y medicina/Epigenética/5hmC.md",
-    "Dashboard.md",
     "Biología y medicina/Epigenética/Pirosecuenciación.md",
     "Biología y medicina/Pruebas diagnósticas/Tomografía Computarizada (TC).md",
     "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md",
