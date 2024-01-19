@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Methylation in CRC.md",
+                "file": "Doctorado/ctDNA methylation overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Methylation in CRC.md"
+                "file": "Doctorado/ctDNA methylation overview.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Methylation in CRC.md",
+                "file": "Doctorado/ctDNA methylation overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Methylation in CRC.md",
+                "file": "Doctorado/ctDNA methylation overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Methylation in CRC.md"
+                "file": "Doctorado/ctDNA methylation overview.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "c37395f311f753fd",
   "lastOpenFiles": [
-    "Doctorado/ctDNA methylation overview.md",
     "Doctorado/Methylation in CRC.md",
+    "Doctorado/ctDNA methylation overview.md",
     "Doctorado/Methylation and drug resistance.md",
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
