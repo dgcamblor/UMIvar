@@ -9,21 +9,17 @@ tags:
 
 ## II. Tumor-agnostic strategies
 
-Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for the agnostic detection of ctDNA because of their relatively high frequency and ubiquity 
-
-[Circulating tumor DNA methylation profiles enable early diagnosis, prognosis prediction, and screening for colorectal cancer - PubMed](https://pubmed.ncbi.nlm.nih.gov/31894106/)
-
-[DNA methylation markers for diagnosis and prognosis of common cancers - PubMed](https://pubmed.ncbi.nlm.nih.gov/28652331/)
+Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for the agnostic detection of ctDNA because of their relatively high frequency and ubiquity, which counters the 
 
 
-key characteristics of aberrant methylation pose great implications in favor of their use in tumor agnoatic approaches: 
+[@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. One great example are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers of MRD [@roperchAberrantMethylationNPY2013; @oversDetectionSpecificHypermethylated2021].
 
 
-he use of specific 
-
-One great example are WIF1 and neuropeptide Y, genes that have consistently been found hypermethilated in CRC tumor tissue
+The potential of NPY was further explored in a prospective study
 
 Tumor naive: SEPT9, BCAT1, IKZF1
+
+![[ctDNA methylation in CRC — biomarkers#Monitorización de la respuesta a terapia y resistencia]]
 
 ## III. Tumor-informed strategies
 
