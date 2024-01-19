@@ -10,4 +10,8 @@ Generally, the x-axis represents the samples and the y-axis represents the genes
 
 ## dN/dS calculation
 
-The dN/dS ratio 
+The dN/dS ratio compares the rate of non-synonymous substitutions (dN) to the rate of synonymous substitutions (dS) in protein-coding regions.
+
+-  A dN/dS ratio greater than 1 suggests positive selection promoting change.
+- A ratio of 1 indicates neutrality.
+- A ratio less than 1 indicates purifying selection suppressing protein change
