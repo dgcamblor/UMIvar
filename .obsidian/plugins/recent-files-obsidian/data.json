@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Asociaciones y congresos de interés",
+      "path": "Doctorado/Asociaciones y congresos de interés.md"
+    },
+    {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
     },
     {
-      "basename": "Methylation in CRC",
-      "path": "Doctorado/Methylation in CRC.md"
+      "basename": "ctDNA methylation studies — methodologies and results",
+      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
     },
     {
       "basename": "Methylation and drug resistance",
       "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "Methylation in CRC",
+      "path": "Doctorado/Methylation in CRC.md"
     },
     {
       "basename": "MRD ctDNA assays",
@@ -23,10 +35,6 @@
     {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "Dashboard",
@@ -43,10 +51,6 @@
     {
       "basename": "PhD dashboard",
       "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "ctDNA methylation studies — methodologies and results",
-      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
     },
     {
       "basename": "Misery - Stephen King",
@@ -195,10 +199,6 @@
     {
       "basename": "Consejos para un póster científico",
       "path": "Doctorado/Consejos para un póster científico.md"
-    },
-    {
-      "basename": "Strelka2",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
     }
   ],
   "omittedPaths": [],

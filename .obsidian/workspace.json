@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/ctDNA methylation overview.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -203,9 +203,11 @@
   },
   "active": "c37395f311f753fd",
   "lastOpenFiles": [
-    "Doctorado/Methylation in CRC.md",
+    "Doctorado/Asociaciones y congresos de interés.md",
     "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/Methylation and drug resistance.md",
+    "Doctorado/Methylation in CRC.md",
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
@@ -214,7 +216,6 @@
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
     "Doctorado/PhD dashboard.md",
-    "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Estadística/Análisis de supervivencia.md",
     "Estadística/Kaplan-Meier.md",
     "Estadística/Tamaño muestral.md",
@@ -228,7 +229,6 @@
     "Biología y medicina/Epigenética/Pirosecuenciación.md",
     "Biología y medicina/Pruebas diagnósticas/Tomografía Computarizada (TC).md",
     "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md",
-    "Biología y medicina/Pruebas diagnósticas/Métodos de imagen.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
     "Notas de cursos/Sin título.md.partial",

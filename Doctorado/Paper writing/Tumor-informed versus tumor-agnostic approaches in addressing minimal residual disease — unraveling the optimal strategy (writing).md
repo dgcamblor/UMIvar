@@ -7,11 +7,16 @@ tags:
 - [ ] BESPOKE study protocol [@kasiBESPOKEStudyProtocol2021]
 %%
 
-
-
 ## II. Tumor-agnostic strategies
 
-Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, the key characteristics of aberrant methylation pose great implications in favor of their use in tumor agnoatic approaches: 
+Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner.
+
+[Circulating tumor DNA methylation profiles enable early diagnosis, prognosis prediction, and screening for colorectal cancer - PubMed](https://pubmed.ncbi.nlm.nih.gov/31894106/)
+
+[DNA methylation markers for diagnosis and prognosis of common cancers - PubMed](https://pubmed.ncbi.nlm.nih.gov/28652331/)
+
+
+key characteristics of aberrant methylation pose great implications in favor of their use in tumor agnoatic approaches: 
 
 
 he use of specific 
