@@ -21,7 +21,7 @@ One great example are the WIF1 and NPY genes, which have consistently been found
 
 The methylation levels of BCAT1 and IKZF1 have also been detected in ctDNA and associated to CRC tumor presence. In a prospective study of 142 stage I-III CRC patients, the aberrant methylation of said genes was found in 19 patients, which exhibited higher risk of recurrence (HR = 5.7) and lesser 3-year RFS (56.5% vs. 83.3% in wild type methylation) [@pedersenDetectionMethylatedBCAT12022].
 
-These two biomarkers are also assessed in the 
+These two biomarkers are also assessed in the Colvera assay (CSIRO), which has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respecitvely, in its latest iteration [@vuceticClinicalPerformanceMethylationbased2021].
 ### SEPT9
 
 
