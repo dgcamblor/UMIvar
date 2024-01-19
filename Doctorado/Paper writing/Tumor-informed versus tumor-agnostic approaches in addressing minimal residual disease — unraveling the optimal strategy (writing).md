@@ -9,7 +9,7 @@ tags:
 
 ## II. Tumor-agnostic strategies
 
-Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner.
+Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for the agnostic detection of ctDNA because of their relatively high frequency and ubiquity 
 
 [Circulating tumor DNA methylation profiles enable early diagnosis, prognosis prediction, and screening for colorectal cancer - PubMed](https://pubmed.ncbi.nlm.nih.gov/31894106/)
 
