@@ -58,7 +58,7 @@ To establish the ctDNA status of the patients a Signatera assay (Natera) was use
 
 ### Other trials
 
-Studies using non-commercial tumor-informed assays have also rendered insightful results. One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR [@tarazonaTargetedNextgenerationSequencing2019]
+Studies using non-commercial tumor-informed assays have also rendered insightful results. One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
 
 Other recent studies have explored the 
 
