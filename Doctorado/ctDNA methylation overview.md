@@ -86,7 +86,7 @@ Consult more studies in [@huangCellFreeDNAMethylation2019]. #check
 
 **The pattern of cfDNA methylation is consistent with their originated cells or tissues [@huangCellFreeDNAMethylation2019, @lianidouDetectionRelevanceEpigenetic2021].** Therefore, it can be used to infer the underlying cell type via **deconvolution methods**, and could be used to infer cancer subtypes (with implications in prognosis and treatment). #insight
 
-### Detection of Minimal Residual Disease (MRD )
+### Detection of Minimal Residual Disease (MRD)
 
 Hasta la fecha, la biopsia líquida centrada en la detección de [[Enfermedad mínima residual (EMR)]] se ha centrado en la detección de mutaciones somáticas. Sin embargo, el uso de la metilación aberrante del ctDNA como biomarcador para la detección de EMR es de enorme utilidad porque [@johnstonEpigeneticLiquidBiopsies2023a]:
 

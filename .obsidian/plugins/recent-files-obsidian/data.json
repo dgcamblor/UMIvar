@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "ctDNA methylation overview",
+      "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -17,24 +37,8 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
     },
     {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
       "basename": "PhD dashboard",
       "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "ctDNA methylation overview",
-      "path": "Doctorado/ctDNA methylation overview.md"
     },
     {
       "basename": "ctDNA methylation studies — methodologies and results",
@@ -195,10 +199,6 @@
     {
       "basename": "Tumor-normal paired sequencing",
       "path": "Bioinformática y programación/Ómicas/Genómica/Tumor-normal paired sequencing.md"
-    },
-    {
-      "basename": "Comunicación interpersonal",
-      "path": "Notas de cursos/Comunicación interpersonal.md"
     }
   ],
   "omittedPaths": [],
