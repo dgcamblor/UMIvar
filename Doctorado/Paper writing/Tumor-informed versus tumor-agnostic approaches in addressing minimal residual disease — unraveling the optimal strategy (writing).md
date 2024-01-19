@@ -9,11 +9,14 @@ tags:
 
 ## II. Tumor-agnostic strategies
 
-Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for the agnostic detection of ctDNA because of their relatively high frequency and ubiquity, which counters the 
+Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for the agnostic detection of ctDNA because of their relatively high frequency and ubiquity, which differs from genetic variants, much more prone to tumor and clonal specificity [@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. 
+
+One great example are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers of MRD [@roperchAberrantMethylationNPY2013; @oversDetectionSpecificHypermethylated2021]. The aberrant methylation of these genes was used to track 
 
 
-[@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. One great example are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers of MRD [@roperchAberrantMethylationNPY2013; @oversDetectionSpecificHypermethylated2021].
 
+
+SEPT9, which has extensively been studied for CRC early detection and is the core of the FDA-approved commercial assays has also been proposed for MRD detection.
 
 The potential of NPY was further explored in a prospective study
 
