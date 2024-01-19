@@ -35,7 +35,7 @@ Focusing only on variants found in tumor tissue also raises the question of tumo
 > Añadir sobre la capacidad de detección.
 > El primero de TIE van solo a por una y el segundo por al menos una??? revisar
 
-A growing body of research and clinical trials has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. 
+A growing body of research and clinical trial results has appeared to demonstrate the usefulness of tumor-informed approaches to MRD detection. 
 
 One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative cTDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
 
@@ -58,10 +58,7 @@ To establish the ctDNA status of the patients a Signatera assay (Natera) was use
 
 ### Other trials
 
-Studies using non-commercial tumor-informed assays have also rendered insightful results 
-
-
-- [ ] [@tarazonaTargetedNextgenerationSequencing2019]
+Studies using non-commercial tumor-informed assays have also rendered insightful results. One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR [@tarazonaTargetedNextgenerationSequencing2019]
 
 Other recent studies have explored the 
 

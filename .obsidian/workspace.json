@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be913c6c4989e563",
+        "id": "0b607652e525eb83",
         "type": "tabs",
         "children": [
           {
-            "id": "d1363bd278797afb",
+            "id": "c37395f311f753fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,8 +201,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d1363bd278797afb",
+  "active": "c37395f311f753fd",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
@@ -212,7 +213,6 @@
     "Doctorado/Possible controls for ctDNA methylation.md",
     "Doctorado/ctDNA methylation overview.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
-    "Dashboard.md",
     "Estadística/Análisis de supervivencia.md",
     "Estadística/Kaplan-Meier.md",
     "Estadística/Tamaño muestral.md",
