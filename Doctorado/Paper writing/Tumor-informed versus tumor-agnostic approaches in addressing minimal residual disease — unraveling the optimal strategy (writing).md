@@ -58,6 +58,9 @@ To establish the ctDNA status of the patients a Signatera assay (Natera) was use
 
 ### Other trials
 
+Studies using non-commercial tumor-informed assays have also rendered insightful results 
+
+
 - [ ] [@tarazonaTargetedNextgenerationSequencing2019]
 
 Other recent studies have explored the 
@@ -75,6 +78,10 @@ By sequencing both the tumor tissue and the ctDNA, variants related to clonal he
 ![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Studies comparing both approaches]]
 
 ## V. Emerging Technologies and Future Directions
+
+- Fragmentomics
+- CTCs
+- Imaging techniques (?) (guided by AI?)
 
 ### 1. NGS
 

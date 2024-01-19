@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c459e79374312ffb",
+        "id": "be913c6c4989e563",
         "type": "tabs",
         "children": [
           {
-            "id": "86f3f9aece159c4c",
+            "id": "d1363bd278797afb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de libros/Misery - Stephen King.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e3a0193f048f593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estadística/Kaplan-Meier.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de libros/Misery - Stephen King.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
               }
             }
           },
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de libros/Misery - Stephen King.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de libros/Misery - Stephen King.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de libros/Misery - Stephen King.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
               }
             }
           },
@@ -213,14 +201,21 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "86f3f9aece159c4c",
+  "active": "d1363bd278797afb",
   "lastOpenFiles": [
+    "Doctorado/Clinical relevance of ctDNA analysis.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Methylation and drug resistance.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/PhD dashboard.md",
+    "Doctorado/Possible controls for ctDNA methylation.md",
+    "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/ctDNA methylation studies — methodologies and results.md",
+    "Dashboard.md",
     "Estadística/Análisis de supervivencia.md",
     "Estadística/Kaplan-Meier.md",
     "Estadística/Tamaño muestral.md",
     "Estadística/Sin título.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Dashboard.md",
     "Dieta y hábitos/Autoexploración de la piel.md",
     "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
     "Dieta y hábitos/Aceites.md",
@@ -234,13 +229,6 @@
     "Biología y medicina/Pruebas diagnósticas/Inmunofluorescencia.md",
     "Biología y medicina/Pruebas diagnósticas/Inmunohistoquímica.md",
     "Biología y medicina/Genética molecular/Empresas de secuenciación.md",
-    "Biología y medicina/Genética molecular/PBMCs.md",
-    "Check, write.md",
-    "Biología y medicina/Genética molecular/Genes/APC.md",
-    "Biología y medicina/Genética molecular/Genes/CDX2.md",
-    "Biología y medicina/Genética molecular/Genes/EGFR.md",
-    "Biología y medicina/Genética molecular/Genes/HLA.md",
-    "Biología y medicina/Genética molecular/Genes/KLF4.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
     "Notas de cursos/Sin título.md.partial",
