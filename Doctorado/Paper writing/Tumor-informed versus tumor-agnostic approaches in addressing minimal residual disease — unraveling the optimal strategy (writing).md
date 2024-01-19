@@ -13,9 +13,11 @@ Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used 
 
 ### WIF1 and NPY
 
-One great example are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers of MRD [@roperchAberrantMethylationNPY2013; @oversDetectionSpecificHypermethylated2021]. The aberrant methylation of these genes was used to track 
+One great example are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers of MRD [@roperchAberrantMethylationNPY2013; @oversDetectionSpecificHypermethylated2021; @garrigouStudyHypermethylatedCirculating2016]. One study assessed the methylation status of these genes via dPCR in a cohort of 805 stage II-III CRC patients from the IDEA-FRANCE clinical trial (NCT00958737), showing that ctDNA-positive patients had a decreased 2-year DFS than ctDNA-negative (64% vs. 82%; HR = 1.75). Finally, one study was able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies using a digital PCR-based technology [@oversDetectionSpecificHypermethylated2021].
 
-Finally, one study was able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies using a digital PCR-based technology [@oversDetectionSpecificHypermethylated2021]
+> The aberrant methylation of these genes was used to track 
+
+
 
 ### BCAT1 and IKZF1
 
