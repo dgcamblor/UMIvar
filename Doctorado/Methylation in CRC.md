@@ -1,0 +1,1 @@
+[Differences in DNA Methylation Signatures Reveal Multiple Pathways of Progression From Adenoma to Colorectal Cancer - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016508514005952?casa_token=qDqIdt2jG28AAAAA:PQ-x9XMN49uUKMdrO56nMkT4g_p7LPgFL-fhv_-fGeL2q12vE3XT34uKuNeHUAjUWh2DRhqz4Hk)

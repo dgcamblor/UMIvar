@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Methylation in CRC",
+      "path": "Doctorado/Methylation in CRC.md"
+    },
+    {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Strelka2",
       "path": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
-    },
-    {
-      "basename": "Tumor-normal paired sequencing",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Tumor-normal paired sequencing.md"
     }
   ],
   "omittedPaths": [],
