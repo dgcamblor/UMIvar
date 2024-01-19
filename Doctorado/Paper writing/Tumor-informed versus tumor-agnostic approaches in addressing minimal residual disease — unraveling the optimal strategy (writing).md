@@ -11,9 +11,16 @@ tags:
 
 Beyond ctDNA genomics, purely epigenomics based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for the agnostic detection of ctDNA because of their relatively high frequency and ubiquity, which differs from genetic variants, much more prone to tumor and clonal specificity [@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. 
 
+### WIF1 and NPY
+
 One great example are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers of MRD [@roperchAberrantMethylationNPY2013; @oversDetectionSpecificHypermethylated2021]. The aberrant methylation of these genes was used to track 
 
+Finally, one study was able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies using a digital PCR-based technology [@oversDetectionSpecificHypermethylated2021]
 
+### BCAT1 and IKZF1
+
+
+### SEPT9
 
 
 SEPT9, which has extensively been studied for CRC early detection and is the core of the FDA-approved commercial assays has also been proposed for MRD detection.
@@ -21,6 +28,15 @@ SEPT9, which has extensively been studied for CRC early detection and is the cor
 The potential of NPY was further explored in a prospective study
 
 Tumor naive: SEPT9, BCAT1, IKZF1
+
+
+
+### Genome-wide
+
+[Response prediction by mutation- or methylation-specific detection of ctDNA dynamics in pretreated metastatic colorectal cancer - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10541738/)
+
+![[ctDNA methylation overview#^31c690]]
+
 
 ![[ctDNA methylation in CRC — biomarkers#Monitorización de la respuesta a terapia y resistencia]]
 
@@ -71,6 +87,8 @@ Other recent studies have explored the
 ## IV. Comparison
 
 ### Strengths and weaknesses
+
+High specificity of mutations may lead to false negatives in tumor-agnostic assays. However,
 
 By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
 

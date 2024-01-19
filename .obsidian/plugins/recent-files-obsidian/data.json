@@ -5,12 +5,28 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
-      "basename": "Asociaciones y congresos de interés",
-      "path": "Doctorado/Asociaciones y congresos de interés.md"
-    },
-    {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
+    },
+    {
+      "basename": "Methylation in CRC",
+      "path": "Doctorado/Methylation in CRC.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+    },
+    {
+      "basename": "Asociaciones y congresos de interés",
+      "path": "Doctorado/Asociaciones y congresos de interés.md"
     },
     {
       "basename": "ctDNA methylation studies — methodologies and results",
@@ -19,10 +35,6 @@
     {
       "basename": "Methylation and drug resistance",
       "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "Methylation in CRC",
-      "path": "Doctorado/Methylation in CRC.md"
     },
     {
       "basename": "MRD ctDNA assays",
@@ -79,10 +91,6 @@
     {
       "basename": "Aceites",
       "path": "Dieta y hábitos/Aceites.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
       "basename": "Epigenética y cáncer",
@@ -189,16 +197,8 @@
       "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
     },
     {
-      "basename": "ctDNA methylation in CRC — biomarkers",
-      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
-    },
-    {
       "basename": "Suplementos",
       "path": "Dieta y hábitos/Suplementos.md"
-    },
-    {
-      "basename": "Consejos para un póster científico",
-      "path": "Doctorado/Consejos para un póster científico.md"
     }
   ],
   "omittedPaths": [],

@@ -93,9 +93,9 @@ Hasta la fecha, la biopsia líquida centrada en la detección de [[Enfermedad m�
 - Los cambios epigenéticos son más frecuentes y universales que las mutaciones.
 - El ctDNA mantiene muchos de estos cambios.
 
-Epigenetic changes are more frequent and universal than genetic alterations in cancer, and ctDNA retains much of these changes, therefore making them suitable for MRD detection [@johnstonEpigeneticLiquidBiopsies2023a]. 
+Epigenetic changes are more frequent and universal than genetic alterations in cancer, and ctDNA retains much of these changes, therefore making them suitable for MRD detection [@johnstonEpigeneticLiquidBiopsies2023a]. This key characteristic **holds great value for tumor-agnostic assays**; in fact, some of the most relevant commercial assays (LUNAR-1, etc.) incorporate methylation biomarkers.
 
-A study in 51 metastatic cancer patients (INSPIRE trial) showed that cancer specific methylation (CSM, using cf-MeDIPseq) predicted OS and PFS comparably to mutation concentration (MC) in ctDNA, both tumor-naïve approaches. Adding in the short fragment fraction (SFF) determination to the CSM, OS and PFS could be predicted better than the gold-standard MC.
+A study in 51 metastatic cancer patients (INSPIRE trial) showed that cancer specific methylation (CSM, using cf-MeDIPseq) predicted OS and PFS comparably to mutation concentration (MC) in ctDNA, both tumor-naïve approaches. Adding in the short fragment fraction (SFF) determination to the CSM, OS and PFS could be predicted better than the gold-standard MC. ^31c690
 
 Un estudio en [[cáncer de mama]] localizado identificó como la detección de cfDNA a través de los patrones de metilación del cfDNA con una sensibilidad del 80% y una especificidad del 97%.
 
