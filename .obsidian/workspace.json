@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +210,14 @@
   },
   "active": "659f54889dd18516",
   "lastOpenFiles": [
-    "Doctorado/ctDNA methylation studies — methodologies and results.md",
+    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Biología y medicina/Genética molecular/Genes/SEPT9.md",
+    "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
     "Doctorado/Asociaciones y congresos de interés.md",
     "Dashboard.md",
-    "Doctorado/ctDNA methylation overview.md",
-    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Methylation in CRC.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
@@ -235,7 +236,6 @@
     "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
     "Dieta y hábitos/Aceites.md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
-    "Biología y medicina/Epigenética/Epigenética y cáncer.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
     "Notas de cursos/Sin título.md.partial",

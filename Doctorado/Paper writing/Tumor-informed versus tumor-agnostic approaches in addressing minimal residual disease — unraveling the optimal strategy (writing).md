@@ -25,7 +25,7 @@ These two biomarkers are also assessed in the Colvera assay (CSIRO), which has e
 ### SEPT9
 
 
-SEPT9, which has extensively been studied for CRC early detection and is the core of the FDA-approved commercial assays has also been proposed for MRD detection.
+SEPT9, which has extensively been studied for CRC early detection and is the centerpiece of the FDA-approved Epi proColon (Epigenomics AG) commercial assay has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018].
 
 The potential of NPY was further explored in a prospective study
 
@@ -111,9 +111,12 @@ By sequencing both the tumor tissue and the ctDNA, variants related to clonal he
 
 ### 2. Other omics
 
+- Epigenomics, future directions
+- Fragmentomics
+
 The addition of other omics to ctDNA detection shows great promise for MRD assessment.
 
-
+The study of cfDNA fragmentation patterns —termed fragmentomics— is also starting to gain traction in the setting of tumor-agnostic MRD detection. [Site Unreachable](https://www.annalsofoncology.org/article/S0923-7534(23)04010-3/fulltext) (early detection)
 
 Epigenomics
 

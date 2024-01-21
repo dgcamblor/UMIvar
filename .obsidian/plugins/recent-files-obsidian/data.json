@@ -5,6 +5,18 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
+    },
+    {
+      "basename": "SEPT9",
+      "path": "Biología y medicina/Genética molecular/Genes/SEPT9.md"
+    },
+    {
+      "basename": "ctDNA methylation overview",
+      "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
       "basename": "ctDNA methylation studies — methodologies and results",
       "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "ctDNA methylation overview",
-      "path": "Doctorado/ctDNA methylation overview.md"
-    },
-    {
-      "basename": "ctDNA methylation in CRC — biomarkers",
-      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
     },
     {
       "basename": "Methylation in CRC",
@@ -191,10 +195,6 @@
     {
       "basename": "MST1",
       "path": "Biología y medicina/Genética molecular/Genes/MST1.md"
-    },
-    {
-      "basename": "SEPT9",
-      "path": "Biología y medicina/Genética molecular/Genes/SEPT9.md"
     },
     {
       "basename": "Cáncer colorrectal",
