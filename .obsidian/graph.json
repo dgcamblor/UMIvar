@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 14524637
       }
+    },
+    {
+      "query": "path:Música  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 12.1625,
   "linkStrength": 1,
   "linkDistance": 277,
-  "scale": 0.5828068325130323,
+  "scale": 0.107599698685147,
   "close": true
 }

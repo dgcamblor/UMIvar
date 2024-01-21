@@ -59,6 +59,11 @@
       "id": "kKgw6Cx1wBdNTLhFSSctA",
       "name": "Earthly brown",
       "value": "#c4a484"
+    },
+    {
+      "id": "VINUMgejTKFh8UwjNpMnJ",
+      "name": "Music brown",
+      "value": "#ffffff"
     }
   ],
   "fileColors": [
@@ -121,6 +126,10 @@
     {
       "path": "Guías y referencias",
       "color": "kKgw6Cx1wBdNTLhFSSctA"
+    },
+    {
+      "path": "Música",
+      "color": "VINUMgejTKFh8UwjNpMnJ"
     }
   ]
 }

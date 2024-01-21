@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tipos de pianos",
+      "path": "Música/Tipos de pianos.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Asociaciones y congresos de interés",
       "path": "Doctorado/Asociaciones y congresos de interés.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Methylation in CRC",
@@ -195,10 +199,6 @@
     {
       "basename": "MST1",
       "path": "Biología y medicina/Genética molecular/Genes/MST1.md"
-    },
-    {
-      "basename": "Cáncer colorrectal",
-      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
     }
   ],
   "omittedPaths": [],

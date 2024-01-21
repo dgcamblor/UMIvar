@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c98aca2cd57e4edf",
+        "id": "9fb890f1abd2b604",
         "type": "tabs",
         "children": [
           {
-            "id": "659f54889dd18516",
+            "id": "9b6e5f9098b5d8b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Música/Tipos de pianos.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Música/Tipos de pianos.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Música/Tipos de pianos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Música/Tipos de pianos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Música/Tipos de pianos.md"
               }
             }
           },
@@ -208,8 +208,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "659f54889dd18516",
+  "active": "9b6e5f9098b5d8b8",
   "lastOpenFiles": [
+    "Música/Tipos de pianos.md",
+    "Dashboard.md",
+    "Música",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Biología y medicina/Genética molecular/Genes/SEPT9.md",
@@ -217,7 +220,6 @@
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
     "Doctorado/Asociaciones y congresos de interés.md",
-    "Dashboard.md",
     "Doctorado/Methylation in CRC.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
@@ -235,7 +237,6 @@
     "Dieta y hábitos/Autoexploración de la piel.md",
     "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
     "Dieta y hábitos/Aceites.md",
-    "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
     "Notas de cursos/Sin título.md.partial",
@@ -247,7 +248,6 @@
     "Doctorado/Paper planning",
     "Doctorado/Paper writing",
     "Consejos para un póster científico.md~RF6e542.TMP",
-    "Sin título",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
     "Otros/Adjuntos/calculating-risk-ratios_1350.webp",
     "Otros/Adjuntos/calculating-odds-ratios_1350.webp",
