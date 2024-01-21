@@ -25,11 +25,11 @@ These two biomarkers are also assessed in the Colvera assay (CSIRO), which has e
 ### SEPT9
 
 
-SEPT9, which has extensively been studied for CRC early detection and is the centerpiece of the FDA-approved Epi proColon (Epigenomics AG) commercial assay has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018].
+SEPT9, which has extensively been studied for CRC early detection and is the centerpiece of the FDA-approved Epi proColon (Epigenomics AG) commercial assay has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, preceding radiographic detection by a median of 5.0 months [@yuanCirculatingMethylatedSEPT92022].
 
 The potential of NPY was further explored in a prospective study
 
-Tumor naive: SEPT9, BCAT1, IKZF1
+
 
 
 
