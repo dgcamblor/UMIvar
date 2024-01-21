@@ -5,6 +5,10 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Clinical relevance of ctDNA analysis",

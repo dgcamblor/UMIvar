@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b607652e525eb83",
+        "id": "5fa0185c5d8eb854",
         "type": "tabs",
         "children": [
           {
-            "id": "c37395f311f753fd",
+            "id": "c69bcaab030b038d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,8 +201,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c37395f311f753fd",
+  "active": "c69bcaab030b038d",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Doctorado/ctDNA methylation overview.md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Methylation in CRC.md",
@@ -215,7 +216,6 @@
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
-    "Dashboard.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
     "Doctorado/PhD dashboard.md",
