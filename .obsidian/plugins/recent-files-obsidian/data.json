@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Tipos de pianos",
-      "path": "Música/Tipos de pianos.md"
+      "basename": "Comunicación interpersonal",
+      "path": "Notas de cursos/Comunicación interpersonal.md"
+    },
+    {
+      "basename": "Gestión del tiempo",
+      "path": "Notas de cursos/Gestión del tiempo.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "Tipos de pianos",
+      "path": "Música/Tipos de pianos.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
@@ -191,14 +199,6 @@
     {
       "basename": "KLF4",
       "path": "Biología y medicina/Genética molecular/Genes/KLF4.md"
-    },
-    {
-      "basename": "KRAS",
-      "path": "Biología y medicina/Genética molecular/Genes/KRAS.md"
-    },
-    {
-      "basename": "MST1",
-      "path": "Biología y medicina/Genética molecular/Genes/MST1.md"
     }
   ],
   "omittedPaths": [],

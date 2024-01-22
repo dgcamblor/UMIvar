@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb890f1abd2b604",
+        "id": "b64d46125372fae3",
         "type": "tabs",
         "children": [
           {
-            "id": "9b6e5f9098b5d8b8",
+            "id": "f7216097878d4f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Música/Tipos de pianos.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Música/Tipos de pianos.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Música/Tipos de pianos.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Música/Tipos de pianos.md",
+                "file": "Notas de cursos/Comunicación interpersonal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Música/Tipos de pianos.md"
+                "file": "Notas de cursos/Comunicación interpersonal.md"
               }
             }
           },
@@ -208,10 +208,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9b6e5f9098b5d8b8",
+  "active": "f7216097878d4f3f",
   "lastOpenFiles": [
-    "Música/Tipos de pianos.md",
+    "Notas de cursos/Gestión del tiempo.md",
+    "Notas de cursos/Comunicación interpersonal.md",
     "Dashboard.md",
+    "Música/Tipos de pianos.md",
     "Música",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
@@ -235,8 +237,6 @@
     "Estadística/Tamaño muestral.md",
     "Estadística/Sin título.md",
     "Dieta y hábitos/Autoexploración de la piel.md",
-    "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
-    "Dieta y hábitos/Aceites.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg.partial",
     "Notas de cursos/Sin título.md.partial",
