@@ -2,10 +2,9 @@
   "obsidian-zotero-desktop-connector:zdc-Cite Pandoc": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "P"
+      "key": "R"
     }
   ],
   "omnisearch:show-modal": [
@@ -25,6 +24,15 @@
         "Mod"
       ],
       "key": "I"
+    }
+  ],
+  "obsidian-pandoc-reference-list:focus-reference-list-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
     }
   ]
 }

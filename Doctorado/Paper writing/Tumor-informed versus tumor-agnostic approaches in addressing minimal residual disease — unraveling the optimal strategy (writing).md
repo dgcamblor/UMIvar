@@ -3,9 +3,6 @@ tags:
   - paper
   - phd
 ---
-%%TODO
-- [ ] BESPOKE study protocol [@kasiBESPOKEStudyProtocol2021]
-%%
 
 ## II. Tumor-agnostic strategies
 
@@ -20,7 +17,7 @@ One of the most relevant examples are the WIF1 and NPY genes, which have consist
 The methylation levels of BCAT1 and IKZF1 in ctDNA has also been correlated to CRC tumor presence. In a prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022]. The relevance of BCAT1 and IKZF1 has been leveraged by the laboratory-developed test Colvera (CSIRO), which in its latest iteration has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respectively [@vuceticClinicalPerformanceMethylationbased2021].
 ### SEPT9
 
-SEPT9, which has extensively been studied for CRC early detection and is the centerpiece of the FDA-approved Epi proColon commercial assay (Epigenomics AG) has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, among which RFS was decreased (HR = 5.83) [@yuanCirculatingMethylatedSEPT92022].
+SEPT9, which has extensively been studied for CRC early detection and is at the base of the FDA-approved Epi proColon commercial assay (Epigenomics AG) has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, among which RFS was decreased (HR = 5.83) [@yuanCirculatingMethylatedSEPT92022].
 
 ### Genome-wide
 
@@ -51,9 +48,13 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 - [ ] [A multicenter, prospective observational study to evaluate the impact of circulating tumor DNA guide](https://www.natera.com/resource-library/signatera-published-data-in-mrd/a-multicenter-prospective-observational-study-to-evaluate-the-impact-of-circulating-tumor-dna-guided-therapy-on-patients-with-colorectal-cancer). BESPOKE trial. Also uses Signatera
 
-Another prominent representative of the tumor-informed approach is the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. The detection of ctDNA was performed using the Signatera assay (Natera), which has become a great exponent of the tumor-informed approach.
+Another prominent representative of the tumor-informed approach is the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. The detection of ctDNA was performed using the Signatera assay (Natera), which has become a great exponent of the tumor-informed approach. In brief, whole exome sequencing is performed on both primary tumor tissue and matched normal tissue to work out a set of 16 or more mutations which are subsequently considered 
 
 
+
+[@kotaniMolecularResidualDisease2023].
+
+The Signatera assay is also the centerpiece of the ongoing BESPOKE clinical trial [@kasiBESPOKEStudyProtocol2021]. 
 
 In brief, WES is performed 
 
