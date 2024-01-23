@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -209,7 +209,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b3d0a7bee850dee6",
+  "active": "71e54dea328150fe",
   "lastOpenFiles": [
     "Doctorado/ctDNA methylation overview.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
