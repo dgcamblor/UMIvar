@@ -50,7 +50,9 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, whole exome sequencing is performed on both primary tumor tissue and matched normal tissue to work out a set of 16 or more mutations. These are subsequently considered for the creation of personalized multiplex, which is used to detect ctDNA and allows for MRD monitoring. 
 
-One key study that employed this approach is the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as a criteria for patient assignment 
+One key study that employed this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: ctDNA-positive patients were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value,
+
+> thereby expanding upon the results of the aforementioned DYNAMIC trial.
 
 
 

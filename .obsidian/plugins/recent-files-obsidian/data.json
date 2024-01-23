@@ -5,6 +5,66 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "ctDNA methylation overview",
+      "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
+      "basename": "ctDNA methylation studies — methodologies and results",
+      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
+    },
+    {
+      "basename": "Detection of CRC-specific methylation profiles",
+      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
+    },
+    {
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "Clinical relevance of ctDNA analysis",
+      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
+    },
+    {
+      "basename": "Asociaciones y congresos de interés",
+      "path": "Doctorado/Asociaciones y congresos de interés.md"
+    },
+    {
+      "basename": "VSCode configuration",
+      "path": "Bioinformática y programación/VSCode configuration.md"
+    },
+    {
+      "basename": "Chimeric alignment",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md"
+    },
+    {
+      "basename": "Variant calling analysis",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
+    },
+    {
+      "basename": "Base Quality Score Recalibration",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
+    },
+    {
+      "basename": "Strelka2",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
+    },
+    {
       "basename": "Consejos para un póster científico",
       "path": "Doctorado/Consejos para un póster científico.md"
     },
@@ -15,10 +75,6 @@
     {
       "basename": "Improving INCLIVA ctDNA WES pipeline",
       "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
     },
     {
       "basename": "Possible controls for ctDNA methylation",
@@ -33,32 +89,8 @@
       "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
     },
     {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
-      "basename": "ctDNA methylation studies — methodologies and results",
-      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
-    },
-    {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
-      "basename": "ctDNA methylation overview",
-      "path": "Doctorado/ctDNA methylation overview.md"
-    },
-    {
-      "basename": "Asociaciones y congresos de interés",
-      "path": "Doctorado/Asociaciones y congresos de interés.md"
     },
     {
       "basename": "Maltodextrina",
@@ -107,14 +139,6 @@
     {
       "basename": "Methylation in CRC",
       "path": "Doctorado/Methylation in CRC.md"
-    },
-    {
-      "basename": "Clinical relevance of ctDNA analysis",
-      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
-    },
-    {
-      "basename": "Variant calling analysis",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
     },
     {
       "basename": "Misery - Stephen King",
@@ -175,30 +199,6 @@
     {
       "basename": "Up your pipeline game - Use a workflow manager",
       "path": "Medium/Up your pipeline game - Use a workflow manager.md"
-    },
-    {
-      "basename": "My career",
-      "path": "Medium/My career.md"
-    },
-    {
-      "basename": "Resonancia Magnética",
-      "path": "Biología y medicina/Pruebas diagnósticas/Resonancia Magnética.md"
-    },
-    {
-      "basename": "Tomografía Computarizada (TC)",
-      "path": "Biología y medicina/Pruebas diagnósticas/Tomografía Computarizada (TC).md"
-    },
-    {
-      "basename": "Métodos de imagen",
-      "path": "Biología y medicina/Pruebas diagnósticas/Métodos de imagen.md"
-    },
-    {
-      "basename": "Inmunofluorescencia",
-      "path": "Biología y medicina/Pruebas diagnósticas/Inmunofluorescencia.md"
-    },
-    {
-      "basename": "Inmunohistoquímica",
-      "path": "Biología y medicina/Pruebas diagnósticas/Inmunohistoquímica.md"
     }
   ],
   "omittedPaths": [],
