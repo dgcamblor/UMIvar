@@ -13,17 +13,14 @@ Purely methylation-based tests have sucessfuly been used to assess MRD in a tumo
 
 ### WIF1 and NPY
 
-One of the most relevant examples are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers for ctDNA and MRD detection [@roperchAberrantMethylationNPY2013; @garrigouStudyHypermethylatedCirculating2016]. For instance, one study assessed the methylation status of these genes via digital PCR in a retrospective cohort of 1345 stage III CRC patients from the IDEA-FRANCE clinical trial (NCT00958737). A total of 140 patients tested positive for ctDNA (13.8%), and their 3-year DFS proved to be significantly lower than the ctDNA-negative group (66.39% vs. 76.71%) [@taiebPrognosticValueRelation2021]. A digital PCR platform was also able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies [@oversDetectionSpecificHypermethylated2021].
+One of the most relevant examples are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers for ctDNA and MRD detection [@roperchAberrantMethylationNPY2013; @garrigouStudyHypermethylatedCirculating2016]. For instance, one study assessed the methylation status of these genes via digital PCR in a retrospective cohort of 1345 stage III CRC patients from the IDEA-FRANCE clinical trial (NCT00958737). A total of 140 patients tested positive for ctDNA (13.8%), and their 3-year DFS proved to be significantly lower than the ctDNA-negative group (66.39% vs. 76.71%) [@taiebPrognosticValueRelation2021]. A digital PCR platform was also able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies [@oversDetectionSpecificHypermethylated2021a].
 
 ### BCAT1 and IKZF1
 
 The methylation levels of BCAT1 and IKZF1 in ctDNA has also been correlated to CRC tumor presence. In a prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022]. The relevance of BCAT1 and IKZF1 has been leveraged by the Colvera assay (CSIRO), which in its latest iteration has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respectively [@vuceticClinicalPerformanceMethylationbased2021].
 ### SEPT9
 
-SEPT9, which has extensively been studied for CRC early detection and is the centerpiece of the FDA-approved Epi proColon commercial assay (Epigenomics AG) has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, where 
-
-
-preceding radiographic detection by a median of 5.0 months [@yuanCirculatingMethylatedSEPT92022].
+SEPT9, which has extensively been studied for CRC early detection and is the centerpiece of the FDA-approved Epi proColon commercial assay (Epigenomics AG) has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, among which RFS was decreased (HR = 5.83) [@yuanCirculatingMethylatedSEPT92022].
 
 ### Genome-wide
 
@@ -44,7 +41,7 @@ However, the addition of tumor sequencing comes at a cost, both in terms of he
 
 Focusing only on variants found in tumor tissue also raises the question of tumor heterogeneity and resistance mechanisms, where treatment may lead to the appearance or increase of different clonal cells harboring different mutations than those initially found. Thus, potential new variants could be omitted.
 
-### DYNAMIC trial
+### DYNAMIC trial (SafeSeqS approach)
 
 > Añadir sobre la capacidad de detección.
 > El primero de TIE van solo a por una y el segundo por al menos una??? revisar
@@ -55,7 +52,7 @@ One of the earliest key studies that supported this approach was performed in a 
 
 The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the posibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In this approximation, patients that were ctDNA-positive at 4 or 7 weeks after surgery were recommended to receive adjuvant oxaliplatin- or fluoropyrimidine-based chemotherapy. Conversely, patients testing negative for ctDNA did not receive adjuvant chemotherapy. The RFS for the ctDNA-guided group was comparable to that of the standard management group (93.5% vs. 92.4%), indicating the suitability of chemotherapy reduction in ctDNA negative patients [@tieCirculatingTumorDNA2022].
 
-### GALAXY trial
+### GALAXY trial and BESPOKE trial (Signatera assay)
 
 - [ ] Add further studies that use Signatera
 - [ ] [A multicenter, prospective observational study to evaluate the impact of circulating tumor DNA guide](https://www.natera.com/resource-library/signatera-published-data-in-mrd/a-multicenter-prospective-observational-study-to-evaluate-the-impact-of-circulating-tumor-dna-guided-therapy-on-patients-with-colorectal-cancer). BESPOKE trial. Also uses Signatera
