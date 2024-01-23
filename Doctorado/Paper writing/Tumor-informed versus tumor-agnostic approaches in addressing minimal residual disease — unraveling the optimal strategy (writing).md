@@ -46,33 +46,17 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 ### Signatera assay: GALAXY trial and BESPOKE trial
 
-- [ ] [A multicenter, prospective observational study to evaluate the impact of circulating tumor DNA guide](https://www.natera.com/resource-library/signatera-published-data-in-mrd/a-multicenter-prospective-observational-study-to-evaluate-the-impact-of-circulating-tumor-dna-guided-therapy-on-patients-with-colorectal-cancer). BESPOKE trial. Also uses Signatera
+The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, whole exome sequencing is performed on both primary tumor tissue and matched normal tissue to work out a set of 16 or more mutations. These are subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is used to detect ctDNA and monitorize MRD. 
 
-The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, whole exome sequencing is performed on both primary tumor tissue and matched normal tissue to work out a set of 16 or more mutations. These are subsequently considered for the creation of personalized multiplex, which is used to detect ctDNA and allows for MRD monitoring. 
+One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
 
-One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with ctDNA-positive patients showing a decreased RFS
+The Signatera assay is also the centerpiece of the ongoing BESPOKE clinical trial [@kasiBESPOKEStudyProtocol2021].
 
 > thereby expanding upon the results of the aforementioned DYNAMIC trial.
 
+[Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)^^^^^ First results of the Signatera assay
 
 
-[@kotaniMolecularResidualDisease2023].
-
-The Signatera assay is also the centerpiece of the ongoing BESPOKE clinical trial [@kasiBESPOKEStudyProtocol2021]. 
-
-In brief, WES is performed 
-
-
-The Signatera assay was also the method of choice
-
-
-, which is used to determine the 16 variants with a highest VAF, which are used to make a bespoke assay based on ultradeep multiplex PCR.
-
-is the GALAXY trial
-
-To establish the ctDNA status of the patients a Signatera assay (Natera) was used.
-
-[Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)
 ### Other trials
 
 Studies using non-commercial tumor-informed assays have also rendered insightful results. One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
