@@ -9,9 +9,9 @@ NOTE: Search for variant caller benchmarking papers. See what pipelines do they 
 	- [[UMI-tools]]
 	- [[fgbio]]
 	- [[UMICollapse]]
-	- [[UMIc]]
+	- [[UMIc]] (only UMIvar?)
 	- [[gencore]]
-- Tools such as zUMIs and umis (UMICollapse paper) are more RNA-seq oriented and, thus, were discarded. [[AmpUMI]] was considered but finally discarded due to it only working in settings where R1 and R2 overlap.
+- Tools such as zUMIs and umis (UMICollapse paper) are more RNA-seq oriented and, thus, were discarded. [[AmpUMI]] was considered but finally discarded due to it only working in settings where R1 and R2 overlap. [[UMIc]] does not handle correctly data with deep coverage.
 
 - Comparing the effect against a reference of deduplication: [[GATK]] MarkDuplicates ([MarkDuplicates (Picard) – GATK](https://gatk.broadinstitute.org/hc/en-us/articles/360037052812-MarkDuplicates-Picard-)). 
 
