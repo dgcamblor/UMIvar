@@ -94,11 +94,14 @@ By sequencing both the tumor tissue and the ctDNA, variants related to clonal he
 - CTCs
 - Imaging techniques (?) (guided by AI?)
 
-### 1. NGS
+### 1. Genomics and epigenomics
 
-> 
+The study of whole genome methylation markers through techniques such as cfMeDIP-seq —which enables high resolution profiling at a relatively low cost when compared with bisulfite methods— is also starting to render insightful results. 
 
-### 2. Other omics
+
+A study in 51 metastatic cancer patients (INSPIRE trial, NCT02644369) showed that cancer specific methylation (CSM, using cf-MeDIPseq) predicted OS and PFS comparably to mutation concentration (MC) in ctDNA, both tumor-naïve approaches. Adding in the short fragment fraction (SFF) determination to the CSM, OS and PFS could be predicted better than the gold-standard MC. [Redirecting](https://doi.org/10.1016/j.annonc.2022.07.1744).
+
+### 2. Fragmentomics
 
 - Epigenomics, future directions
 - Fragmentomics
@@ -124,7 +127,7 @@ EC:
 
 The potential of 
 
-### 3. Liquid Biopsy Technologies
+### 3. Liquid Biopsy Technologies: CTCs
 
 ### 4. Advanced Imaging Techniques
 
@@ -135,7 +138,5 @@ The potential of
 [@tibermacineRadiomicsModellingRectal2021]
 
 ### 5. AI
-
->
 
 > Beyond radiomics, AI also has interesting applications...
