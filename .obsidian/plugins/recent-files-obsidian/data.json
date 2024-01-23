@@ -5,6 +5,18 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "Improving INCLIVA ctDNA WES pipeline",
+      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
+    },
+    {
+      "basename": "ctDNA methylation studies — methodologies and results",
+      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
+    },
+    {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
       "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
@@ -37,20 +49,12 @@
       "path": "Música/Tipos de pianos.md"
     },
     {
-      "basename": "ctDNA methylation in CRC — biomarkers",
-      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
-    },
-    {
       "basename": "SEPT9",
       "path": "Biología y medicina/Genética molecular/Genes/SEPT9.md"
     },
     {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
-    },
-    {
-      "basename": "ctDNA methylation studies — methodologies and results",
-      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
     },
     {
       "basename": "Revisión de estudios de metilación en ctDNA",
@@ -195,10 +199,6 @@
     {
       "basename": "APC",
       "path": "Biología y medicina/Genética molecular/Genes/APC.md"
-    },
-    {
-      "basename": "CDX2",
-      "path": "Biología y medicina/Genética molecular/Genes/CDX2.md"
     }
   ],
   "omittedPaths": [],
