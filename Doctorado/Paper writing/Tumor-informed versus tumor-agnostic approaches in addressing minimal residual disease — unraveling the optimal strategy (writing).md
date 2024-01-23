@@ -26,11 +26,6 @@ SEPT9, which has extensively been studied for CRC early detection and is the cen
 
 [Response prediction by mutation- or methylation-specific detection of ctDNA dynamics in pretreated metastatic colorectal cancer - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10541738/)
 
-![[ctDNA methylation overview#^31c690]]
-
-
-![[ctDNA methylation in CRC — biomarkers#Monitorización de la respuesta a terapia y resistencia]]
-
 ## III. Tumor-informed strategies
 
 As previously stated, the tumor-informed approach, aims to molecularly characterize the tumor tissue prior to ctDNA detection. This way, a bespoke ctDNA assay can be created to directly target the specific mutations of said tumor. The addition of tumor sequencing has both advantages and disadvantages when compared to the tumor-agnostic strategy. 
@@ -56,7 +51,7 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 - [ ] [A multicenter, prospective observational study to evaluate the impact of circulating tumor DNA guide](https://www.natera.com/resource-library/signatera-published-data-in-mrd/a-multicenter-prospective-observational-study-to-evaluate-the-impact-of-circulating-tumor-dna-guided-therapy-on-patients-with-colorectal-cancer). BESPOKE trial. Also uses Signatera
 
-Another great exponent of the tumor-informed approach is the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. The detection of ctDNA was performed using the Signatera assay (Natera), which has become a great exponent of the tumor-informed approach.
+Another prominent representative of the tumor-informed approach is the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. The detection of ctDNA was performed using the Signatera assay (Natera), which has become a great exponent of the tumor-informed approach.
 
 
 
@@ -130,3 +125,5 @@ The potential of
 ### 4. AI
 
 > Beyond radiomics, AI also has interesting applications...
+
+

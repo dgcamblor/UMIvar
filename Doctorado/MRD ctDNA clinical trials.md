@@ -31,15 +31,17 @@ Current ctDNA methylation trials are found at: [@johnstonEpigeneticLiquidBiopsie
 
 ## Tumor-informed
 
-- [GALAXY trial](https://center6.umin.ac.jp/cgi-open-bin/icdr_e/ctr_view.cgi?recptno=R000044197). Related ALTAIR and VEGA studies.
-	- **Commercial assay:** [[MRD ctDNA assays#^f5e412|Signatera]].
-	- Observational arm of the CIRCULATE-Japan study. The GALAXY trial monitors ctDNA status for patients with CRC II-IV that can undergo complete surgical resection. Positive detection for ctDNA indicates MRD and leads to patient assignment to the treatment escalation study (ALTAIR); if ctDNA is not detected, the patient is assigned to the treatment de-escalation study (VEGA).
-	- WES was perfomed on tumoral tissue (FFPE), and results for each patient were analyzed to design tumor-informed, personalized ctDNA assays ([Molecular residual disease and efficacy of adjuvant chemotherapy in patients with colorectal cancer | Nature Medicine](https://www.nature.com/articles/s41591-022-02115-4)).
-	
 - [DYNAMIC trial](https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12615000381583).
 	- **Commercial assay:** [[MRD ctDNA assays#^c59277|SafeSEQ]] (informed panel). Prior detection in tumor tissue (primary tumor) of somatic mutations in 15 genes (SMAD4, TP53, AKT1, APC, BRAF, CTNNB1, ERBB3, FBXW7, HRAS, KRAS, NRAS, PIK3CA, PPP2R1A, RNF43, POLE). Detection of found mutations in ctDNA using Safe-Seq [nejm.org/doi/suppl/10.1056/NEJMoa2200075/suppl\_file/nejmoa2200075\_appendix.pdf](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2200075/suppl_file/nejmoa2200075_appendix.pdf).
 	- Tie J et al., 2016. The detection of ctDNA after surgery was associated with a markedly reduced RFS compared to patients with ctDNA negative status (previous information from an independent trial).
 	- DYNAMIC II (Tie J et al., 2022). They concluded that, following a ctDNA-guided approach to the treatment of stage II colon cancer post-surgery, adjuvant chemotherapy could be reduced without compromising recurrence-free survival [@tieCirculatingTumorDNA2022].
+
+- [GALAXY trial](https://center6.umin.ac.jp/cgi-open-bin/icdr_e/ctr_view.cgi?recptno=R000044197). Related ALTAIR and VEGA studies.
+	- **Commercial assay:** [[MRD ctDNA assays#^f5e412|Signatera]].
+	- Observational arm of the CIRCULATE-Japan study. The GALAXY trial monitors ctDNA status for patients with CRC II-IV that can undergo complete surgical resection. Positive detection for ctDNA indicates MRD and leads to patient assignment to the treatment escalation study (ALTAIR); if ctDNA is not detected, the patient is assigned to the treatment de-escalation study (VEGA).
+	- WES was perfomed on tumoral tissue (FFPE), and results for each patient were analyzed to design tumor-informed, personalized ctDNA assays ([Molecular residual disease and efficacy of adjuvant chemotherapy in patients with colorectal cancer | Nature Medicine](https://www.nature.com/articles/s41591-022-02115-4)).
+
+- [BESPOKE trial](https://natera.com/info/bespoke-crc/).
 
 [GRAIL Announces Significant Progress with Multi-Cancer Early Detection Test Including FDA Breakthrough Device Designation - GRAIL](https://grail.com/press-releases/grail-announces-significant-progress-with-multi-cancer-early-detection-test-including-fda-breakthrough-device-designation/) #write 
 

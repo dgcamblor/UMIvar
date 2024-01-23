@@ -3,7 +3,7 @@ tags:
   - phd
 ---
 
-## Functions
+## Function cheatsheet
 
 `fastq_preprocessing()`
 

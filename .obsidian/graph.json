@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "path:\"Kindle and book highlights\"  ",
+      "query": "path:\"Notas de libros\"  ",
       "color": {
         "a": 1,
         "rgb": 16750848
@@ -74,6 +74,6 @@
   "repelStrength": 12.1625,
   "linkStrength": 1,
   "linkDistance": 277,
-  "scale": 0.16139954802772039,
-  "close": true
+  "scale": 0.047822088304509736,
+  "close": false
 }

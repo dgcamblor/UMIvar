@@ -1,28 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Maltodextrina",
-      "path": "Dieta y hábitos/Maltodextrina.md"
-    },
-    {
-      "basename": "Odds ratio",
-      "path": "Estadística/Odds ratio.md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
-      "basename": "Improving INCLIVA ctDNA WES pipeline",
-      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
+      "basename": "Consejos para un póster científico",
+      "path": "Doctorado/Consejos para un póster científico.md"
     },
     {
       "basename": "ctDNA methylation in CRC — biomarkers",
       "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
     },
     {
+      "basename": "Improving INCLIVA ctDNA WES pipeline",
+      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+    },
+    {
+      "basename": "Revisión de estudios de metilación en ctDNA",
+      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
       "basename": "ctDNA methylation studies — methodologies and results",
       "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
+    },
+    {
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "ctDNA methylation overview",
+      "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
+      "basename": "Asociaciones y congresos de interés",
+      "path": "Doctorado/Asociaciones y congresos de interés.md"
+    },
+    {
+      "basename": "Maltodextrina",
+      "path": "Dieta y hábitos/Maltodextrina.md"
+    },
+    {
+      "basename": "Odds ratio",
+      "path": "Estadística/Odds ratio.md"
     },
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
@@ -61,40 +105,8 @@
       "path": "Biología y medicina/Genética molecular/Genes/SEPT9.md"
     },
     {
-      "basename": "ctDNA methylation overview",
-      "path": "Doctorado/ctDNA methylation overview.md"
-    },
-    {
-      "basename": "Revisión de estudios de metilación en ctDNA",
-      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
-    },
-    {
-      "basename": "Asociaciones y congresos de interés",
-      "path": "Doctorado/Asociaciones y congresos de interés.md"
-    },
-    {
       "basename": "Methylation in CRC",
       "path": "Doctorado/Methylation in CRC.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
     },
     {
       "basename": "Clinical relevance of ctDNA analysis",
@@ -103,10 +115,6 @@
     {
       "basename": "Variant calling analysis",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
-    },
-    {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
     },
     {
       "basename": "Misery - Stephen King",
@@ -191,14 +199,6 @@
     {
       "basename": "Inmunohistoquímica",
       "path": "Biología y medicina/Pruebas diagnósticas/Inmunohistoquímica.md"
-    },
-    {
-      "basename": "Empresas de secuenciación",
-      "path": "Biología y medicina/Genética molecular/Empresas de secuenciación.md"
-    },
-    {
-      "basename": "PBMCs",
-      "path": "Biología y medicina/Genética molecular/PBMCs.md"
     }
   ],
   "omittedPaths": [],

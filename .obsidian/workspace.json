@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dieta y hábitos/Maltodextrina.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dieta y hábitos/Maltodextrina.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dieta y hábitos/Maltodextrina.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dieta y hábitos/Maltodextrina.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dieta y hábitos/Maltodextrina.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -211,11 +211,23 @@
   },
   "active": "b3d0a7bee850dee6",
   "lastOpenFiles": [
-    "Estadística/Odds ratio.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
+    "Doctorado/Consejos para un póster científico.md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
+    "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
+    "Doctorado/Methylation and drug resistance.md",
+    "Doctorado/Possible controls for ctDNA methylation.md",
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+    "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
+    "Doctorado/PhD dashboard.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
+    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+    "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/Asociaciones y congresos de interés.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Dieta y hábitos/Maltodextrina.md",
+    "Estadística/Odds ratio.md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMIc.md",
     "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
@@ -235,18 +247,6 @@
     "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
     "Dashboard.md",
     "Biología y medicina/Epigenética/Epigenética y cáncer.md",
-    "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
-    "Biología y medicina/Epigenética/Pirosecuenciación.md",
-    "Biología y medicina/Pruebas diagnósticas/Inmunofluorescencia.md",
-    "Biología y medicina/Pruebas diagnósticas/Inmunohistoquímica.md",
-    "Check, write.md",
-    "Notas de cursos/Gestión del tiempo.md",
-    "Notas de cursos/Comunicación interpersonal.md",
-    "Biología y medicina/Genética molecular/Genes/SEPT9.md",
-    "Doctorado/ctDNA methylation overview.md",
-    "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
-    "Doctorado/Asociaciones y congresos de interés.md",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
