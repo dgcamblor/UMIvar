@@ -9,24 +9,21 @@ tags:
 
 ## II. Tumor-agnostic strategies
 
-Purely methylation-based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for this specific approach, because of their widespread and common occurrence in cancer, which contrasts the higher tumor and clonal specificity that genetic variants exhibit [@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. 
+Purely methylation-based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for this specific approach, because of their widespread and common occurrence in cancer, which contrasts the higher tumor and clonal specificity that genetic variants exhibit [@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020b].
 
 ### WIF1 and NPY
 
-One great example are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers for ctDNA and MRD detection [@roperchAberrantMethylationNPY2013; @garrigouStudyHypermethylatedCirculating2016]. 
-
-One study assessed the methylation status of these genes via digital PCR in a retrospective cohort of 1345 stage III CRC patients from the IDEA-FRANCE clinical trial (NCT00958737), showing that ctDNA-positive patients had a decreased 2-year DFS than ctDNA-negative (64% vs. 82%; HR = 1.75). 
-
-A digital PCR platform was also able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies [@oversDetectionSpecificHypermethylated2021].
+One of the most relevant examples are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers for ctDNA and MRD detection [@roperchAberrantMethylationNPY2013; @garrigouStudyHypermethylatedCirculating2016]. For instance, one study assessed the methylation status of these genes via digital PCR in a retrospective cohort of 1345 stage III CRC patients from the IDEA-FRANCE clinical trial (NCT00958737). A total of 140 patients tested positive for ctDNA (13.8%), and their 3-year DFS proved to be significantly lower than the ctDNA-negative group (66.39% vs. 76.71%) [@taiebPrognosticValueRelation2021]. A digital PCR platform was also able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies [@oversDetectionSpecificHypermethylated2021].
 
 ### BCAT1 and IKZF1
 
-The methylation levels of BCAT1 and IKZF1 in ctDNA has also been correlated to CRC tumor presence. In a prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients, which exhibited higher risk of recurrence (HR = 5.7) and lesser 3-year RFS (56.5% vs. 83.3% in normal methylation) [@pedersenDetectionMethylatedBCAT12022].
-
-The relevance of BCAT1 and IKZF1 is leveraged by the Colvera assay (CSIRO), which in its latest iteration has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respectively [@vuceticClinicalPerformanceMethylationbased2021].
+The methylation levels of BCAT1 and IKZF1 in ctDNA has also been correlated to CRC tumor presence. In a prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022]. The relevance of BCAT1 and IKZF1 has been leveraged by the Colvera assay (CSIRO), which in its latest iteration has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respectively [@vuceticClinicalPerformanceMethylationbased2021].
 ### SEPT9
 
-SEPT9, which has extensively been studied for CRC early detection and is the centerpiece of the FDA-approved Epi proColon (Epigenomics AG) commercial assay has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, preceding radiographic detection by a median of 5.0 months [@yuanCirculatingMethylatedSEPT92022].
+SEPT9, which has extensively been studied for CRC early detection and is the centerpiece of the FDA-approved Epi proColon commercial assay (Epigenomics AG) has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, where 
+
+
+preceding radiographic detection by a median of 5.0 months [@yuanCirculatingMethylatedSEPT92022].
 
 ### Genome-wide
 
