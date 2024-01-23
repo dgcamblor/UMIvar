@@ -44,11 +44,13 @@ One of the earliest key studies that supported this approach was performed in a 
 
 The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the possibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In this approximation, patients that were ctDNA-positive at 4 or 7 weeks after surgery were recommended to receive adjuvant oxaliplatin- or fluoropyrimidine-based chemotherapy. Conversely, patients testing negative for ctDNA did not receive adjuvant chemotherapy. The RFS for the ctDNA-guided group was comparable to that of the standard management group (93.5% vs. 92.4%), indicating the suitability of chemotherapy reduction in ctDNA negative patients [@tieCirculatingTumorDNA2022].
 
-### GALAXY trial and BESPOKE trial (Signatera assay)
+### Signatera assay: GALAXY trial and BESPOKE trial
 
 - [ ] [A multicenter, prospective observational study to evaluate the impact of circulating tumor DNA guide](https://www.natera.com/resource-library/signatera-published-data-in-mrd/a-multicenter-prospective-observational-study-to-evaluate-the-impact-of-circulating-tumor-dna-guided-therapy-on-patients-with-colorectal-cancer). BESPOKE trial. Also uses Signatera
 
-Another prominent representative of the tumor-informed approach is the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. The detection of ctDNA was performed using the Signatera assay (Natera), which has become a great exponent of the tumor-informed approach. In brief, whole exome sequencing is performed on both primary tumor tissue and matched normal tissue to work out a set of 16 or more mutations which are subsequently considered 
+The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, whole exome sequencing is performed on both primary tumor tissue and matched normal tissue to work out a set of 16 or more mutations. These are subsequently considered for the creation of personalized multiplex, which is used to detect ctDNA and allows for MRD monitoring. 
+
+One key study that employed this approach is the GALAXY trial, part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as a criteria for patient assignment 
 
 
 
