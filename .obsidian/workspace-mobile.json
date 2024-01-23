@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "049982d5d25db987",
+        "id": "46052c2a0da52981",
         "type": "tabs",
         "children": [
           {
-            "id": "5aa73daa855b9ece",
+            "id": "af6805f31fcc8e25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medium/Gamification of your personal development.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medium/Gamification of your personal development.md",
+            "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Medium/Gamification of your personal development.md",
+            "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Medium/Gamification of your personal development.md"
+            "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
           }
         }
       },
@@ -162,14 +162,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4eef00bcb3895e33",
+  "active": "af6805f31fcc8e25",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Medium/Writing on Medium.md",
     "Medium/What is life.md",
     "Medium/Up your pipeline game - Use a workflow manager.md",
     "Medium/My career.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Dashboard.md",
     "Medium/Own stories.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",

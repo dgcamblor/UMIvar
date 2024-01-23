@@ -5,6 +5,7 @@ tags:
   - write
 nf-core: https://nf-co.re/methylseq/2.6.0
 ---
+https://medium.com/@shilparaopradeep/how-to-use-bedtools-for-analysis-of-genome-methylation-71091142568d
 ## Alignment
 
 Alignment to the reference genome depends on the strategy used.

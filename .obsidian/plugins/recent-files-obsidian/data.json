@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Bisulfite conversion processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+    },
+    {
       "basename": "Comunicación interpersonal",
       "path": "Notas de cursos/Comunicación interpersonal.md"
     },
@@ -9,16 +21,8 @@
       "path": "Notas de cursos/Gestión del tiempo.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Tipos de pianos",
       "path": "Música/Tipos de pianos.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "ctDNA methylation in CRC — biomarkers",
@@ -195,10 +199,6 @@
     {
       "basename": "HLA",
       "path": "Biología y medicina/Genética molecular/Genes/HLA.md"
-    },
-    {
-      "basename": "KLF4",
-      "path": "Biología y medicina/Genética molecular/Genes/KLF4.md"
     }
   ],
   "omittedPaths": [],
