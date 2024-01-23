@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Maltodextrina",
+      "path": "Dieta y hábitos/Maltodextrina.md"
+    },
+    {
+      "basename": "Odds ratio",
+      "path": "Estadística/Odds ratio.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "PBMCs",
       "path": "Biología y medicina/Genética molecular/PBMCs.md"
-    },
-    {
-      "basename": "Check, write",
-      "path": "Check, write.md"
-    },
-    {
-      "basename": "APC",
-      "path": "Biología y medicina/Genética molecular/Genes/APC.md"
     }
   ],
   "omittedPaths": [],
