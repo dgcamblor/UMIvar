@@ -94,31 +94,16 @@ By sequencing both the tumor tissue and the ctDNA, variants related to clonal he
 - CTCs
 - Imaging techniques (?) (guided by AI?)
 
-### 1. Genomics and epigenomics
+### 1. Genomics, epigenomics and fragmentomics
 
 The study of whole genome methylation markers through techniques such as cfMeDIP-seq —which enables high resolution profiling at a relatively low cost when compared with bisulfite methods— is also starting to render insightful results. 
 
+The study of cfDNA fragmentation patterns —a field termed **fragmentomics**— is also starting to gain traction in the setting of tumor-agnostic MRD detection. 
 
-A study in 51 metastatic cancer patients (INSPIRE trial, NCT02644369) showed that cancer specific methylation (CSM, using cf-MeDIPseq) predicted OS and PFS comparably to mutation concentration (MC) in ctDNA, both tumor-naïve approaches. Adding in the short fragment fraction (SFF) determination to the CSM, OS and PFS could be predicted better than the gold-standard MC. [Redirecting](https://doi.org/10.1016/j.annonc.2022.07.1744).
+A study in 51 metastatic cancer patients from the INSPIRE trial (NCT02644369) that followed a tumor-agnostic approach showed that cancer specific methylation predicted OS and PFS similarly to mutation concentration in ctDNA. When integrating fragmentomics, both OS and PFS prediction surpassed that of mutation concentration [@zhao1664MOTumornaiveMethylomes2022].
 
-### 2. Fragmentomics
+The integration of multiple omics is certainly a target to pursue for the promise of a more sensitive and specific detection of ctDNA. [Redirecting](https://doi.org/10.1016/j.annonc.2022.07.1744). Similar approaches could be followed for MRD detection, although the high related costs would be currrently unaffordable for the daily clinical practice. 
 
-- Epigenomics, future directions
-- Fragmentomics
-
-The addition of other omics to ctDNA detection shows great promise for MRD assessment.
-
-The study of cfDNA fragmentation patterns —termed fragmentomics— is also starting to gain traction in the setting of tumor-agnostic MRD detection. [Site Unreachable](https://www.annalsofoncology.org/article/S0923-7534(23)04010-3/fulltext) (early detection)
-
-Epigenomics
-
-Beyond purely genomic-based detection of ctDNA for MRD assessment, the identification of epigenomic biomarkers is gaining traction for MRD, of which methylation is the most studied.
-
-Methylation biomarkers have mostly proven useful in the tumor-agnostic setting. 
-
-FRAGMENTOMICS!!!!!!!!!!!!!!!!
-
-Characteristics of methylation markers
 
 EC:
 - ECLIPSE
@@ -127,9 +112,9 @@ EC:
 
 The potential of 
 
-### 3. Liquid Biopsy Technologies: CTCs
+### 2. Liquid Biopsy Technologies: CTCs
 
-### 4. Advanced Imaging Techniques
+### 3. Advanced Imaging Techniques
 
 > The application of AI in radiomics.
 > However, ctDNA still takes 
@@ -137,6 +122,6 @@ The potential of
 
 [@tibermacineRadiomicsModellingRectal2021]
 
-### 5. AI
+### 4. AI
 
 > Beyond radiomics, AI also has interesting applications...
