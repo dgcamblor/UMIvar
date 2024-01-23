@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "UMIc",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMIc.md"
+    },
+    {
+      "basename": "CHIP filtering",
+      "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "CDX2",
       "path": "Biología y medicina/Genética molecular/Genes/CDX2.md"
-    },
-    {
-      "basename": "EGFR",
-      "path": "Biología y medicina/Genética molecular/Genes/EGFR.md"
-    },
-    {
-      "basename": "HLA",
-      "path": "Biología y medicina/Genética molecular/Genes/HLA.md"
     }
   ],
   "omittedPaths": [],

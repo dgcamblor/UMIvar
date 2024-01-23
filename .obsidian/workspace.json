@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMIc.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "UMIC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMIc.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMIc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMIc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMIc.md"
               }
             }
           },
@@ -210,6 +210,8 @@
   },
   "active": "b3d0a7bee850dee6",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md.partial",
     "Música/Tipos de pianos.md",
     "Música/Tipos de pianos.md.partial",
@@ -224,7 +226,6 @@
     "Estadística/Análisis de supervivencia.md.partial",
     "Estadística/Tamaño muestral.md.partial",
     "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md",
-    "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md.partial",
     "Dashboard.md",
     "Biología y medicina/Epigenética/Epigenética y cáncer.md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
@@ -235,7 +236,6 @@
     "Notas de cursos/Gestión del tiempo.md",
     "Notas de cursos/Comunicación interpersonal.md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Biología y medicina/Genética molecular/Genes/SEPT9.md",
     "Doctorado/ctDNA methylation overview.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
