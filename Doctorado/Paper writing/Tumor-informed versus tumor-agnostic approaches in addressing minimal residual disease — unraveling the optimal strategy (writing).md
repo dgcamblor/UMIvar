@@ -6,7 +6,7 @@ tags:
 
 ## II. Tumor-agnostic strategies
 
-Purely methylation-based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for this specific approach, because of their widespread and common occurrence in cancer, which contrasts the higher tumor and clonal specificity that genetic variants exhibit [@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020b].
+Purely methylation-based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for this specific approach, because of their widespread and common occurrence in cancer, which contrasts the higher tumor and clonal specificity that genetic variants exhibit [@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020].
 
 ### WIF1 and NPY
 
