@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "A hitchhiker's guide to bioinformatics — tips",
+      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+    },
+    {
+      "basename": "Up your pipeline game - Use a workflow manager",
+      "path": "Medium/Up your pipeline game - Use a workflow manager.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "ctDNA WGBS processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md"
+    },
+    {
+      "basename": "Bisulfite conversion processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+    },
+    {
+      "basename": "Biopsia líquida",
+      "path": "Biología y medicina/Oncología/Biopsia líquida.md"
+    },
+    {
+      "basename": "Variant calling processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+    },
+    {
+      "basename": "Revisión de estudios de metilación en ctDNA",
+      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Model evaluation",
+      "path": "Estadística/Machine Learning/Model evaluation.md"
+    },
+    {
+      "basename": "Linear discriminant analysis (LDA)",
+      "path": "Estadística/Machine Learning/Dimensionality reduction/Linear discriminant analysis (LDA).md"
+    },
+    {
+      "basename": "File management system for bioinformatics",
+      "path": "Bioinformática y programación/File management system for bioinformatics.md"
+    },
+    {
+      "basename": "Ensayos clínicos",
+      "path": "Biología y medicina/Ensayos clínicos.md"
+    },
+    {
+      "basename": "Cáncer colorrectal",
+      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
+    },
+    {
       "basename": "Banners",
       "path": "Otros/Banners/Banners.md"
     },
@@ -23,10 +79,6 @@
     {
       "basename": "Comunicación interpersonal",
       "path": "Notas de cursos/Comunicación interpersonal.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "ctDNA methylation overview",
@@ -109,14 +161,6 @@
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
-      "basename": "Revisión de estudios de metilación en ctDNA",
-      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
       "basename": "Maltodextrina",
       "path": "Dieta y hábitos/Maltodextrina.md"
     },
@@ -137,10 +181,6 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
     },
     {
-      "basename": "Bisulfite conversion processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
       "basename": "Gestión del tiempo",
       "path": "Notas de cursos/Gestión del tiempo.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Misery - Stephen King",
       "path": "Notas de libros/Misery - Stephen King.md"
-    },
-    {
-      "basename": "Análisis de supervivencia",
-      "path": "Estadística/Análisis de supervivencia.md"
-    },
-    {
-      "basename": "Kaplan-Meier",
-      "path": "Estadística/Kaplan-Meier.md"
-    },
-    {
-      "basename": "Tamaño muestral",
-      "path": "Estadística/Tamaño muestral.md"
-    },
-    {
-      "basename": "Pérdida de Y (LOY)",
-      "path": "Biología y medicina/Genética molecular/Pérdida de Y (LOY).md"
-    },
-    {
-      "basename": "Autoexploración de la piel",
-      "path": "Dieta y hábitos/Autoexploración de la piel.md"
-    },
-    {
-      "basename": "Aceites",
-      "path": "Dieta y hábitos/Aceites.md"
-    },
-    {
-      "basename": "Epigenética y cáncer",
-      "path": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
-    },
-    {
-      "basename": "Epigenética y envejecimiento",
-      "path": "Biología y medicina/Epigenética/Epigenética y envejecimiento.md"
-    },
-    {
-      "basename": "5hmC",
-      "path": "Biología y medicina/Epigenética/5hmC.md"
-    },
-    {
-      "basename": "Pirosecuenciación",
-      "path": "Biología y medicina/Epigenética/Pirosecuenciación.md"
     }
   ],
   "omittedPaths": [],

@@ -6,7 +6,6 @@ banner_x: 0.5
 banner_y: 0.54
 obsidianUIMode: preview
 ---
-
 ## Dashboards
 
 - 🖱️Bioinformática y programación

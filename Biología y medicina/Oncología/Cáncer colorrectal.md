@@ -54,8 +54,6 @@ El tratamiento depende fundamentalmente de la resecabilidad del tumor y las met�
 	- Segunda línea. Se aconseja intercambiar oxaliplatino o irinotecan en función del recibido en primera línea, administrando el que no haya sido utilizado.
 	- Tercera línea y posteriores. Se reintroduce la terapia inicial (si el paciente no progresó con ella). Otros: regorafenib, etc.
 
-#write 
-
 ## CIRCULATE
 
 El estudio CIRCULATE es una serie de ensayos clínicos que investigan el uso de [[cfDNA y ctDNA|ctDNA]] para guiar las decisiones al tratamiento adyuvante en cáncer colorrectal localizado.

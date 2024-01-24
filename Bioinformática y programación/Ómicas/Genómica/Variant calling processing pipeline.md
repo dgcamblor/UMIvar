@@ -2,7 +2,6 @@
 tags:
   - pipeline
   - phd
-  - write
 ---
 
 ## FASTQ Quality Control and preprocessing

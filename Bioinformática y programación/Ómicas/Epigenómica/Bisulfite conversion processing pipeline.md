@@ -2,7 +2,6 @@
 tags:
   - pipeline
   - phd
-  - write
 nf-core: https://nf-co.re/methylseq/2.6.0
 ---
 https://medium.com/@shilparaopradeep/how-to-use-bedtools-for-analysis-of-genome-methylation-71091142568d

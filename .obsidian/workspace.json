@@ -11,8 +11,12 @@
             "id": "c4c63e03c22b52e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#write",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+              }
             }
           },
           {
@@ -125,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+              }
             }
           },
           {
@@ -175,12 +185,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +210,19 @@
   },
   "active": "c4c63e03c22b52e7",
   "lastOpenFiles": [
+    "Medium/Up your pipeline game - Use a workflow manager.md",
+    "Dashboard.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+    "Biología y medicina/Oncología/Biopsia líquida.md",
+    "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+    "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Estadística/Machine Learning/Model evaluation.md",
+    "Estadística/Machine Learning/Dimensionality reduction/Linear discriminant analysis (LDA).md",
+    "Bioinformática y programación/File management system for bioinformatics.md",
+    "Biología y medicina/Ensayos clínicos.md",
+    "Biología y medicina/Oncología/Cáncer colorrectal.md",
     "Otros/Banners/Banners.md",
     "Otros/Útiles",
     "Notas diarias/2024-01-24.md",
@@ -216,7 +238,6 @@
     "Doctorado/Paper writing/zotero.lua.crdownload",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).docx",
     "Notas de cursos/Comunicación interpersonal.md",
-    "Dashboard.md",
     "Doctorado/ctDNA methylation overview.md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/Detection of CRC-specific methylation profiles.md",
@@ -224,18 +245,6 @@
     "Doctorado/Líneas de investigación y estudios de interés.md",
     "Doctorado/Methylation and drug resistance.md",
     "Doctorado/PhD dashboard.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/Clinical relevance of ctDNA analysis.md",
-    "Doctorado/Asociaciones y congresos de interés.md",
-    "Bioinformática y programación/VSCode configuration.md",
-    "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md",
-    "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
-    "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
-    "Bioinformática y programación/Ómicas/Genómica/Strelka2.md",
-    "Doctorado/Consejos para un póster científico.md",
-    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
-    "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
-    "Doctorado/Possible controls for ctDNA methylation.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",

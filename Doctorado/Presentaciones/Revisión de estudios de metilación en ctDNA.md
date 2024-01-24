@@ -1,7 +1,6 @@
 ---
 tags:
   - phd
-  - write
 ---
 Primero, voy a haceros un repaso global de los principales estudios y métodos que he encontrado, y después me gustaría que entre todos discutiéramos algunos puntos clave sobre la metodología que vamos a emplear para esta parte de epigenómica.
 

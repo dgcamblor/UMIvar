@@ -1,7 +1,19 @@
 ---
 writingStatus: planning
 ---
+
+# Planning
+
 [[Cosas que he aprendido del TFM]]
+
+- **Get yourself a comfortable environment.**
+
+- **Get up to date with the latest technologies.** Last advice. Bioinformatics is an ever-evolving field, and perhaps more so these days with the recent releases of AI-powered tools.
+
+Like the legendary Bruce Lee said, "Be water, my friend". Be flexible and prepere to adapt for the new ways of programming and doing bioinformatics that are coming (rather sooner than later).
+
+# Writing
+
 
 I've come across 1000 errors in my pipelines, here's what i learnt... or something like that would write your average clickbaiter
 

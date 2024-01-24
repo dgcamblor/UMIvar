@@ -2,7 +2,6 @@
 tags:
   - pipeline
   - phd
-  - write
 description: Particularies of ctDNA analysis that a standard methylation pipeline (WGBS) should account for.
 ---
 
