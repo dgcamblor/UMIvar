@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +208,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c4c63e03c22b52e7",
+  "active": "dd54fa8bf8a7a207",
   "lastOpenFiles": [
     "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
