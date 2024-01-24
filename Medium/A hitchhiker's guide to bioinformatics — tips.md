@@ -6,7 +6,11 @@ writingStatus: planning
 
 [[Cosas que he aprendido del TFM]]
 
-- **Get yourself a comfortable environment.**
+- **Get yourself a comfortable environment.** If you use VIM, you may not be able to leave.
+
+- **Learn the ways of scripting.** Scripts are the greatest power you have as a bioinformatician, and one you should embrace. They are not just for automating tasks, but also for documenting your work and making it reproducible.
+
+
 
 - **Get up to date with the latest technologies.** Last advice. Bioinformatics is an ever-evolving field, and perhaps more so these days with the recent releases of AI-powered tools.
 
