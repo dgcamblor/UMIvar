@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Comunicación interpersonal",
+      "path": "Notas de cursos/Comunicación interpersonal.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "ctDNA methylation overview",
@@ -119,10 +123,6 @@
     {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
-      "basename": "Comunicación interpersonal",
-      "path": "Notas de cursos/Comunicación interpersonal.md"
     },
     {
       "basename": "Gestión del tiempo",
