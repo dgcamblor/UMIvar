@@ -53,6 +53,8 @@ One key study that employs this approach in CRC is the GALAXY trial (UMIN0000392
 
 Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multicenter study conducts a serial analysis the ctDNA status in a prospective cohort of 2000 stage I-IV CRC patients, and observing the effects
 
+By using Signatera to detect
+
 
 further validating said assay in a prospective cohort of 2000 stage I-IV CRC patients, and to expand upon the current evidence of the clinical utility of ctDNA in the MRD setting, helping to better define optimal treatment regimens.
 
