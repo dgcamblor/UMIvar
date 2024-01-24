@@ -12,7 +12,7 @@ writingStatus: planning
 
 
 
-- **Get up to date with the latest technologies.** Last advice. Bioinformatics is an ever-evolving field, and perhaps more so these days with the recent releases of AI-powered tools.
+- **Get up to date with the latest technologies.** Last advice. Bioinformatics is an ever-evolving field, and perhaps more so these days with the recent releases of AI-powered tools. Of course, no need to say that the purely "bio" part in bioinformatics is also constantly changing, 
 
 Like the legendary Bruce Lee said, "Be water, my friend". Be flexible and prepere to adapt for the new ways of programming and doing bioinformatics that are coming (rather sooner than later).
 
@@ -47,7 +47,3 @@ When you are constructing a pipeline
 Build up a system that is valid for you.
 
 Avoid duplicity of files
-
-## Don't forget about the bio in bioinformatics!
-
-As bioinformaticians we are really being asked to be a jack-of-all-trades
