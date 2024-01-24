@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Banners",
+      "path": "Otros/Banners/Banners.md"
+    },
+    {
       "basename": "2024-01-24",
       "path": "Notas diarias/2024-01-24.md"
+    },
+    {
+      "basename": "Zotero configuration",
+      "path": "Bioinformática y programación/Zotero configuration.md"
+    },
+    {
+      "basename": "Pandoc",
+      "path": "Bioinformática y programación/Programas/Pandoc.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
@@ -187,18 +199,6 @@
     {
       "basename": "Pirosecuenciación",
       "path": "Biología y medicina/Epigenética/Pirosecuenciación.md"
-    },
-    {
-      "basename": "Gamification of your personal development",
-      "path": "Medium/Gamification of your personal development.md"
-    },
-    {
-      "basename": "Writing on Medium",
-      "path": "Medium/Writing on Medium.md"
-    },
-    {
-      "basename": "What is life",
-      "path": "Medium/What is life.md"
     }
   ],
   "omittedPaths": [],

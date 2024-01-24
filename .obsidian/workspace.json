@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-24.md",
+                "file": "Otros/Banners/Banners.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-24.md"
+                "file": "Otros/Banners/Banners.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-24.md",
+                "file": "Otros/Banners/Banners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-24.md",
+                "file": "Otros/Banners/Banners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-24.md"
+                "file": "Otros/Banners/Banners.md"
               }
             }
           },
@@ -209,16 +209,19 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c4c63e03c22b52e7",
+  "active": "49c97c5289b16da1",
   "lastOpenFiles": [
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Otros/Útiles",
     "Notas diarias/2024-01-24.md",
+    "Bioinformática y programación/Zotero configuration.md",
+    "Bioinformática y programación/Programas/Pandoc.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Paper writing/test.docx",
     "Doctorado/Paper writing/biblioteca.bib",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).tex",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).odt",
     "Doctorado/Paper writing/Sin título",
-    "Doctorado/Paper writing/zotero.lua",
+    "Otros/Útiles/zotero.lua",
     "Doctorado/Paper writing/zotero.lua.crdownload",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).docx",
     "Notas de cursos/Comunicación interpersonal.md",
@@ -242,9 +245,6 @@
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
-    "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md.partial",
     "Música/Tipos de pianos.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
