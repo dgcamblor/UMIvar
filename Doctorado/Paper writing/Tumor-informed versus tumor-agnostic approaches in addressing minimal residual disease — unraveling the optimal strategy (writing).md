@@ -51,7 +51,7 @@ The Signatera assay (Natera) has become a prominent advocate of the tumor-inform
 
 One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
 
-The Signatera assay is also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multicenter study aims at expanding upon the current evidence of clinical utility of the tumor-informed approach in a prospective cohort of 2000 stage I-IV CRC patients to better define optimal treatment regimens. 
+Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multicenter study aims at further validating said assay in a prospective cohort of 2000 stage I-IV CRC patients, and to expand upon the current evidence of the clinical utility of ctDNA in the MRD setting, helping to better define optimal treatment regimens.
 
 
 .[@kasiBESPOKEStudyProtocol2021].
