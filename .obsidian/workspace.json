@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+                "file": "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+                "file": "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md"
               }
             }
           },
@@ -184,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,6 +209,9 @@
   },
   "active": "c4c63e03c22b52e7",
   "lastOpenFiles": [
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Medium/Up your pipeline game - Use a workflow manager.md",
     "Dashboard.md",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
@@ -228,7 +230,6 @@
     "Notas diarias/2024-01-24.md",
     "Bioinformática y programación/Zotero configuration.md",
     "Bioinformática y programación/Programas/Pandoc.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Paper writing/test.docx",
     "Doctorado/Paper writing/biblioteca.bib",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).tex",
@@ -243,8 +244,6 @@
     "Doctorado/Detection of CRC-specific methylation profiles.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
-    "Doctorado/Methylation and drug resistance.md",
-    "Doctorado/PhD dashboard.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
