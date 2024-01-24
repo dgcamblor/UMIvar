@@ -1,2 +1,2 @@
 
-La hematopoyesis clonal de potencial indeterminado (CHIP) consiste en la adquisición de mutaciones somáticas por parte de las células madre hematopoyéticas que llevan a su expansi
+La hematopoyesis clonal de potencial indeterminado (CHIP) consiste en la adquisición de mutaciones somáticas por parte de las células madre hematopoyéticas que llevan a su expansión clonal. Esta condición se asocia a la edad avanzada y no lleva asociado un proceso neoplásico, aunque sí que conlleva un mayor riesgo de sufrirlo.

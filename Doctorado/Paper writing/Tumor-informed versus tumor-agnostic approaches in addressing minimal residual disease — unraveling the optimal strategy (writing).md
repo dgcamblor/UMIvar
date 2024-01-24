@@ -15,6 +15,7 @@ One of the most relevant examples are the WIF1 and NPY genes, which have consist
 ### BCAT1 and IKZF1
 
 The methylation levels of BCAT1 and IKZF1 in ctDNA has also been correlated to CRC tumor presence. In a prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022]. The relevance of BCAT1 and IKZF1 has been leveraged by the laboratory-developed test Colvera (CSIRO), which in its latest iteration has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respectively [@vuceticClinicalPerformanceMethylationbased2021].
+
 ### SEPT9
 
 SEPT9, which has extensively been studied for CRC early detection and is at the base of the FDA-approved Epi proColon commercial assay (Epigenomics AG) has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, among which RFS was decreased (HR = 5.83) [@yuanCirculatingMethylatedSEPT92022].
@@ -50,7 +51,10 @@ The Signatera assay (Natera) has become a prominent advocate of the tumor-inform
 
 One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
 
-The Signatera assay is also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702).[@kasiBESPOKEStudyProtocol2021].
+The Signatera assay is also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multicenter prospective study aims at 
+
+
+.[@kasiBESPOKEStudyProtocol2021].
 
 > thereby expanding upon the results of the aforementioned DYNAMIC trial.
 
