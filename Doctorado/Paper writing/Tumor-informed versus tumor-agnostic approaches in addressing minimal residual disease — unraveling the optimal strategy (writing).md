@@ -45,12 +45,13 @@ One of the earliest key studies that supported this approach was performed in a 
 
 The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the possibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In this approximation, patients that were ctDNA-positive at 4 or 7 weeks after surgery were recommended to receive adjuvant oxaliplatin- or fluoropyrimidine-based chemotherapy. Conversely, patients testing negative for ctDNA did not receive adjuvant chemotherapy. The RFS for the ctDNA-guided group was comparable to that of the standard management group (93.5% vs. 92.4%), indicating the suitability of chemotherapy reduction in ctDNA negative patients [@tieCirculatingTumorDNA2022].
 
+### Other studies
 
-##
+Other studies that have since relied on custom
 
 ### Signatera assay: GALAXY trial and BESPOKE trial
 
-The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, whole exome sequencing is performed on both primary tumor tissue and matched normal tissue to work out a set of 16 or more mutations. These are subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is used to detect ctDNA and monitorize MRD. 
+The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach, which is a step beyond the targeted sequencing used by previous studies. A set of 16 or more mutations is worked out and subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is then used to detect ctDNA and monitorize MRD [@SignateraOverview].
 
 One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
 

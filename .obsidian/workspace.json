@@ -184,7 +184,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -208,7 +209,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "87438559601f7a8d",
+  "active": "8dcdc1c8068c9478",
   "lastOpenFiles": [
     "Dashboard.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
