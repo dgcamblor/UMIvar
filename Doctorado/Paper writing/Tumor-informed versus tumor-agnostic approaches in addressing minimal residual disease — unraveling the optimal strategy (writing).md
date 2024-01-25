@@ -14,7 +14,7 @@ One of the most relevant examples are the WIF1 and NPY genes, which have consist
 
 ### BCAT1 and IKZF1
 
-The methylation levels of BCAT1 and IKZF1 in ctDNA have also been correlated to MRD in CRC. In a prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7, 95% CI: 1.9-17.3, p = 0.002) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022]. The relevance of BCAT1 and IKZF1 has been leveraged by the laboratory-developed test Colvera (CSIRO), which in its latest iteration has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respectively [@vuceticClinicalPerformanceMethylationbased2021].
+The aberrant methylation of BCAT1 and IKZF1 has also been found in CRC tissue, and evidence has suggested their clinical utility as blood biomarkers associated to ctDNA presence [@youngCrosssectionalStudyComparing2016]. In a recent prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7, 95% CI: 1.9-17.3, p = 0.002) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022]. These biomarkers have also been leveraged by the laboratory-developed test Colvera (Clinical Genomics), which in its latest iteration has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respectively [@vuceticClinicalPerformanceMethylationbased2021].
 
 ### SEPT9
 
