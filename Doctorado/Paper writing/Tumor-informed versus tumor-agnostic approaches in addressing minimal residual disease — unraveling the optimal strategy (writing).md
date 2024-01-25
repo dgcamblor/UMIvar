@@ -6,6 +6,10 @@ tags:
 
 ## II. Tumor-agnostic strategies
 
+- [@day586PMinimalResidual2023]
+- 
+
+
 Purely methylation-based tests have sucessfuly been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for this specific approach, because of their widespread and common occurrence in cancer, which contrasts the higher tumor and clonal specificity that genetic variants exhibit [@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020].
 
 ### WIF1 and NPY
@@ -77,6 +81,8 @@ By sequencing both the tumor tissue and the ctDNA, variants related to clonal he
 
 ### Discussion of studies comparing both approaches
 
+Few studies have directly compared both approaches.
+
 ![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Studies comparing both approaches]]
 
 ## V. Emerging Technologies and Future Directions
@@ -110,7 +116,7 @@ The potential of
 
 ### 2. Liquid Biopsy Technologies: CTCs
 
-The study of circulating tumor cells (CTCs) -cancer cells that are released from the tumor mass and migrate into preripheral circulation
+The study of circulating tumor cells (CTCs) -cancer cells that are released from the tumor mass and migrate into preripheral circulation- is currently a hot topic of research.
 
 ### 3. Advanced Imaging Techniques
 
