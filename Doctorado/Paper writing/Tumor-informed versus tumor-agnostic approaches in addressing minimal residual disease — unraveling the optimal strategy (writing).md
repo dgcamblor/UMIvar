@@ -26,14 +26,6 @@ Finally, SEPT9, a gene that has extensively been studied for CRC early detection
 
 ## III. Tumor-informed strategies
 
-As previously stated, the tumor-informed approach, aims to molecularly characterize the tumor tissue prior to ctDNA detection. This way, a bespoke ctDNA assay can be created to directly target the specific mutations of said tumor. The addition of tumor sequencing has both advantages and disadvantages when compared to the tumor-agnostic strategy. 
-
-[CHIP]
-
-However, the addition of tumor sequencing comes at a cost, both in terms of he 
-
-Focusing only on variants found in tumor tissue also raises the question of tumor heterogeneity and resistance mechanisms, where treatment may lead to the appearance or increase of different clonal cells harboring different mutations than those initially found. Thus, potential new variants could be omitted.
-
 ### DYNAMIC trial (SafeSeqS approach)
 
 > Añadir sobre la capacidad de detección.
@@ -73,7 +65,15 @@ Other recent studies have explored the
 
 ### Strengths and weaknesses
 
-- By looking for very specific mutation, tumor-informed assays may not account for new tumor clones.
+- Dependence on the initial characterization of the tumor tissue also raises the critical issue of missing on uncharacterized or appearing mutations. The mutations that are to be tracked are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. 
+- 
+
+
+[CHIP]
+
+However, the addition of tumor sequencing comes at a cost, both in terms of he 
+
+Focusing only on variants found in tumor tissue also raises the question of tumor heterogeneity and resistance mechanisms, where treatment may lead to the appearance or increase of different clonal cells harboring different mutations than those initially found. Thus, potential new variants could be omitted.
 
 High specificity of mutations may lead to false negatives in tumor-agnostic assays. However,
 
