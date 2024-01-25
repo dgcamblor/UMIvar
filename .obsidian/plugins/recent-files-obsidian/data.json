@@ -5,6 +5,10 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "scRNA-seq processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SEPT9",
       "path": "Biología y medicina/Genética molecular/Genes/SEPT9.md"
-    },
-    {
-      "basename": "Methylation in CRC",
-      "path": "Doctorado/Methylation in CRC.md"
     }
   ],
   "omittedPaths": [],

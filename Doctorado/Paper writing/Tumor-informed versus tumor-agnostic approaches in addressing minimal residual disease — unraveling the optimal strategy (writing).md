@@ -85,9 +85,12 @@ By sequencing both the tumor tissue and the ctDNA, variants related to clonal he
 - CTCs
 - Imaging techniques (?) (guided by AI?)
 
-### 1. Genomics, epigenomics and fragmentomics
+### 1. Epigenomics and beyond
 
-> The advent of multi-omic integration would most benefit tumor-agnostic assays, which have al
+> The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.
+
+
+
 
 The study of whole genome methylation markers through techniques such as cfMeDIP-seq —which enables high resolution profiling at a relatively low cost when compared with bisulfite methods— is also starting to render insightful results. 
 
@@ -106,6 +109,8 @@ EC:
 The potential of 
 
 ### 2. Liquid Biopsy Technologies: CTCs
+
+The study of circulating tumor cells (CTCs) -cancer cells that are released from the tumor mass and migrate into preripheral circulation
 
 ### 3. Advanced Imaging Techniques
 
