@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Variant calling analysis",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Variant calling analysis",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
     },
     {
       "basename": "Hematopoyesis clonal de potencial indeterminado (CHIP)",
@@ -19,10 +23,6 @@
     {
       "basename": "Up your pipeline game - Use a workflow manager",
       "path": "Medium/Up your pipeline game - Use a workflow manager.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "ctDNA WGBS processing pipeline",
