@@ -10,7 +10,10 @@ Purely methylation-based tests have sucessfuly been used to assess MRD in a tumo
 
 ### WIF1 and NPY
 
-One of the most relevant examples are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers for ctDNA and MRD detection [@roperchAberrantMethylationNPY2013; @garrigouStudyHypermethylatedCirculating2016]. Taieb et al. assessed the methylation status of these genes via digital PCR in a retrospective cohort of 1345 stage III CRC patients from the IDEA-FRANCE clinical trial (NCT00958737). A total of 140 patients tested positive for ctDNA (13.8%), and their 3-year DFS proved to be significantly lower than the ctDNA-negative group (66.39% vs. 76.71%; HR = 1.46; 95% CI: 1.08-1.97, p = 0.015) [@taiebPrognosticValueRelation2021]. A digital PCR platform was also able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies [@oversDetectionSpecificHypermethylated2021].
+One of the most relevant examples are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers for ctDNA and MRD detection [@roperchAberrantMethylationNPY2013; @garrigouStudyHypermethylatedCirculating2016]. Taieb et al. assessed the methylation status of these genes via digital PCR in a retrospective cohort of 1345 stage III CRC patients from the IDEA-FRANCE clinical tri al (NCT00958737). A total of 140 patients tested positive for ctDNA (13.8%), and their 3-year DFS proved to be significantly lower than the ctDNA-negative group (66.39% vs. 76.71%; HR = 1.46, 95% CI: 1.08-1.97, p = 0.015). Interestingly, they compared this approach to a NGS-based agnostic detection of tumor variants in a subset of 95 patients, showing high concordance 
+
+
+[@taiebPrognosticValueRelation2021]. A digital PCR platform was also able to achieve 95.5% sensitivity and 100% specificity in a cohort of 22 liquid biopsies [@oversDetectionSpecificHypermethylated2021].
 
 ### BCAT1 and IKZF1
 
@@ -58,7 +61,9 @@ Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT0426
 [Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)^^^^^ First results of the Signatera assay
 
 
-### Other trials
+### Other studies
+
+[@henriksenCirculatingTumorDNA2022; @reinertAnalysisPlasmaCellFree2019]
 
 Studies using non-commercial tumor-informed assays have also rendered insightful results. One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
 
