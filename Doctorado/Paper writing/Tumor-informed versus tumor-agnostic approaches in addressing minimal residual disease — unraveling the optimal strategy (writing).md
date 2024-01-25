@@ -14,11 +14,11 @@ One of the most relevant examples are the WIF1 and NPY genes, which have consist
 
 ### BCAT1 and IKZF1
 
-The aberrant methylation of BCAT1 and IKZF1 has also been found in CRC tissue, and evidence has suggested their clinical utility as blood biomarkers associated to ctDNA presence [@youngCrosssectionalStudyComparing2016]. In a recent prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7, 95% CI: 1.9-17.3, p = 0.002) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022]. These biomarkers have also been leveraged by the laboratory-developed test Colvera (Clinical Genomics), which in its latest iteration has exhibited values of sensitivity and specificity as high as 62% and 98.3%, respectively [@vuceticClinicalPerformanceMethylationbased2021].
+The aberrant methylation of BCAT1 and IKZF1 has also been found in CRC tissue, and evidence has suggested their clinical utility as blood biomarkers associated to ctDNA presence [@pedersenEvaluationAssayMethylated2015]. These biomarkers have been leveraged by the laboratory-developed test Colvera (Clinical Genomics), that follows a real-time PCR approach for their detection. In a recent prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7, 95% CI: 1.9-17.3, p = 0.002) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022].
 
 ### SEPT9
 
-Finally, SEPT9, which has extensively been studied for CRC early detection and is at the base of the FDA-approved Epi proColon commercial assay (Epigenomics AG) has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. After tumoral resection, the detection of methylated SEPT9 was able to predict the risk of recurrence in a cohort of 426 stage II-II CRC patients, among which RFS was decreased (HR = 5.83) [@yuanCirculatingMethylatedSEPT92022].
+Finally, SEPT9, a gene that has extensively been studied for CRC early detection has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. Yuan et al. studied a cohort of 426 stage II-III CRC patients, and showed that the detection of methylated SEPT9 in ctDNA 4 weeks after surgical intervention significantly decreased RFS (HR = 6.08, 95% CI: 3.27–11.31, p < 0.001)[@yuanCirculatingMethylatedSEPT92022].
 
 ### Genome-wide
 
@@ -45,6 +45,9 @@ One of the earliest key studies that supported this approach was performed in a 
 
 The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the possibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In this approximation, patients that were ctDNA-positive at 4 or 7 weeks after surgery were recommended to receive adjuvant oxaliplatin- or fluoropyrimidine-based chemotherapy. Conversely, patients testing negative for ctDNA did not receive adjuvant chemotherapy. The RFS for the ctDNA-guided group was comparable to that of the standard management group (93.5% vs. 92.4%), indicating the suitability of chemotherapy reduction in ctDNA negative patients [@tieCirculatingTumorDNA2022].
 
+
+##
+
 ### Signatera assay: GALAXY trial and BESPOKE trial
 
 The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, whole exome sequencing is performed on both primary tumor tissue and matched normal tissue to work out a set of 16 or more mutations. These are subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is used to detect ctDNA and monitorize MRD. 
@@ -53,10 +56,7 @@ One key study that employs this approach in CRC is the GALAXY trial (UMIN0000392
 
 Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study tracks the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
 
-
-
-[Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)^^^^^ First results of the Signatera assay
-
+[Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)
 
 ### Other studies
 
