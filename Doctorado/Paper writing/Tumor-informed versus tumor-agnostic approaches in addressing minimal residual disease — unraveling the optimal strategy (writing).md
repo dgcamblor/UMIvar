@@ -37,6 +37,8 @@ One of the earliest key studies that supported this approach was performed in a 
 
 The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the possibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In this approximation, patients that were ctDNA-positive at 4 or 7 weeks after surgery were recommended to receive adjuvant oxaliplatin- or fluoropyrimidine-based chemotherapy. Conversely, patients testing negative for ctDNA did not receive adjuvant chemotherapy. The RFS for the ctDNA-guided group was comparable to that of the standard management group (93.5% vs. 92.4%), indicating the suitability of chemotherapy reduction in ctDNA negative patients [@tieCirculatingTumorDNA2022].
 
+> DYNAMIC rectal
+
 ### Other studies
 
 Other studies that have since relied on custom
@@ -57,25 +59,19 @@ Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT0426
 
 Studies using non-commercial tumor-informed assays have also rendered insightful results. One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
 
-Other recent studies have explored the 
-
-
-
 ## IV. Comparison
 
 ### Strengths and weaknesses
 
-- Dependence on the initial characterization of the tumor tissue also raises the critical issue of missing on uncharacterized or appearing mutations. The mutations that are to be tracked are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. 
+- Dependence on tumor tissue.
+	- The requirement of tumor tissue comes at a evident cost, both in terms of time and economic resources.
+	- The dependence on the initial characterization of the tumor tissue also raises the critical issue of missing on uncharacterized or appearing mutations. The mutations that are to be tracked are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. Both paths would entail an increase of false negatives in tumor-agnostic assays.
 - 
 
 
 [CHIP]
 
-However, the addition of tumor sequencing comes at a cost, both in terms of he 
 
-Focusing only on variants found in tumor tissue also raises the question of tumor heterogeneity and resistance mechanisms, where treatment may lead to the appearance or increase of different clonal cells harboring different mutations than those initially found. Thus, potential new variants could be omitted.
-
-High specificity of mutations may lead to false negatives in tumor-agnostic assays. However,
 
 By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
 
@@ -90,6 +86,8 @@ By sequencing both the tumor tissue and the ctDNA, variants related to clonal he
 - Imaging techniques (?) (guided by AI?)
 
 ### 1. Genomics, epigenomics and fragmentomics
+
+> The advent of multi-omic integration would most benefit tumor-agnostic assays, which have al
 
 The study of whole genome methylation markers through techniques such as cfMeDIP-seq —which enables high resolution profiling at a relatively low cost when compared with bisulfite methods— is also starting to render insightful results. 
 
