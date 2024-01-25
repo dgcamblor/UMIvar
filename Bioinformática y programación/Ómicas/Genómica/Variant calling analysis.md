@@ -19,3 +19,10 @@ The dN/dS ratio compares the rate of non-synonymous substitutions (dN) to the ra
 - A ratio less than 1 indicates purifying selection suppressing protein change
 
 ### Tumor Mutational Burden (TMB)
+
+The **Tumor Mutational Burden (TMB)** is a measure of the total number of mutations found in the tumor cells. It is calculated by counting the number of somatic mutations (SNVs and indels) per megabase of sequenced DNA. Two alternative approaches can be followed:
+
+- Non-synonymous somatic mutations/Mb
+- All somatic mutations/Mb
+
+The key challenges of TMB adoption are the inconsistency of tumor mutational burden measurement among assays and the lack of a meaningful threshold for TMB classification.

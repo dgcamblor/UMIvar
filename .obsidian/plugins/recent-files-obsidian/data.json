@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Variant calling analysis",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "Chimeric alignment",
       "path": "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md"
-    },
-    {
-      "basename": "Variant calling analysis",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
     },
     {
       "basename": "Base Quality Score Recalibration",
