@@ -108,8 +108,9 @@ The potential of
 
 ### 2. Liquid Biopsy Technologies: CTCs
 
-- CTCs 
-- miRNA
+- CTCs [@marcuelloCirculatingBiomarkersEarly2019]
+- miRNA [@marcuelloCirculatingBiomarkersEarly2019]
+- mRNA !!!!!!!!!!!!!!!!
 
 The study of circulating tumor cells (CTCs) -cancer cells that are released from the tumor mass and migrate into preripheral circulation- is currently a hot topic of research.
 
