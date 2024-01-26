@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Revisión de estudios de metilación en ctDNA",
       "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
       "basename": "Model evaluation",
@@ -195,10 +199,6 @@
     {
       "basename": "CHIP filtering",
       "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
-    },
-    {
-      "basename": "Gestión del tiempo",
-      "path": "Notas de cursos/Gestión del tiempo.md"
     }
   ],
   "omittedPaths": [],

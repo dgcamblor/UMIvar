@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/COBRA trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/COBRA trial.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/COBRA trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/COBRA trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/COBRA trial.md"
               }
             }
           },
@@ -210,13 +210,16 @@
   },
   "active": "6a8af00f835ec3e0",
   "lastOpenFiles": [
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Clinical trials/COBRA trial.md",
+    "Doctorado/Clinical trials",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Untitled.md",
     "Notas diarias/2024-01-26.md",
     "Notas diarias/2024-01-29.md",
     "Untitled.md~RF79a81a.TMP",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Paper writing/test.docx",
     "Dashboard.md",
     "Doctorado/Paper writing/zotero.lua",
@@ -231,7 +234,6 @@
     "Biología y medicina/Oncología/Biopsia líquida.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
     "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Estadística/Machine Learning/Model evaluation.md",
     "Estadística/Machine Learning/Dimensionality reduction/Linear discriminant analysis (LDA).md",
     "Bioinformática y programación/File management system for bioinformatics.md",
@@ -240,12 +242,10 @@
     "Otros/Banners/Banners.md",
     "Otros/Útiles",
     "Notas diarias/2024-01-24.md",
-    "Bioinformática y programación/Zotero configuration.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).tex",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).odt",
     "Doctorado/Paper writing/Sin título",
     "Otros/Útiles/zotero.lua",
-    "Doctorado/Paper writing/zotero.lua.crdownload",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
