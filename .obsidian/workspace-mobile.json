@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "46052c2a0da52981",
+        "id": "e5b37682efa82d20",
         "type": "tabs",
         "children": [
           {
-            "id": "af6805f31fcc8e25",
+            "id": "d3af3db86d1fc11f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93bad73ffd44bb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+            "file": "Untitled.md"
           }
         }
       },
@@ -162,9 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af6805f31fcc8e25",
+  "active": "93bad73ffd44bb86",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Untitled.md",
     "Medium/Writing on Medium.md",
     "Medium/What is life.md",
     "Medium/Up your pipeline game - Use a workflow manager.md",
@@ -199,7 +213,6 @@
     "Notas Diarias/2023-11-27.md",
     "Notas Diarias/2023-11-23.md",
     "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md",
-    "Notas de vídeos/I watch your videos but nothing changes.md",
     "Notas de cursos",
     "Guías y referencias",
     "General",

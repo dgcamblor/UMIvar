@@ -20,6 +20,11 @@ TABLE
 from #write 
 ```
 
+## Tareas
+
+```tasks
+not done
+```
 ## Información de la bóveda
 
 - 🗄️ Recent file updates
