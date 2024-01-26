@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "PEGASUS trial",
+      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
+      "basename": "GALAXY trial (CIRCULATE-japan)",
+      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
       "basename": "DYNAMIC-II trial",
       "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
+    },
+    {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+    },
+    {
+      "basename": "IMPROVE-IT2 trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
     },
     {
       "basename": "2024-01-26",
@@ -13,20 +41,8 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
-      "basename": "MEDOCC-CrEATE trial",
-      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
-    },
-    {
       "basename": "Ensayos clínicos",
       "path": "Biología y medicina/Ensayos clínicos.md"
-    },
-    {
-      "basename": "GALAXY trial (CIRCULATE-japan)",
-      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
     },
     {
       "basename": "Untitled",
@@ -39,10 +55,6 @@
     {
       "basename": "Clinical trial",
       "path": "Otros/Plantillas/Clinical trial.md"
-    },
-    {
-      "basename": "COBRA trial",
-      "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
       "basename": "Daily note",
@@ -169,10 +181,6 @@
       "path": "Doctorado/PhD dashboard.md"
     },
     {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
       "basename": "Asociaciones y congresos de interés",
       "path": "Doctorado/Asociaciones y congresos de interés.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Strelka2",
       "path": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
-    },
-    {
-      "basename": "Consejos para un póster científico",
-      "path": "Doctorado/Consejos para un póster científico.md"
-    },
-    {
-      "basename": "ctDNA methylation in CRC — biomarkers",
-      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
     }
   ],
   "omittedPaths": [],

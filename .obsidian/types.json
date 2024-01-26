@@ -8,7 +8,7 @@
     "needsImputation": "checkbox",
     "needsDummies": "checkbox",
     "trialStatus": "multitext",
-    "trialApproach": "multitext",
+    "trialApproach": "text",
     "trialPhase": "multitext"
   }
 }

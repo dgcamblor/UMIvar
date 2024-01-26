@@ -7,7 +7,6 @@ trialStatus:
   - Stopped
 trialPhase: 
 trialApproach:
-  - Tumor-naïve
   - Tumor-informed
 trialAssay: "[[MRD ctDNA assays#^c59277|SafeSEQ]]"
 ---

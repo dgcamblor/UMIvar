@@ -5,8 +5,7 @@ trialStatus:
   - Ongoing
   - Published
 trialPhase: 
-trialApproach:
-  - Tumor-naïve
+trialApproach: Tumor-informed
 trialAssay:
 ---
 

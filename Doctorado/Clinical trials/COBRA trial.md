@@ -6,8 +6,7 @@ trialStatus:
 trialPhase:
   - II
   - III
-trialApproach:
-  - Tumor-naïve
+trialApproach: Tumor-naïve
 trialAssay: LUNAR
 ---
 

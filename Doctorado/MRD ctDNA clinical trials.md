@@ -8,6 +8,14 @@ tags:
 - [ ] Add epigenetic trials
 %%
 
+```dataview
+TABLE trialApproach
+FROM "Doctorado/Clinical trials"
+```
+
+
+
+
 >Tie says, “These results confirm that ctDNA detection at the post-surgical and post-treatment landmark timepoint is an independent prognostic factor using both tumour-informed (GALAXY study) and tumour-agnostic assays (PEGASUS, PRECISION and ASCOLT trials) for curatively resected CRC, despite treatment with adjuvant capecitabine–oxaliplatin, as in the PEGASUS study.”
 >[Studies confirm promise of ctDNA for MRD assessment in crc](https://dailyreporter.esmo.org/esmo-congress-2023/highlights-from-esmo-2023/studies-confirm-the-promise-of-ctdna-for-mrd-assessment-in-colorectal-cancer-but-limitations-remain)
 
@@ -15,10 +23,7 @@ Current ctDNA methylation trials are found at: [@johnstonEpigeneticLiquidBiopsie
 
 ## Tumor-naïve
 
-- [PEGASUS trial](https://clinicaltrials.gov/study/NCT04259944).
-	- **Commercial assay:** [[MRD ctDNA assays#^bef528|LUNAR-1]].
-	- Prospective study that uses ctDNA testing (+/-) using the LUNAR1 test (Guardant Health) to guide the treatment of CRC patients (II-III).
-	- [The PEGASUS trial: Post-surgical liquid biopsy-guided treatment of stage III and high-risk stage II colon cancer patients. | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.15_suppl.TPS4124).
+
 
 - [ASCOLT trial](https://clinicaltrials.gov/study/NCT00565708).
 	- **Commercial assay:** [[MRD ctDNA assays#^c59277|SafeSEQ]] (naïve panel). Uses a panel of 14 genes (AKT1, APC, BRAF, CTNNB1, ERBB3, FBXW7, KRAS, NRAS, PIK3CA, POLE, PPP2R1A, RNF43, SMAD4 and TP53).
