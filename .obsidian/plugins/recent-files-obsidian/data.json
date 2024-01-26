@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-01-26",
       "path": "Notas diarias/2024-01-26.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "scRNA-seq processing pipeline",
@@ -195,10 +199,6 @@
     {
       "basename": "Gestión del tiempo",
       "path": "Notas de cursos/Gestión del tiempo.md"
-    },
-    {
-      "basename": "Tipos de pianos",
-      "path": "Música/Tipos de pianos.md"
     }
   ],
   "omittedPaths": [],
