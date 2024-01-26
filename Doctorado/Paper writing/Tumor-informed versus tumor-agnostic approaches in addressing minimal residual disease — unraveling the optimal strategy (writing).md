@@ -3,7 +3,7 @@ tags:
   - paper
   - phd
 ---
->
+> In recently presented results, however, the [[COBRA trial]] was not able to meet its primary endpoint, and was promptly stopped due to futility in achieving statistical significance [@morrisPhaseIIResults2024].
 ## II. Tumor-agnostic strategies
 
 ### Methylation

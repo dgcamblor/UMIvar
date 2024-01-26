@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
       "basename": "GALAXY trial (CIRCULATE-japan)",
       "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+    },
+    {
+      "basename": "Clinical trial",
+      "path": "Otros/Plantillas/Clinical trial.md"
     },
     {
       "basename": "COBRA trial",
       "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
-      "basename": "Daily note",
-      "path": "Otros/Plantillas/Daily note.md"
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
-      "basename": "Clinical trial",
-      "path": "Otros/Plantillas/Clinical trial.md"
+      "basename": "Daily note",
+      "path": "Otros/Plantillas/Daily note.md"
     },
     {
       "basename": "Literature note",
@@ -195,10 +199,6 @@
     {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     }
   ],
   "omittedPaths": [],

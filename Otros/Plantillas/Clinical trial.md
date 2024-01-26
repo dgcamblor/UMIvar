@@ -4,10 +4,11 @@ url:
 trialStatus:
   - Ongoing
   - Published
+  - Stopped
 trialPhase: 
 trialApproach:
   - Tumor-naïve
-  - Tumor-agnostic
+  - Tumor-informed
 trialAssay:
 ---
 

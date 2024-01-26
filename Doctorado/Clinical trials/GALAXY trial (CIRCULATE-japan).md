@@ -7,15 +7,14 @@ trialStatus:
 trialPhase: 
 trialApproach:
   - Tumor-naïve
-  - Tumor-agnostic
 trialAssay:
 ---
 
 # Description
 
-CIRCULATE-Japan encompasses three clinical trials:
+CIRCULATE-Japan encompasses three clinical trials 
 
-- 
+- GALAXY trial. Observational arm of the study. Aims at generating clinical data and genomic profiling. The ctDNA status is determined via Signatera, and
 
 # Results
 
