@@ -1,4 +1,6 @@
 ---
+tags:
+  - trial
 id: NCT04068103
 url: https://www.clinicaltrials.gov/study/NCT04068103
 trialStatus:
@@ -6,7 +8,7 @@ trialStatus:
 trialPhase:
   - II
   - III
-trialApproach: Tumor-naïve
+trialApprotagsach: Tumor-naïve
 trialAssay: LUNAR
 ---
 

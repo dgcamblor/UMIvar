@@ -1,4 +1,6 @@
 ---
+tags:
+  - trial
 id: 
 url: 
 trialStatus:

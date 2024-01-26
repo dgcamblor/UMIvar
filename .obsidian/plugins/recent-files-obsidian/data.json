@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Clinical relevance of ctDNA analysis",
+      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
+    },
+    {
+      "basename": "Asociaciones y congresos de interés",
+      "path": "Doctorado/Asociaciones y congresos de interés.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Consejos para un póster científico",
+      "path": "Doctorado/Consejos para un póster científico.md"
+    },
+    {
+      "basename": "Clinical trial",
+      "path": "Otros/Plantillas/Clinical trial.md"
+    },
+    {
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
       "basename": "PEGASUS trial",
       "path": "Doctorado/Clinical trials/PEGASUS trial.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "MRD ctDNA assays",
       "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "COBRA trial",
-      "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
       "basename": "GALAXY trial (CIRCULATE-japan)",
@@ -37,10 +57,6 @@
       "path": "Notas diarias/2024-01-26.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
       "basename": "Ensayos clínicos",
       "path": "Biología y medicina/Ensayos clínicos.md"
     },
@@ -51,10 +67,6 @@
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
-      "basename": "Clinical trial",
-      "path": "Otros/Plantillas/Clinical trial.md"
     },
     {
       "basename": "Daily note",
@@ -75,10 +87,6 @@
     {
       "basename": "ctDNA methylation studies — methodologies and results",
       "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
-    },
-    {
-      "basename": "Clinical relevance of ctDNA analysis",
-      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
     },
     {
       "basename": "scRNA-seq processing pipeline",
@@ -181,10 +189,6 @@
       "path": "Doctorado/PhD dashboard.md"
     },
     {
-      "basename": "Asociaciones y congresos de interés",
-      "path": "Doctorado/Asociaciones y congresos de interés.md"
-    },
-    {
       "basename": "VSCode configuration",
       "path": "Bioinformática y programación/VSCode configuration.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Base Quality Score Recalibration",
       "path": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
-    },
-    {
-      "basename": "Strelka2",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Strelka2.md"
     }
   ],
   "omittedPaths": [],
