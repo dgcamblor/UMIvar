@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md",
+                "file": "Notas diarias/2024-01-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md"
+                "file": "Notas diarias/2024-01-26.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md",
+                "file": "Notas diarias/2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md",
+                "file": "Notas diarias/2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md"
+                "file": "Notas diarias/2024-01-26.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "6a8af00f835ec3e0",
   "lastOpenFiles": [
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Clinical trials/COBRA trial.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Clinical trials",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
