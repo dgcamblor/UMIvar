@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/COBRA trial.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -210,9 +210,10 @@
   },
   "active": "7cc5e79eeec69e78",
   "lastOpenFiles": [
+    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+    "Doctorado/Clinical trials/COBRA trial.md",
     "Otros/Plantillas/Daily note.md",
     "Otros/Plantillas/Clinical trial.md",
-    "Doctorado/Clinical trials/COBRA trial.md",
     "Otros/Plantillas/Literature note.md",
     "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md",
     "Untitled.md",
@@ -240,7 +241,6 @@
     "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
     "Estadística/Machine Learning/Model evaluation.md",
     "Estadística/Machine Learning/Dimensionality reduction/Linear discriminant analysis (LDA).md",
-    "Bioinformática y programación/File management system for bioinformatics.md",
     "Otros/Útiles",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).tex",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).odt",

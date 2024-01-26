@@ -3,20 +3,8 @@ tags:
   - paper
   - phd
 ---
-## 0. Ongoing clinical trials
-
-### Tumor-agnostic
-
-- Ascolt [@day586PMinimalResidual2023]
-- 
-
-
+>
 ## II. Tumor-agnostic strategies
-
-
-> [!abstract] Estudios para añadir
-> - 
-
 
 ### Methylation
 
