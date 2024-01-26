@@ -17,7 +17,7 @@ Patients will be randomized 1:1 to the intervention or control arm [@schraaCircu
 - Experimental arm. Patients that are ctDNA-positive will be offered ACT (they decide whether or not to take it), and ctDNA-negative patients receive the standard of care.
 - Control arm. Patients are not informed about the trial. 
 
-To monitor variants in the ctDNA, they first use a PGDx elio tissue complete assay to characterize the tumor, and use the detected variants as input information for the ctDNA variant calling
+To monitor variants in the ctDNA, they first use a PGDx elio tissue complete assay (panel of > 500 genes) to characterize the tumor. To study the plasma ctDNA, they use a PGDx elio plasma resolve assay, with a tumor-informed variant calling using the tissue variants as input [@schraaCirculatingTumorDNA2020].
 
 # Results
 
