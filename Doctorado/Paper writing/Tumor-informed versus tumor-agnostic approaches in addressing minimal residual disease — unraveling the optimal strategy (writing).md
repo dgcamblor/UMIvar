@@ -6,8 +6,6 @@ tags:
 
 ## II. Tumor-agnostic strategies
 
-
-
 - [@day586PMinimalResidual2023]
 - 
 ### Methylation
