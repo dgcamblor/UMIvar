@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e7dc897e0bcaf07a",
+        "id": "e271c83c9c2fd650",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc5e79eeec69e78",
+            "id": "e96f6a1b096e7101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
+                "file": "Notas diarias/2024-01-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/PEGASUS trial.md"
+                "file": "Notas diarias/2024-01-26.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
+                "file": "Notas diarias/2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
+                "file": "Notas diarias/2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/PEGASUS trial.md"
+                "file": "Notas diarias/2024-01-26.md"
               }
             }
           },
@@ -208,8 +208,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7cc5e79eeec69e78",
+  "active": "e96f6a1b096e7101",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
@@ -233,7 +234,6 @@
     "Otros/Plantillas/Daily note.md",
     "Otros/Plantillas/Literature note.md",
     "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md",
-    "Dashboard.md",
     "Doctorado/Clinical trials",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Notas diarias/2024-01-29.md",
