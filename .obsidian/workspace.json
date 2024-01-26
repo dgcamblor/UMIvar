@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-II trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+                "file": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-II trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-II trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+                "file": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
               }
             }
           },
@@ -210,7 +210,10 @@
   },
   "active": "7cc5e79eeec69e78",
   "lastOpenFiles": [
+    "Notas diarias/2024-01-26.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Clinical trials/DYNAMIC-II trial.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Biología y medicina/Ensayos clínicos.md",
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
@@ -222,8 +225,6 @@
     "Otros/Plantillas/Literature note.md",
     "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md",
     "Dashboard.md",
-    "Notas diarias/2024-01-26.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Clinical trials",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
@@ -240,7 +241,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Biología y medicina/Oncología/Biopsia líquida.md",
-    "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
     "Otros/Útiles",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).tex",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).odt",

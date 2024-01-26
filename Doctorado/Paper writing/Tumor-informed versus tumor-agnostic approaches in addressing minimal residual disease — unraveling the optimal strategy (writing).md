@@ -8,19 +8,6 @@ tags:
 
 ### Methylation
 
-Purely methylation-based tests have successfully been used to assess MRD in a tumor-agnostic manner. Indeed, these biomarkers hold great value for this specific approach, because of their widespread and common occurrence in cancer, which contrasts the higher tumor and clonal specificity that genetic variants exhibit [@haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020].
-
-#### WIF1 and NPY
-
-One of the most relevant examples are the WIF1 and NPY genes, which have consistently been found to be hypermethylated in CRC tissue and have been proposed as blood biomarkers for ctDNA and MRD detection [@roperchAberrantMethylationNPY2013; @garrigouStudyHypermethylatedCirculating2016]. Taieb et al. assessed the methylation status of these genes via digital PCR in a retrospective cohort of 1345 stage III CRC patients from the IDEA-FRANCE clinical trial (NCT00958737). A total of 140 patients tested positive for ctDNA (13.8%), and their 3-year DFS proved to be significantly lower than the ctDNA-negative group (66.39% vs. 76.71%; HR = 1.46, 95% CI: 1.08-1.97, p = 0.015). Interestingly, they compared this approach to a NGS-based agnostic detection of tumor variants in a subset of 95 patients, showing not only high concordance, but increased positivity for the methylation testing [@taiebPrognosticValueRelation2021].
-
-#### BCAT1 and IKZF1
-
-The aberrant methylation of BCAT1 and IKZF1 has also been found in CRC tissue, and evidence has suggested their clinical utility as blood biomarkers associated to ctDNA presence [@pedersenEvaluationAssayMethylated2015]. These biomarkers have been leveraged by the laboratory-developed test Colvera (Clinical Genomics), that follows a real-time PCR approach for their detection. In a recent prospective study of 142 stage I-III CRC patients, the aberrant methylation of these two genes was found in 19 patients (13.38%), which exhibited higher risk of recurrence (HR = 5.7, 95% CI: 1.9-17.3, p = 0.002) and lesser 3-year RFS (56.5% vs. 83.3% in ctDNA-negative patients) [@pedersenDetectionMethylatedBCAT12022].
-
-#### SEPT9
-
-Finally, SEPT9, a gene that has extensively been studied for CRC early detection has also been proposed for MRD detection [@wangAdvancePlasmaSEPT92018]. Yuan et al. studied a cohort of 426 stage II-III CRC patients, and showed that the detection of methylated SEPT9 in ctDNA 4 weeks after surgical intervention significantly decreased RFS (HR = 6.08, 95% CI: 3.27–11.31, p < 0.001)[@yuanCirculatingMethylatedSEPT92022].
 
 #### Genome-wide
 

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "MEDOCC-CrEATE trial",
-      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+      "basename": "DYNAMIC-II trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
+    },
+    {
+      "basename": "2024-01-26",
+      "path": "Notas diarias/2024-01-26.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
     },
     {
       "basename": "Ensayos clínicos",
@@ -47,14 +59,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "2024-01-26",
-      "path": "Notas diarias/2024-01-26.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
       "basename": "ctDNA methylation studies — methodologies and results",
@@ -195,10 +199,6 @@
     {
       "basename": "ctDNA methylation in CRC — biomarkers",
       "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
-    },
-    {
-      "basename": "Improving INCLIVA ctDNA WES pipeline",
-      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
     }
   ],
   "omittedPaths": [],
