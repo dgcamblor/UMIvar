@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md"
               }
             }
           },
@@ -210,6 +210,8 @@
   },
   "active": "7cc5e79eeec69e78",
   "lastOpenFiles": [
+    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Doctorado/Asociaciones y congresos de interés.md",
     "Doctorado/MRD ctDNA assays.md",
@@ -217,7 +219,6 @@
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Research caveats.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Consejos para un póster científico.md",
     "Otros/Plantillas/Clinical trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
@@ -225,7 +226,6 @@
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Clinical trials/DYNAMIC-II trial.md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Notas diarias/2024-01-26.md",
     "Biología y medicina/Ensayos clínicos.md",
     "Untitled.md",
