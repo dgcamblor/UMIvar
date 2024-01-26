@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Clinical trial",
+      "path": "Otros/Plantillas/Clinical trial.md"
+    },
+    {
+      "basename": "Daily note",
+      "path": "Otros/Plantillas/Daily note.md"
+    },
+    {
+      "basename": "Literature note",
+      "path": "Otros/Plantillas/Literature note.md"
+    },
+    {
+      "basename": "9 HÁBITOS JAPONESES - Andrea Rodríguez",
+      "path": "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-01-26",
       "path": "Notas diarias/2024-01-26.md"
     },
@@ -23,14 +47,6 @@
     {
       "basename": "Clinical relevance of ctDNA analysis",
       "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "scRNA-seq processing pipeline",
@@ -183,22 +199,6 @@
     {
       "basename": "Maltodextrina",
       "path": "Dieta y hábitos/Maltodextrina.md"
-    },
-    {
-      "basename": "Odds ratio",
-      "path": "Estadística/Odds ratio.md"
-    },
-    {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
-      "basename": "UMIc",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMIc.md"
-    },
-    {
-      "basename": "CHIP filtering",
-      "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
     }
   ],
   "omittedPaths": [],

@@ -1,11 +1,11 @@
 ---
 kindle-sync:
-  bookId: '43634'
-  title: '9 HÁBITOS JAPONESES: Que cambiarán tu vida'
+  bookId: "43634"
+  title: "9 HÁBITOS JAPONESES: Que cambiarán tu vida"
   author: Andrea Rodríguez
   asin: B091NDD34K
-  lastAnnotatedDate: '2023-06-05'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/71Ju5B2ypLL._SY160.jpg'
+  lastAnnotatedDate: 2023-06-05
+  bookImageUrl: https://m.media-amazon.com/images/I/71Ju5B2ypLL._SY160.jpg
   highlightsCount: 10
 ---
 # 9 HÁBITOS JAPONESES

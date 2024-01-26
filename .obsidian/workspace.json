@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0cbbdca4df0d9a",
+        "id": "e7dc897e0bcaf07a",
         "type": "tabs",
         "children": [
           {
-            "id": "6a8af00f835ec3e0",
+            "id": "7cc5e79eeec69e78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Otros/Plantillas/Clinical trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-26.md"
+                "file": "Otros/Plantillas/Clinical trial.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Otros/Plantillas/Clinical trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Otros/Plantillas/Clinical trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-26.md"
+                "file": "Otros/Plantillas/Clinical trial.md"
               }
             }
           },
@@ -208,20 +208,24 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "6a8af00f835ec3e0",
+  "active": "7cc5e79eeec69e78",
   "lastOpenFiles": [
+    "Otros/Plantillas/Daily note.md",
+    "Otros/Plantillas/Literature note.md",
+    "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md",
+    "Otros/Plantillas/Clinical trial.md",
+    "Untitled.md",
+    "Dashboard.md",
+    "Notas diarias/2024-01-26.md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Clinical trials",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/ctDNA methylation studies — methodologies and results.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
-    "Untitled.md",
-    "Notas diarias/2024-01-26.md",
     "Notas diarias/2024-01-29.md",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",
-    "Dashboard.md",
     "Doctorado/Paper writing/zotero.lua",
     "Doctorado/Paper writing/biblioteca.bib",
     "Notas diarias/2024-01-25.md",
@@ -237,11 +241,7 @@
     "Estadística/Machine Learning/Model evaluation.md",
     "Estadística/Machine Learning/Dimensionality reduction/Linear discriminant analysis (LDA).md",
     "Bioinformática y programación/File management system for bioinformatics.md",
-    "Biología y medicina/Ensayos clínicos.md",
-    "Biología y medicina/Oncología/Cáncer colorrectal.md",
-    "Otros/Banners/Banners.md",
     "Otros/Útiles",
-    "Notas diarias/2024-01-24.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).tex",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).odt",
     "Doctorado/Paper writing/Sin título",
