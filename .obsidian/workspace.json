@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
               }
             }
           },
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,15 +210,17 @@
   },
   "active": "7cc5e79eeec69e78",
   "lastOpenFiles": [
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+    "Biología y medicina/Ensayos clínicos.md",
+    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+    "Untitled.md",
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Otros/Plantillas/Clinical trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Otros/Plantillas/Daily note.md",
     "Otros/Plantillas/Literature note.md",
     "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md",
-    "Untitled.md",
     "Dashboard.md",
     "Notas diarias/2024-01-26.md",
     "Doctorado/MRD ctDNA clinical trials.md",
@@ -239,8 +241,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Biología y medicina/Oncología/Biopsia líquida.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
-    "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
-    "Estadística/Machine Learning/Model evaluation.md",
     "Otros/Útiles",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).tex",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).odt",

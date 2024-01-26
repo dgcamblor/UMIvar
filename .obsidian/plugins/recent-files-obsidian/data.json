@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+    },
+    {
+      "basename": "Ensayos clínicos",
+      "path": "Biología y medicina/Ensayos clínicos.md"
+    },
+    {
       "basename": "GALAXY trial (CIRCULATE-japan)",
       "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
@@ -31,10 +43,6 @@
     {
       "basename": "9 HÁBITOS JAPONESES - Andrea Rodríguez",
       "path": "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Dashboard",
@@ -107,10 +115,6 @@
     {
       "basename": "File management system for bioinformatics",
       "path": "Bioinformática y programación/File management system for bioinformatics.md"
-    },
-    {
-      "basename": "Ensayos clínicos",
-      "path": "Biología y medicina/Ensayos clínicos.md"
     },
     {
       "basename": "Cáncer colorrectal",
@@ -195,10 +199,6 @@
     {
       "basename": "Improving INCLIVA ctDNA WES pipeline",
       "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
-    },
-    {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
     }
   ],
   "omittedPaths": [],
