@@ -34,6 +34,14 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 ### Other studies
 
+Studies using non-commercial tumor-informed assays have also rendered insightful results.
+
+- [@wangPrognosticPotentialCirculating2019]
+- One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
+- [@reinertAnalysisPlasmaCellFree2019]
+- [@chenPostoperativeCirculatingTumor2021]
+- [@henriksenCirculatingTumorDNA2022]
+
 Other studies that have since relied on custom
 
 ### Signatera assay: GALAXY trial and BESPOKE trial
@@ -46,17 +54,12 @@ Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT0426
 
 [Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)
 
-### Other studies
-
-[@henriksenCirculatingTumorDNA2022; @reinertAnalysisPlasmaCellFree2019]
-
-Studies using non-commercial tumor-informed assays have also rendered insightful results. One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
-
 ## IV. Comparison
 
 ### Strengths and weaknesses
 
 - Dependence on tumor tissue.
+	- Problem if there is no tissue available. For example, in patients that have undergone neoadjuvant therapy, the resected specimens may have insufficient tissue or tumor content for genomic profiling [@chanTumorinformedTumoragnosticCirculating2023].
 	- The requirement of tumor tissue comes at a evident cost, both in terms of time and economic resources.
 	- The dependence on the initial characterization of the tumor tissue also raises the critical issue of missing on uncharacterized or appearing mutations. The mutations that are to be tracked are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. Both paths would entail an increase of false negatives in tumor-agnostic assays.
 - 
@@ -105,7 +108,12 @@ The potential of
 
 ### 2. Liquid Biopsy Technologies: CTCs
 
+- CTCs 
+- miRNA
+
 The study of circulating tumor cells (CTCs) -cancer cells that are released from the tumor mass and migrate into preripheral circulation- is currently a hot topic of research.
+
+
 
 ### 3. Advanced Imaging Techniques
 

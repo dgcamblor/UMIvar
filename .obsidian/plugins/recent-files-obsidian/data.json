@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
       "basename": "Clinical relevance of ctDNA analysis",
       "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
     },
@@ -9,8 +13,24 @@
       "path": "Doctorado/Asociaciones y congresos de interés.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "Methylation in CRC",
+      "path": "Doctorado/Methylation in CRC.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
     },
     {
       "basename": "Consejos para un póster científico",
@@ -27,14 +47,6 @@
     {
       "basename": "PEGASUS trial",
       "path": "Doctorado/Clinical trials/PEGASUS trial.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
     },
     {
       "basename": "GALAXY trial (CIRCULATE-japan)",
@@ -187,18 +199,6 @@
     {
       "basename": "PhD dashboard",
       "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "VSCode configuration",
-      "path": "Bioinformática y programación/VSCode configuration.md"
-    },
-    {
-      "basename": "Chimeric alignment",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md"
-    },
-    {
-      "basename": "Base Quality Score Recalibration",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
     }
   ],
   "omittedPaths": [],
