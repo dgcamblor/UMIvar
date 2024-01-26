@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otros/Plantillas/Clinical trial.md",
+                "file": "Doctorado/Clinical trials/COBRA trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Otros/Plantillas/Clinical trial.md"
+                "file": "Doctorado/Clinical trials/COBRA trial.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Otros/Plantillas/Clinical trial.md",
+                "file": "Doctorado/Clinical trials/COBRA trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Otros/Plantillas/Clinical trial.md",
+                "file": "Doctorado/Clinical trials/COBRA trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Otros/Plantillas/Clinical trial.md"
+                "file": "Doctorado/Clinical trials/COBRA trial.md"
               }
             }
           },
@@ -211,13 +211,13 @@
   "active": "7cc5e79eeec69e78",
   "lastOpenFiles": [
     "Otros/Plantillas/Daily note.md",
+    "Otros/Plantillas/Clinical trial.md",
+    "Doctorado/Clinical trials/COBRA trial.md",
     "Otros/Plantillas/Literature note.md",
     "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md",
-    "Otros/Plantillas/Clinical trial.md",
     "Untitled.md",
     "Dashboard.md",
     "Notas diarias/2024-01-26.md",
-    "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Clinical trials",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",

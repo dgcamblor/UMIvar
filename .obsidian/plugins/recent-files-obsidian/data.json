@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Clinical trial",
-      "path": "Otros/Plantillas/Clinical trial.md"
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
       "basename": "Daily note",
       "path": "Otros/Plantillas/Daily note.md"
+    },
+    {
+      "basename": "Clinical trial",
+      "path": "Otros/Plantillas/Clinical trial.md"
     },
     {
       "basename": "Literature note",
@@ -27,10 +31,6 @@
     {
       "basename": "2024-01-26",
       "path": "Notas diarias/2024-01-26.md"
-    },
-    {
-      "basename": "COBRA trial",
-      "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
       "basename": "MRD ctDNA clinical trials",
