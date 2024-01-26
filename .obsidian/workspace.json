@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-26.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-26.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -210,12 +210,13 @@
   },
   "active": "6a8af00f835ec3e0",
   "lastOpenFiles": [
+    "Notas diarias/2024-01-26.md",
+    "Notas diarias/2024-01-29.md",
     "Untitled.md",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Paper writing/test.docx",
     "Dashboard.md",
-    "Notas diarias/2024-01-26.md",
     "Doctorado/Paper writing/zotero.lua",
     "Doctorado/Paper writing/biblioteca.bib",
     "Notas diarias/2024-01-25.md",
