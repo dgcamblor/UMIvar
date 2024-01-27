@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas diarias/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,15 +31,8 @@
       {
         "id": "58e90acd7a413dab",
         "type": "tabs",
+        "dimension": 76.4367816091954,
         "children": [
-          {
-            "id": "5e06a643482b93ab",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "49c97c5289b16da1",
             "type": "leaf",
@@ -81,8 +74,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "6f96d455eabd12c8",
+        "type": "tabs",
+        "dimension": 23.563218390804597,
+        "children": [
+          {
+            "id": "5e06a643482b93ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -131,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas diarias/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas diarias/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -194,9 +201,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir selector rápido": false,
+      "daily-notes:Abrir la nota de hoy": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "omnisearch:Omnisearch": false,
@@ -208,8 +215,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "839868835ec92dd2",
+  "active": "5e06a643482b93ab",
   "lastOpenFiles": [
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Dashboard.md",
     "Notas diarias/2024-01-26.md",
     "Notas diarias/2024-01-27.md",
@@ -222,7 +230,6 @@
     "Notas diarias/Sin título 1.md",
     "Notas diarias/Sin título.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Doctorado/Asociaciones y congresos de interés.md",
     "Doctorado/MRD ctDNA assays.md",
