@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "2024-01-26",
+      "path": "Notas diarias/2024-01-26.md"
+    },
+    {
       "basename": "2024-01-27",
       "path": "Notas diarias/2024-01-27.md"
+    },
+    {
+      "basename": "2024-01-28",
+      "path": "Notas diarias/2024-01-28.md"
     },
     {
       "basename": "Epigenetic clock",
@@ -13,20 +25,12 @@
       "path": "Biología y medicina/Epigenética/Horvath's clock.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "2023-10-10",
       "path": "Notas diarias/2023-10-10.md"
     },
     {
       "basename": "2023-07-19",
       "path": "Notas diarias/2023-07-19.md"
-    },
-    {
-      "basename": "2024-01-26",
-      "path": "Notas diarias/2024-01-26.md"
     },
     {
       "basename": "PEGASUS trial",
@@ -195,10 +199,6 @@
     {
       "basename": "Comunicación interpersonal",
       "path": "Notas de cursos/Comunicación interpersonal.md"
-    },
-    {
-      "basename": "ctDNA methylation overview",
-      "path": "Doctorado/ctDNA methylation overview.md"
     }
   ],
   "omittedPaths": [],

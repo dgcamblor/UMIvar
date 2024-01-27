@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-27.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-27.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-27.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-27.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-27.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -210,9 +210,11 @@
   },
   "active": "839868835ec92dd2",
   "lastOpenFiles": [
+    "Notas diarias/2024-01-26.md",
+    "Notas diarias/2024-01-27.md",
+    "Notas diarias/2024-01-28.md",
     "Biología y medicina/Epigenética/Epigenetic clock.md",
     "Biología y medicina/Epigenética/Horvath's clock.md",
-    "Notas diarias/2024-01-27.md",
     "Dashboard.md",
     "Notas diarias/2023-10-10.md",
     "Notas diarias/10-10-2023.md",
@@ -234,8 +236,6 @@
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Clinical trials/DYNAMIC-II trial.md",
-    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-    "Notas diarias/2024-01-26.md",
     "Doctorado/Clinical trials",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",
