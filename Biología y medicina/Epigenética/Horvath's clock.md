@@ -1,7 +1,8 @@
 
 The first [[Epigenetic clock]] that aimed at predicting age through a multi-tissue predictor that uses DNA methylation.
 
-It uses a characterized set of 353 CpG sites 
+It uses a characterized set of 353 CpG sites [@horvathDNAMethylationAge2013].
 
+## Methodology
 
-Based on the methylation state of 353 CpG dinucleotides. 
+Horvath analyzed methylation data available from cancer samples from the TCGA. He used a penalized regression model ([[Elastic net]]) to obtain the selection of 353 CpGs [@horvathDNAMethylationAge2013].
