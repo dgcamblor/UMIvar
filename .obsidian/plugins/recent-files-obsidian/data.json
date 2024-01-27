@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Reloj epigenético",
-      "path": "Biología y medicina/Epigenética/Reloj epigenético.md"
+      "basename": "Horvath's clock",
+      "path": "Biología y medicina/Epigenética/Horvath's clock.md"
     },
     {
-      "basename": "2023-10-10",
-      "path": "Notas diarias/2023-10-10.md"
-    },
-    {
-      "basename": "2023-07-19",
-      "path": "Notas diarias/2023-07-19.md"
+      "basename": "Epigenetic clock",
+      "path": "Biología y medicina/Epigenética/Epigenetic clock.md"
     },
     {
       "basename": "2024-01-27",
@@ -19,6 +15,14 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "2023-10-10",
+      "path": "Notas diarias/2023-10-10.md"
+    },
+    {
+      "basename": "2023-07-19",
+      "path": "Notas diarias/2023-07-19.md"
     },
     {
       "basename": "2024-01-26",
@@ -195,10 +199,6 @@
     {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
-    },
-    {
-      "basename": "Detection of CRC-specific methylation profiles",
-      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     }
   ],
   "omittedPaths": [],

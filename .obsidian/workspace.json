@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12b6c43e76e72a02",
+        "id": "f8fc690a585267ce",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7980adc8c70fe1",
+            "id": "839868835ec92dd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Epigenética/Reloj epigenético.md",
+                "file": "Biología y medicina/Epigenética/Horvath's clock.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Reloj epigenético.md"
+                "file": "Biología y medicina/Epigenética/Horvath's clock.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Reloj epigenético.md",
+                "file": "Biología y medicina/Epigenética/Horvath's clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Reloj epigenético.md",
+                "file": "Biología y medicina/Epigenética/Horvath's clock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Reloj epigenético.md"
+                "file": "Biología y medicina/Epigenética/Horvath's clock.md"
               }
             }
           },
@@ -208,15 +208,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cf7980adc8c70fe1",
+  "active": "839868835ec92dd2",
   "lastOpenFiles": [
+    "Biología y medicina/Epigenética/Epigenetic clock.md",
+    "Biología y medicina/Epigenética/Horvath's clock.md",
+    "Notas diarias/2024-01-27.md",
+    "Dashboard.md",
     "Notas diarias/2023-10-10.md",
     "Notas diarias/10-10-2023.md",
     "Notas diarias/2023-07-19.md",
-    "Notas diarias/2024-01-27.md",
     "Notas diarias/Sin título 1.md",
     "Notas diarias/Sin título.md",
-    "Dashboard.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
@@ -234,8 +236,6 @@
     "Doctorado/Clinical trials/DYNAMIC-II trial.md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Notas diarias/2024-01-26.md",
-    "Biología y medicina/Ensayos clínicos.md",
-    "Untitled.md",
     "Doctorado/Clinical trials",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",
