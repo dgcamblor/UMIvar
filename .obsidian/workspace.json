@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e271c83c9c2fd650",
+        "id": "12b6c43e76e72a02",
         "type": "tabs",
         "children": [
           {
-            "id": "e96f6a1b096e7101",
+            "id": "cf7980adc8c70fe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Biología y medicina/Epigenética/Reloj epigenético.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-26.md"
+                "file": "Biología y medicina/Epigenética/Reloj epigenético.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Biología y medicina/Epigenética/Reloj epigenético.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-26.md",
+                "file": "Biología y medicina/Epigenética/Reloj epigenético.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-26.md"
+                "file": "Biología y medicina/Epigenética/Reloj epigenético.md"
               }
             }
           },
@@ -208,8 +208,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e96f6a1b096e7101",
+  "active": "cf7980adc8c70fe1",
   "lastOpenFiles": [
+    "Notas diarias/2023-10-10.md",
+    "Notas diarias/10-10-2023.md",
+    "Notas diarias/2023-07-19.md",
+    "Notas diarias/2024-01-27.md",
+    "Notas diarias/Sin título 1.md",
+    "Notas diarias/Sin título.md",
     "Dashboard.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
@@ -230,13 +236,7 @@
     "Notas diarias/2024-01-26.md",
     "Biología y medicina/Ensayos clínicos.md",
     "Untitled.md",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
-    "Otros/Plantillas/Daily note.md",
-    "Otros/Plantillas/Literature note.md",
-    "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md",
     "Doctorado/Clinical trials",
-    "Doctorado/ctDNA methylation studies — methodologies and results.md",
-    "Notas diarias/2024-01-29.md",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",
     "Doctorado/Paper writing/zotero.lua",
