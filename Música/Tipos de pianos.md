@@ -4,13 +4,18 @@ Existen varios tipos de pianos, cada uno con características y usos específico
 	- Piano de cola 
 	- Piano vertical o de pared.
 
-- Pianos eléctricos: Estos pianos producen sonido a través de la amplificación electrónica de las vibraciones de las cuerdas. Son más portátiles y versátiles que los pianos acústicos, y muchos modelos permiten a los músicos imitar el sonido de otros instrumentos y crear efectos de sonido.
+- Pianos electrónicos: Son aquellos que no funcionan mediante un mecanismo físico para la producción del sonido, sino que funcionan por medio de electricidad y sonidos grabados.
+	- Pianos digitales. Son aquellos que tratan de emular el sonido y la sensación de un piano acústico.
+	- Teclados. No tratan de emular el sonido y la sensación de un piano acústico. Poseen un banco de sonidos simulados de diferentes instrumentos.
 
-- Pianos digitales: Estos pianos no tienen cuerdas y producen sonido a través de la reproducción digital de grabaciones de pianos acústicos. Son muy portátiles, a menudo más asequibles que los pianos acústicos, y ofrecen una variedad de características como la capacidad de conectar auriculares, grabar interpretaciones y conectar a otros dispositivos electrónicos.
+## Número de teclas
 
-- Teclado
+El estándar de teclas en un piano convencional son 88 teclas. El teclado doméstico puede contener un número variado de teclas: 
 
+- 49 (4 octavas)
+- 61 (5 octavas) 
+- 73 (6 octavas).
 
-El estándar de teclas en un piano digital o electrónico son 88 teclas. El teclado doméstico puede contener un número variado de teclas: 49 (4 octavas), 61 (5 octavas) o 73 (6 octavas).
+## Características de los pianos electrónicos
 
-- Sensibilidad al tacto
+Sensibilidad al tacto
