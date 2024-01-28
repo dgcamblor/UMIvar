@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8fc690a585267ce",
+        "id": "c6a57fe28bad23ce",
         "type": "tabs",
         "children": [
           {
-            "id": "839868835ec92dd2",
+            "id": "930133ab0c2e5f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,7 @@
       {
         "id": "58e90acd7a413dab",
         "type": "tabs",
-        "dimension": 76.4367816091954,
+        "dimension": 75.57471264367817,
         "children": [
           {
             "id": "49c97c5289b16da1",
@@ -79,7 +79,7 @@
       {
         "id": "6f96d455eabd12c8",
         "type": "tabs",
-        "dimension": 23.563218390804597,
+        "dimension": 24.42528735632184,
         "children": [
           {
             "id": "5e06a643482b93ab",
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 269.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,13 +216,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5e06a643482b93ab",
+  "active": "930133ab0c2e5f5d",
   "lastOpenFiles": [
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Dashboard.md",
     "Notas diarias/2024-01-26.md",
-    "Notas diarias/2024-01-27.md",
     "Notas diarias/2024-01-28.md",
+    "Notas diarias/2024-01-27.md",
+    "Notas diarias/2024-01-29.md",
+    "Dashboard.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Biología y medicina/Epigenética/Epigenetic clock.md",
     "Biología y medicina/Epigenética/Horvath's clock.md",
     "Notas diarias/2023-10-10.md",
@@ -242,7 +244,6 @@
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
-    "Doctorado/Clinical trials/DYNAMIC-II trial.md",
     "Doctorado/Clinical trials",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",
