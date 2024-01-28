@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "Cómo escribir con eficacia",
+      "path": "Notas de cursos/Cómo escribir con eficacia.md"
     },
     {
       "basename": "2024-01-28",
       "path": "Notas diarias/2024-01-28.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "2024-01-27",
@@ -195,10 +199,6 @@
     {
       "basename": "Zotero configuration",
       "path": "Bioinformática y programación/Zotero configuration.md"
-    },
-    {
-      "basename": "Pandoc",
-      "path": "Bioinformática y programación/Programas/Pandoc.md"
     }
   ],
   "omittedPaths": [],

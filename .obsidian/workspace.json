@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6a12862b8e4104c1",
+        "id": "b0e5d433af63dc7a",
         "type": "tabs",
         "children": [
           {
-            "id": "ae8ec3e918898a68",
+            "id": "3a4082a3fe73a54d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Notas de cursos/Cómo escribir con eficacia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas de cursos/Cómo escribir con eficacia.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de cursos/Cómo escribir con eficacia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de cursos/Cómo escribir con eficacia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas de cursos/Cómo escribir con eficacia.md"
               }
             }
           },
@@ -216,12 +216,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ae8ec3e918898a68",
+  "active": "3a4082a3fe73a54d",
   "lastOpenFiles": [
     "Notas diarias/2024-01-28.md",
+    "Notas de cursos/Cómo escribir con eficacia.md",
+    "Dashboard.md",
     "Notas diarias/2024-01-27.md",
     "Notas diarias/2024-01-26.md",
-    "Dashboard.md",
     "Notas diarias/2024-01-29.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Biología y medicina/Epigenética/Epigenetic clock.md",
@@ -243,7 +244,6 @@
     "Otros/Plantillas/Clinical trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
-    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Clinical trials",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",
