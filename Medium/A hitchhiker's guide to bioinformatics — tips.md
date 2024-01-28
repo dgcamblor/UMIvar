@@ -19,7 +19,7 @@ writingStatus: planning
 
 - **Sorround yourself with good people.** A goos balance between learning from others and learning by yourself is key to success. You should aim to be part of a community of bioinformaticians, either in person or online. This will help you to learn from others and to get help when you need it. It is also a good idea to have a mentor, someone who can guide you through the process of learning bioinformatics.
 
-- **Get up to date with the latest technologies.** Last advice. Bioinformatics is an ever-evolving field, and perhaps more so these days with the recent releases of AI-powered tools. Of course, no need to say that the purely "bio" part in bioinformatics is also constantly changing, and should not be neglected. Like the legendary Bruce Lee said, "Be water, my friend". Be flexible and prepere to adapt for the new ways of programming and doing bioinformatics that are coming (rather sooner than later).
+- **Get up to date with the latest technologies.** Last advice. Bioinformatics is an ever-evolving field (statistics, informatics, biology, etc.). Perhaps this is now more true than ever with the recent surge in AI-powered tools. Of course, no need to say that the purely "bio" part in bioinformatics is also constantly changing, and should not be neglected. Like the legendary Bruce Lee said, "Be water, my friend". Be flexible and prepere to adapt for the new ways of programming and doing bioinformatics that are coming (rather sooner than later).
 
 I personally prefer inline code completers more than good ol' chatgpt, mainly because. But do take your time and see what works best for you.
 
@@ -30,4 +30,3 @@ I personally prefer inline code completers more than good ol' chatgpt, mainly be
 
 I've come across 1000 errors in my pipelines, here's what i learnt... or something like that would write your average clickbaiter
 
-For the most experts, these tips might be trivial, but sharing my experience...

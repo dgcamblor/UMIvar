@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de cursos/Cómo escribir con eficacia.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de cursos/Cómo escribir con eficacia.md"
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de cursos/Cómo escribir con eficacia.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de cursos/Cómo escribir con eficacia.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de cursos/Cómo escribir con eficacia.md"
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
               }
             }
           },
@@ -219,6 +219,9 @@
   "active": "3a4082a3fe73a54d",
   "lastOpenFiles": [
     "Notas diarias/2024-01-28.md",
+    "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md",
+    "Agatha Christie.md",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Notas de cursos/Cómo escribir con eficacia.md",
     "Dashboard.md",
     "Notas diarias/2024-01-27.md",
@@ -241,9 +244,6 @@
     "Doctorado/Research caveats.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
     "Doctorado/Consejos para un póster científico.md",
-    "Otros/Plantillas/Clinical trial.md",
-    "Doctorado/Clinical trials/COBRA trial.md",
-    "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Clinical trials",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",

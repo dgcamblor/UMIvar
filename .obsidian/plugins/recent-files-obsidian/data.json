@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Cómo escribir con eficacia",
-      "path": "Notas de cursos/Cómo escribir con eficacia.md"
+      "basename": "A hitchhiker's guide to bioinformatics — tips",
+      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
     },
     {
       "basename": "2024-01-28",
       "path": "Notas diarias/2024-01-28.md"
+    },
+    {
+      "basename": "El asesinato de Rogelio Ackroyd - Agatha Christie",
+      "path": "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md"
+    },
+    {
+      "basename": "Cómo escribir con eficacia",
+      "path": "Notas de cursos/Cómo escribir con eficacia.md"
     },
     {
       "basename": "Dashboard",
@@ -145,10 +153,6 @@
       "path": "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md"
     },
     {
-      "basename": "A hitchhiker's guide to bioinformatics — tips",
-      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
-    },
-    {
       "basename": "Up your pipeline game - Use a workflow manager",
       "path": "Medium/Up your pipeline game - Use a workflow manager.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Banners",
       "path": "Otros/Banners/Banners.md"
-    },
-    {
-      "basename": "2024-01-24",
-      "path": "Notas diarias/2024-01-24.md"
-    },
-    {
-      "basename": "Zotero configuration",
-      "path": "Bioinformática y programación/Zotero configuration.md"
     }
   ],
   "omittedPaths": [],
