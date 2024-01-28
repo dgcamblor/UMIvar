@@ -11,8 +11,12 @@
             "id": "203175c2e6975a4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Música/Tipos de pianos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -104,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Música/Tipos de pianos.md"
+              }
             }
           },
           {
@@ -132,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Música/Tipos de pianos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Música/Tipos de pianos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Música/Tipos de pianos.md"
+              }
             }
           },
           {
