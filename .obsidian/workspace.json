@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Bioinformática y programación/File management system for bioinformatics.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "58e90acd7a413dab",
         "type": "tabs",
-        "dimension": 75.57471264367817,
+        "dimension": 67.34496124031007,
         "children": [
           {
             "id": "49c97c5289b16da1",
@@ -79,7 +79,7 @@
       {
         "id": "6f96d455eabd12c8",
         "type": "tabs",
-        "dimension": 24.42528735632184,
+        "dimension": 32.65503875968992,
         "children": [
           {
             "id": "5e06a643482b93ab",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+                "file": "Bioinformática y programación/File management system for bioinformatics.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Bioinformática y programación/File management system for bioinformatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Bioinformática y programación/File management system for bioinformatics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+                "file": "Bioinformática y programación/File management system for bioinformatics.md"
               }
             }
           },
@@ -218,10 +218,13 @@
   },
   "active": "3a4082a3fe73a54d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Bioinformática y programación/File management system for bioinformatics.md",
+    "Bioinformática y programación/Cosas que he aprendido del TFM.md",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Notas diarias/2024-01-28.md",
     "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md",
     "Agatha Christie.md",
-    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Notas de cursos/Cómo escribir con eficacia.md",
     "Dashboard.md",
     "Notas diarias/2024-01-27.md",
@@ -241,9 +244,6 @@
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/Methylation in CRC.md",
     "Doctorado/MRD ctDNA clinical trials.md",
-    "Doctorado/Research caveats.md",
-    "Doctorado/Possible controls for ctDNA methylation.md",
-    "Doctorado/Consejos para un póster científico.md",
     "Doctorado/Clinical trials",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",
