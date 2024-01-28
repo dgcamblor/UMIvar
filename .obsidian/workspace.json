@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e5d433af63dc7a",
+        "id": "65b7ccf763b99579",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4082a3fe73a54d",
+            "id": "203175c2e6975a4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformática y programación/File management system for bioinformatics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -108,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bioinformática y programación/File management system for bioinformatics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/File management system for bioinformatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/File management system for bioinformatics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Bioinformática y programación/File management system for bioinformatics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,17 +206,18 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3a4082a3fe73a54d",
+  "active": "203175c2e6975a4d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Bioinformática y programación/File management system for bioinformatics.md",
+    "Dashboard.md",
+    "Otros/Plantillas/Daily note.md",
+    "Notas diarias/2024-01-28.md",
     "Bioinformática y programación/Cosas que he aprendido del TFM.md",
     "Medium/A hitchhiker's guide to bioinformatics — tips.md",
-    "Notas diarias/2024-01-28.md",
+    "Bioinformática y programación/File management system for bioinformatics.md",
+    "Untitled.md",
     "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md",
     "Agatha Christie.md",
     "Notas de cursos/Cómo escribir con eficacia.md",
-    "Dashboard.md",
     "Notas diarias/2024-01-27.md",
     "Notas diarias/2024-01-26.md",
     "Notas diarias/2024-01-29.md",
@@ -243,7 +234,6 @@
     "Doctorado/Asociaciones y congresos de interés.md",
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/Methylation in CRC.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Clinical trials",
     "Untitled.md~RF79a81a.TMP",
     "Doctorado/Paper writing/test.docx",

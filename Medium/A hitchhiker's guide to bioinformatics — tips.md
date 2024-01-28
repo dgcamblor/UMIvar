@@ -8,8 +8,6 @@ Title:
 
 - Bioinformatics piques your interest? Here is advice for a biologist in need
 
-[[Cosas que he aprendido del TFM]]
-
 First of all, start with a paragraph that expresses how bioinformatics is a great field, and how interesting it is specially with the recent shift to data generation, omics, etc. Make yourself clear that these advice will be mainly for biologists. 
 
 
@@ -17,6 +15,7 @@ First of all, start with a paragraph that expresses how bioinformatics is a grea
 
 - **Learn the ways of scripting.** Scripts are the greatest power you have as a bioinformatician, and one you should embrace. They are not just for automating tasks, but also for documenting your work and making it reproducible.
 - It may be straightforward to some, but the power of using computers and scripts allows us to automate pretty much any analysis we have in mind. Even if you are thinking that you are going to execute a pipeline just once, you should aim to automate things as if they were going to be repeated - chances are you will have to repeat them. Not only it reduces times, but it also reduces tedious and the mistakes it come with it.
+- Coupling with a CONF file.
 
 - **Adopt good programming practices beyond learning just to code.** Rembember to document your code, to write according to style guides and to use version control. This is both for your own sake and for the sake of others. We are not the same meme.
 

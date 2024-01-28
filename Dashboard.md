@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 banner: "![[guillermo-ferla-kEEl9csCutg-unsplash.jpg]]"
 banner_x: 0.5
-banner_y: 0.54
+banner_y: 0.516
 obsidianUIMode: preview
 ---
 ## Dashboards

@@ -93,7 +93,7 @@
     },
     {
       "path": "Notas de libros",
-      "color": "U-Mc-uPu1SaVZfDihf8Y3"
+      "color": "1mW7fe2S1fgpgfVnfYu7U"
     },
     {
       "path": "Biología y medicina",
@@ -130,6 +130,10 @@
     {
       "path": "Música",
       "color": "VINUMgejTKFh8UwjNpMnJ"
+    },
+    {
+      "path": "Notas diarias",
+      "color": "U-Mc-uPu1SaVZfDihf8Y3"
     }
   ]
 }

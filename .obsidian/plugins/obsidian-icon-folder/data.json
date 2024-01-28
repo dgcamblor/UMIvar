@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHouseChimney",
       "FasMusic",
       "FasBook",
       "FasPaperPlane",
-      "FasChalkboardUser",
-      "FasEarthEurope"
+      "FasChalkboardUser"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   },
   "Notas de libros": "FasBook",
   "Bioinformática y programación/Ómicas": "FasDna",
-  "Música": "FasMusic"
+  "Música": "FasMusic",
+  "Dashboard.md": "FasHouseChimney"
 }
