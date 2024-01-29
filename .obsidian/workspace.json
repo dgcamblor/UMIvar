@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#write",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f96d455eabd12c8",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
               }
             }
           },
@@ -216,11 +217,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "49c97c5289b16da1",
+  "active": "01f5399b773c2217",
   "lastOpenFiles": [
+    "Notas diarias/2024-01-29.md",
     "Música/Tipos de pianos.md.partial",
     "Notas diarias/2024-01-28.md",
-    "Notas diarias/2024-01-29.md",
     "Otros/Plantillas/Daily note.md.partial",
     "Bioinformática y programación/File management system for bioinformatics.md.partial",
     "Bioinformática y programación/Cosas que he aprendido del TFM.md.partial",
@@ -234,7 +235,6 @@
     "Biología y medicina/Epigenética/Epigenetic clock.md.partial",
     "Biología y medicina/Epigenética/Epigenetic clock.md",
     "Notas diarias/2024-01-27.md",
-    "Notas diarias/2024-01-27.md.partial",
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Clinical trials/DYNAMIC-II trial.md",

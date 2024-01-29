@@ -6,6 +6,11 @@ tags:
 
 ## FASTQ Quality Control and preprocessing
 
+### Initial quality control
+
+
+### Preprocessing
+
 1. Extraction of UMIs (if they are available)
 	- [[UMI-tools]] (extract)
 	
