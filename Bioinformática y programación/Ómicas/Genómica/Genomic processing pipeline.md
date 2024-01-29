@@ -13,7 +13,7 @@ tags:
 ### Preprocessing
 
 1. **Extraction of UMIs (if they are available)**.
-	- [[UMI-tools]] (extract) -> UMI in the header, separated by "_"
+	- [[UMI-tools]] (extract) -> UMI in the header, separated by "\_"
 
 2. **Adapter (and primer) trimming.** Trimming can be performed using a known adapter, or an adapter list. Alternatively, the primers can be clipped after mapping (see [[Primer removal alternatives]])
 	- [[cutadapt]] 
