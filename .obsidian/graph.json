@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:\"Notas diarias\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16764749
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 12.1625,
   "linkStrength": 1,
   "linkDistance": 277,
-  "scale": 0.35138841929483783,
-  "close": true
+  "scale": 0.06487447629009954,
+  "close": false
 }

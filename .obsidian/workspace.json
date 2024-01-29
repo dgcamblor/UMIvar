@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ec7faeac37e86a",
+        "id": "5e528f52ecfe495b",
         "type": "tabs",
         "children": [
           {
-            "id": "e41f502b3cfe3c64",
+            "id": "f6d7984892cc411a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -216,8 +216,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e41f502b3cfe3c64",
+  "active": "f6d7984892cc411a",
   "lastOpenFiles": [
+    "Notas diarias/2023-12-11.md",
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication.md",
     "Biología y medicina/Enfermedades/Alzheimer.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
@@ -225,7 +227,6 @@
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md",
     "Bioinformática y programación/Ómicas/Genómica/Read duplicates.md",
-    "Dashboard.md",
     "Biología y medicina/Oncología/Cáncer de páncreas.md",
     "Check, write.md",
     "Notas diarias/2024-01-29.md",
@@ -253,7 +254,6 @@
     "Notas de cursos/Cómo escribir con eficacia.md",
     "Notas de cursos/Cómo escribir con eficacia.md.partial",
     "Notas diarias/2024-01-28.md.partial",
-    "Biología y medicina/Epigenética/Horvath's clock.md",
     "Biología y medicina/Epigenética/Horvath's clock.md.partial",
     "Biología y medicina/Epigenética/Epigenetic clock.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",

@@ -24,6 +24,9 @@ tags:
 > Añadir sobre la capacidad de detección.
 > El primero de TIE van solo a por una y el segundo por al menos una??? revisar
 
+> Tumor-informed approaches have proven to be the most adopted 
+
+
 A growing body of research and clinical trial results has revealed the usefulness of tumor-informed approaches to MRD detection. 
 
 One of the earliest key studies that supported this approach was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative ctDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
@@ -34,12 +37,14 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 ### Other studies
 
+A growing body of research has 
+
 Studies using non-commercial tumor-informed assays have also rendered insightful results.
 
 - [@wangPrognosticPotentialCirculating2019]
 - One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
 - [@reinertAnalysisPlasmaCellFree2019]
-- [@chenPostoperativeCirculatingTumor2021]
+- A prospective study on a cohort of 240 CRC patients stage II-III [@chenPostoperativeCirculatingTumor2021].
 - [@henriksenCirculatingTumorDNA2022]
 
 Other studies that have since relied on custom
