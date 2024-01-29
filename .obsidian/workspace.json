@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65b7ccf763b99579",
+        "id": "d495917d39eefd31",
         "type": "tabs",
         "children": [
           {
-            "id": "203175c2e6975a4d",
+            "id": "01f5399b773c2217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Música/Tipos de pianos.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Música/Tipos de pianos.md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Música/Tipos de pianos.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Música/Tipos de pianos.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Música/Tipos de pianos.md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -201,12 +201,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -216,44 +216,44 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "203175c2e6975a4d",
+  "active": "49c97c5289b16da1",
   "lastOpenFiles": [
+    "Música/Tipos de pianos.md.partial",
+    "Notas diarias/2024-01-28.md",
+    "Notas diarias/2024-01-29.md",
+    "Otros/Plantillas/Daily note.md.partial",
+    "Bioinformática y programación/File management system for bioinformatics.md.partial",
+    "Bioinformática y programación/Cosas que he aprendido del TFM.md.partial",
+    "Dashboard.md.partial",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md.partial",
+    "Notas de cursos/Cómo escribir con eficacia.md",
+    "Notas de cursos/Cómo escribir con eficacia.md.partial",
+    "Notas diarias/2024-01-28.md.partial",
+    "Biología y medicina/Epigenética/Horvath's clock.md",
+    "Biología y medicina/Epigenética/Horvath's clock.md.partial",
+    "Biología y medicina/Epigenética/Epigenetic clock.md.partial",
+    "Biología y medicina/Epigenética/Epigenetic clock.md",
+    "Notas diarias/2024-01-27.md",
+    "Notas diarias/2024-01-27.md.partial",
+    "Doctorado/Clinical trials/PEGASUS trial.md",
+    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+    "Doctorado/Clinical trials/DYNAMIC-II trial.md",
+    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Dashboard.md",
     "Otros/Plantillas/Daily note.md",
-    "Notas diarias/2024-01-28.md",
     "Bioinformática y programación/Cosas que he aprendido del TFM.md",
     "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Bioinformática y programación/File management system for bioinformatics.md",
     "Untitled.md",
     "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md",
     "Agatha Christie.md",
-    "Notas de cursos/Cómo escribir con eficacia.md",
-    "Notas diarias/2024-01-27.md",
     "Notas diarias/2024-01-26.md",
-    "Notas diarias/2024-01-29.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Biología y medicina/Epigenética/Epigenetic clock.md",
-    "Biología y medicina/Epigenética/Horvath's clock.md",
     "Notas diarias/2023-10-10.md",
     "Notas diarias/10-10-2023.md",
     "Notas diarias/2023-07-19.md",
     "Notas diarias/Sin título 1.md",
-    "Notas diarias/Sin título.md",
-    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Doctorado/Clinical relevance of ctDNA analysis.md",
-    "Doctorado/Asociaciones y congresos de interés.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/Methylation in CRC.md",
-    "Doctorado/Clinical trials",
-    "Untitled.md~RF79a81a.TMP",
-    "Doctorado/Paper writing/test.docx",
-    "Doctorado/Paper writing/zotero.lua",
-    "Doctorado/Paper writing/biblioteca.bib",
-    "Otros/Útiles",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).tex",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).odt",
-    "Doctorado/Paper writing/Sin título",
-    "Otros/Útiles/zotero.lua",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
