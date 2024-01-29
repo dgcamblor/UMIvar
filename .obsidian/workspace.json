@@ -11,12 +11,8 @@
             "id": "01f5399b773c2217",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -109,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,6 +209,9 @@
   },
   "active": "01f5399b773c2217",
   "lastOpenFiles": [
+    "Cáncer de páncreas.md",
+    "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+    "Bioinformática y programación/Ómicas/FASTQ quality control.md",
     "Notas diarias/2024-01-29.md",
     "Música/Tipos de pianos.md.partial",
     "Notas diarias/2024-01-28.md",
@@ -252,8 +245,6 @@
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas diarias/2023-10-10.md",
     "Notas diarias/10-10-2023.md",
-    "Notas diarias/2023-07-19.md",
-    "Notas diarias/Sin título 1.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

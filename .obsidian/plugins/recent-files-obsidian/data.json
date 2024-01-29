@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Cáncer de páncreas",
+      "path": "Cáncer de páncreas.md"
+    },
+    {
       "basename": "Variant calling processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+    },
+    {
+      "basename": "FASTQ quality control",
+      "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
     },
     {
       "basename": "2024-01-29",
@@ -191,14 +199,6 @@
     {
       "basename": "Linear discriminant analysis (LDA)",
       "path": "Estadística/Machine Learning/Dimensionality reduction/Linear discriminant analysis (LDA).md"
-    },
-    {
-      "basename": "Cáncer colorrectal",
-      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
-    },
-    {
-      "basename": "Banners",
-      "path": "Otros/Banners/Banners.md"
     }
   ],
   "omittedPaths": [],

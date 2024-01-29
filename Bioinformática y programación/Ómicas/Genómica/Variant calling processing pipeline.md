@@ -8,6 +8,7 @@ tags:
 
 ### Initial quality control
 
+![[FASTQ quality control]]
 
 ### Preprocessing
 
