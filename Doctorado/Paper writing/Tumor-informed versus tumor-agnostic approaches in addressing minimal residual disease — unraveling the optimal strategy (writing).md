@@ -34,7 +34,7 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 ### Other studies
 
-![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)]]
+![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Tumor-informed]]
 
 A growing body of research has 
 

@@ -56,14 +56,23 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 - Tumor-informed assays are reported to have greater sensitivity than tumor-naive panels, even when they use large gene panels [@kasiImpactCirculatingTumor2022]. A tumor-naïve panel may not cover variants found in some patients.
 - Currently, the development of tumorinformed assays is challenging in the clinical setting given the high cost, the mandatory requirement for tumor and germline samples, and the time required for patient-specific assay development [@santonjaComparisonTumorinformedTumornaive2023].
 
-## Studies comparing both approaches
+## Studies
 
 %%TODO
 - [ ] Study the nature of these studies. Use several headings as needed
 - [ ] Add studies in epigenetic data
 %%
 
-### Genomics
+### Tumor-agnostic
+
+### Tumor-informed
+
+- [@wangPrognosticPotentialCirculating2019]
+- One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
+- [@reinertAnalysisPlasmaCellFree2019]
+- A prospective study on a cohort of 240 CRC patients stage II-III [@chenPostoperativeCirculatingTumor2021].
+- [@henriksenCirculatingTumorDNA2022]
+### Comparative analysis in CRC
 
 The body of research in CRC:
 
@@ -79,8 +88,6 @@ Studies in other types of cancer:
 
 - Comparison of tumor-informed and tumor-naïve sequencing assays for ctDNA detection in breast cancer [@santonjaComparisonTumorinformedTumornaive2023]. 
 	- Uses whole-genome rather than whole-exome for somatic mutation identification in the tumor-informed approach.
-
-### Epigenomics
 
 ## Clinical trials
 
