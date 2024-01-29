@@ -1,0 +1,1 @@
+BAMClipper is used to remove primer sequences from mapped alignments of **amplicon NGS sequencing**.

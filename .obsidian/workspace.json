@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "093e9e8c9e6a7661",
+        "id": "ce83a9941baa9d23",
         "type": "tabs",
         "children": [
           {
-            "id": "7b46310f98d885fb",
+            "id": "252bdaf467896567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 200
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md"
               }
             }
           },
@@ -216,11 +216,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b46310f98d885fb",
+  "active": "252bdaf467896567",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Genómica/read deduplication.md",
+    "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md",
+    "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md",
+    "Bioinformática y programación/Ómicas/Genómica/Read deduplication.md",
+    "Bioinformática y programación/Ómicas/Genómica/Read duplicates.md",
+    "Dashboard.md",
+    "Biología y medicina/Oncología/Cáncer de páncreas.md",
+    "Check, write.md",
     "Notas diarias/2024-01-29.md",
     "Bioinformática y programación/Programas/Samtools.md",
     "Bioinformática y programación/Ómicas/BAM format.md",
@@ -236,7 +242,6 @@
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Bioinformática y programación/Ómicas/MultiQC.md",
     "Bioinformática y programación/Ómicas/Reference genome indexing.md",
-    "Cáncer de páncreas.md",
     "Música/Tipos de pianos.md.partial",
     "Notas diarias/2024-01-28.md",
     "Otros/Plantillas/Daily note.md.partial",
@@ -250,11 +255,6 @@
     "Biología y medicina/Epigenética/Horvath's clock.md",
     "Biología y medicina/Epigenética/Horvath's clock.md.partial",
     "Biología y medicina/Epigenética/Epigenetic clock.md.partial",
-    "Biología y medicina/Epigenética/Epigenetic clock.md",
-    "Notas diarias/2024-01-27.md",
-    "Doctorado/Clinical trials/PEGASUS trial.md",
-    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Doctorado/Clinical trials/DYNAMIC-II trial.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-29",
-      "path": "Notas diarias/2024-01-29.md"
+      "basename": "Primer removal alternatives",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md"
+    },
+    {
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+    },
+    {
+      "basename": "BAMClipper",
+      "path": "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md"
+    },
+    {
+      "basename": "Read deduplication",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication.md"
+    },
+    {
+      "basename": "Read duplicates",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Read duplicates.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
-      "basename": "read deduplication",
-      "path": "Bioinformática y programación/Ómicas/Genómica/read deduplication.md"
+      "basename": "Cáncer de páncreas",
+      "path": "Biología y medicina/Oncología/Cáncer de páncreas.md"
     },
     {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+      "basename": "2024-01-29",
+      "path": "Notas diarias/2024-01-29.md"
     },
     {
       "basename": "Samtools",
@@ -63,10 +79,6 @@
     {
       "basename": "Reference genome indexing",
       "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
-    },
-    {
-      "basename": "Cáncer de páncreas",
-      "path": "Cáncer de páncreas.md"
     },
     {
       "basename": "2024-01-28",
@@ -187,18 +199,6 @@
     {
       "basename": "MEDOCC-CrEATE trial",
       "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
-    },
-    {
-      "basename": "Ensayos clínicos",
-      "path": "Biología y medicina/Ensayos clínicos.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
-      "basename": "Literature note",
-      "path": "Otros/Plantillas/Literature note.md"
     }
   ],
   "omittedPaths": [],
