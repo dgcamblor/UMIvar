@@ -70,7 +70,10 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 - [@wangPrognosticPotentialCirculating2019]
 - One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
 - [@reinertAnalysisPlasmaCellFree2019]
-- A prospective study on a cohort of 240 CRC patients stage II-III [@chenPostoperativeCirculatingTumor2021].
+- A prospective study on a cohort of 240 CRC patients stage II-III showed decrease 2-year RFS rates for ctDNA-positive patients (HR = 10.98, 95% CI = 5.41-22.72, p < 0.001), a difference that was further exacerbated when performing 
+- 
+- 
+- II-III [@chenPostoperativeCirculatingTumor2021].
 - [@henriksenCirculatingTumorDNA2022]
 ### Comparative analysis in CRC
 
