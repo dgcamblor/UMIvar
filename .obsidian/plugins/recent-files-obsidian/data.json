@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Cáncer de páncreas",
-      "path": "Cáncer de páncreas.md"
-    },
-    {
       "basename": "Variant calling processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+    },
+    {
+      "basename": "MultiQC",
+      "path": "Bioinformática y programación/Ómicas/MultiQC.md"
+    },
+    {
+      "basename": "Cáncer de páncreas",
+      "path": "Cáncer de páncreas.md"
     },
     {
       "basename": "FASTQ quality control",
@@ -195,10 +199,6 @@
     {
       "basename": "Model evaluation",
       "path": "Estadística/Machine Learning/Model evaluation.md"
-    },
-    {
-      "basename": "Linear discriminant analysis (LDA)",
-      "path": "Estadística/Machine Learning/Dimensionality reduction/Linear discriminant analysis (LDA).md"
     }
   ],
   "omittedPaths": [],
