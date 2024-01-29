@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
               }
             }
           },
@@ -219,7 +219,7 @@
   "active": "01f5399b773c2217",
   "lastOpenFiles": [
     "Bioinformática y programación/Programas/Samtools.md",
-    "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/BAM format.md",
     "Bioinformática y programación/Ómicas/IDAT format.md",
     "Otros/Adjuntos/Pasted image 20240129141825.png",
