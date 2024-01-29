@@ -34,15 +34,13 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 ### Other studies
 
+![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)]]
+
 A growing body of research has 
 
 Studies using non-commercial tumor-informed assays have also rendered insightful results.
 
-- [@wangPrognosticPotentialCirculating2019]
-- One study used a custom targeted panel of 29 genes to study tumor tissue mutations, and performed a ctDNA-based follow-up of said variants using ddPCR. The detection of ctDNA after surgery was significantly associated to lower disease free survival (HR = 6.96), and so was the tracking across multiple postsurgical samples (HR = 8.03) [@tarazonaTargetedNextgenerationSequencing2019].
-- [@reinertAnalysisPlasmaCellFree2019]
-- A prospective study on a cohort of 240 CRC patients stage II-III [@chenPostoperativeCirculatingTumor2021].
-- [@henriksenCirculatingTumorDNA2022]
+
 
 Other studies that have since relied on custom
 
@@ -113,6 +111,7 @@ The potential of
 - CTCs [@marcuelloCirculatingBiomarkersEarly2019]
 - miRNA [@marcuelloCirculatingBiomarkersEarly2019]
 - mRNA !!!!!!!!!!!!!!!!
+- cfRNA (gtcS, [Fetching Title#tv5v](https://genomictestingcooperative.com/tumor-informed-vs-tumor-naive/))
 
 The study of circulating tumor cells (CTCs) -cancer cells that are released from the tumor mass and migrate into preripheral circulation- is currently a hot topic of research.
 
