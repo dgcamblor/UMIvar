@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
               }
             }
           },
@@ -218,16 +218,16 @@
   },
   "active": "01f5399b773c2217",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Genómica/prinseq.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+    "Notas diarias/2024-01-29.md",
     "Bioinformática y programación/Ómicas/FASTQ quality control.md",
     "Bioinformática y programación/Ómicas/FastQC.md",
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Bioinformática y programación/Ómicas/MultiQC.md",
     "Bioinformática y programación/Ómicas/IDAT.md",
     "Bioinformática y programación/Ómicas/Reference genome indexing.md",
-    "Bioinformática y programación/Ómicas/Genómica/prinseq.md",
     "Cáncer de páncreas.md",
-    "Notas diarias/2024-01-29.md",
     "Música/Tipos de pianos.md.partial",
     "Notas diarias/2024-01-28.md",
     "Otros/Plantillas/Daily note.md.partial",

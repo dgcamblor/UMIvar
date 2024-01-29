@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-29",
-      "path": "Notas diarias/2024-01-29.md"
-    },
-    {
       "basename": "Variant calling processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+    },
+    {
+      "basename": "prinseq",
+      "path": "Bioinformática y programación/Ómicas/Genómica/prinseq.md"
+    },
+    {
+      "basename": "2024-01-29",
+      "path": "Notas diarias/2024-01-29.md"
     },
     {
       "basename": "FASTQ quality control",
@@ -31,10 +35,6 @@
     {
       "basename": "Reference genome indexing",
       "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
-    },
-    {
-      "basename": "prinseq",
-      "path": "Bioinformática y programación/Ómicas/Genómica/prinseq.md"
     },
     {
       "basename": "Cáncer de páncreas",
