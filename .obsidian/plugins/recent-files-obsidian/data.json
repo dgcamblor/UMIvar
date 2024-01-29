@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Variant calling processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+      "basename": "Reference genome indexing",
+      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
+    },
+    {
+      "basename": "IDAT",
+      "path": "Bioinformática y programación/Ómicas/IDAT.md"
     },
     {
       "basename": "MultiQC",
       "path": "Bioinformática y programación/Ómicas/MultiQC.md"
     },
     {
-      "basename": "Cáncer de páncreas",
-      "path": "Cáncer de páncreas.md"
+      "basename": "Genomic benchmarking resources",
+      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+    },
+    {
+      "basename": "FastQC",
+      "path": "Bioinformática y programación/Ómicas/FastQC.md"
     },
     {
       "basename": "FASTQ quality control",
       "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
+    },
+    {
+      "basename": "Variant calling processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+    },
+    {
+      "basename": "prinseq",
+      "path": "Bioinformática y programación/Ómicas/Genómica/prinseq.md"
+    },
+    {
+      "basename": "Cáncer de páncreas",
+      "path": "Cáncer de páncreas.md"
     },
     {
       "basename": "2024-01-29",
@@ -179,26 +199,6 @@
     {
       "basename": "Up your pipeline game - Use a workflow manager",
       "path": "Medium/Up your pipeline game - Use a workflow manager.md"
-    },
-    {
-      "basename": "ctDNA WGBS processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md"
-    },
-    {
-      "basename": "Bisulfite conversion processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
-      "basename": "Biopsia líquida",
-      "path": "Biología y medicina/Oncología/Biopsia líquida.md"
-    },
-    {
-      "basename": "Revisión de estudios de metilación en ctDNA",
-      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
-    },
-    {
-      "basename": "Model evaluation",
-      "path": "Estadística/Machine Learning/Model evaluation.md"
     }
   ],
   "omittedPaths": [],

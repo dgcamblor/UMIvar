@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f96d455eabd12c8",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
               }
             }
           },
@@ -219,10 +218,14 @@
   },
   "active": "01f5399b773c2217",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/IDAT.md",
     "Bioinformática y programación/Ómicas/MultiQC.md",
-    "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
-    "Cáncer de páncreas.md",
+    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
+    "Bioinformática y programación/Ómicas/FastQC.md",
     "Bioinformática y programación/Ómicas/FASTQ quality control.md",
+    "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Genómica/prinseq.md",
+    "Cáncer de páncreas.md",
     "Notas diarias/2024-01-29.md",
     "Música/Tipos de pianos.md.partial",
     "Notas diarias/2024-01-28.md",
@@ -251,10 +254,6 @@
     "Bioinformática y programación/File management system for bioinformatics.md",
     "Untitled.md",
     "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md",
-    "Agatha Christie.md",
-    "Notas diarias/2024-01-26.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Notas diarias/2023-10-10.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
