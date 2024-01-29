@@ -8,7 +8,7 @@ samtools view <file>
 ```
 
 - `-b`: Output in BAM format. Useful for conversion SAM -> BAM (`samtools view -b <SAM> > <BAM>)
-- `-h`: Output with header.
+- `-h`: Output with BAM header ([[BAM format#Header]].
 - `-q`: Do not output reads with [[Mapping quality (MAPQ)]] less than the specified.
 
 

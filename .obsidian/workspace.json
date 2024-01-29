@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 301.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -218,14 +218,21 @@
   },
   "active": "01f5399b773c2217",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Genómica/prinseq.md",
+    "Bioinformática y programación/Programas/Samtools.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md",
-    "Notas diarias/2024-01-29.md",
+    "Bioinformática y programación/Ómicas/BAM format.md",
+    "Bioinformática y programación/Ómicas/IDAT format.md",
+    "Otros/Adjuntos/Pasted image 20240129141825.png",
+    "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md",
+    "Economía/Productos/Fondos indexados.md",
+    "Economía/Productos/Fondos indexados.md",
+    "Bioinformática y programación/Programas/bwa.md",
     "Bioinformática y programación/Ómicas/FASTQ quality control.md",
+    "Bioinformática y programación/Ómicas/Genómica/prinseq.md",
+    "Notas diarias/2024-01-29.md",
     "Bioinformática y programación/Ómicas/FastQC.md",
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Bioinformática y programación/Ómicas/MultiQC.md",
-    "Bioinformática y programación/Ómicas/IDAT.md",
     "Bioinformática y programación/Ómicas/Reference genome indexing.md",
     "Cáncer de páncreas.md",
     "Música/Tipos de pianos.md.partial",
@@ -247,13 +254,6 @@
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Clinical trials/DYNAMIC-II trial.md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
-    "Dashboard.md",
-    "Otros/Plantillas/Daily note.md",
-    "Bioinformática y programación/Cosas que he aprendido del TFM.md",
-    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
-    "Bioinformática y programación/File management system for bioinformatics.md",
-    "Untitled.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
@@ -263,7 +263,6 @@
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
     "Otros/Adjuntos/TrainAlgo.png",
-    "Otros/Adjuntos/Profile_figure 2_2019-07-24.3_B1.webp",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]

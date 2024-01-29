@@ -29,7 +29,14 @@ The same QC software used in [[#Initial quality control]] is applied to check th
 
 ### Mapping to the reference genome
 
+![[Genome mapping]]
+
 ### BAM file preprocessing
+
+The output of the mapping is a SAM file.
+
+1. **Converting the SAM file to a BAM file. **This is done with [[Samtools]]: `samtools view -S -h -b file.sam > file.bam`
+2. **Filtering low mapping quality reads.** The `view` command can also be used to filter reads that do not meet a certain minimum mapping quality with the `-q` parameter. A common practice is to filter reads with a MAPQ value below `30`, which is used as a cutoff for retaining high quality mappings.
 
 - [[Base Quality Score Recalibration]].
 

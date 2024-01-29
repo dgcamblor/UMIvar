@@ -17,6 +17,7 @@ where $P$ is the probability of the base being called incorrectly. A guide to Ph
 ## Software for FASTQ QC
 
 - [[FastQC]]
+- Fastq-screen
 - [[MultiQC]]
 
 ## References

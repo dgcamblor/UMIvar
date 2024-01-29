@@ -5,16 +5,40 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
     },
     {
+      "basename": "Samtools",
+      "path": "Bioinformática y programación/Programas/Samtools.md"
+    },
+    {
+      "basename": "BAM format",
+      "path": "Bioinformática y programación/Ómicas/BAM format.md"
+    },
+    {
+      "basename": "IDAT format",
+      "path": "Bioinformática y programación/Ómicas/IDAT format.md"
+    },
+    {
+      "basename": "Genome mapping",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md"
+    },
+    {
+      "basename": "Fondos indexados",
+      "path": "Economía/Productos/Fondos indexados.md"
+    },
+    {
+      "basename": "bwa",
+      "path": "Bioinformática y programación/Programas/bwa.md"
+    },
+    {
+      "basename": "FASTQ quality control",
+      "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
+    },
+    {
       "basename": "prinseq",
       "path": "Bioinformática y programación/Ómicas/Genómica/prinseq.md"
     },
     {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
-    },
-    {
-      "basename": "FASTQ quality control",
-      "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
     },
     {
       "basename": "FastQC",
@@ -27,10 +51,6 @@
     {
       "basename": "MultiQC",
       "path": "Bioinformática y programación/Ómicas/MultiQC.md"
-    },
-    {
-      "basename": "IDAT",
-      "path": "Bioinformática y programación/Ómicas/IDAT.md"
     },
     {
       "basename": "Reference genome indexing",
@@ -179,26 +199,6 @@
     {
       "basename": "9 HÁBITOS JAPONESES - Andrea Rodríguez",
       "path": "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md"
-    },
-    {
-      "basename": "ctDNA methylation studies — methodologies and results",
-      "path": "Doctorado/ctDNA methylation studies — methodologies and results.md"
-    },
-    {
-      "basename": "scRNA-seq processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq processing pipeline.md"
-    },
-    {
-      "basename": "Variant calling analysis",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
-    },
-    {
-      "basename": "Hematopoyesis clonal de potencial indeterminado (CHIP)",
-      "path": "Biología y medicina/Inmunología/Hematopoyesis clonal de potencial indeterminado (CHIP).md"
-    },
-    {
-      "basename": "Up your pipeline game - Use a workflow manager",
-      "path": "Medium/Up your pipeline game - Use a workflow manager.md"
     }
   ],
   "omittedPaths": [],

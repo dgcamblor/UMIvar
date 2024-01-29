@@ -1,6 +1,6 @@
 Methylation microarrays or chips provide information at individual CPG stites, spread across the genome.
 
-Illumina chips are some of the most frequently used. The output is an [[Bioinformática y programación/Ómicas/IDAT]] file.
+Illumina chips are some of the most frequently used. The output is an [[IDAT format]] file.
 
 - Methylation (M) leads to red fluorescent signal.
 - Unmethylation (U) leads to green fluorescent signal.
