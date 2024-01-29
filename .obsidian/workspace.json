@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d495917d39eefd31",
+        "id": "093e9e8c9e6a7661",
         "type": "tabs",
         "children": [
           {
-            "id": "01f5399b773c2217",
+            "id": "7b46310f98d885fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -216,10 +216,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01f5399b773c2217",
+  "active": "7b46310f98d885fb",
   "lastOpenFiles": [
-    "Notas diarias/2024-01-29.md",
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Genómica/read deduplication.md",
+    "Notas diarias/2024-01-29.md",
     "Bioinformática y programación/Programas/Samtools.md",
     "Bioinformática y programación/Ómicas/BAM format.md",
     "Bioinformática y programación/Ómicas/IDAT format.md",
@@ -253,7 +255,6 @@
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Clinical trials/DYNAMIC-II trial.md",
-    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

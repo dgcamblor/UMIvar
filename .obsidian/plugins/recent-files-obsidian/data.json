@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
-    },
-    {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "read deduplication",
+      "path": "Bioinformática y programación/Ómicas/Genómica/read deduplication.md"
+    },
+    {
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
       "basename": "Samtools",
@@ -63,10 +71,6 @@
     {
       "basename": "2024-01-28",
       "path": "Notas diarias/2024-01-28.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Tipos de pianos",
@@ -195,10 +199,6 @@
     {
       "basename": "Literature note",
       "path": "Otros/Plantillas/Literature note.md"
-    },
-    {
-      "basename": "9 HÁBITOS JAPONESES - Andrea Rodríguez",
-      "path": "Notas de libros/9 HÁBITOS JAPONESES - Andrea Rodríguez.md"
     }
   ],
   "omittedPaths": [],

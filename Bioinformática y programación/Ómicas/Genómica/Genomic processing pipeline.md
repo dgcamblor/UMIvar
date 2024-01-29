@@ -45,7 +45,9 @@ The output of the mapping is a SAM file.
 
 #### Deduplication (or not)
 
-In amplicon sequencing,
+[[read deduplication]]
+
+
 
 
 - [[Base Quality Score Recalibration]].
