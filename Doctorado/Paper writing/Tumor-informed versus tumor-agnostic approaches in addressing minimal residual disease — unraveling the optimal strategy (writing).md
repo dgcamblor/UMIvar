@@ -8,9 +8,6 @@ tags:
 
 ### Methylation
 
-
-#### Genome-wide
-
 [Response prediction by mutation- or methylation-specific detection of ctDNA dynamics in pretreated metastatic colorectal cancer - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10541738/)
 
 ## III. Tumor-informed strategies
@@ -72,7 +69,7 @@ Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT0426
 
 [CHIP]
 
-
+[Patient-specific tumor-informed circulating tumor DNA (ctDNA) analysis for molecular residual disease (MRD) detection in surgical patients with stage I-IV colorectal cancer (CRC). | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.4_suppl.213)
 
 By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
 
