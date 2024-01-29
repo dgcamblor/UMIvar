@@ -1,32 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Reference genome indexing",
-      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
-    },
-    {
-      "basename": "IDAT",
-      "path": "Bioinformática y programación/Ómicas/IDAT.md"
-    },
-    {
-      "basename": "MultiQC",
-      "path": "Bioinformática y programación/Ómicas/MultiQC.md"
-    },
-    {
-      "basename": "Genomic benchmarking resources",
-      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
-    },
-    {
-      "basename": "FastQC",
-      "path": "Bioinformática y programación/Ómicas/FastQC.md"
+      "basename": "Variant calling processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
     },
     {
       "basename": "FASTQ quality control",
       "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
     },
     {
-      "basename": "Variant calling processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling processing pipeline.md"
+      "basename": "FastQC",
+      "path": "Bioinformática y programación/Ómicas/FastQC.md"
+    },
+    {
+      "basename": "Genomic benchmarking resources",
+      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+    },
+    {
+      "basename": "MultiQC",
+      "path": "Bioinformática y programación/Ómicas/MultiQC.md"
+    },
+    {
+      "basename": "IDAT",
+      "path": "Bioinformática y programación/Ómicas/IDAT.md"
+    },
+    {
+      "basename": "Reference genome indexing",
+      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
     },
     {
       "basename": "prinseq",
