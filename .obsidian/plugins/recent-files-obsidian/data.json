@@ -5,6 +5,10 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
+      "basename": "2024-01-29",
+      "path": "Notas diarias/2024-01-29.md"
+    },
+    {
       "basename": "Samtools",
       "path": "Bioinformática y programación/Programas/Samtools.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "prinseq",
       "path": "Bioinformática y programación/Ómicas/Genómica/prinseq.md"
-    },
-    {
-      "basename": "2024-01-29",
-      "path": "Notas diarias/2024-01-29.md"
     },
     {
       "basename": "FastQC",
