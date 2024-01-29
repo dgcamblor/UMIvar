@@ -27,6 +27,10 @@ The same QC software used in [[#Initial quality control]] is applied to check th
 
 ## Mapping and BAM file processing
 
+### Mapping to the reference genome
+
+### BAM file preprocessing
+
 - [[Base Quality Score Recalibration]].
 
 ## Variant calling
