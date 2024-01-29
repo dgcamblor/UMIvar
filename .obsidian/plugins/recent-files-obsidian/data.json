@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Samtools",
+      "path": "Bioinformática y programación/Programas/Samtools.md"
+    },
+    {
       "basename": "Read deduplication",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication.md"
+    },
+    {
+      "basename": "Alzheimer",
+      "path": "Biología y medicina/Enfermedades/Alzheimer.md"
     },
     {
       "basename": "Genomic processing pipeline",
@@ -21,20 +33,12 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Read duplicates.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Cáncer de páncreas",
       "path": "Biología y medicina/Oncología/Cáncer de páncreas.md"
     },
     {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
-    },
-    {
-      "basename": "Samtools",
-      "path": "Bioinformática y programación/Programas/Samtools.md"
     },
     {
       "basename": "BAM format",
@@ -195,10 +199,6 @@
     {
       "basename": "DYNAMIC-II trial",
       "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
-    },
-    {
-      "basename": "MEDOCC-CrEATE trial",
-      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
     }
   ],
   "omittedPaths": [],
