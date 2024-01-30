@@ -5,6 +5,10 @@
       "path": "Notas diarias/2024-01-30.md"
     },
     {
+      "basename": "2024-01-29",
+      "path": "Notas diarias/2024-01-29.md"
+    },
+    {
       "basename": "Genomic processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Pipeline list",
       "path": "Bioinformática y programación/Ómicas/Pipeline list.md"
-    },
-    {
-      "basename": "2024-01-29",
-      "path": "Notas diarias/2024-01-29.md"
     },
     {
       "basename": "Picard",
