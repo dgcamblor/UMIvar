@@ -51,7 +51,13 @@ The output of the mapping is a SAM file.
 
 2. [[Base Quality Score Recalibration]].
 
+#### Specific processing
+
+- Lofreq requires indel qualities. They are not added with [[Base Quality Score Recalibration]], so `lofreq indelqual` should be used (`--dindel` for Illumina data, `--uniform` for non Illumina)
+
 ## Variant calling
+
+![[Variant calling software]]
 
 ## CNV determination
 

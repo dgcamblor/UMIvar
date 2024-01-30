@@ -5,6 +5,14 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
+      "basename": "Variant calling software",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
+    },
+    {
+      "basename": "2024-02-01",
+      "path": "Notas diarias/2024-02-01.md"
+    },
+    {
       "basename": "Base Quality Score Recalibration",
       "path": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Asociaciones y congresos de interés",
       "path": "Doctorado/Asociaciones y congresos de interés.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "Methylation in CRC",
-      "path": "Doctorado/Methylation in CRC.md"
     }
   ],
   "omittedPaths": [],
