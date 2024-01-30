@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f96d455eabd12c8",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -219,12 +218,16 @@
   },
   "active": "4ab11402380bd56e",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Genómica/Untitled.md",
+    "Notas diarias/2024-01-30.md",
+    "Bioinformática y programación/Programas/Picard.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+    "Notas diarias/2024-01-27.md",
+    "Notas diarias/2024-01-26.md",
+    "Notas diarias/2024-01-29.md",
+    "Bioinformática y programación/Ómicas/Genómica/Picard.md",
+    "Bioinformática y programación/Ómicas/Genómica/Untitled.md",
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md",
-    "Notas diarias/2024-01-29.md",
-    "Notas diarias/2024-01-30.md",
     "Dashboard.md",
     "Notas de cursos/LinkedIn Learning",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
@@ -244,10 +247,6 @@
     "Bioinformática y programación/Ómicas/IDAT format.md",
     "Otros/Adjuntos/Pasted image 20240129141825.png",
     "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md",
-    "Economía/Productos/Fondos indexados.md",
-    "Economía/Productos/Fondos indexados.md",
-    "Bioinformática y programación/Programas/bwa.md",
-    "Bioinformática y programación/Ómicas/FASTQ quality control.md",
     "Música/Tipos de pianos.md.partial",
     "Otros/Plantillas/Daily note.md.partial",
     "Bioinformática y programación/File management system for bioinformatics.md.partial",

@@ -49,7 +49,7 @@ The output of the mapping is a SAM file.
 
 #### Posterior BAM processing
 
-1. **Cleaning the BAM file.** This can be done with [[Bioinformática y programación/Programas/Picard|Picard]]
+1. **Cleaning the BAM file.** This can be done with [[Picard]]
 
 
 - [[Base Quality Score Recalibration]].

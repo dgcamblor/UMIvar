@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-29",
+      "path": "Notas diarias/2024-01-29.md"
+    },
+    {
+      "basename": "2024-01-30",
+      "path": "Notas diarias/2024-01-30.md"
+    },
+    {
+      "basename": "Picard",
+      "path": "Bioinformática y programación/Programas/Picard.md"
+    },
+    {
       "basename": "Genomic processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+    },
+    {
+      "basename": "2024-01-27",
+      "path": "Notas diarias/2024-01-27.md"
+    },
+    {
+      "basename": "2024-01-26",
+      "path": "Notas diarias/2024-01-26.md"
     },
     {
       "basename": "Genomic benchmarking resources",
@@ -11,14 +31,6 @@
     {
       "basename": "fgbio",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
-    },
-    {
-      "basename": "2024-01-29",
-      "path": "Notas diarias/2024-01-29.md"
-    },
-    {
-      "basename": "2024-01-30",
-      "path": "Notas diarias/2024-01-30.md"
     },
     {
       "basename": "Dashboard",
@@ -141,14 +153,6 @@
       "path": "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md"
     },
     {
-      "basename": "2024-01-27",
-      "path": "Notas diarias/2024-01-27.md"
-    },
-    {
-      "basename": "2024-01-26",
-      "path": "Notas diarias/2024-01-26.md"
-    },
-    {
       "basename": "Epigenetic clock",
       "path": "Biología y medicina/Epigenética/Epigenetic clock.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
-    },
-    {
-      "basename": "Research caveats",
-      "path": "Doctorado/Research caveats.md"
     }
   ],
   "omittedPaths": [],
