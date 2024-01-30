@@ -5,6 +5,18 @@
       "path": "Notas diarias/2024-01-30.md"
     },
     {
+      "basename": "2024-01-26",
+      "path": "Notas diarias/2024-01-26.md"
+    },
+    {
+      "basename": "2024-01-27",
+      "path": "Notas diarias/2024-01-27.md"
+    },
+    {
+      "basename": "2024-01-28",
+      "path": "Notas diarias/2024-01-28.md"
+    },
+    {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
     },
@@ -47,14 +59,6 @@
     {
       "basename": "Picard",
       "path": "Bioinformática y programación/Programas/Picard.md"
-    },
-    {
-      "basename": "2024-01-27",
-      "path": "Notas diarias/2024-01-27.md"
-    },
-    {
-      "basename": "2024-01-26",
-      "path": "Notas diarias/2024-01-26.md"
     },
     {
       "basename": "Genomic benchmarking resources",
@@ -151,10 +155,6 @@
     {
       "basename": "Reference genome indexing",
       "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
-    },
-    {
-      "basename": "2024-01-28",
-      "path": "Notas diarias/2024-01-28.md"
     },
     {
       "basename": "Tipos de pianos",
