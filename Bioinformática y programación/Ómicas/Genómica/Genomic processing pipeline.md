@@ -67,7 +67,7 @@ The output of the mapping is a SAM file.
 
 ### Normalization
 
-Using 
+Using [[bcftools]]: `bcftools norm`.
 
 ### Variant calling analysis
 
