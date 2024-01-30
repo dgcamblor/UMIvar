@@ -5,6 +5,10 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
+      "basename": "Samtools",
+      "path": "Bioinformática y programación/Programas/Samtools.md"
+    },
+    {
       "basename": "2024-01-30",
       "path": "Notas diarias/2024-01-30.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "2023-12-11",
       "path": "Notas diarias/2023-12-11.md"
-    },
-    {
-      "basename": "Samtools",
-      "path": "Bioinformática y programación/Programas/Samtools.md"
     },
     {
       "basename": "Read deduplication",

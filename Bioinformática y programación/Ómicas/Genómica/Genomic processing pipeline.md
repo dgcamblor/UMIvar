@@ -64,6 +64,14 @@ The output of the mapping is a SAM file.
 ### Filtering false positives
 
 - Mutect2 calls can be filtered with [[GATK#FilterMutectCalls]].
+
+### Normalization
+
+Using 
+
+### Variant calling analysis
+
+![[Variant calling analysis]]
 ## CNV determination
 
 ## Variant annotation
