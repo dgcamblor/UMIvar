@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GATK",
+      "path": "Bioinformática y programación/Programas/GATK.md"
+    },
+    {
       "basename": "2024-01-30",
       "path": "Notas diarias/2024-01-30.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Genomic processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
-    },
-    {
-      "basename": "GATK",
-      "path": "Bioinformática y programación/Programas/GATK.md"
     },
     {
       "basename": "Variant calling software",

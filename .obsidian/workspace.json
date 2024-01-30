@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-30.md",
+                "file": "Bioinformática y programación/Programas/GATK.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-30.md"
+                "file": "Bioinformática y programación/Programas/GATK.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-30.md",
+                "file": "Bioinformática y programación/Programas/GATK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-30.md",
+                "file": "Bioinformática y programación/Programas/GATK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-30.md"
+                "file": "Bioinformática y programación/Programas/GATK.md"
               }
             }
           },
@@ -218,10 +218,10 @@
   },
   "active": "7ddab73b75afa562",
   "lastOpenFiles": [
+    "Notas diarias/2024-01-30.md",
     "Notas diarias/2024-01-26.md",
     "Notas diarias/2024-01-27.md",
     "Notas diarias/2024-01-28.md",
-    "Notas diarias/2024-01-30.md",
     "Notas diarias/2024-01-29.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Programas/GATK.md",
