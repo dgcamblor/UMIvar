@@ -47,7 +47,9 @@ The output of the mapping is a SAM file.
 
 ![[Read deduplication]]
 
+#### Posterior BAM processing
 
+1. **Cleaning the BAM file.** This can be done with [[Bioinformática y programación/Programas/Picard|Picard]]
 
 
 - [[Base Quality Score Recalibration]].

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+    },
+    {
+      "basename": "Genomic benchmarking resources",
+      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+    },
+    {
+      "basename": "fgbio",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
+    },
+    {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "Alzheimer",
       "path": "Biología y medicina/Enfermedades/Alzheimer.md"
-    },
-    {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
       "basename": "Primer removal alternatives",
@@ -95,10 +103,6 @@
     {
       "basename": "FastQC",
       "path": "Bioinformática y programación/Ómicas/FastQC.md"
-    },
-    {
-      "basename": "Genomic benchmarking resources",
-      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
     },
     {
       "basename": "MultiQC",
@@ -191,14 +195,6 @@
     {
       "basename": "Research caveats",
       "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Consejos para un póster científico",
-      "path": "Doctorado/Consejos para un póster científico.md"
     }
   ],
   "omittedPaths": [],
