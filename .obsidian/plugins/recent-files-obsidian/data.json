@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+      "basename": "Soft-clipped",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md"
+    },
+    {
+      "basename": "Hard-clipped",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md"
+    },
+    {
+      "basename": "GATK",
+      "path": "Bioinformática y programación/Programas/GATK.md"
     },
     {
       "basename": "Variant calling software",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
     },
     {
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+    },
+    {
+      "basename": "2024-01-30",
+      "path": "Notas diarias/2024-01-30.md"
+    },
+    {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Base Quality Score Recalibration",
@@ -23,10 +43,6 @@
     {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
-    },
-    {
-      "basename": "2024-01-30",
-      "path": "Notas diarias/2024-01-30.md"
     },
     {
       "basename": "Picard",
@@ -47,10 +63,6 @@
     {
       "basename": "fgbio",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Cómo escribir con eficacia",
@@ -187,18 +199,6 @@
     {
       "basename": "PEGASUS trial",
       "path": "Doctorado/Clinical trials/PEGASUS trial.md"
-    },
-    {
-      "basename": "IMPROVE-IT2 trial",
-      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
-    },
-    {
-      "basename": "Clinical relevance of ctDNA analysis",
-      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
-    },
-    {
-      "basename": "Asociaciones y congresos de interés",
-      "path": "Doctorado/Asociaciones y congresos de interés.md"
     }
   ],
   "omittedPaths": [],

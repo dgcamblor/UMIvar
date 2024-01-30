@@ -1,3 +1,3 @@
-- Mutect2
+- [[GATK#Mutect2]]
 - Lofreq
 - VarDict

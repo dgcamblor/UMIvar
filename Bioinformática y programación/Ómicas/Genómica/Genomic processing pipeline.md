@@ -47,13 +47,13 @@ The output of the mapping is a SAM file.
 
 #### Posterior BAM processing
 
-1. **Cleaning the BAM file.** This can be done with [[Picard#CleanSam]]
+1. **Cleaning the BAM file.** This can be done with [[Picard#CleanSam]].
 
 2. [[Base Quality Score Recalibration]].
 
 #### Specific processing
 
-- Lofreq requires indel qualities. They are not added with [[Base Quality Score Recalibration]], so `lofreq indelqual` should be used (`--dindel` for Illumina data, `--uniform` for non Illumina)
+- Lofreq requires indel qualities. They are not added with [[Base Quality Score Recalibration]], so `lofreq indelqual` should be used (`--dindel` for Illumina data, `--uniform` for non Illumina).
 
 ## Variant calling
 
