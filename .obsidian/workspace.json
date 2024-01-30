@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Notas diarias/2024-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Notas diarias/2024-01-30.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Notas diarias/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Notas diarias/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Notas diarias/2024-01-30.md"
               }
             }
           },
@@ -218,8 +218,8 @@
   },
   "active": "4ab11402380bd56e",
   "lastOpenFiles": [
-    "Notas diarias/2024-01-30.md",
     "Notas diarias/2024-01-29.md",
+    "Notas diarias/2024-01-30.md",
     "Dashboard.md",
     "Notas de cursos/LinkedIn Learning",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
