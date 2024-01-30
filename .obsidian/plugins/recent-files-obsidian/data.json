@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "GATK",
-      "path": "Bioinformática y programación/Programas/GATK.md"
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
       "basename": "2024-01-30",
@@ -11,6 +11,14 @@
     {
       "basename": "2024-01-26",
       "path": "Notas diarias/2024-01-26.md"
+    },
+    {
+      "basename": "2024-02-01",
+      "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "GATK",
+      "path": "Bioinformática y programación/Programas/GATK.md"
     },
     {
       "basename": "2024-01-27",
@@ -25,10 +33,6 @@
       "path": "Notas diarias/2024-01-29.md"
     },
     {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
-    },
-    {
       "basename": "Variant calling software",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Hard-clipped",
       "path": "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md"
-    },
-    {
-      "basename": "2024-02-01",
-      "path": "Notas diarias/2024-02-01.md"
     },
     {
       "basename": "Dashboard",

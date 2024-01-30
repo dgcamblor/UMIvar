@@ -57,8 +57,13 @@ The output of the mapping is a SAM file.
 
 ## Variant calling
 
+### Variant calling proper
+
 ![[Variant calling software]]
 
+### Filtering false positives
+
+- Mutect2 calls can be filtered with [[GATK#FilterMutectCalls]].
 ## CNV determination
 
 ## Variant annotation

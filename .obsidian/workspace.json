@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Programas/GATK.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6f96d455eabd12c8",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Programas/GATK.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Programas/GATK.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Programas/GATK.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Programas/GATK.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
               }
             }
           },
@@ -220,15 +221,15 @@
   "lastOpenFiles": [
     "Notas diarias/2024-01-30.md",
     "Notas diarias/2024-01-26.md",
+    "Notas diarias/2024-02-01.md",
+    "Bioinformática y programación/Programas/GATK.md",
     "Notas diarias/2024-01-27.md",
     "Notas diarias/2024-01-28.md",
     "Notas diarias/2024-01-29.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
-    "Bioinformática y programación/Programas/GATK.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
     "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md",
     "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
-    "Notas diarias/2024-02-01.md",
     "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Bioinformática y programación/Ómicas/Pipeline list.md",
