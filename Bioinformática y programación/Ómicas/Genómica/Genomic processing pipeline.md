@@ -41,18 +41,15 @@ The output of the mapping is a SAM file.
 
 3. **Sorting and indexing.**
 
-4. **Filtering reads that fall off the target regions.** This is done with [[Samtools]]: `samtools view -h -L capture.bed -b file.bam > ontarget.bam`
-
 #### Deduplication (or not)
 
 ![[Read deduplication]]
 
 #### Posterior BAM processing
 
-1. **Cleaning the BAM file.** This can be done with [[Picard]]
+1. **Cleaning the BAM file.** This can be done with [[Picard#CleanSam]]
 
-
-- [[Base Quality Score Recalibration]].
+2. [[Base Quality Score Recalibration]].
 
 ## Variant calling
 
