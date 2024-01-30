@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e528f52ecfe495b",
+        "id": "373af42a7158e301",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d7984892cc411a",
+            "id": "16304a212ee93943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas de cursos/LinkedIn Learning/Cómo escribir con eficacia.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Notas de cursos/LinkedIn Learning/Cómo escribir con eficacia.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas de cursos/LinkedIn Learning/Cómo escribir con eficacia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas de cursos/LinkedIn Learning/Cómo escribir con eficacia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Notas de cursos/LinkedIn Learning/Cómo escribir con eficacia.md"
               }
             }
           },
@@ -216,13 +216,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f6d7984892cc411a",
+  "active": "16304a212ee93943",
   "lastOpenFiles": [
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+    "Dashboard.md",
+    "Notas de cursos/LinkedIn Learning",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Notas diarias/2023-12-11.md",
-    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication.md",
     "Biología y medicina/Enfermedades/Alzheimer.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
@@ -245,7 +246,6 @@
     "Bioinformática y programación/Ómicas/Genómica/prinseq.md",
     "Bioinformática y programación/Ómicas/FastQC.md",
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
-    "Bioinformática y programación/Ómicas/MultiQC.md",
     "Música/Tipos de pianos.md.partial",
     "Otros/Plantillas/Daily note.md.partial",
     "Bioinformática y programación/File management system for bioinformatics.md.partial",
@@ -255,7 +255,6 @@
     "Notas de cursos/Cómo escribir con eficacia.md.partial",
     "Notas diarias/2024-01-28.md.partial",
     "Biología y medicina/Epigenética/Horvath's clock.md.partial",
-    "Biología y medicina/Epigenética/Epigenetic clock.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

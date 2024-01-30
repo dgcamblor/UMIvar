@@ -16,10 +16,19 @@ Cuatro elementos básicos:
 - Construir discurso por partes
 - Que valga la pena compartir la idea
 
-### Cómo leemos
+## Cómo leemos
 
 - Reading
 - Skimming
 - Scanning
 
 El lector tiende al *skimming*, especialmente ante textos largos.
+
+## Textos para cuando quieres informar
+
+Un texto informativo debe ser:
+
+- Ordenador
+- Ideas jerarquizadas
+- Claro y conciso
+- Objetivo
