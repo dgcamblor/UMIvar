@@ -82,5 +82,5 @@ Using [[bcftools]]: `bcftools norm`.
 
 ## Pipeline statistics
 
-- samtools idxstats
-- Picard CollectAlignmetSummaryMetrics
+- samtools idxstats -> Basic BAM stats.
+- Picard CollectAlignmetSummaryMetrics -> More thorough BAM stats.

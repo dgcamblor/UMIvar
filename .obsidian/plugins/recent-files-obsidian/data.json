@@ -5,6 +5,22 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
+      "basename": "Fragment size and insert size",
+      "path": "Bioinformática y programación/Ómicas/Fragment size and insert size.md"
+    },
+    {
+      "basename": "Pasted image 20231018133455",
+      "path": "Otros/Adjuntos/Pasted image 20231018133455.jpg"
+    },
+    {
+      "basename": "Pasted image 20231025224127",
+      "path": "Otros/Adjuntos/Pasted image 20231025224127.png"
+    },
+    {
+      "basename": "Pasted image 20240131110838",
+      "path": "Otros/Adjuntos/Pasted image 20240131110838.jpg"
+    },
+    {
       "basename": "Genomic benchmarking resources",
       "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "File management system for bioinformatics",
       "path": "Bioinformática y programación/File management system for bioinformatics.md"
-    },
-    {
-      "basename": "El asesinato de Rogelio Ackroyd - Agatha Christie",
-      "path": "Notas de libros/El asesinato de Rogelio Ackroyd - Agatha Christie.md"
-    },
-    {
-      "basename": "Epigenetic clock",
-      "path": "Biología y medicina/Epigenética/Epigenetic clock.md"
-    },
-    {
-      "basename": "Horvath's clock",
-      "path": "Biología y medicina/Epigenética/Horvath's clock.md"
-    },
-    {
-      "basename": "2023-10-10",
-      "path": "Notas diarias/2023-10-10.md"
     }
   ],
   "omittedPaths": [],
