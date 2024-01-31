@@ -5,8 +5,8 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
-      "basename": "Variant calling software",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
+      "basename": "Genomic benchmarking resources",
+      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
     },
     {
       "basename": "2024-01-30",
@@ -15,6 +15,14 @@
     {
       "basename": "2024-01-31",
       "path": "Notas diarias/2024-01-31.md"
+    },
+    {
+      "basename": "bcftools",
+      "path": "Bioinformática y programación/Programas/bcftools.md"
+    },
+    {
+      "basename": "Variant calling software",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
     },
     {
       "basename": "2024-01-26",
@@ -67,10 +75,6 @@
     {
       "basename": "Picard",
       "path": "Bioinformática y programación/Programas/Picard.md"
-    },
-    {
-      "basename": "Genomic benchmarking resources",
-      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
     },
     {
       "basename": "fgbio",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-10-10",
       "path": "Notas diarias/2023-10-10.md"
-    },
-    {
-      "basename": "2023-07-19",
-      "path": "Notas diarias/2023-07-19.md"
     }
   ],
   "omittedPaths": [],

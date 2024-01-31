@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6f96d455eabd12c8",
@@ -218,10 +219,12 @@
   },
   "active": "0b6bca19c0a8470d",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
-    "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Notas diarias/2024-01-30.md",
     "Notas diarias/2024-01-31.md",
+    "Bioinformática y programación/Programas/bcftools.md",
+    "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
     "Notas diarias/2024-01-26.md",
     "Notas diarias/2024-01-27.md",
     "Notas diarias/2024-01-28.md",
@@ -237,14 +240,12 @@
     "Bioinformática y programación/Programas/Picard.md",
     "Bioinformática y programación/Ómicas/Genómica/Picard.md",
     "Bioinformática y programación/Ómicas/Genómica/Untitled.md",
-    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md",
     "Notas de cursos/LinkedIn Learning",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Notas diarias/2023-12-11.md",
-    "Bioinformática y programación/Ómicas/Genómica/Read deduplication.md",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Otros/Adjuntos/Pasted image 20240129141825.png",
     "Música/Tipos de pianos.md.partial",
