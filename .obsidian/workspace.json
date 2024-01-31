@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-31.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/vep.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "6f96d455eabd12c8",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-31.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/vep.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-31.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/vep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-31.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/vep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-31.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/vep.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "0b6bca19c0a8470d",
   "lastOpenFiles": [
-    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Notas diarias/2024-01-31.md",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/vep.md",
     "Bioinformática y programación/Ubuntu setup.md",
