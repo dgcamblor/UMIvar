@@ -6,7 +6,6 @@ tags:
 
 ## Tumor-naïve
 
-- Guardant360 (Guardant Health). 74-gene ctDNA profiling assay. ^3db513
 
 - [Guardant Infinity](https://guardanthealth.com/guardantinfinity/) (Guardant Health)
 

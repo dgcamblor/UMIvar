@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "DYNAMIC-II trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
     },
     {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
+      "basename": "BESPOKE trial",
+      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
     },
     {
-      "basename": "Sin título",
-      "path": "Doctorado/Assays/Sin título.md"
+      "basename": "GALAXY trial (CIRCULATE-japan)",
+      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "Signatera",
+      "path": "Doctorado/Assays/Signatera.md"
+    },
+    {
+      "basename": "SafeSeqS",
+      "path": "Doctorado/Assays/SafeSeqS.md"
+    },
+    {
+      "basename": "Guardant360",
+      "path": "Doctorado/Assays/Guardant360.md"
+    },
+    {
+      "basename": "ASCOLT trial",
+      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
     },
     {
       "basename": "COBRA trial",
       "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
+      "basename": "PRECISION trial",
+      "path": "Doctorado/Clinical trials/PRECISION trial.md"
+    },
+    {
+      "basename": "DYNAMIC-II trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
@@ -47,10 +71,6 @@
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
-      "basename": "GALAXY trial (CIRCULATE-japan)",
-      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
     },
     {
       "basename": "MEDOCC-CrEATE trial",
@@ -179,26 +199,6 @@
     {
       "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
       "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
-    },
-    {
-      "basename": "2023-12-11",
-      "path": "Notas diarias/2023-12-11.md"
-    },
-    {
-      "basename": "Read deduplication",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication.md"
-    },
-    {
-      "basename": "Alzheimer",
-      "path": "Biología y medicina/Enfermedades/Alzheimer.md"
-    },
-    {
-      "basename": "Primer removal alternatives",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md"
-    },
-    {
-      "basename": "BAMClipper",
-      "path": "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md"
     }
   ],
   "omittedPaths": [],

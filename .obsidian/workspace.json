@@ -18,7 +18,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Doctorado/Assays/Sin título.md",
+                    "file": "Doctorado/Clinical trials/BESPOKE trial.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "98609ee126d0005f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Doctorado/MRD ctDNA assays.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e5dd649c67e43e9a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Doctorado/MRD ctDNA clinical trials.md",
                     "mode": "source",
                     "source": false
                   }
@@ -30,7 +54,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Doctorado/Clinical trials/DYNAMIC-II trial.md",
+                    "file": "Doctorado/Assays/Guardant360.md",
                     "mode": "source",
                     "source": false
                   }
@@ -248,11 +272,17 @@
   },
   "active": "36b3e2bb0e2c2f63",
   "lastOpenFiles": [
-    "Doctorado/Clinical trials/DYNAMIC-II trial.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/Assays/Sin título.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Clinical trials/BESPOKE trial.md",
+    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+    "Doctorado/Assays/Signatera.md",
+    "Doctorado/Assays/SafeSeqS.md",
+    "Doctorado/Assays/Guardant360.md",
+    "Doctorado/Clinical trials/ASCOLT trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
+    "Doctorado/Clinical trials/PRECISION trial.md",
+    "Doctorado/Clinical trials/DYNAMIC-II trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Assays/FoundationOne Tracker.md",
@@ -260,7 +290,6 @@
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Otros/Plantillas/Assay.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
-    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Notas de libros/Un mundo feliz - Aldous Huxley.md",
     "Doctorado/Assays",
@@ -270,14 +299,9 @@
     "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/vep.md",
-    "Bioinformática y programación/Ubuntu setup.md",
-    "Bioinformática y programación/Ómicas/Fragment size and insert size.md",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
     "Otros/Adjuntos/Pasted image 20231025224127.png",
     "Otros/Adjuntos/Pasted image 20240131110838.jpg",
-    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
-    "Notas diarias/2024-01-30.md",
-    "Bioinformática y programación/Programas/bcftools.md",
     "Notas de cursos/LinkedIn Learning",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Otros/Adjuntos/Pasted image 20240129141825.png",

@@ -1,0 +1,1 @@
+Guardant 360 was the first commercialized comprehensive liquid biopsy test by Guardant Health. It is used for patients with advanced or metastatic solid tumors to help guide treatment decisions by analyzing a blood sample to evaluate a panel of 74 cancer-related genes.

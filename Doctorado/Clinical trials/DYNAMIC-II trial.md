@@ -2,9 +2,7 @@
 id: 
 url: 
 trialStatus:
-  - Ongoing
   - Published
-  - Stopped
 trialPhase: 
 trialApproach: Tumor-informed
 trialAssay: "[[MRD ctDNA assays#^c59277|SafeSEQ]]"
