@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "DYNAMIC-II trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "Doctorado/Assays/Sin título.md"
+    },
+    {
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
       "basename": "PEGASUS trial",
       "path": "Doctorado/Clinical trials/PEGASUS trial.md"
     },
@@ -13,10 +37,6 @@
       "path": "Doctorado/Assays/Guardant Reveal.md"
     },
     {
-      "basename": "DYNAMIC-II trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
-    },
-    {
       "basename": "IMPROVE-IT2 trial",
       "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
     },
@@ -25,16 +45,8 @@
       "path": "Otros/Plantillas/Assay.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
-      "basename": "COBRA trial",
-      "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
       "basename": "GALAXY trial (CIRCULATE-japan)",
@@ -187,18 +199,6 @@
     {
       "basename": "BAMClipper",
       "path": "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md"
-    },
-    {
-      "basename": "Read duplicates",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Read duplicates.md"
-    },
-    {
-      "basename": "Cáncer de páncreas",
-      "path": "Biología y medicina/Oncología/Cáncer de páncreas.md"
-    },
-    {
-      "basename": "BAM format",
-      "path": "Bioinformática y programación/Ómicas/BAM format.md"
     }
   ],
   "omittedPaths": [],

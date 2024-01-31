@@ -1,10 +1,8 @@
 ---
-id: 
-url: 
+id: NCT04259944
+url: https://clinicaltrials.gov/study/NCT04259944
 trialStatus:
   - Ongoing
-  - Published
-  - Stopped
 trialPhase: 
 trialApproach: Tumor-naive
 trialAssay: "[[Guardant Reveal]]"

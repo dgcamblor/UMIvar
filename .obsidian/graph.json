@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Doctorado/Assays OR path:\"Doctorado/Clinical trials\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -62,6 +62,27 @@
         "a": 1,
         "rgb": 16764749
       }
+    },
+    {
+      "query": "[\"trialstatus\":Ongoing]",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "[\"trialstatus\":Stopped]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "[\"trialstatus\":Published]",
+      "color": {
+        "a": 1,
+        "rgb": 327424
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +95,6 @@
   "repelStrength": 12.1625,
   "linkStrength": 1,
   "linkDistance": 277,
-  "scale": 0.4604490879458124,
-  "close": true
+  "scale": 0.32842703621863145,
+  "close": false
 }
