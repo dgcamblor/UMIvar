@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-02-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+                "file": "Notas diarias/2024-02-01.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+                "file": "Notas diarias/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+                "file": "Notas diarias/2024-02-01.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "7ddab73b75afa562",
   "lastOpenFiles": [
-    "Bioinformática y programación/Programas/Samtools.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+    "Bioinformática y programación/Programas/Samtools.md",
     "Notas diarias/2024-01-30.md",
     "Notas diarias/2024-01-26.md",
     "Notas diarias/2024-02-01.md",
