@@ -65,6 +65,7 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 
 ### Tumor-agnostic
 
+- Minimal Residual Disease Detection using a Plasma-Only Circulating Tumor DNA Assay in Colorectal Cancer Patients [@parikhMinimalResidualDisease2021].
 ### Tumor-informed
 
 - [@wangPrognosticPotentialCirculating2019]

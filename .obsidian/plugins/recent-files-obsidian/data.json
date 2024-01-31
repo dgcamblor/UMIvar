@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "IMPROVE-IT2 trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+    },
+    {
+      "basename": "PEGASUS trial",
+      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
+    },
+    {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -121,10 +141,6 @@
       "path": "Notas de cursos/LinkedIn Learning/Cómo escribir con eficacia.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
       "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
       "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "prinseq",
       "path": "Bioinformática y programación/Ómicas/Genómica/prinseq.md"
-    },
-    {
-      "basename": "FastQC",
-      "path": "Bioinformática y programación/Ómicas/FastQC.md"
-    },
-    {
-      "basename": "MultiQC",
-      "path": "Bioinformática y programación/Ómicas/MultiQC.md"
-    },
-    {
-      "basename": "Reference genome indexing",
-      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
-    },
-    {
-      "basename": "Tipos de pianos",
-      "path": "Música/Tipos de pianos.md"
     }
   ],
   "omittedPaths": [],

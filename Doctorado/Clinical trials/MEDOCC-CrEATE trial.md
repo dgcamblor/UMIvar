@@ -4,8 +4,7 @@ url:
 trialStatus:
   - Ongoing
 trialPhase: 
-trialApproach:
-  - Tumor-informed
+trialApproach: Tumor-informed
 trialAssay:
 ---
 
