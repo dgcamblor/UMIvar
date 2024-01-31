@@ -28,7 +28,7 @@ First of all, start with a paragraph that expresses how bioinformatics is a grea
 
 - **Get up to date with the latest technologies.** Last advice. Bioinformatics is an ever-evolving field (statistics, informatics, biology, etc.). Perhaps this is now more true than ever with the recent surge in AI-powered tools. Of course, no need to say that the purely "bio" part in bioinformatics is also constantly changing, and should not be neglected. Like the legendary Bruce Lee said, "Be water, my friend". Be flexible and prepere to adapt for the new ways of programming and doing bioinformatics that are coming (rather sooner than later).
 
-I personally prefer inline code completers more than good ol' chatgpt, mainly because. But do take your time and see what works best for you.
+I personally prefer inline code completers more than good ol' chatgpt, mainly because. But do take your time and see what works best for you. but critiquely
 
     - Good ol' ChatGPT
     - GitHub Copilot (free for students)

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A hitchhiker's guide to bioinformatics — tips",
+      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+    },
+    {
       "basename": "2024-01-31",
       "path": "Notas diarias/2024-01-31.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tipos de pianos",
       "path": "Música/Tipos de pianos.md"
-    },
-    {
-      "basename": "Daily note",
-      "path": "Otros/Plantillas/Daily note.md"
     }
   ],
   "omittedPaths": [],
