@@ -78,7 +78,14 @@ Using [[bcftools]]: `bcftools norm`.
 
 There are several software that can be used for variant annotation:
 
-- [[vep]]
+- [[vep]] -> Contains several resources for predicting the effect of a variant.
+
+- [[bcftools]] can be used to annotate with BED files
+	- Cancer hotspots -> Sites or regions recurrently mutated in cancer.
+	
+- [[snpSift]] can be used to annotate with VCF files
+	- COSMIC database
+	- ONCOKB database
 
 ## Variant calling analysis
 
