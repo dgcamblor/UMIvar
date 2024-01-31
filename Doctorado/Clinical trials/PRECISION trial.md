@@ -8,9 +8,7 @@ trialStatus:
   - Published
   - Stopped
 trialPhase: 
-trialApproach:
-  - Tumor-naïve
-  - Tumor-informed
+trialApproach: Tumor-naïve
 trialAssay: "[[Guardant360]]"
 ---
 

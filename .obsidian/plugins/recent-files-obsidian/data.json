@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
       "basename": "MRD ctDNA clinical trials",
       "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
       "basename": "BESPOKE trial",
       "path": "Doctorado/Clinical trials/BESPOKE trial.md"
+    },
+    {
+      "basename": "Guardant INFINITY",
+      "path": "Doctorado/Assays/Guardant INFINITY.md"
+    },
+    {
+      "basename": "Clinical trial",
+      "path": "Otros/Plantillas/Clinical trial.md"
+    },
+    {
+      "basename": "PRECISION trial",
+      "path": "Doctorado/Clinical trials/PRECISION trial.md"
+    },
+    {
+      "basename": "2024-01-31",
+      "path": "Notas diarias/2024-01-31.md"
+    },
+    {
+      "basename": "IMPROVE-IT2 trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+    },
+    {
+      "basename": "DYNAMIC-II trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
+    },
+    {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
     },
     {
       "basename": "GALAXY trial (CIRCULATE-japan)",
@@ -37,14 +65,6 @@
       "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
-      "basename": "PRECISION trial",
-      "path": "Doctorado/Clinical trials/PRECISION trial.md"
-    },
-    {
-      "basename": "DYNAMIC-II trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -61,20 +81,12 @@
       "path": "Doctorado/Assays/Guardant Reveal.md"
     },
     {
-      "basename": "IMPROVE-IT2 trial",
-      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
-    },
-    {
       "basename": "Assay",
       "path": "Otros/Plantillas/Assay.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
-      "basename": "MEDOCC-CrEATE trial",
-      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
     },
     {
       "basename": "Un mundo feliz - Aldous Huxley",
@@ -91,10 +103,6 @@
     {
       "basename": "vep",
       "path": "Bioinformática y programación/Ómicas/Genómica/vep.md"
-    },
-    {
-      "basename": "2024-01-31",
-      "path": "Notas diarias/2024-01-31.md"
     },
     {
       "basename": "A hitchhiker's guide to bioinformatics — tips",
@@ -191,14 +199,6 @@
     {
       "basename": "fgbio",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
-    },
-    {
-      "basename": "Cómo escribir con eficacia",
-      "path": "Notas de cursos/LinkedIn Learning/Cómo escribir con eficacia.md"
-    },
-    {
-      "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
-      "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
     }
   ],
   "omittedPaths": [],
