@@ -76,6 +76,10 @@ The output of the mapping is a SAM file.
 Using [[bcftools]]: `bcftools norm`.
 ## Variant annotation
 
+There are several software that can be used for variant annotation:
+
+- [[vep]]
+
 ## Variant calling analysis
 
 ![[Variant calling analysis]]
