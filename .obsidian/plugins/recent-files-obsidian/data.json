@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-31",
+      "path": "Notas diarias/2024-01-31.md"
+    },
+    {
       "basename": "Ubuntu setup",
       "path": "Bioinformática y programación/Ubuntu setup.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "2024-01-30",
       "path": "Notas diarias/2024-01-30.md"
-    },
-    {
-      "basename": "2024-01-31",
-      "path": "Notas diarias/2024-01-31.md"
     },
     {
       "basename": "bcftools",

@@ -11,5 +11,6 @@
   ],
   "translucency": false,
   "cssTheme": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "nativeMenus": false
 }

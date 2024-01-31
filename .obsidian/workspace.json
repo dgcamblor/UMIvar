@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ubuntu setup.md",
+                "file": "Notas diarias/2024-01-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ubuntu setup.md"
+                "file": "Notas diarias/2024-01-31.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ubuntu setup.md",
+                "file": "Notas diarias/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ubuntu setup.md",
+                "file": "Notas diarias/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ubuntu setup.md"
+                "file": "Notas diarias/2024-01-31.md"
               }
             }
           },
@@ -201,13 +201,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-vscode:VSCode": false,
@@ -218,6 +218,7 @@
   },
   "active": "0b6bca19c0a8470d",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ubuntu setup.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
@@ -247,7 +248,6 @@
     "Bioinformática y programación/Ómicas/Genómica/Untitled.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md",
     "Notas de cursos/LinkedIn Learning",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Otros/Adjuntos/Pasted image 20240129141825.png",
     "Música/Tipos de pianos.md.partial",
