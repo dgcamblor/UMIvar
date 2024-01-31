@@ -76,6 +76,11 @@ The output of the mapping is a SAM file.
 Using [[bcftools]]: `bcftools norm`.
 ## Variant annotation
 
-### Variant calling analysis
+## Variant calling analysis
 
 ![[Variant calling analysis]]
+
+## Pipeline statistics
+
+- samtools idxstats
+- Picard CollectAlignmetSummaryMetrics
