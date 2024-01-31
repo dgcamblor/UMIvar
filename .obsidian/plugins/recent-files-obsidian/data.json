@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Guardant Reveal",
+      "path": "Doctorado/Assays/Guardant Reveal.md"
+    },
+    {
       "basename": "IMPROVE-IT2 trial",
       "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FASTQ quality control",
       "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
-    },
-    {
-      "basename": "prinseq",
-      "path": "Bioinformática y programación/Ómicas/Genómica/prinseq.md"
     }
   ],
   "omittedPaths": [],

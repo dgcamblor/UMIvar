@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+                "file": "Doctorado/Assays/Guardant Reveal.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+                "file": "Doctorado/Assays/Guardant Reveal.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+                "file": "Doctorado/Assays/Guardant Reveal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+                "file": "Doctorado/Assays/Guardant Reveal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+                "file": "Doctorado/Assays/Guardant Reveal.md"
               }
             }
           },
@@ -218,6 +218,9 @@
   },
   "active": "43908babb16cebc1",
   "lastOpenFiles": [
+    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+    "Doctorado/Assays/Guardant Reveal.md",
+    "Doctorado/Assays",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
@@ -245,8 +248,6 @@
     "Bioinformática y programación/Programas/Samtools.md",
     "Notas diarias/2024-02-01.md",
     "Bioinformática y programación/Programas/GATK.md",
-    "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md",
-    "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
     "Notas de cursos/LinkedIn Learning",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Otros/Adjuntos/Pasted image 20240129141825.png",
@@ -258,7 +259,6 @@
     "Medium/A hitchhiker's guide to bioinformatics — tips.md.partial",
     "Notas de cursos/Cómo escribir con eficacia.md.partial",
     "Notas diarias/2024-01-28.md.partial",
-    "Biología y medicina/Epigenética/Horvath's clock.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
