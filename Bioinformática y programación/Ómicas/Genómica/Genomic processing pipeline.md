@@ -3,6 +3,9 @@ tags:
   - pipeline
   - phd
 ---
+Some important reviews that assess good practices in variant calling:
+
+- Best practices for variant calling in clinical sequencing [@koboldtBestPracticesVariant2020].
 
 ## FASTQ Quality Control and preprocessing
 
@@ -64,6 +67,9 @@ The output of the mapping is a SAM file.
 ### Filtering false positives
 
 - Mutect2 calls can be filtered with [[GATK#FilterMutectCalls]].
+
+- In the final VCF, variants can be selected that meet a minimum criteria.
+	- **Minimum AF**: 
 
 ### Normalization
 

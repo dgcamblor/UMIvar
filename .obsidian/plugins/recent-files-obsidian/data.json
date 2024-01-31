@@ -1,28 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-01",
-      "path": "Notas diarias/2024-02-01.md"
+      "basename": "Variant calling software",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
     },
     {
       "basename": "Genomic processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
-      "basename": "Samtools",
-      "path": "Bioinformática y programación/Programas/Samtools.md"
-    },
-    {
       "basename": "2024-01-30",
       "path": "Notas diarias/2024-01-30.md"
     },
     {
-      "basename": "2024-01-26",
-      "path": "Notas diarias/2024-01-26.md"
+      "basename": "2024-01-31",
+      "path": "Notas diarias/2024-01-31.md"
     },
     {
-      "basename": "GATK",
-      "path": "Bioinformática y programación/Programas/GATK.md"
+      "basename": "2024-01-26",
+      "path": "Notas diarias/2024-01-26.md"
     },
     {
       "basename": "2024-01-27",
@@ -37,8 +33,20 @@
       "path": "Notas diarias/2024-01-29.md"
     },
     {
-      "basename": "Variant calling software",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "2024-02-01",
+      "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "Samtools",
+      "path": "Bioinformática y programación/Programas/Samtools.md"
+    },
+    {
+      "basename": "GATK",
+      "path": "Bioinformática y programación/Programas/GATK.md"
     },
     {
       "basename": "Soft-clipped",
@@ -47,10 +55,6 @@
     {
       "basename": "Hard-clipped",
       "path": "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Base Quality Score Recalibration",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-07-19",
       "path": "Notas diarias/2023-07-19.md"
-    },
-    {
-      "basename": "PEGASUS trial",
-      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
     }
   ],
   "omittedPaths": [],

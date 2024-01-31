@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "679a4c024405f3b5",
+        "id": "ba447ec13aefa262",
         "type": "tabs",
         "children": [
           {
-            "id": "7ddab73b75afa562",
+            "id": "0b6bca19c0a8470d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-01.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "58e90acd7a413dab",
         "type": "tabs",
-        "dimension": 73.24840764331209,
+        "dimension": 73.2484076433121,
         "children": [
           {
             "id": "49c97c5289b16da1",
@@ -80,7 +80,7 @@
       {
         "id": "6f96d455eabd12c8",
         "type": "tabs",
-        "dimension": 26.751592356687897,
+        "dimension": 26.7515923566879,
         "children": [
           {
             "id": "5e06a643482b93ab",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-01.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-01.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-01.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-01.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md"
               }
             }
           },
@@ -217,21 +217,22 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7ddab73b75afa562",
+  "active": "0b6bca19c0a8470d",
   "lastOpenFiles": [
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
-    "Bioinformática y programación/Programas/Samtools.md",
     "Notas diarias/2024-01-30.md",
+    "Notas diarias/2024-01-31.md",
     "Notas diarias/2024-01-26.md",
-    "Notas diarias/2024-02-01.md",
-    "Bioinformática y programación/Programas/GATK.md",
     "Notas diarias/2024-01-27.md",
     "Notas diarias/2024-01-28.md",
     "Notas diarias/2024-01-29.md",
+    "Dashboard.md",
+    "Bioinformática y programación/Programas/Samtools.md",
+    "Notas diarias/2024-02-01.md",
+    "Bioinformática y programación/Programas/GATK.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
     "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md",
     "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
-    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Bioinformática y programación/Ómicas/Pipeline list.md",
     "Bioinformática y programación/Programas/Picard.md",
@@ -245,7 +246,6 @@
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Notas diarias/2023-12-11.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication.md",
-    "Biología y medicina/Enfermedades/Alzheimer.md",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Otros/Adjuntos/Pasted image 20240129141825.png",
     "Música/Tipos de pianos.md.partial",
