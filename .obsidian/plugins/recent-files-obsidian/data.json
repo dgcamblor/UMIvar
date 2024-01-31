@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
       "basename": "Genomic processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
@@ -101,10 +109,6 @@
       "path": "Notas de cursos/LinkedIn Learning/Cómo escribir con eficacia.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cosas que he aprendido del TFM",
       "path": "Bioinformática y programación/Cosas que he aprendido del TFM.md"
-    },
-    {
-      "basename": "File management system for bioinformatics",
-      "path": "Bioinformática y programación/File management system for bioinformatics.md"
     }
   ],
   "omittedPaths": [],

@@ -83,6 +83,11 @@ Few studies have directly compared both approaches.
 - CTCs
 - Imaging techniques (?) (guided by AI?)
 
+> 1. NGS -> Signatera and WES approach.
+> 2. Epigenomics and beyond -> LUNAR-1, Guardant Health (ECLIPSE trial, failure of COBRA, etc.). Incorporation of other molecular markers cfRNA, miRNA...
+> 3. Liquid biopsy -> CTCs
+> 4. Imaging techniques, guided by AI.
+
 ### 1. Epigenomics and beyond
 
 > The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.
