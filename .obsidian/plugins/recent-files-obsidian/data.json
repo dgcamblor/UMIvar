@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "vep",
       "path": "Bioinformática y programación/Ómicas/Genómica/vep.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2024-02-01",
