@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ubuntu setup",
+      "path": "Bioinformática y programación/Ubuntu setup.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A hitchhiker's guide to bioinformatics — tips",
       "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
-    },
-    {
-      "basename": "Cosas que he aprendido del TFM",
-      "path": "Bioinformática y programación/Cosas que he aprendido del TFM.md"
     }
   ],
   "omittedPaths": [],
