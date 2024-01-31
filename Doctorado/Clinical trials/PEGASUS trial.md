@@ -6,7 +6,7 @@ trialStatus:
   - Published
   - Stopped
 trialPhase: 
-trialApproach: Tumor-naïve
+trialApproach: Tumor-naive
 trialAssay: "[[Guardant Reveal]]"
 ---
 

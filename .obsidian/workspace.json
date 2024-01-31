@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/PEGASUS trial.md"
               }
             }
           },
@@ -218,14 +218,17 @@
   },
   "active": "43908babb16cebc1",
   "lastOpenFiles": [
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
-    "Doctorado/Clinical trials/COBRA trial.md",
+    "Doctorado/Assays/FoundationOne Tracker.md",
     "Doctorado/Assays/Guardant Reveal.md",
     "Doctorado/Clinical trials/DYNAMIC-II trial.md",
-    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
+    "Otros/Plantillas/Assay.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
+    "Doctorado/Clinical trials/COBRA trial.md",
+    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Notas de libros/Un mundo feliz - Aldous Huxley.md",
     "Doctorado/Assays",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
@@ -235,7 +238,6 @@
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/vep.md",
     "Bioinformática y programación/Ubuntu setup.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Bioinformática y programación/Ómicas/Fragment size and insert size.md",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
     "Otros/Adjuntos/Pasted image 20231025224127.png",
@@ -246,8 +248,6 @@
     "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
     "Notas diarias/2024-01-26.md",
     "Notas diarias/2024-01-27.md",
-    "Notas diarias/2024-01-28.md",
-    "Notas diarias/2024-01-29.md",
     "Notas de cursos/LinkedIn Learning",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Otros/Adjuntos/Pasted image 20240129141825.png",

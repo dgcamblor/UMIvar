@@ -1,1 +1,6 @@
+---
+assayApproach: Tumor-naive
+assayProtocol: Targeted
+---
+
 Guardant Reveal integrates the LUNAR-1 panel of tumor-agnostic ctDNA-assesment.
