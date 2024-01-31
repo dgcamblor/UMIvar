@@ -69,7 +69,7 @@ The output of the mapping is a SAM file.
 - Mutect2 calls can be filtered with [[GATK#FilterMutectCalls]].
 
 - In the final VCF, variants can be selected that meet a minimum criteria.
-	- **Minimum AF**: 
+	- **Minimum AF**: To avoid sequencing errors, a minimum allele frequency (AF) can be set. For example, a minimum AF of `0.01` (1%) is commonly used in amplicon sequencing settings. This means that the variant must be present in at least 1% of the reads for a certain position. Another common threshold is `0.05` (5%), often used in WES settings. In liquid biopsies, where the tumor fraction is low, a minimum AF of `0.001` (0.1%) can be used (or no filtering at all).
 
 ### Normalization
 
@@ -78,6 +78,7 @@ Using [[bcftools]]: `bcftools norm`.
 ### Variant calling analysis
 
 ![[Variant calling analysis]]
+
 ## CNV determination
 
 ## Variant annotation
