@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-31.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-31.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-31.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-31.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-31.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
               }
             }
           },
@@ -218,6 +218,7 @@
   },
   "active": "0b6bca19c0a8470d",
   "lastOpenFiles": [
+    "Notas diarias/2024-01-31.md",
     "Bioinformática y programación/Ubuntu setup.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/COBRA trial.md",
@@ -228,7 +229,6 @@
     "Otros/Adjuntos/Pasted image 20240131110838.jpg",
     "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Notas diarias/2024-01-30.md",
-    "Notas diarias/2024-01-31.md",
     "Bioinformática y programación/Programas/bcftools.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling software.md",
     "Notas diarias/2024-01-26.md",
