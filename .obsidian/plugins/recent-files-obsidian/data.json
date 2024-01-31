@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Guardant Reveal",
-      "path": "Doctorado/Assays/Guardant Reveal.md"
-    },
-    {
-      "basename": "IMPROVE-IT2 trial",
-      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
+      "basename": "Guardant Reveal",
+      "path": "Doctorado/Assays/Guardant Reveal.md"
+    },
+    {
+      "basename": "DYNAMIC-II trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-II trial.md"
+    },
+    {
+      "basename": "GALAXY trial (CIRCULATE-japan)",
+      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "IMPROVE-IT2 trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+    },
+    {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
     },
     {
       "basename": "PEGASUS trial",
       "path": "Doctorado/Clinical trials/PEGASUS trial.md"
     },
     {
-      "basename": "MEDOCC-CrEATE trial",
-      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+      "basename": "Un mundo feliz - Aldous Huxley",
+      "path": "Notas de libros/Un mundo feliz - Aldous Huxley.md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
     {
       "basename": "Dashboard",
@@ -47,14 +67,6 @@
     {
       "basename": "Ubuntu setup",
       "path": "Bioinformática y programación/Ubuntu setup.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
-      "basename": "COBRA trial",
-      "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
       "basename": "Fragment size and insert size",
@@ -187,18 +199,6 @@
     {
       "basename": "Genome mapping",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md"
-    },
-    {
-      "basename": "Fondos indexados",
-      "path": "Economía/Productos/Fondos indexados.md"
-    },
-    {
-      "basename": "bwa",
-      "path": "Bioinformática y programación/Programas/bwa.md"
-    },
-    {
-      "basename": "FASTQ quality control",
-      "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
     }
   ],
   "omittedPaths": [],

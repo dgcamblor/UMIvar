@@ -9,7 +9,7 @@ trialPhase:
   - II
   - III
 trialApprotagsach: Tumor-naïve
-trialAssay: LUNAR
+trialAssay: "[[Guardant Reveal]]"
 ---
 
 # Description

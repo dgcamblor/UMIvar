@@ -7,7 +7,7 @@ trialStatus:
   - Stopped
 trialPhase: 
 trialApproach: Tumor-naïve
-trialAssay: "[[MRD ctDNA assays#^bef528|LUNAR-1]]"
+trialAssay: "[[Guardant Reveal]]"
 ---
 
 # Description

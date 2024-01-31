@@ -53,7 +53,7 @@ One key study that employs this approach in CRC is the GALAXY trial (UMIN0000392
 Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study tracks the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
 
 [Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)
-
+> Another similar technology is [Personalised circulating tumour DNA assay with large-scale mutation coverage for sensitive minimal residual disease detection in colorectal cancer | British Journal of Cancer](https://www.nature.com/articles/s41416-023-02300-3).
 ## IV. Comparison
 
 ### Strengths and weaknesses
@@ -92,7 +92,7 @@ Few studies have directly compared both approaches.
 
 > The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.
 
-
+> As evidenced by the LUNAR-1 panel, tumor-agnostic assays gain the most benefits of the advent 
 
 
 The study of whole genome methylation markers through techniques such as cfMeDIP-seq —which enables high resolution profiling at a relatively low cost when compared with bisulfite methods— is also starting to render insightful results. 
