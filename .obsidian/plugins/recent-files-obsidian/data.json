@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Create ssh key for passwordless server authentication",
-      "path": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
+      "basename": "2024-01-31",
+      "path": "Notas diarias/2024-01-31.md"
     },
     {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "Create ssh key for passwordless server authentication",
+      "path": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
     },
     {
       "basename": "Conda",
@@ -19,10 +23,6 @@
     {
       "basename": "Cell type deconvolution methods",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
-    },
-    {
-      "basename": "2024-01-31",
-      "path": "Notas diarias/2024-01-31.md"
     },
     {
       "basename": "Dashboard",
