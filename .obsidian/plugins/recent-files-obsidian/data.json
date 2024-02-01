@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Create ssh key for passwordless server authentication",
+      "path": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
+    },
+    {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
-    },
-    {
-      "basename": "Samtools",
-      "path": "Bioinformática y programación/Programas/Samtools.md"
     }
   ],
   "omittedPaths": [],
