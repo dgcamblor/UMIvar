@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "57c68df348ccc65d",
+        "id": "eb7a0f3d3e5004d0",
         "type": "split",
         "children": [
           {
@@ -17,7 +17,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Doctorado/Clinical trials/BESPOKE trial.md",
+                    "file": "Doctorado/Assays/brPROPHET MRD.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c10a458d0b625322",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,7 +38,7 @@
             ]
           },
           {
-            "id": "5ccc262d1bbf8c81",
+            "id": "01a0a002144c89be",
             "type": "tabs",
             "children": [
               {
@@ -129,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Doctorado/Assays/brPROPHET MRD.md"
+              }
             }
           },
           {
@@ -157,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Doctorado/Assays/brPROPHET MRD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Doctorado/Assays/brPROPHET MRD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Doctorado/Assays/brPROPHET MRD.md"
+              }
             }
           },
           {
@@ -231,10 +249,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "47c205b26146f4c0",
+  "active": "43908babb16cebc1",
   "lastOpenFiles": [
-    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
+    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+    "Doctorado/Assays/brPROPHET MRD.md",
     "Doctorado/Clinical trials/BESPOKE trial.md",
+    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Assays/Guardant INFINITY.md",
     "Otros/Plantillas/Clinical trial.md",
     "Doctorado/Clinical trials/PRECISION trial.md",
@@ -249,17 +272,12 @@
     "Doctorado/Assays/Guardant360.md",
     "Doctorado/Clinical trials/ASCOLT trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Assays/FoundationOne Tracker.md",
     "Doctorado/Assays/Guardant Reveal.md",
     "Otros/Plantillas/Assay.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
-    "Notas de libros/Un mundo feliz - Aldous Huxley.md",
     "Doctorado/Assays",
-    "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
-    "Dashboard.md",
-    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
     "Otros/Adjuntos/Pasted image 20231025224127.png",
     "Otros/Adjuntos/Pasted image 20240131110838.jpg",

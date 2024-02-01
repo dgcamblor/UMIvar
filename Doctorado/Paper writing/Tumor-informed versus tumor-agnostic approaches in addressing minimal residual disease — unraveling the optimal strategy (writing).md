@@ -65,8 +65,6 @@ Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT0426
 	- Problem if there is no tissue available. For example, in patients that have undergone neoadjuvant therapy, the resected specimens may have insufficient tissue or tumor content for genomic profiling [@chanTumorinformedTumoragnosticCirculating2023].
 	- The requirement of tumor tissue comes at a evident cost, both in terms of time and economic resources.
 	- The dependence on the initial characterization of the tumor tissue also raises the critical issue of missing on uncharacterized or appearing mutations. The mutations that are to be tracked are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. Both paths would entail an increase of false negatives in tumor-agnostic assays.
-- 
-
 
 [CHIP]
 
@@ -86,11 +84,12 @@ Few studies have directly compared both approaches.
 - CTCs
 - Imaging techniques (?) (guided by AI?)
 
-> 1. NGS -> Signatera and WES approach.
+> 1. NGS -> Signatera and WES approach. brPROPHET
 > 2. Epigenomics and beyond -> LUNAR-1, Guardant Health (ECLIPSE trial, failure of COBRA, etc.). Incorporation of other molecular markers cfRNA, miRNA...
 > 3. Liquid biopsy -> CTCs
 > 4. Imaging techniques, guided by AI.
 
+[brPROPHET May Better Detect ctDNA and Identify MRD in Colorectal Cancer](https://www.targetedonc.com/view/brprophet-may-better-detect-ctdna-and-identify-mrd-in-colorectal-cancer)
 ### 1. Epigenomics and beyond
 
 > The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.
