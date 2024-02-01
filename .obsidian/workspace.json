@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
               }
             }
           },
@@ -218,8 +218,9 @@
   },
   "active": "ed277cbb80c60e76",
   "lastOpenFiles": [
-    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
     "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Clinical trials/BESPOKE trial.md",
     "Dashboard.md",
@@ -230,7 +231,6 @@
     "Bioinformática y programación/Programas/Conda.md",
     "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
     "Doctorado/Assays/brPROPHET MRD.md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
