@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-31",
-      "path": "Notas diarias/2024-01-31.md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "2024-02-02",
+      "path": "Notas diarias/2024-02-02.md"
+    },
+    {
+      "basename": "2024-01-31",
+      "path": "Notas diarias/2024-01-31.md"
     },
     {
       "basename": "Create ssh key for passwordless server authentication",
@@ -23,10 +31,6 @@
     {
       "basename": "Cell type deconvolution methods",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "brPROPHET MRD",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-01-28",
       "path": "Notas diarias/2024-01-28.md"
-    },
-    {
-      "basename": "2024-01-29",
-      "path": "Notas diarias/2024-01-29.md"
     }
   ],
   "omittedPaths": [],
