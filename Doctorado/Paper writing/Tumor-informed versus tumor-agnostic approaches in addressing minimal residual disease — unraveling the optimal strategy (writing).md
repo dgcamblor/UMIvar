@@ -28,7 +28,10 @@ A growing body of research and clinical trial results has revealed the usefulnes
 
 One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with enhanced error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative ctDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
 
-> The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related trials aimed at evidencing the benefit of ctDNA determination to inform 
+> The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related clinical trials aimed at evidencing the benefit of ctDNA determination to guide the adjuvant therapy. These prospective studies —DYNAMIC, DYNAMIC-III and DYNAMIC-Rectal— randomized patients with CRC stage II, stage III and locally advanced rectal cancer after receiving surgery into two groups: patients receiving treatment according to their ctDNA status and patients receiving conventional treatment. To determine
+
+
+The DYNAMIC trial was the first to reveal insightful results 
 
 adopting the aforementioned Safe-SeqS approach.
 
