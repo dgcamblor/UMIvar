@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -218,8 +218,12 @@
   },
   "active": "ed277cbb80c60e76",
   "lastOpenFiles": [
-    "Notas diarias/2024-02-02.md",
+    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Clinical trials/COBRA trial.md",
+    "Doctorado/Clinical trials/BESPOKE trial.md",
     "Dashboard.md",
+    "Notas diarias/2024-02-02.md",
     "Notas diarias/2024-02-01.md",
     "Notas diarias/2024-01-31.md",
     "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
@@ -228,11 +232,8 @@
     "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
-    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
     "Doctorado/Assays/brPROPHET MRD.md",
-    "Doctorado/Clinical trials/BESPOKE trial.md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Assays/Guardant INFINITY.md",
     "Otros/Plantillas/Clinical trial.md",
     "Doctorado/Clinical trials/PRECISION trial.md",
@@ -243,7 +244,6 @@
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Assays/Signatera.md",
     "Doctorado/Assays/SafeSeqS.md",
-    "Doctorado/Assays/Guardant360.md",
     "Doctorado/Assays",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
     "Otros/Adjuntos/Pasted image 20231025224127.png",

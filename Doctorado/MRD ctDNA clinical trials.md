@@ -22,8 +22,6 @@ FROM "Doctorado/Clinical trials"
 
 Current ctDNA methylation trials are found at: [@johnstonEpigeneticLiquidBiopsies2023]
 
-## Tumor-naïve
-
 
 ## Tumor-informed
 

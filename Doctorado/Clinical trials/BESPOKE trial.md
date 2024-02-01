@@ -6,7 +6,7 @@ url:
 trialStatus:
   - Ongoing
 trialPhase: 
-trialApproach: 
+trialApproach: Tumor-informed
 trialAssay: "[[Signatera]]"
 ---
 

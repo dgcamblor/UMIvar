@@ -8,7 +8,7 @@ trialStatus:
 trialPhase:
   - II
   - III
-trialApprotagsach: Tumor-naïve
+trialApproach: Tumor-naive
 trialAssay: "[[Guardant Reveal]]"
 ---
 
