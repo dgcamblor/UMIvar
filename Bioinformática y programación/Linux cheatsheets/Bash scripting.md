@@ -32,7 +32,7 @@ set -e
 Activate a [[Conda]] environment for the script:
 
 ```bash
-eval "$(conda shell.bash hook)"; conda activate <env>
+eval "$(conda shell.bash hook)"; conda activate ENV
 ```
 
 ## Variable assignment

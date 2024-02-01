@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash scripting",
+      "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Bioinformática y programación/Programas/Conda.md"
+    },
+    {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Samtools",
       "path": "Bioinformática y programación/Programas/Samtools.md"
-    },
-    {
-      "basename": "GATK",
-      "path": "Bioinformática y programación/Programas/GATK.md"
-    },
-    {
-      "basename": "Soft-clipped",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md"
     }
   ],
   "omittedPaths": [],
