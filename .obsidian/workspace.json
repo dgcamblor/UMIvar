@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-01.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f96d455eabd12c8",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-01.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-01.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-01.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-01.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
               }
             }
           },
@@ -219,8 +218,8 @@
   },
   "active": "47c205b26146f4c0",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
     "Notas diarias/2024-02-01.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
     "Notas diarias/2024-01-31.md",
     "Dashboard.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
