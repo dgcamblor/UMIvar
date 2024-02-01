@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Cell type deconvolution methods",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
+    },
+    {
+      "basename": "2024-02-01",
+      "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "2024-01-31",
+      "path": "Notas diarias/2024-01-31.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "brPROPHET MRD",
       "path": "Doctorado/Assays/brPROPHET MRD.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "PRECISION trial",
       "path": "Doctorado/Clinical trials/PRECISION trial.md"
-    },
-    {
-      "basename": "2024-01-31",
-      "path": "Notas diarias/2024-01-31.md"
     },
     {
       "basename": "IMPROVE-IT2 trial",
@@ -113,10 +125,6 @@
       "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "vep",
       "path": "Bioinformática y programación/Ómicas/Genómica/vep.md"
     },
@@ -181,10 +189,6 @@
       "path": "Notas diarias/2024-01-29.md"
     },
     {
-      "basename": "2024-02-01",
-      "path": "Notas diarias/2024-02-01.md"
-    },
-    {
       "basename": "Samtools",
       "path": "Bioinformática y programación/Programas/Samtools.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Soft-clipped",
       "path": "Bioinformática y programación/Ómicas/Genómica/Soft-clipped.md"
-    },
-    {
-      "basename": "Hard-clipped",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md"
     }
   ],
   "omittedPaths": [],
