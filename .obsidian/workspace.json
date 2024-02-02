@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05bcfc55c619f142",
+        "id": "810376cd06f9097e",
         "type": "tabs",
         "children": [
           {
-            "id": "8c5a0708c6046900",
+            "id": "118672c9dea6d30b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -215,12 +215,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "8c5a0708c6046900",
+  "active": "118672c9dea6d30b",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Notas diarias/2024-02-01.md",
     "Notas diarias/2024-02-02.md",
     "Otros/Plantillas/Daily note.md",
-    "Dashboard.md",
     "Doctorado/Clinical trials/DYNAMIC-III trial.md",
     "Doctorado/MRD ctDNA clinical trials.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
