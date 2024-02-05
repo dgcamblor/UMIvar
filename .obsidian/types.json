@@ -7,7 +7,7 @@
     "machineLearningProblem": "multitext",
     "needsImputation": "checkbox",
     "needsDummies": "checkbox",
-    "trialStatus": "multitext",
+    "trialStatus": "text",
     "trialApproach": "text",
     "trialPhase": "multitext"
   }

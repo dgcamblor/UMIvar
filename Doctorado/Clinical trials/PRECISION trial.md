@@ -10,7 +10,7 @@ trialStatus:
 trialPhase: 
 trialApproach: Tumor-naive
 trialAssay: "[[Guardant360]]"
-trialCohort:
+trialCohort: IV
 ---
 
 # Description
@@ -18,6 +18,8 @@ trialCohort:
 
 
 # Results
+
+[@kobayashi591PSurvivalBenefit2023]
 
 [Not published]
 

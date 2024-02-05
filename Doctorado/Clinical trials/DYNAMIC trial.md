@@ -1,8 +1,7 @@
 ---
 id: ACTRN12615000381583
 url: 
-trialStatus:
-  - Published
+trialStatus: Published
 trialPhase: 
 trialApproach: Tumor-informed
 trialAssay: "[[SafeSeqS]]"

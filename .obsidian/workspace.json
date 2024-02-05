@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fd8da59000e06ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/Clinical trials/DYNAMIC trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
               }
             }
           },
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
               }
             }
           },
@@ -218,21 +230,22 @@
   },
   "active": "136181807ed616e8",
   "lastOpenFiles": [
-    "Doctorado/Revistas de interés.md",
-    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
+    "Doctorado/MRD ctDNA clinical trials in CRC.md",
+    "Doctorado/Clinical trials/DYNAMIC trial.md",
+    "Doctorado/MRD ctDNA assays in CRC.md",
+    "Otros/Plantillas/Clinical trial.md",
+    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Clinical trials/PRECISION trial.md",
+    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
+    "Doctorado/Revistas de interés.md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
     "Doctorado/Clinical trials/DYNAMIC-III trial.md",
-    "Doctorado/Clinical trials/DYNAMIC trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Clinical trials/BESPOKE trial.md",
     "Doctorado/Clinical trials/ASCOLT trial.md",
-    "Doctorado/MRD ctDNA clinical trials in CRC.md",
-    "Doctorado/MRD ctDNA assays in CRC.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas diarias/2024-01-31.md",
     "Notas diarias/2024-02-05.md",
@@ -243,7 +256,6 @@
     "Dashboard.md",
     "Otros/Plantillas/Daily note.md",
     "Notas de lecturas/How to be in the top 1% in 2024. 8 habits to help you be a better… - by smoul - Practice in Publi....md",
-    "General/General.md",
     "Notas de lecturas",
     "Doctorado/Assays",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
