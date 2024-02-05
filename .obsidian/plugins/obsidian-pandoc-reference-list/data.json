@@ -1,22 +1,8 @@
 {
-  "pathToPandoc": "/usr/bin/pandoc",
+  "pathToPandoc": "C:\\Program Files\\Pandoc\\pandoc.EXE",
   "tooltipDelay": 400,
-  "zoteroGroups": [
-    {
-      "id": 1,
-      "name": "Mi biblioteca",
-<<<<<<< HEAD
-      "lastUpdate": 1707162468194
-=======
-      "lastUpdate": 1707161270629
->>>>>>> origin/master
-    }
-  ],
+  "zoteroGroups": [],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
-  "renderLinkCitations": true,
-  "pullFromZotero": true,
-  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/vancouver-brackets.csl",
-  "enableCiteKeyCompletion": true,
-  "showCitekeyTooltips": false
+  "renderLinkCitations": true
 }
