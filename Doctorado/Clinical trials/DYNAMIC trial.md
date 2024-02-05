@@ -6,7 +6,7 @@ trialStatus:
 trialPhase: 
 trialApproach: Tumor-informed
 trialAssay: "[[SafeSeqS]]"
-trialCancerStage: II
+trialCohort: 455 CRC stage II
 ---
 
 # Description

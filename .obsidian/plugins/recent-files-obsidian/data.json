@@ -5,8 +5,48 @@
       "path": "Notas diarias/2024-02-05.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+      "basename": "PEGASUS trial",
+      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
+    },
+    {
+      "basename": "PRECISION trial",
+      "path": "Doctorado/Clinical trials/PRECISION trial.md"
+    },
+    {
+      "basename": "DYNAMIC-III trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
+    },
+    {
+      "basename": "ASCOLT trial",
+      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
+    },
+    {
+      "basename": "BESPOKE trial",
+      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
+    },
+    {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+    },
+    {
+      "basename": "IMPROVE-IT2 trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+    },
+    {
+      "basename": "GALAXY trial (CIRCULATE-japan)",
+      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "DYNAMIC-Rectal trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md"
+    },
+    {
+      "basename": "DYNAMIC trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC trial.md"
+    },
+    {
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
     },
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
@@ -15,6 +55,10 @@
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
       "basename": "ctDNA methylation in CRC — biomarkers",
@@ -77,36 +121,8 @@
       "path": "Doctorado/Assays/brPROPHET MRD.md"
     },
     {
-      "basename": "DYNAMIC trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC trial.md"
-    },
-    {
-      "basename": "PEGASUS trial",
-      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
-    },
-    {
-      "basename": "PRECISION trial",
-      "path": "Doctorado/Clinical trials/PRECISION trial.md"
-    },
-    {
-      "basename": "DYNAMIC-Rectal trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md"
-    },
-    {
-      "basename": "DYNAMIC-III trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
-    },
-    {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
-    },
-    {
-      "basename": "COBRA trial",
-      "path": "Doctorado/Clinical trials/COBRA trial.md"
-    },
-    {
-      "basename": "BESPOKE trial",
-      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
     },
     {
       "basename": "2024-01-31",
@@ -137,18 +153,6 @@
       "path": "Otros/Plantillas/Clinical trial.md"
     },
     {
-      "basename": "IMPROVE-IT2 trial",
-      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
-    },
-    {
-      "basename": "MEDOCC-CrEATE trial",
-      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
-    },
-    {
-      "basename": "GALAXY trial (CIRCULATE-japan)",
-      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
-    },
-    {
       "basename": "Signatera",
       "path": "Doctorado/Assays/Signatera.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "Guardant360",
       "path": "Doctorado/Assays/Guardant360.md"
-    },
-    {
-      "basename": "ASCOLT trial",
-      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
     },
     {
       "basename": "FoundationOne Tracker",

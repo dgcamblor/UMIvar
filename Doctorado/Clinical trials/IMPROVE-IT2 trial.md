@@ -6,6 +6,7 @@ trialStatus:
 trialPhase: 
 trialApproach: Tumor-informed
 trialAssay: Custom
+trialCohort: 455 CRC stage II
 ---
 
 # Description
