@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "810376cd06f9097e",
+        "id": "d6ba720f429263ae",
         "type": "tabs",
         "children": [
           {
-            "id": "118672c9dea6d30b",
+            "id": "0344cd395596d366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-02.md",
+                "file": "Notas diarias/2024-02-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-02.md"
+                "file": "Notas diarias/2024-02-05.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-02.md",
+                "file": "Notas diarias/2024-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-02.md",
+                "file": "Notas diarias/2024-02-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-02.md"
+                "file": "Notas diarias/2024-02-05.md"
               }
             }
           },
@@ -200,49 +200,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "118672c9dea6d30b",
+  "active": "0344cd395596d366",
   "lastOpenFiles": [
     "Dashboard.md",
-    "Notas diarias/2024-02-01.md",
-    "Notas diarias/2024-02-02.md",
     "Otros/Plantillas/Daily note.md",
-    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+    "Notas diarias/2024-02-05.md",
+    "Notas de lecturas/How to be in the top 1% in 2024. 8 habits to help you be a better… - by smoul - Practice in Publi....md",
+    "General/General.md",
+    "Doctorado/Doctorado.md",
+    "Notas de lecturas",
+    "General/Códigos QR.md",
+    "Otros/Plantillas/Literature note.md",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+    "Notas diarias/2024-02-02.md",
+    "Notas diarias/2024-02-03.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/Assays/Guardant Reveal.md",
+    "Doctorado/Assays/Guardant INFINITY.md",
     "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/Assays/brPROPHET MRD.md",
+    "Doctorado/Clinical trials/DYNAMIC trial.md",
+    "Doctorado/Clinical trials/PEGASUS trial.md",
+    "Doctorado/Clinical trials/PRECISION trial.md",
+    "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
+    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+    "Notas diarias/2024-02-01.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Clinical trials/BESPOKE trial.md",
     "Notas diarias/2024-01-31.md",
-    "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
-    "Bioinformática y programación/Programas/Conda.md",
-    "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md",
-    "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
-    "Doctorado/Assays/brPROPHET MRD.md",
-    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
-    "Doctorado/Assays/Guardant INFINITY.md",
-    "Otros/Plantillas/Clinical trial.md",
-    "Doctorado/Clinical trials/PRECISION trial.md",
-    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Doctorado/Clinical trials/DYNAMIC-II trial.md",
-    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
-    "Doctorado/Assays/Signatera.md",
     "Doctorado/Assays",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
     "Otros/Adjuntos/Pasted image 20231025224127.png",
@@ -257,7 +259,6 @@
     "Dashboard.md.partial",
     "Medium/A hitchhiker's guide to bioinformatics — tips.md.partial",
     "Notas de cursos/Cómo escribir con eficacia.md.partial",
-    "Notas diarias/2024-01-28.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

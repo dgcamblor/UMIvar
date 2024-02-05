@@ -8,6 +8,8 @@ tags:
 
 ### Methylation
 
+> Initial studies have explored the potential of single biomarker genes for methylation. (Then, GUARDANT)
+
 [Response prediction by mutation- or methylation-specific detection of ctDNA dynamics in pretreated metastatic colorectal cancer - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10541738/)
 
 ## III. Tumor-informed strategies
@@ -52,13 +54,7 @@ Studies using non-commercial tumor-informed assays have also rendered insightful
 
 Other studies that have since relied on custom
 
-### Signatera assay: GALAXY trial and BESPOKE trial
 
-The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach, which is a step beyond the targeted sequencing used by previous studies. A set of 16 or more mutations is worked out and subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is then used to detect ctDNA and monitorize MRD [@SignateraOverview].
-
-One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
-
-Signatera is also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study tracks the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
 
 [Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)
 > Another similar technology is AlphaLiquid Detect [Personalised circulating tumour DNA assay with large-scale mutation coverage for sensitive minimal residual disease detection in colorectal cancer | British Journal of Cancer](https://www.nature.com/articles/s41416-023-02300-3).
@@ -98,6 +94,18 @@ Few studies have directly compared both approaches.
 > 4. Imaging techniques, guided by AI.
 
 [brPROPHET May Better Detect ctDNA and Identify MRD in Colorectal Cancer](https://www.targetedonc.com/view/brprophet-may-better-detect-ctdna-and-identify-mrd-in-colorectal-cancer)
+
+### 1. NGS
+
+Advances in sequencing technologies and bioinformatic have enabled 
+#### Signatera assay: GALAXY trial and BESPOKE trial
+
+The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach, which is a step beyond the targeted sequencing used by previous studies. A set of 16 or more mutations is worked out and subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is then used to detect ctDNA and monitorize MRD [@SignateraOverview].
+
+One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
+
+Signatera is currently also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study tracks the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
+
 ### 1. Epigenomics and beyond
 
 > The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.

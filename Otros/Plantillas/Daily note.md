@@ -4,10 +4,6 @@ tags:
 ---
 # Tareas
 
-```tasks
-not done
-```
-
-
 
 # Notas
+

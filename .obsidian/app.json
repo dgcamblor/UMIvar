@@ -4,5 +4,6 @@
   "attachmentFolderPath": "Otros/Adjuntos",
   "newFileLocation": "current",
   "showLineNumber": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "visible"
 }

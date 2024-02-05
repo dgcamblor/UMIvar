@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e5b37682efa82d20",
+        "id": "35b6a9599b9cb7c5",
         "type": "tabs",
         "children": [
           {
-            "id": "d3af3db86d1fc11f",
+            "id": "c514523aa66ece57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93bad73ffd44bb86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Notas diarias/2024-02-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Notas diarias/2024-02-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Notas diarias/2024-02-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Notas diarias/2024-02-05.md"
           }
         }
       },
@@ -162,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-omnivore:Omnivore": false,
       "omnisearch:Omnisearch": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "homepage:Open homepage": false,
@@ -175,9 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93bad73ffd44bb86",
+  "active": "c514523aa66ece57",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Otros/Plantillas/Daily note.md",
     "Untitled.md",
     "Medium/Writing on Medium.md",
     "Medium/What is life.md",
@@ -212,7 +201,6 @@
     "Notas Diarias/2023-12-19.md",
     "Notas Diarias/2023-11-27.md",
     "Notas Diarias/2023-11-23.md",
-    "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md",
     "Notas de cursos",
     "Guías y referencias",
     "General",

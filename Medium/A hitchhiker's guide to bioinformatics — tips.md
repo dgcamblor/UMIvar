@@ -1,4 +1,5 @@
 ---
+subtitle: I've come across 1000 errors in my pipelines, here's what i learnt... or something like that would write your average clickbaiter
 writingStatus: planning
 ---
 
@@ -35,6 +36,7 @@ I personally prefer inline code completers more than good ol' chatgpt, mainly be
 
 # Writing
 
-I've come across 1000 errors in my pipelines, here's what i learnt... or something like that would write your average clickbaiter
+Bioinformatics is an exciting field that combines the best of a myriad of disciplines. I guess you can figure out the first two —biology and informatics— but statistics, mathematics, etc. are also players in this game. The recent shift to data generation and omics has made bioinformatics a field more interesting and relevant than ever, and it is no wonder that many biologists are now also 
 
-Bioinformatics is a great field
+
+. If you are one of them, you are in the right place. In this article, I will give you some advice on how to get started in bioinformatics, and how to make the most of it.

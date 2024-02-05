@@ -7,7 +7,8 @@
     "underline_h2",
     "bp_outside",
     "justify",
-    "dashboard"
+    "dashboard",
+    "reading_properties"
   ],
   "translucency": false,
   "cssTheme": "",

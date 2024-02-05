@@ -10,12 +10,10 @@ trialAssay: "[[Guardant Reveal]]"
 
 # Description
 
-> Monitorization approach
-
-- [PEGASUS trial](https://clinicaltrials.gov/study/NCT04259944).
-	- Prospective study that uses ctDNA testing (+/-) using the LUNAR1 test (Guardant Health) to guide the treatment of CRC patients (II-III).
-	- [The PEGASUS trial: Post-surgical liquid biopsy-guided treatment of stage III and high-risk stage II colon cancer patients. | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.15_suppl.TPS4124).
+Prospective study that uses ctDNA testing (+/-) using the LUNAR1 test (Guardant Health) to guide the treatment of CRC patients (II-III) [@lonardiPEGASUSTrialPostsurgical2020].
 
 # Results
+
+Results presented at ESMO 2023 (LBA28) in 135 patients. [ESMO Congress 2023 | OncologyPRO](https://oncologypro.esmo.org/meeting-resources/esmo-congress/the-pegasus-trial-post-surgical-liquid-biopsy-guided-treatment-of-stage-iii-and-high-risk-stage-ii-colon-cancer-patients).
 
 [Not published]

@@ -17,7 +17,6 @@
   "obsidian-pandoc-reference-list",
   "callout-manager",
   "nldates-obsidian",
-  "obsidian-banners",
   "cmdr",
   "recent-files-obsidian",
   "obsidian-view-mode-by-frontmatter",
@@ -25,5 +24,7 @@
   "obsidian-git",
   "obsidian-book-search-plugin",
   "omnisearch",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-omnivore",
+  "obsidian-banners"
 ]

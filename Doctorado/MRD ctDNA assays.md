@@ -7,10 +7,6 @@ tags:
 ## Tumor-naïve
 
 
-- [Guardant Infinity](https://guardanthealth.com/guardantinfinity/) (Guardant Health)
-
-- Galleri (GRAIL). A purely epigenetic based MRD panel.
-
 ## Tumor-informed
 
 - Signatera (Natera). Both primary tumor tissue sample and matched normal tissue are first required for whole exome sequencing. The results of this first assay are then used to design a personalized Signatera test to detect somatic variants in ctDNA with optimization for sensitivity. ^f5e412
