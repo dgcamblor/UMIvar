@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
+    },
+    {
+      "basename": "Consejos para un póster científico",
+      "path": "Doctorado/Consejos para un póster científico.md"
+    },
+    {
       "basename": "2024-02-05",
       "path": "Notas diarias/2024-02-05.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "2024-02-03",
       "path": "Notas diarias/2024-02-03.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "MRD ctDNA assays",
@@ -157,16 +173,8 @@
       "path": "Otros/Plantillas/Assay.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
       "basename": "Un mundo feliz - Aldous Huxley",
       "path": "Notas de libros/Un mundo feliz - Aldous Huxley.md"
-    },
-    {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
     {
       "basename": "vep",
@@ -191,10 +199,6 @@
     {
       "basename": "Pasted image 20231025224127",
       "path": "Otros/Adjuntos/Pasted image 20231025224127.png"
-    },
-    {
-      "basename": "Pasted image 20240131110838",
-      "path": "Otros/Adjuntos/Pasted image 20240131110838.jpg"
     }
   ],
   "omittedPaths": [],
