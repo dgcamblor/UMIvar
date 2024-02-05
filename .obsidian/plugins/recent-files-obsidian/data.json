@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "ASCOLT trial",
+      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
+    },
+    {
+      "basename": "BESPOKE trial",
+      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials in CRC",
+      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
+    },
+    {
+      "basename": "GALAXY trial (CIRCULATE-japan)",
+      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "DYNAMIC trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC trial.md"
+    },
+    {
+      "basename": "MRD ctDNA assays in CRC",
+      "path": "Doctorado/MRD ctDNA assays in CRC.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
       "basename": "2024-01-31",
       "path": "Notas diarias/2024-01-31.md"
     },
@@ -21,14 +49,6 @@
       "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
     },
     {
-      "basename": "ASCOLT trial",
-      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
-    },
-    {
-      "basename": "BESPOKE trial",
-      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
-    },
-    {
       "basename": "MEDOCC-CrEATE trial",
       "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
     },
@@ -37,16 +57,8 @@
       "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
     },
     {
-      "basename": "GALAXY trial (CIRCULATE-japan)",
-      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
-    },
-    {
       "basename": "DYNAMIC-Rectal trial",
       "path": "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md"
-    },
-    {
-      "basename": "DYNAMIC trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC trial.md"
     },
     {
       "basename": "COBRA trial",
@@ -55,10 +67,6 @@
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
       "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
@@ -105,20 +113,12 @@
       "path": "Notas diarias/2024-02-03.md"
     },
     {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
       "basename": "Guardant Reveal",
       "path": "Doctorado/Assays/Guardant Reveal.md"
     },
     {
       "basename": "Guardant INFINITY",
       "path": "Doctorado/Assays/Guardant INFINITY.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials",
-      "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
       "basename": "brPROPHET MRD",

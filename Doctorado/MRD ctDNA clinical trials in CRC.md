@@ -9,7 +9,7 @@ tags:
 %%
 
 ```dataview
-TABLE id, trialApproach
+TABLE id, trialApproach, trialAssay, trialCohort
 FROM "Doctorado/Clinical trials"
 ```
 

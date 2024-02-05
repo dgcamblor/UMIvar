@@ -1,14 +1,14 @@
 ---
 tags:
   - trial
-id: 
-url: 
+id: NCT04264702
+url: https://clinicaltrials.gov/study/NCT04264702
 trialStatus:
   - Ongoing
 trialPhase: 
 trialApproach: Tumor-informed
 trialAssay: "[[Signatera]]"
-trialCohort: 455 CRC stage II
+trialCohort: I-IV
 ---
 
 # Description

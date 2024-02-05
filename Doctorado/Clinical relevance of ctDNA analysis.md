@@ -18,7 +18,7 @@ There are mainly two approaches for ctDNA MRD assessment:
 - Tumor-informed approach 
 - Tumor-agnostic approach
 
-The tumor-informed approach is the most adopted when it comes to [[MRD ctDNA clinical trials]]. The search for the optimal approach is a matter of discussion. A good meta-analysis for CRC is [@chidharlaCirculatingTumorDNA2022], the largest up to the date of November, 2022. Chan et al. compared noth approaches [@chanTumorinformedTumoragnosticCirculating2023]
+The tumor-informed approach is the most adopted when it comes to [[MRD ctDNA clinical trials in CRC]]. The search for the optimal approach is a matter of discussion. A good meta-analysis for CRC is [@chidharlaCirculatingTumorDNA2022], the largest up to the date of November, 2022. Chan et al. compared noth approaches [@chanTumorinformedTumoragnosticCirculating2023]
 
 - [[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)]]
 - [[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)]]

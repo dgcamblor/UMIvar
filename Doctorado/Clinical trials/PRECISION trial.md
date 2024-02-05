@@ -36,5 +36,5 @@ trialCohort: 455 CRC stage II
 
 
 - [PRECISION trial]().
-	- **Commercial assay:** [[MRD ctDNA assays#^3db513|Guardant360]].
+	- **Commercial assay:** [[MRD ctDNA assays in CRC#^3db513|Guardant360]].
 	- Pretreatment genomic profile and postoperative MRD by ctDNA analysis accurately stratify the prognosis and may guide personalized ACT in pts with resectable colorectal oligometastases (https://oncologypro.esmo.org/meeting-resources/esmo-congress/survival-and-benefit-of-adjuvant-chemotherapy-act-by-circulating-tumor-dna-ctdna-based-genomic-profile-and-molecular-residual-disease-mrd-in).
