@@ -5,7 +5,7 @@ trialStatus:
   - Ongoing
 trialPhase: 
 trialApproach: Tumor-informed
-trialAssay: Custom
+trialAssay: WES + ddPCR
 trialCohort: II-III
 ---
 
