@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+                "file": "Doctorado/MRD ctDNA clinical trials in CRC.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+                "file": "Doctorado/MRD ctDNA clinical trials in CRC.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+                "file": "Doctorado/MRD ctDNA clinical trials in CRC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+                "file": "Doctorado/MRD ctDNA clinical trials in CRC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+                "file": "Doctorado/MRD ctDNA clinical trials in CRC.md"
               }
             }
           },
@@ -209,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,10 +231,10 @@
   },
   "active": "b2eec566d89742c7",
   "lastOpenFiles": [
-    "Doctorado/MRD ctDNA clinical trials in CRC.md",
-    "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/MRD ctDNA assays in CRC.md",
+    "Doctorado/MRD ctDNA assays.md",
     "Doctorado/PhD dashboard.md",
     "Doctorado/Clinical trials/PRECISION trial.md",
     "Doctorado/Clinical trials/PEGASUS trial.md",

@@ -5,13 +5,10 @@ id: UMIN000042490
 url: https://rctportal.niph.go.jp/en/detail?trial_id=UMIN000042490
 trialStatus:
   - Ongoing
-  - Published
-  - Stopped
 trialPhase: 
 trialApproach: Tumor-naive
 trialAssay: "[[Guardant360]]"
 trialCohort: IV
-
 ---
 
 # Description
