@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "94739a295d7d8315",
+        "id": "e00eee0b38dee93f",
         "type": "tabs",
         "children": [
           {
-            "id": "136181807ed616e8",
+            "id": "b8bfc187f2634629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fd8da59000e06ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/Clinical trials/DYNAMIC trial.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -121,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -212,12 +200,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -228,17 +216,23 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "136181807ed616e8",
+  "active": "b8bfc187f2634629",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-05.md.partial",
+    "Notas diarias/2024-02-03.md.partial",
+    "Doctorado/Clinical trials/PEGASUS trial.md",
+    "Doctorado/Clinical trials/PRECISION trial.md",
+    "Doctorado/MRD ctDNA clinical trials.md",
+    "Doctorado/MRD ctDNA clinical trials.md.partial",
+    "Notas diarias/2024-02-05.md",
+    "Dashboard.md",
     "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/Clinical trials/DYNAMIC trial.md",
     "Doctorado/MRD ctDNA assays in CRC.md",
     "Otros/Plantillas/Clinical trial.md",
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
-    "Doctorado/Clinical trials/PRECISION trial.md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Doctorado/Revistas de interés.md",
-    "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
@@ -248,14 +242,10 @@
     "Doctorado/Clinical trials/ASCOLT trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas diarias/2024-01-31.md",
-    "Notas diarias/2024-02-05.md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Consejos para un póster científico.md",
-    "Dashboard.md",
-    "Otros/Plantillas/Daily note.md",
-    "Notas de lecturas/How to be in the top 1% in 2024. 8 habits to help you be a better… - by smoul - Practice in Publi....md",
     "Notas de lecturas",
     "Doctorado/Assays",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
@@ -269,8 +259,6 @@
     "Bioinformática y programación/File management system for bioinformatics.md.partial",
     "Bioinformática y programación/Cosas que he aprendido del TFM.md.partial",
     "Dashboard.md.partial",
-    "Medium/A hitchhiker's guide to bioinformatics — tips.md.partial",
-    "Notas de cursos/Cómo escribir con eficacia.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "PRECISION trial",
+      "path": "Doctorado/Clinical trials/PRECISION trial.md"
+    },
+    {
+      "basename": "PEGASUS trial",
+      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
+    },
+    {
+      "basename": "2024-02-05",
+      "path": "Notas diarias/2024-02-05.md"
+    },
+    {
       "basename": "DYNAMIC-III trial",
       "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
     },
@@ -25,20 +41,12 @@
       "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
     },
     {
-      "basename": "PRECISION trial",
-      "path": "Doctorado/Clinical trials/PRECISION trial.md"
-    },
-    {
       "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
       "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
     },
     {
       "basename": "Revistas de interés",
       "path": "Doctorado/Revistas de interés.md"
-    },
-    {
-      "basename": "PEGASUS trial",
-      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
     },
     {
       "basename": "MEDOCC-CrEATE trial",
@@ -73,10 +81,6 @@
       "path": "Notas diarias/2024-01-31.md"
     },
     {
-      "basename": "2024-02-05",
-      "path": "Notas diarias/2024-02-05.md"
-    },
-    {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
       "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "Consejos para un póster científico",
       "path": "Doctorado/Consejos para un póster científico.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Daily note",
