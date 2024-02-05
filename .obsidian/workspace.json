@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
               }
             }
           },
@@ -232,6 +232,8 @@
   },
   "active": "b2eec566d89742c7",
   "lastOpenFiles": [
+    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/MRD ctDNA assays in CRC.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Doctorado/Consejos para un póster científico.md",
@@ -254,13 +256,11 @@
     "Doctorado/MRD ctDNA clinical trials.md.partial",
     "Otros/Plantillas/Clinical trial.md",
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
-    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Doctorado/Revistas de interés.md",
     "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Clinical trials/BESPOKE trial.md",
     "Doctorado/Clinical trials/ASCOLT trial.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas de lecturas",
     "Doctorado/Assays",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
