@@ -36,7 +36,16 @@ I personally prefer inline code completers more than good ol' chatgpt, mainly be
 
 # Writing
 
-Bioinformatics is an exciting field that combines the best of a myriad of disciplines. I guess you can figure out the first two —biology and informatics— but statistics, mathematics, etc. are also players in this game. The recent shift to data generation and omics has made bioinformatics a field more interesting and relevant than ever, and it is no wonder that many biologists are now also 
+Bioinformatics is an exciting field that combines the best of a myriad of disciplines. I guess it's not too hard to figure out the first two —biology and informatics— but statistics, mathematics, etc. are also players in this game. The recent shift to data generation and omics has made bioinformatics a field more relevant than ever, and it is no wonder that many biologists are now interested in learning about it.
+
+[Paragraph about myself]. If you are a biologist who is curious about, in need of or comitted to learning bioinformatics, this advice is for you.
 
 
-. If you are one of them, you are in the right place. In this article, I will give you some advice on how to get started in bioinformatics, and how to make the most of it.
+## Get yourself a comfortable (computing) environment
+
+You will probably know (if not, I am telling you now) that most bioinformatic tools are developed for Unix-like systems (say, Linux or MacOS). If you are not a MacOS user, 
+
+However, if you are too in love with Windows, don't panic! 
+
+
+ This means that you will have to get yourself comfortable in an OS like Ubuntu or MacOS. If you are a Windows user, you can use WSL (Windows Subsystem for Linux) or a virtual machine. If you are a MacOS user, you are already set. If you are a Linux user, you are already set. If you are a VIM user, you may not be able to leave.
