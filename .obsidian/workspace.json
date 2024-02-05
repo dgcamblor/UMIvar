@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-05.md",
+                "file": "Notas diarias/2024-01-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-05.md"
+                "file": "Notas diarias/2024-01-31.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-05.md",
+                "file": "Notas diarias/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-05.md",
+                "file": "Notas diarias/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-05.md"
+                "file": "Notas diarias/2024-01-31.md"
               }
             }
           },
@@ -218,6 +218,7 @@
   },
   "active": "136181807ed616e8",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-05.md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "Doctorado/Clinical trials/PRECISION trial.md",
     "Doctorado/Clinical trials/DYNAMIC-III trial.md",
@@ -231,7 +232,6 @@
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Notas diarias/2024-02-05.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Doctorado/Consejos para un póster científico.md",
