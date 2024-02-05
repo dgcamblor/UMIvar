@@ -1,52 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "ASCOLT trial",
-      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
-    },
-    {
-      "basename": "BESPOKE trial",
-      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "MRD ctDNA clinical trials in CRC",
       "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
     },
     {
-      "basename": "GALAXY trial (CIRCULATE-japan)",
-      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
-    },
-    {
-      "basename": "DYNAMIC trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC trial.md"
-    },
-    {
       "basename": "MRD ctDNA assays in CRC",
       "path": "Doctorado/MRD ctDNA assays in CRC.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+      "basename": "Clinical trial",
+      "path": "Otros/Plantillas/Clinical trial.md"
     },
     {
-      "basename": "2024-01-31",
-      "path": "Notas diarias/2024-01-31.md"
-    },
-    {
-      "basename": "2024-02-05",
-      "path": "Notas diarias/2024-02-05.md"
-    },
-    {
-      "basename": "PEGASUS trial",
-      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
+      "basename": "GALAXY trial (CIRCULATE-japan)",
+      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
     },
     {
       "basename": "PRECISION trial",
       "path": "Doctorado/Clinical trials/PRECISION trial.md"
     },
     {
-      "basename": "DYNAMIC-III trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
+      "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
+      "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "PEGASUS trial",
+      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
     },
     {
       "basename": "MEDOCC-CrEATE trial",
@@ -61,8 +49,36 @@
       "path": "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md"
     },
     {
+      "basename": "DYNAMIC-III trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
+    },
+    {
+      "basename": "DYNAMIC trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC trial.md"
+    },
+    {
       "basename": "COBRA trial",
       "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
+      "basename": "BESPOKE trial",
+      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
+    },
+    {
+      "basename": "ASCOLT trial",
+      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "2024-01-31",
+      "path": "Notas diarias/2024-01-31.md"
+    },
+    {
+      "basename": "2024-02-05",
+      "path": "Notas diarias/2024-02-05.md"
     },
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
@@ -79,10 +95,6 @@
     {
       "basename": "Consejos para un póster científico",
       "path": "Doctorado/Consejos para un póster científico.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Daily note",
@@ -145,14 +157,6 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
     },
     {
-      "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
-      "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
-    },
-    {
-      "basename": "Clinical trial",
-      "path": "Otros/Plantillas/Clinical trial.md"
-    },
-    {
       "basename": "Signatera",
       "path": "Doctorado/Assays/Signatera.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231018133455",
       "path": "Otros/Adjuntos/Pasted image 20231018133455.jpg"
-    },
-    {
-      "basename": "Pasted image 20231025224127",
-      "path": "Otros/Adjuntos/Pasted image 20231025224127.png"
     }
   ],
   "omittedPaths": [],

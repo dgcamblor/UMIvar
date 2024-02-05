@@ -3,13 +3,11 @@ tags:
   - trial
 id: 
 url: 
-trialStatus:
-  - Ongoing
-  - Published
-  - Stopped
+trialStatus: []
 trialPhase: 
 trialApproach: 
-trialAssay:
+trialAssay: 
+trialCohort:
 ---
 
 # Description

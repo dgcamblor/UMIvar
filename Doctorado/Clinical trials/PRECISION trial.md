@@ -10,7 +10,7 @@ trialStatus:
 trialPhase: 
 trialApproach: Tumor-naive
 trialAssay: "[[Guardant360]]"
-trialCohort: 455 CRC stage II
+trialCohort:
 ---
 
 # Description
