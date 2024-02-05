@@ -94,11 +94,11 @@ Studies in other types of cancer:
 
 ## Clinical trials
 
-![[MRD ctDNA clinical trials in CRC]]
+![[MRD ctDNA clinical trials]]
 
 ## Assays
 
-![[MRD ctDNA assays in CRC]]
+![[MRD ctDNA assays]]
 ## References
 
 - [Τumor-informed Vs Tumor-naïve | Genomic Testing Cooperative](https://genomictestingcooperative.com/tumor-informed-vs-tumor-naive/)

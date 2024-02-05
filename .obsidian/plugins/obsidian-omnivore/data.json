@@ -3,7 +3,11 @@
   "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
   "apiKey": "f56722c5-b041-4fe6-bd59-fc96ddff7b7d",
   "filter": "HIGHLIGHTS",
+<<<<<<< HEAD
   "syncAt": "2024-02-05T20:47:48",
+=======
+  "syncAt": "2024-02-05T20:27:52",
+>>>>>>> origin/master
   "customQuery": "",
   "template": "#omnivore\n\n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}} [⤴️]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}} ^{{{highlightID}}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}",
   "highlightOrder": "LOCATION",

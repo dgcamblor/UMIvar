@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "MRD ctDNA clinical trials",
+      "path": "Doctorado/MRD ctDNA clinical trials.md"
     },
     {
       "basename": "PRECISION trial",
       "path": "Doctorado/Clinical trials/PRECISION trial.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "PEGASUS trial",
@@ -191,14 +195,6 @@
     {
       "basename": "Ubuntu setup",
       "path": "Bioinformática y programación/Ubuntu setup.md"
-    },
-    {
-      "basename": "Fragment size and insert size",
-      "path": "Bioinformática y programación/Ómicas/Fragment size and insert size.md"
-    },
-    {
-      "basename": "Pasted image 20231018133455",
-      "path": "Otros/Adjuntos/Pasted image 20231018133455.jpg"
     }
   ],
   "omittedPaths": [],
