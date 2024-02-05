@@ -65,12 +65,20 @@ Other studies that have since relied on custom
 
 ### Strengths and weaknesses
 
+- [ ] Añadir citas
+
 - Dependence on tumor tissue.
 	- Problem if there is no tissue available. For example, in patients that have undergone neoadjuvant therapy, the resected specimens may have insufficient tissue or tumor content for genomic profiling [@chanTumorinformedTumoragnosticCirculating2023].
 	- The requirement of tumor tissue comes at a evident cost, both in terms of time and economic resources.
 	- The dependence on the initial characterization of the tumor tissue also raises the critical issue of missing on uncharacterized or appearing mutations. The mutations that are to be tracked are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. Both paths would entail an increase of false negatives in tumor-agnostic assays.
 
 [CHIP]
+
+These particularities could potentially be circumvented by coupling tumor-informed assays with a tumor-agnostic panel to account for uncharac
+
+. Although this combination has not been 
+
+[@chanTumorinformedTumoragnosticCirculating2023]
 
 [Patient-specific tumor-informed circulating tumor DNA (ctDNA) analysis for molecular residual disease (MRD) detection in surgical patients with stage I-IV colorectal cancer (CRC). | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.4_suppl.213)
 

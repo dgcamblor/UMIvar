@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-05.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-05.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-05.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-05.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-05.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -232,6 +232,11 @@
   },
   "active": "b2eec566d89742c7",
   "lastOpenFiles": [
+    "Doctorado/MRD ctDNA assays in CRC.md",
+    "Doctorado/Clinical relevance of ctDNA analysis.md",
+    "Doctorado/Consejos para un póster científico.md",
+    "Doctorado/Asociaciones y congresos de interés.md",
+    "Notas diarias/2024-02-05.md",
     "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Clinical trials/DYNAMIC-III trial.md",
@@ -239,7 +244,6 @@
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Doctorado/MRD ctDNA assays.md",
     "Doctorado/MRD ctDNA clinical trials.md",
-    "Doctorado/MRD ctDNA assays in CRC.md",
     "Doctorado/PhD dashboard.md",
     "Doctorado/Clinical trials/PRECISION trial.md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
@@ -248,7 +252,6 @@
     "Notas diarias/2024-02-05.md.partial",
     "Notas diarias/2024-02-03.md.partial",
     "Doctorado/MRD ctDNA clinical trials.md.partial",
-    "Notas diarias/2024-02-05.md",
     "Otros/Plantillas/Clinical trial.md",
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
@@ -258,9 +261,6 @@
     "Doctorado/Clinical trials/BESPOKE trial.md",
     "Doctorado/Clinical trials/ASCOLT trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Notas diarias/2024-01-31.md",
-    "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Notas de lecturas",
     "Doctorado/Assays",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
