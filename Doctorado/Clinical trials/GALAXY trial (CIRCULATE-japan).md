@@ -7,7 +7,7 @@ trialStatus:
 trialPhase: 
 trialApproach: Tumor-informed
 trialAssay: "[[Signatera]]"
-trialCohort: 455 CRC stage II
+trialCohort: II-IV
 ---
 
 # Description
@@ -19,6 +19,8 @@ CIRCULATE-Japan encompasses three clinical trials [@taniguchiCIRCULATEJapanCircu
 - ALTAIR trial. Randomized, double-blind, phase III study designed to test the superiority of FTD/TPI compared with placebo in ctDNA-positive patients from the GALAXY trial.
 
 # Results
+
+In a cohort of 1039 patients with stage II-IV CRC... [@kotaniMolecularResidualDisease2023].
 
 - WES was perfomed on tumoral tissue (FFPE), and results for each patient were analyzed to design tumor-informed, personalized ctDNA assays ([Molecular residual disease and efficacy of adjuvant chemotherapy in patients with colorectal cancer | Nature Medicine](https://www.nature.com/articles/s41591-022-02115-4)).
 

@@ -1,12 +1,12 @@
 ---
-id: 
-url: 
+id: NL6281/NTR6455
+url: https://www.trialregister.nl/trial/6281
 trialStatus:
   - Ongoing
 trialPhase: 
 trialApproach: Tumor-informed
-trialAssay:
-trialCohort: 455 CRC stage II
+trialAssay: "[[PGDx elio plasma resolve]]"
+trialCohort: II
 ---
 
 # Description

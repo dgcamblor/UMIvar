@@ -6,7 +6,7 @@ trialStatus:
 trialPhase: 
 trialApproach: Tumor-naive
 trialAssay: "[[Guardant Reveal]]"
-trialCohort: 455 CRC stage II
+trialCohort: II-III
 ---
 
 # Description
