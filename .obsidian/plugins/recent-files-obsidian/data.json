@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Genomic benchmarking resources",
+      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Liquid biopsy SEQC2",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "SafeSeqS",
       "path": "Doctorado/Assays/SafeSeqS.md"
-    },
-    {
-      "basename": "Guardant360",
-      "path": "Doctorado/Assays/Guardant360.md"
-    },
-    {
-      "basename": "FoundationOne Tracker",
-      "path": "Doctorado/Assays/FoundationOne Tracker.md"
-    },
-    {
-      "basename": "Assay",
-      "path": "Otros/Plantillas/Assay.md"
     }
   ],
   "omittedPaths": [],
