@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "VennDiagram",
+      "path": "Bioinformática y programación/R/VennDiagram.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-02-06",
       "path": "Notas diarias/2024-02-06.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Bash scripting",
       "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2024-02-05",
@@ -195,10 +199,6 @@
     {
       "basename": "Assay",
       "path": "Otros/Plantillas/Assay.md"
-    },
-    {
-      "basename": "Un mundo feliz - Aldous Huxley",
-      "path": "Notas de libros/Un mundo feliz - Aldous Huxley.md"
     }
   ],
   "omittedPaths": [],

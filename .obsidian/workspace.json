@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93c02e65c4673827",
+        "id": "0dfa44e090ef1d06",
         "type": "tabs",
         "children": [
           {
-            "id": "051b4cebb5c3c603",
+            "id": "922005c4e5a6811d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-06.md",
+                "file": "Bioinformática y programación/R/VennDiagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-06.md"
+                "file": "Bioinformática y programación/R/VennDiagram.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-06.md",
+                "file": "Bioinformática y programación/R/VennDiagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-06.md",
+                "file": "Bioinformática y programación/R/VennDiagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-06.md"
+                "file": "Bioinformática y programación/R/VennDiagram.md"
               }
             }
           },
@@ -217,12 +217,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "051b4cebb5c3c603",
+  "active": "922005c4e5a6811d",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Notas diarias/2023-09-06.md",
     "Notas diarias/2024-02-06.md",
     "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
-    "Dashboard.md",
     "Notas diarias/2024-02-05.md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
