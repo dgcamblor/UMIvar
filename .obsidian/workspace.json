@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
+                "file": "Notas diarias/2024-02-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
+                "file": "Notas diarias/2024-02-06.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
+                "file": "Notas diarias/2024-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
+                "file": "Notas diarias/2024-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
+                "file": "Notas diarias/2024-02-06.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "051b4cebb5c3c603",
   "lastOpenFiles": [
+    "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
     "Notas diarias/2024-02-06.md",
     "Dashboard.md",
     "Notas diarias/2024-02-05.md",
@@ -247,7 +248,6 @@
     "Doctorado/Revistas de interés.md",
     "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
-    "Doctorado/Clinical trials/BESPOKE trial.md",
     "Notas de lecturas",
     "Doctorado/Assays",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
