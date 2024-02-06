@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash scripting",
+      "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
+    },
+    {
       "basename": "2024-02-06",
       "path": "Notas diarias/2024-02-06.md"
     },
@@ -163,10 +167,6 @@
     {
       "basename": "Conda",
       "path": "Bioinformática y programación/Programas/Conda.md"
-    },
-    {
-      "basename": "Bash scripting",
-      "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
     },
     {
       "basename": "Cell type deconvolution methods",
