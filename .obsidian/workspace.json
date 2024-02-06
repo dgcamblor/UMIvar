@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e00eee0b38dee93f",
+        "id": "61d1b691824f5ced",
         "type": "tabs",
         "children": [
           {
-            "id": "b8bfc187f2634629",
+            "id": "000a832b344a1087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2eec566d89742c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Notas diarias/2024-02-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+                "file": "Notas diarias/2024-02-06.md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Notas diarias/2024-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Notas diarias/2024-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+                "file": "Notas diarias/2024-02-06.md"
               }
             }
           },
@@ -230,15 +217,17 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "b2eec566d89742c7",
+  "active": "000a832b344a1087",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-05.md",
+    "Notas diarias/2024-02-06.md",
+    "Dashboard.md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/MRD ctDNA assays in CRC.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Doctorado/Consejos para un póster científico.md",
     "Doctorado/Asociaciones y congresos de interés.md",
-    "Notas diarias/2024-02-05.md",
     "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Clinical trials/DYNAMIC-III trial.md",
@@ -250,7 +239,6 @@
     "Doctorado/Clinical trials/PRECISION trial.md",
     "Doctorado/Clinical trials/PEGASUS trial.md",
     "conflict-files-obsidian-git.md",
-    "Dashboard.md",
     "Notas diarias/2024-02-05.md.partial",
     "Notas diarias/2024-02-03.md.partial",
     "Doctorado/MRD ctDNA clinical trials.md.partial",
@@ -260,7 +248,6 @@
     "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md",
     "Doctorado/Clinical trials/COBRA trial.md",
     "Doctorado/Clinical trials/BESPOKE trial.md",
-    "Doctorado/Clinical trials/ASCOLT trial.md",
     "Notas de lecturas",
     "Doctorado/Assays",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
