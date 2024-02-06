@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-06.md",
+                "file": "Notas diarias/2023-09-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-06.md"
+                "file": "Notas diarias/2023-09-06.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-06.md",
+                "file": "Notas diarias/2023-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-06.md",
+                "file": "Notas diarias/2023-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-06.md"
+                "file": "Notas diarias/2023-09-06.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "051b4cebb5c3c603",
   "lastOpenFiles": [
-    "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
     "Notas diarias/2024-02-06.md",
+    "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
     "Dashboard.md",
     "Notas diarias/2024-02-05.md",
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
