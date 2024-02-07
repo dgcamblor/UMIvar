@@ -5,12 +5,20 @@
       "path": "Notas diarias/2024-02-07.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "2024-02-01",
+      "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "2024-02-02",
+      "path": "Notas diarias/2024-02-02.md"
     },
     {
       "basename": "2024-02-06",
       "path": "Notas diarias/2024-02-06.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Genomic benchmarking resources",
@@ -161,10 +169,6 @@
       "path": "Otros/Plantillas/Literature note.md"
     },
     {
-      "basename": "2024-02-02",
-      "path": "Notas diarias/2024-02-02.md"
-    },
-    {
       "basename": "2024-02-03",
       "path": "Notas diarias/2024-02-03.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "brPROPHET MRD",
       "path": "Doctorado/Assays/brPROPHET MRD.md"
-    },
-    {
-      "basename": "2024-02-01",
-      "path": "Notas diarias/2024-02-01.md"
     },
     {
       "basename": "Create ssh key for passwordless server authentication",

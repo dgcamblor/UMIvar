@@ -5,16 +5,16 @@
       "path": "Notas diarias/2024-02-07.md"
     },
     {
-      "basename": "2024-02-06",
-      "path": "Notas diarias/2024-02-06.md"
-    },
-    {
       "basename": "2024-02-02",
       "path": "Notas diarias/2024-02-02.md"
     },
     {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "2024-02-06",
+      "path": "Notas diarias/2024-02-06.md"
     },
     {
       "basename": "Dashboard",
@@ -195,6 +195,10 @@
     {
       "basename": "Cell type deconvolution methods",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
+    },
+    {
+      "basename": "Signatera",
+      "path": "Doctorado/Assays/Signatera.md"
     }
   ],
   "omittedPaths": [],
