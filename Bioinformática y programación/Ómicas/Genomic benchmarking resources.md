@@ -22,6 +22,8 @@ The papers can be found at:
 > BRP (Burning Rock Dx) assay provided the highest accuracy in the project, and we therefore chose the BRP datasets for our benchmark. 
 > [Processing UMI Datasets at High Accuracy and Efficiency with the Sentieon ctDNA Analysis Pipeline | bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.03.494742v1)
 
+The library preparation was performed with the Burning Rock HS UMI library preparation kit, which means it is a **hybridization-based assay**.
+
 Sequencing data can be found at:
 
 - LBx-high (Sample Df): [PRJNA677999 BURNING ROCK SampleDf - SRA - NCBI](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA677999+BURNING+ROCK+SampleDf)

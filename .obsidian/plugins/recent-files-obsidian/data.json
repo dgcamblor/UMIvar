@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-07",
+      "path": "Notas diarias/2024-02-07.md"
+    },
+    {
+      "basename": "2024-02-01",
+      "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "2024-02-02",
+      "path": "Notas diarias/2024-02-02.md"
+    },
+    {
+      "basename": "2024-02-06",
+      "path": "Notas diarias/2024-02-06.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Genomic benchmarking resources",
       "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
     },
@@ -13,16 +33,8 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "VennDiagram",
       "path": "Bioinformática y programación/R/VennDiagram.md"
-    },
-    {
-      "basename": "2024-02-06",
-      "path": "Notas diarias/2024-02-06.md"
     },
     {
       "basename": "2023-09-06",
@@ -157,10 +169,6 @@
       "path": "Otros/Plantillas/Literature note.md"
     },
     {
-      "basename": "2024-02-02",
-      "path": "Notas diarias/2024-02-02.md"
-    },
-    {
       "basename": "2024-02-03",
       "path": "Notas diarias/2024-02-03.md"
     },
@@ -177,10 +185,6 @@
       "path": "Doctorado/Assays/brPROPHET MRD.md"
     },
     {
-      "basename": "2024-02-01",
-      "path": "Notas diarias/2024-02-01.md"
-    },
-    {
       "basename": "Create ssh key for passwordless server authentication",
       "path": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Signatera",
       "path": "Doctorado/Assays/Signatera.md"
-    },
-    {
-      "basename": "SafeSeqS",
-      "path": "Doctorado/Assays/SafeSeqS.md"
     }
   ],
   "omittedPaths": [],
