@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-07.md",
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-07.md"
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-07.md",
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-07.md",
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-07.md"
+                "file": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
               }
             }
           },
@@ -217,17 +217,19 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "49c97c5289b16da1",
+  "active": "dc1d83cc60273901",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
+    "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md",
+    "Bioinformática y programación/Webpage creation.md",
+    "Bioinformática y programación/Zotero configuration.md",
+    "Notas diarias/2024-02-07.md",
     "Notas diarias/2024-02-06.md",
     "Notas diarias/2024-02-07-INCLIVA029-PC.md",
-    "Notas diarias/2024-02-07.md",
     "Notas diarias/2024-02-02.md",
     "Notas diarias/2024-02-01.md",
     "Dashboard.md",
-    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
-    "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md",
     "Bioinformática y programación/R/VennDiagram.md",
     "Notas diarias/2023-09-06.md",
     "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
@@ -243,8 +245,6 @@
     "Doctorado/Clinical trials/DYNAMIC-III trial.md",
     "Doctorado/Clinical trials/DYNAMIC trial.md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/MRD ctDNA clinical trials.md",
     "Notas diarias/2024-02-05.md.partial",
     "Notas diarias/2024-02-03.md.partial",
     "Doctorado/MRD ctDNA clinical trials.md.partial",

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+    },
+    {
+      "basename": "Genomic benchmarking resources",
+      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+    },
+    {
+      "basename": "Liquid biopsy SEQC2",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
+    },
+    {
+      "basename": "Webpage creation",
+      "path": "Bioinformática y programación/Webpage creation.md"
+    },
+    {
+      "basename": "Zotero configuration",
+      "path": "Bioinformática y programación/Zotero configuration.md"
+    },
+    {
       "basename": "2024-02-07",
       "path": "Notas diarias/2024-02-07.md"
     },
@@ -21,16 +41,8 @@
       "path": "Dashboard.md"
     },
     {
-      "basename": "Genomic benchmarking resources",
-      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
-    },
-    {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Liquid biopsy SEQC2",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
     },
     {
       "basename": "VennDiagram",
@@ -141,10 +153,6 @@
       "path": "Notas diarias/2024-01-31.md"
     },
     {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Conda",
       "path": "Bioinformática y programación/Programas/Conda.md"
-    },
-    {
-      "basename": "Cell type deconvolution methods",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
     }
   ],
   "omittedPaths": [],
