@@ -17,6 +17,8 @@ The papers can be found at:
 - **Sample E:** mix of A and B (1:24). Also termed "LBx-low". Median VAF: 0.2%. Majority above 0.1%
 - **Sample F:** mix of A and B (1:124). 
 
+All the information about the **metadata** and **variant calling results** can be downloaded at: [SEQC2 Onco-panel Sequencing Working Group - Liquid Biopsy Study: Variant calling results](https://figshare.com/collections/SEQC2_Onco-panel_Sequencing_Working_Group_-_Liquid_Biopsy_Study_Variant_calling_results/5836214/2).
+
 ### Burning Rock Project data
 
 > BRP (Burning Rock Dx) assay provided the highest accuracy in the project, and we therefore chose the BRP datasets for our benchmark. 

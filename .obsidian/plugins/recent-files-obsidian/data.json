@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+      "basename": "2024-02-07",
+      "path": "Notas diarias/2024-02-07.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Genomic benchmarking resources",
       "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
     {
       "basename": "Liquid biopsy SEQC2",
@@ -21,10 +29,6 @@
       "path": "Bioinformática y programación/Zotero configuration.md"
     },
     {
-      "basename": "2024-02-07",
-      "path": "Notas diarias/2024-02-07.md"
-    },
-    {
       "basename": "2024-02-06",
       "path": "Notas diarias/2024-02-06.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Possible controls for ctDNA methylation",
