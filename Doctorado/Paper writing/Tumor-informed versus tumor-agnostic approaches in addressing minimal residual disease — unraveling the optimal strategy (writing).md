@@ -67,23 +67,17 @@ Other studies that have since relied on custom
 
 - [ ] Añadir citas
 
-As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations rather than relying on a panel of genes that may or may not be of enough relevance for the patient's tumor. Tumor-informed assays are, however, inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue is not accessible or the available sample is inadequate for genomic characterization, such as after extensive neoadjuvant treatment. Whenever the tumor tissue is available, the tissue biopsy and subsequent sequencing are time-consuming and costly, and the results are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape and hinder, at least partially, the detection of MRD. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. Both paths would entail an increase of false negatives in tumor-agnostic assays.
+As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations rather than relying on a panel of genes that may or may not be of enough relevance for the patient's tumor. Tumor-informed assays are, however, inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue is not accessible or the available sample is inadequate for genomic characterization, such as after extensive neoadjuvant treatment. Whenever the tumor tissue is available, the tissue biopsy and subsequent sequencing for the creation of a custom assay are time-consuming and costly, and the results are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape and hinder, at least partially, the detection of MRD. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy, entailing an increase of false negatives.
 
-An interesting —although hardly explored— approach to circumvent these limitations would be to couple tumor-informed assays with a tumor-agnostic panel to account for uncharacterized or appearing mutations. 
+An interesting —although hardly explored— approach to circumvent these limitations would be to couple tumor-informed assays with a tumor-agnostic panel to account for uncharacterized or appearing mutations. One study assessed the bene
+
+In comparison to a conventional tumor-informed method
 
 
-, although hardly explored, 
-
-- Dependence on tumor tissue. Tumor-informed assays are inherently limited by their reliance on tumor tissue.
-	- Problem if there is no tissue available or accessible or it is not informative.  For example, in patients that have undergone neoadjuvant therapy, the resected specimens may have insufficient tissue or tumor content for genomic profiling [@chanTumorinformedTumoragnosticCirculating2023].
-	- The requirement of tumor tissue comes at a evident cost, both in terms of time and economic resources.
-	- The dependence on the initial characterization of the tumor tissue also raises the critical issue of missing on uncharacterized or appearing mutations. The mutations that are to be tracked are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. Both paths would entail an increase of false negatives in tumor-agnostic assays.
+> Comentar los CHIP?
 
 [CHIP]
 
-These particularities could potentially be circumvented by coupling tumor-informed assays with a tumor-agnostic panel to account for uncharac
-
-. Although this combination has not been 
 
 [@chanTumorinformedTumoragnosticCirculating2023]
 
@@ -110,9 +104,10 @@ Few studies have directly compared both approaches.
 
 [brPROPHET May Better Detect ctDNA and Identify MRD in Colorectal Cancer](https://www.targetedonc.com/view/brprophet-may-better-detect-ctdna-and-identify-mrd-in-colorectal-cancer)
 
-### 1. NGS
+### 1. Genomics
 
-Advances in sequencing technologies and bioinformatic have enabled 
+The advent of efficiency improvements in sequencing technologies and the development of new bioinformatic methods have enabled less costly assessments of greater genome regions.
+
 #### Signatera assay: GALAXY trial and BESPOKE trial
 
 The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach, which is a step beyond the targeted sequencing used by previous studies. A set of 16 or more mutations is worked out and subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is then used to detect ctDNA and monitorize MRD [@SignateraOverview].
