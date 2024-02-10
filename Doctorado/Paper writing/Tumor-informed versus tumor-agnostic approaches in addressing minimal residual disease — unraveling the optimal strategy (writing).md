@@ -67,6 +67,8 @@ Other studies that have since relied on custom
 
 - [ ] Añadir citas
 
+Tumor-informed assays are inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue is not accessible 
+
 - Dependence on tumor tissue. Tumor-informed assays are inherently limited by their reliance on tumor tissue.
 	- Problem if there is no tissue available or accessible or it is not informative.  For example, in patients that have undergone neoadjuvant therapy, the resected specimens may have insufficient tissue or tumor content for genomic profiling [@chanTumorinformedTumoragnosticCirculating2023].
 	- The requirement of tumor tissue comes at a evident cost, both in terms of time and economic resources.
