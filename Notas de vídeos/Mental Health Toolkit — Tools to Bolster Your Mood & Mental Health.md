@@ -1,6 +1,9 @@
 ---
 url: https://www.youtube.com/watch?v=CJIXbibQ0jI
 ---
+
+## AI summary
+
 - [21:10](https://youtu.be/CJIXbibQ0jI?t=1270s) 🌞 Exposure to morning and afternoon sunlight is beneficial for mental health, but it doesn't work through windows or windshields. [23:12](https://youtu.be/CJIXbibQ0jI?t=1392s) 🌞 Getting bright light in your eyes, ideally from sunlight, throughout the day is known to improve mood and mental health (asides from regulating the circadian rhythm).
 - [25:02](https://youtu.be/CJIXbibQ0jI?t=1502s) 🌑 Darkness during a specific stage of the circadian rhythm, independent of light and sleep, is beneficial for mood and mental health. [27:31](https://youtu.be/CJIXbibQ0jI?t=1651s) 🌑 Being in a dim to dark environment for 16-24 hours after waking up positively impacts mental health outcomes.
 - [50:15](https://youtu.be/CJIXbibQ0jI?t=3015s) 🧠 The "Big Six" pillars for improving mood and mental health include:

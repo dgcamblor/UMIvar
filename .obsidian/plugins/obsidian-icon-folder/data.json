@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasUsers",
+      "FabReadme",
       "FasListCheck",
       "FasHouseChimney",
-      "FasMusic",
-      "FasBook",
-      "FasPaperPlane"
+      "FasMusic"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,10 @@
   "Bioinformática y programación/Ómicas": "FasDna",
   "Música": "FasMusic",
   "Dashboard.md": "FasHouseChimney",
-  "Tareas.md": "FasListCheck"
+  "Tareas.md": "FasListCheck",
+  "Notas de lecturas": "FabReadme",
+  "Notas de charlas": {
+    "iconName": "FasUsers",
+    "inheritanceIcon": "FasUsers"
+  }
 }

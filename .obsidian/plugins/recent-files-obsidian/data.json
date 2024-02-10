@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will",
+      "path": "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md"
+    },
+    {
+      "basename": "I watch your videos but nothing changes",
+      "path": "Notas de vídeos/I watch your videos but nothing changes.md"
+    },
+    {
+      "basename": "How to Focus to Change Your Brain",
+      "path": "Notas de vídeos/How to Focus to Change Your Brain.md"
+    },
+    {
+      "basename": "The Science of Making & Breaking Habits",
+      "path": "Notas de vídeos/The Science of Making & Breaking Habits.md"
+    },
+    {
+      "basename": "ADHD and How Anyone Can Improve Their Focus",
+      "path": "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md"
+    },
+    {
+      "basename": "Nota de vídeo",
+      "path": "Otros/Plantillas/Nota de vídeo.md"
+    },
+    {
+      "basename": "Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health",
+      "path": "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md"
+    },
+    {
+      "basename": "The Biology of Slowing & Reversing Aging — Dr. David Sinclair",
+      "path": "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md"
+    },
+    {
+      "basename": "Advice for machine learning beginners — Andrej Karpathy and Lex Fridman",
+      "path": "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md"
+    },
+    {
+      "basename": "Signatera",
+      "path": "Notas de charlas/Signatera.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -58,7 +98,7 @@
     },
     {
       "basename": "Trimmomatic",
-      "path": "Trimmomatic.md"
+      "path": "Bioinformática y programación/Trimmomatic.md"
     },
     {
       "basename": "Amino acid code",
@@ -67,10 +107,6 @@
     {
       "basename": "2024-02-08",
       "path": "Notas diarias/2024-02-08.md"
-    },
-    {
-      "basename": "Signatera",
-      "path": "Signatera.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
@@ -163,42 +199,6 @@
     {
       "basename": "Clinical relevance of ctDNA analysis",
       "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
-    },
-    {
-      "basename": "Consejos para un póster científico",
-      "path": "Doctorado/Consejos para un póster científico.md"
-    },
-    {
-      "basename": "Asociaciones y congresos de interés",
-      "path": "Doctorado/Asociaciones y congresos de interés.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials in CRC",
-      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
-    },
-    {
-      "basename": "IMPROVE-IT2 trial",
-      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
-    },
-    {
-      "basename": "DYNAMIC-III trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
-    },
-    {
-      "basename": "DYNAMIC trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC trial.md"
-    },
-    {
-      "basename": "MEDOCC-CrEATE trial",
-      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
-    },
-    {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "PRECISION trial",
-      "path": "Doctorado/Clinical trials/PRECISION trial.md"
     }
   ],
   "omittedPaths": [],

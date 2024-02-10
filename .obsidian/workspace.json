@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6f96d455eabd12c8",
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 635.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md"
               }
             }
           },
@@ -220,6 +219,17 @@
   },
   "active": "decd292193f4bba5",
   "lastOpenFiles": [
+    "Notas de vídeos/I watch your videos but nothing changes.md",
+    "Notas de vídeos/How to Focus to Change Your Brain.md",
+    "Notas de vídeos/The Science of Making & Breaking Habits.md",
+    "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md",
+    "Otros/Plantillas/Nota de vídeo.md",
+    "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md",
+    "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md",
+    "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md",
+    "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md",
+    "Notas de charlas/Signatera.md",
+    "Notas de charlas",
     "Dashboard.md",
     "Notas diarias/2024-02-10.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
@@ -236,19 +246,9 @@
     "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
     "Bioinformática y programación/Programas/Picard.md",
     "Bioinformática y programación/VSCode configuration.md",
-    "Trimmomatic.md",
-    "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
-    "Notas diarias/2024-02-08.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Signatera.md",
-    "Tareas.md",
     "Notas diarias/2024-02-08.md.partial",
     "Notas diarias/2024-02-07.md.partial",
     "Notas diarias/2024-02-06.md.partial",
-    "Notas diarias/2024-02-03.md",
-    "Notas diarias/2024-02-06.md",
-    "Notas diarias/2024-02-07.md",
-    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
     "Otros/Adjuntos/Pasted image 20240207133553.png",
     "Notas diarias/2024-02-05.md.partial",
     "Notas diarias/2024-02-03.md.partial",
@@ -261,7 +261,6 @@
     "Notas de cursos/LinkedIn Learning",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Otros/Adjuntos/Pasted image 20240129141825.png",
-    "Música/Tipos de pianos.md.partial",
     "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Otros/Adjuntos/Pasted image 20240115214434.jpg",
     "Otros/Adjuntos/Pasted image 20240106030826.png",
