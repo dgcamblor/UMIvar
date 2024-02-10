@@ -5,6 +5,10 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "COBRA trial",
+      "path": "Doctorado/Clinical trials/COBRA trial.md"
+    },
+    {
       "basename": "2024-02-10",
       "path": "Notas diarias/2024-02-10.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-05",
       "path": "Notas diarias/2024-02-05.md"
-    },
-    {
-      "basename": "A hitchhiker's guide to bioinformatics — tips",
-      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
     }
   ],
   "omittedPaths": [],

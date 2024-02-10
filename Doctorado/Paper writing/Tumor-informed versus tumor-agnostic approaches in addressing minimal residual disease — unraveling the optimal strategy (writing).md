@@ -67,23 +67,13 @@ Other studies that have since relied on custom
 
 - [ ] Añadir citas
 
-As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations rather than relying on a panel of genes that may or may not be of enough relevance for the patient's tumor. Tumor-informed assays are, however, inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue is not accessible or the available sample is inadequate for genomic characterization, such as after extensive neoadjuvant treatment. Whenever the tumor tissue is available, the tissue biopsy and subsequent sequencing for the creation of a custom assay are time-consuming and costly, and the results are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape and hinder, at least partially, the detection of MRD. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy, entailing an increase of false negatives.
+As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations rather than relying on a panel of genes that may or may not be of enough relevance for the patient's tumor. This method also ensures that germline variants and variants related to clonal hematopoiesis of indeterminate potential are directly filtered out of the analysis [@steensmaClonalHematopoiesisIndeterminate2015]. Tumor-informed assays are, however, inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue is not accessible or the available sample is inadequate for genomic characterization, such as after extensive neoadjuvant treatment. Whenever the tumor tissue is available, the tissue biopsy and subsequent sequencing for the creation of a custom assay are time-consuming and costly, and the results are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape and hinder, at least partially, the detection of MRD. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy, entailing an increase of false negatives.
 
-An interesting —although hardly explored— approach to circumvent these limitations would be to couple tumor-informed assays with a tumor-agnostic panel to account for uncharacterized or appearing mutations. One study assessed the bene
-
-In comparison to a conventional tumor-informed method
-
-
-> Comentar los CHIP?
-
-[CHIP]
-
+An interesting —although hardly explored— approach to partially circumvent these limitations would be to couple tumor-informed assays with a tumor-agnostic panel to account for uncharacterized or appearing mutations. One study assessed the benefit of adding a small tumor-agnostic panel of 10 CRC-related genes to a tumor-informed assay. In comparison to a conventional tumor-informed method, this combines approached raised the sensitivity of detection (96.0% vs. 88.0%) in a cohort of 34 stage I-IV CRC patients. More research is needed to validate this approach [@chenTumorinformedPatientspecificMRD2023].
 
 [@chanTumorinformedTumoragnosticCirculating2023]
 
 [Patient-specific tumor-informed circulating tumor DNA (ctDNA) analysis for molecular residual disease (MRD) detection in surgical patients with stage I-IV colorectal cancer (CRC). | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.4_suppl.213)
-
-By sequencing both the tumor tissue and the ctDNA, variants related to clonal hematopoiesis of indeterminate potential can be directly filtered [@steensmaClonalHematopoiesisIndeterminate2015]. 
 
 ### Discussion of studies comparing both approaches
 
@@ -140,6 +130,10 @@ EC:
 The potential of 
 
 ### 2. Liquid Biopsy Technologies: CTCs
+
+Other liquid biopsy analytes beyond ctDNA have begun to be explored to address minimal residual disease, mostly in a tumor-agnostic fashion. A promising biomarker are circulating tumor cells (CTCs) —
+
+
 
 - CTCs [@marcuelloCirculatingBiomarkersEarly2019]
 - miRNA [@marcuelloCirculatingBiomarkersEarly2019]
