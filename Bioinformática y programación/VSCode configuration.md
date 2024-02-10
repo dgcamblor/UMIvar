@@ -34,6 +34,10 @@ CTRL + SHIFT + P -> Language specific settings
 
 ## Snippets
 
+[Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+
+> To create or edit your own snippets, select **Configure User Snippets** under **File** > **Preferences**, and then select the language (by [language identifier](https://code.visualstudio.com/docs/languages/identifiers)) for which the snippets should appear, or the **New Global Snippets file** option if they should appear for all languages. VS Code manages the creation and refreshing of the underlying snippets file(s) for you.
+
 ## TODOs
 
 Adding `#!` tracking as a TODO. Add space after `!`.

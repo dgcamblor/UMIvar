@@ -67,8 +67,8 @@ Other studies that have since relied on custom
 
 - [ ] Añadir citas
 
-- Dependence on tumor tissue. Inherently hindered by their reliance on tumor tissue.
-	- Problem if there is no tissue available.  For example, in patients that have undergone neoadjuvant therapy, the resected specimens may have insufficient tissue or tumor content for genomic profiling [@chanTumorinformedTumoragnosticCirculating2023].
+- Dependence on tumor tissue. Tumor-informed assays are inherently limited by their reliance on tumor tissue.
+	- Problem if there is no tissue available or accessible or it is not informative.  For example, in patients that have undergone neoadjuvant therapy, the resected specimens may have insufficient tissue or tumor content for genomic profiling [@chanTumorinformedTumoragnosticCirculating2023].
 	- The requirement of tumor tissue comes at a evident cost, both in terms of time and economic resources.
 	- The dependence on the initial characterization of the tumor tissue also raises the critical issue of missing on uncharacterized or appearing mutations. The mutations that are to be tracked are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy. Both paths would entail an increase of false negatives in tumor-agnostic assays.
 

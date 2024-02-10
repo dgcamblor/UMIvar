@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6accd6e4ac9e5a6",
+        "id": "e84fd879f202fedf",
         "type": "tabs",
         "children": [
           {
-            "id": "34e45a469775df47",
+            "id": "fbb8d6e19b03c069",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,8 +163,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34e45a469775df47",
+  "active": "fbb8d6e19b03c069",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-08.md",
     "Dashboard.md",
     "Otros/Plantillas/Daily note.md",
     "Untitled.md",
@@ -200,7 +201,6 @@
     "Notas Diarias/2023-12-11.md",
     "Notas Diarias/2023-12-19.md",
     "Notas Diarias/2023-11-27.md",
-    "Notas Diarias/2023-11-23.md",
     "Notas de cursos",
     "Guías y referencias",
     "General",

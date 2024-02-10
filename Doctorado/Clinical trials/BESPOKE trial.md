@@ -7,7 +7,7 @@ trialStatus:
   - Ongoing
 trialPhase: 
 trialApproach: Tumor-informed
-trialAssay: "[[Signatera]]"
+trialAssay: "[[Doctorado/Assays/Signatera]]"
 trialCohort: I-IV
 ---
 

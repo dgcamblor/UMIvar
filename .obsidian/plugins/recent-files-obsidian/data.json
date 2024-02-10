@@ -1,48 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-07",
-      "path": "Notas diarias/2024-02-07.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
-      "basename": "Genomic benchmarking resources",
-      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+      "basename": "2024-02-10",
+      "path": "Notas diarias/2024-02-10.md"
     },
     {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+      "basename": "nf-core",
+      "path": "Bioinformática y programación/nf-core.md"
     },
     {
-      "basename": "Liquid biopsy SEQC2",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
+      "basename": "Bisulfite conversion processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
     {
-      "basename": "Webpage creation",
-      "path": "Bioinformática y programación/Webpage creation.md"
+      "basename": "Alignment in epigenomics processing",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
     },
     {
-      "basename": "Zotero configuration",
-      "path": "Bioinformática y programación/Zotero configuration.md"
+      "basename": "DM analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/DM analysis.md"
+    },
+    {
+      "basename": "Epigenomic deconvolution analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
+    },
+    {
+      "basename": "Methylated DNA immunoprecipitation analysis pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylated DNA immunoprecipitation analysis pipeline.md"
+    },
+    {
+      "basename": "Methylation deconvolution in cfDNA",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md"
+    },
+    {
+      "basename": "MethylDackel",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
+    },
+    {
+      "basename": "2024-02-09",
+      "path": "Notas diarias/2024-02-09.md"
+    },
+    {
+      "basename": "Bash scripting",
+      "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
+    },
+    {
+      "basename": "Picard",
+      "path": "Bioinformática y programación/Programas/Picard.md"
+    },
+    {
+      "basename": "VSCode configuration",
+      "path": "Bioinformática y programación/VSCode configuration.md"
+    },
+    {
+      "basename": "Trimmomatic",
+      "path": "Trimmomatic.md"
+    },
+    {
+      "basename": "Amino acid code",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
+    },
+    {
+      "basename": "2024-02-08",
+      "path": "Notas diarias/2024-02-08.md"
+    },
+    {
+      "basename": "Signatera",
+      "path": "Signatera.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Tareas",
+      "path": "Tareas.md"
+    },
+    {
+      "basename": "2024-02-03",
+      "path": "Notas diarias/2024-02-03.md"
     },
     {
       "basename": "2024-02-06",
       "path": "Notas diarias/2024-02-06.md"
     },
     {
-      "basename": "2024-02-02",
-      "path": "Notas diarias/2024-02-02.md"
+      "basename": "2024-02-07",
+      "path": "Notas diarias/2024-02-07.md"
+    },
+    {
+      "basename": "Genomic benchmarking resources",
+      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
+    },
+    {
+      "basename": "2023-11-13",
+      "path": "Notas diarias/2023-11-13.md"
+    },
+    {
+      "basename": "Seqtk",
+      "path": "Bioinformática y programación/Programas/Seqtk.md"
+    },
+    {
+      "basename": "Adapter trimming",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Adapter trimming.md"
+    },
+    {
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+    },
+    {
+      "basename": "Directional vs. non-directional bisulfite-converted libraries",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Directional vs. non-directional bisulfite-converted libraries.md"
+    },
+    {
+      "basename": "Metilación del ADN",
+      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
     },
     {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
     },
     {
+      "basename": "2024-02-02",
+      "path": "Notas diarias/2024-02-02.md"
+    },
+    {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Liquid biopsy SEQC2",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
     },
     {
       "basename": "VennDiagram",
@@ -51,10 +143,6 @@
     {
       "basename": "2023-09-06",
       "path": "Notas diarias/2023-09-06.md"
-    },
-    {
-      "basename": "Bash scripting",
-      "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
     },
     {
       "basename": "2024-02-05",
@@ -67,10 +155,6 @@
     {
       "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
       "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "MRD ctDNA assays in CRC",
@@ -115,90 +199,6 @@
     {
       "basename": "PRECISION trial",
       "path": "Doctorado/Clinical trials/PRECISION trial.md"
-    },
-    {
-      "basename": "PEGASUS trial",
-      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
-    },
-    {
-      "basename": "Clinical trial",
-      "path": "Otros/Plantillas/Clinical trial.md"
-    },
-    {
-      "basename": "GALAXY trial (CIRCULATE-japan)",
-      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
-    },
-    {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
-    },
-    {
-      "basename": "DYNAMIC-Rectal trial",
-      "path": "Doctorado/Clinical trials/DYNAMIC-Rectal trial.md"
-    },
-    {
-      "basename": "COBRA trial",
-      "path": "Doctorado/Clinical trials/COBRA trial.md"
-    },
-    {
-      "basename": "BESPOKE trial",
-      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
-    },
-    {
-      "basename": "ASCOLT trial",
-      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
-    },
-    {
-      "basename": "2024-01-31",
-      "path": "Notas diarias/2024-01-31.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
-      "basename": "ctDNA methylation in CRC — biomarkers",
-      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
-    },
-    {
-      "basename": "Daily note",
-      "path": "Otros/Plantillas/Daily note.md"
-    },
-    {
-      "basename": "Códigos QR",
-      "path": "General/Códigos QR.md"
-    },
-    {
-      "basename": "scRNA-seq analysis",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
-    },
-    {
-      "basename": "Literature note",
-      "path": "Otros/Plantillas/Literature note.md"
-    },
-    {
-      "basename": "2024-02-03",
-      "path": "Notas diarias/2024-02-03.md"
-    },
-    {
-      "basename": "Guardant Reveal",
-      "path": "Doctorado/Assays/Guardant Reveal.md"
-    },
-    {
-      "basename": "Guardant INFINITY",
-      "path": "Doctorado/Assays/Guardant INFINITY.md"
-    },
-    {
-      "basename": "brPROPHET MRD",
-      "path": "Doctorado/Assays/brPROPHET MRD.md"
-    },
-    {
-      "basename": "Create ssh key for passwordless server authentication",
-      "path": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Bioinformática y programación/Programas/Conda.md"
     }
   ],
   "omittedPaths": [],

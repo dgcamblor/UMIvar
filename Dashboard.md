@@ -22,9 +22,8 @@ from #write
 
 ## Tareas
 
-```tasks
-not done
-```
+![[Tareas]]
+
 ## Información de la bóveda
 
 - 🗄️ Recent file updates
