@@ -6,6 +6,8 @@ tags:
 > In recently presented results, however, the [[COBRA trial]] was not able to meet its primary endpoint, and was promptly stopped due to futility in achieving statistical significance [@morrisPhaseIIResults2024].
 ## II. Tumor-agnostic strategies
 
+> —also termed tumor-uninformed or tumor-naïve—
+
 ### Methylation
 
 > Initial studies have explored the potential of single biomarker genes for methylation. (Then, GUARDANT)
@@ -106,7 +108,7 @@ One key study that employs this approach in CRC is the GALAXY trial (UMIN0000392
 
 Signatera is currently also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study tracks the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
 
-### 1. Epigenomics and beyond
+### 2. Epigenomics and beyond
 
 > The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.
 
@@ -122,6 +124,7 @@ A study in 51 metastatic cancer patients from the INSPIRE trial (NCT02644369) th
 The integration of multiple omics is certainly a target to pursue for the promise of a more sensitive and specific detection of ctDNA. [Redirecting](https://doi.org/10.1016/j.annonc.2022.07.1744). Similar approaches could be followed for MRD detection, although the high related costs would be currrently unaffordable for the daily clinical practice. 
 
 
+
 EC:
 - ECLIPSE
 - GRAIL ??'
@@ -129,7 +132,8 @@ EC:
 
 The potential of 
 
-### 2. Liquid Biopsy Technologies: CTCs
+### 2. Liquid Biopsy Technologies
+
 
 Other liquid biopsy analytes beyond ctDNA have begun to be explored to address minimal residual disease, mostly in a tumor-agnostic fashion. A promising biomarker are circulating tumor cells (CTCs) —
 
@@ -144,7 +148,7 @@ The study of circulating tumor cells (CTCs) -cancer cells that are released from
 
 
 
-### 3. Advanced Imaging Techniques
+### 4. Advanced Imaging Techniques
 
 > The application of AI in radiomics.
 > However, ctDNA still takes 
