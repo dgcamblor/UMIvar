@@ -16,6 +16,10 @@ tags:
 
 ## III. Tumor-informed strategies
 
+| Study | Approach | Sensitivity | Specificity | Cohort |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+
 - MEDOCC-CrEATE trial
 	- Protocol: [Circulating tumor DNA guided adjuvant chemotherapy in stage II colon cancer (MEDOCC-CrEATE): study protocol for a trial within a cohort study | BMC Cancer | Full Text](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-07252-y)
 	- Currently enrolling: search for more
