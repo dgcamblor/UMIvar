@@ -84,3 +84,11 @@ Con herramientas gratuitas ([Unpaywall](https://unpaywall.org/) y/o [OA Button
 Consulta la política de autoarchivo de la revista en el sitio web del editor. En caso de duda, verifica la política de autoarchivo de la revista utilizando la base de datos del directorio [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
 
 En cumplimiento del [Real Decreto 99/2011](http://www.boe.es/boe/dias/2011/02/10/pdfs/BOE-A-2011-2541.pdf), de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado, la Universitat de València elaboró un nuevo [Reglament sobre dipòsit, avaluació i defensa de la tesi doctoral](http://www.uv.es/sgeneral/Reglamentacio/Doc/Estudis/C63.pdf), vigente a partir del 11 de Febrero de 2012. En el se establece la **obligatoriedad de depositar una copia de la tesis en RODERIC una vez leída**. También es obligatorio el [depósito en Teseo](https://www.educacion.gob.es/teseo), el repositorio del Ministerio de Educación.
+
+## Tema 7. Licencias
+
+Para la Organización Mundial de la Propiedad Intelectual (OMPI), la propiedad intelectual abarca dos ramas: la **propiedad industrial** (patentes, diseños industriales, marcas de comercio…) y la **propiedad intelectual** o **derecho de autor** (creaciones artísticas como libros, obras musicales, pinturas, esculturas, películas y obras realizadas por medios tecnológicos como los programas informáticos y las bases de datos).
+
+La primera de ellas, la **propiedad industrial**, se refiere a las invenciones, siendo **objeto de protección las ideas** como soluciones a posibles problemas técnicos. En cambio, en la normativa de **derecho de autor**, que se aplica a obras literarias y artísticas, lo que se protege es la **forma de expresión de las ideas**. _No se debe confundir propiedad industrial con propiedad intelectual. Además de tratar aspectos diferentes, las leyes que los amparan son totalmente diferentes._
+
+**La propiedad intelectual está integrada por derechos morales y derechos patrimoniales**. Los **derechos morales (autoría e integridad) son irrenunciables e intransferibles**, pero **los derechos patrimoniales (reproducción, distribución, comunicación pública y transformación) pueden ser transferidos a terceros**, como ocurre cuando un autor que publica un trabajo cede todos o parte de esos derechos de explotación a la editorial.
