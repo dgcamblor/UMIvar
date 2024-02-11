@@ -67,3 +67,20 @@ La Universitat de València tiene acuerdos con algunos editores para apoyar la p
 [Open Book Publishers](http://www.openbookpublishers.com/) pretende convertirse en un nicho básico para la investigación gratuita revisada por pares en Humanidades y Ciencias Sociales. Los libros se publican en edición de tapa dura, rústica, PDF y libro electrónico, pero también incluyen una edición en línea gratuita que se puede leer a través del sitio web o se puede incrustar en cualquier lugar. El sitio web produce material complementario en línea, incluidos capítulos adicionales, reseñas, enlaces, galerías de imágenes y otros recursos digitales, que se pueden encontrar en la página del producto individual de cada libro.
 
 ## Tema 6. Repositorios
+
+Los contenidos se incorporan a los repositorios fundamentalmente por la vía del autoarchivo, es decir, que los depósitos los realizan los propios autores, siendo los metadatos posteriormente revisados por los bibliotecarios. También existe lo que se denomina carga mediada, que se lleva a cabo por parte de los gestores del repositorio, y la carga masiva, que se realiza a través de la recolección de contenidos procedentes de revistas o de otros repositorios. En todos los casos, es importante relacionar los documentos depositados con la fuente original donde se han publicado.
+
+- [RODERIC](https://roderic.uv.es/) (Universitat de València)
+- [Zenodo](http://zenodo.org/): repositorio que ofrece una ventanilla única para los resultados de la investigación europea. Creado por OpenAIRE y el CERN, con el apoyo de la Comisión Europea, este repositorio de nueva generación ofrece su servicio a partir de la iniciativa paneuropea OpenAIRE.
+
+Publica en la revista de tu elección, pero asegúrate de depositar tu artículo en un repositorio de AA adecuado para que tus publicaciones sean más visibles y para asegurar que se preserven a largo plazo. Es muy recomendable conservar las versiones de los artículos enviadas al editor (preprints) y las corregidas después de su evaluación por pares (postprints).
+
+- Preprint. Los preprints son las versiones de un artículo académico u otra publicación antes de que se haya enviado para su revisión por pares.
+- Postprint. El postprint es la forma del artículo después de haber realizado todos los cambios después de su revisión.
+- Versión del editor. Es el PDF del artículo ya maquetado que el editor ofrece en la página de su revista.
+
+Con herramientas gratuitas ([Unpaywall](https://unpaywall.org/) y/o [OA Button](https://openaccessbutton.org/)) se puede localizar rápidamente y acceder a una copia gratuita de tu trabajo publicado en una revista de pago con un solo clic. 
+
+Consulta la política de autoarchivo de la revista en el sitio web del editor. En caso de duda, verifica la política de autoarchivo de la revista utilizando la base de datos del directorio [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
+
+En cumplimiento del [Real Decreto 99/2011](http://www.boe.es/boe/dias/2011/02/10/pdfs/BOE-A-2011-2541.pdf), de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado, la Universitat de València elaboró un nuevo [Reglament sobre dipòsit, avaluació i defensa de la tesi doctoral](http://www.uv.es/sgeneral/Reglamentacio/Doc/Estudis/C63.pdf), vigente a partir del 11 de Febrero de 2012. En el se establece la **obligatoriedad de depositar una copia de la tesis en RODERIC una vez leída**. También es obligatorio el [depósito en Teseo](https://www.educacion.gob.es/teseo), el repositorio del Ministerio de Educación.
