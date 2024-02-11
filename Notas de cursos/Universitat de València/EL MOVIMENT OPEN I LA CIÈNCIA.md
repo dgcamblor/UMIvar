@@ -36,3 +36,15 @@ La Ciencia Abierta también abarca la revisión por pares abierta (RPA) u Open P
 ## Tema 4. Publicar en revistas de acceso abierto
 
 Puedes encontrar una revista de AA adecuada para tu disciplina buscando en el [Directorio de Revistas de Acceso Abierto](http://doaj.org/) (DOAJ).
+
+Otra fuente esencial para cualquier investigador en la que localizar revistas con alta calidad en las que publicar es [Journal Citation Reports](https://trobes.uv.es/permalink/34CVA_UV/um6gse/alma991002135909706258) (JCR), de Clarivate Analytics. JCR ofrece datos bibliométricos de las principales revistas científicas a nivel internacional. basados en el análisis de las citas que emiten y reciben las publicaciones. JCR es considerada como una herramienta esencial para la evaluación de las publicaciones y ofrece información sobre el factor de impacto de las revistas, su ranking mundial, su vida media, etc. Al ser un recurso de pago, para acceder a la misma debes estar conectado a un ordenador de la red de la Universitat de València, o bien tener [configurada la VPN](http://www.uv.es/cibisoc/documentos/GuiafacilVPN_esp.pdf).
+
+Hay cientos de revistas para elegir y puede ser difícil saber cuáles tienen una buena reputación. Se recomienda usar la lista del portal [Think. Check. Submit](http://thinkchecksubmit.org/check/), una _checklist_ de ayuda para evaluar la calidad de la revista que estés considerando. Si puedes responder "sí" a la mayoría de las preguntas de la lista de verificación, envía tu artículo.
+
+[Beall's List – of Potential Predatory Journals and Publishers](https://beallslist.net/)
+
+Hay muchos fraudes editoriales, pero en el área de Ciencias de la Salud son especialmente numerosas las revistas y editoriales llamadas depredadoras y las revistas “secuestradas”. 
+
+En el primer caso hablamos de revistas con apariencia normal, pero que funcionan de forma fraudulenta, bien por la carencia de procesos de revisión, por la suplantación de identidad a los comités editoriales, etc., etc. Se trata de una casuística muy amplia, con el objetivo final de quedarse con el dinero abonado por los autores en concepto de tasa APC, sin cumplir con el compromiso editorial acordado.
+
+En el caso de las revistas secuestradas, hablamos de un fraude del tipo [web spoofing](https://es.wikipedia.org/wiki/Web_spoofing), donde un usuario no autorizado suplanta la web de otro para obtener datos o, en este caso, el pago de las tasas para publicar. Se han llegado a [secuestrar webs de revistas](https://link.springer.com/article/10.1007%2Fs12024-016-9785-x) muy importantes como _JAMA_ o la española _Emergencias_.
