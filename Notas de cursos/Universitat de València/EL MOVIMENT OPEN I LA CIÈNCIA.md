@@ -20,3 +20,7 @@ Por otra parte, el [Real Decreto 99/2011, de 28 de enero, por el que se regulan
 **Atención**: ResearchGate, Academia.edu o Dialnet NO son repositorios, por lo que no sirven para satisfacer el requisito legal de depósito.
 
 [Horizonte Europa](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) es el actual programa marco de investigación e innovación de la Unión Europea para el período 2021-2027.
+
+## Tema 3. Acceso Abierto: concepto, orígenes y finalidad
+
+La Ciencia Abierta también abarca la revisión por pares abierta (RPA) u Open Peer Review.
