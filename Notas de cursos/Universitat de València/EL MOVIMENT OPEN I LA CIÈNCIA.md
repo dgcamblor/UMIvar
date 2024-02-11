@@ -61,3 +61,9 @@ A continuación, indicamos las fuentes donde se puedes hacer la consulta: si no 
 Si la revista no aparece en los dos primeros de entre los siguientes,  es casi imposible que lo haga en los demás.
 
 La Universitat de València tiene acuerdos con algunos editores para apoyar la publicación en acceso abierto. Gracias a estos acuerdos, los autores de la UV que desean publicar en OA se benefician de ciertos descuentos cuya cuantía es variable dependiendo del editor del que se trate. Puedes consultar [**aquí**](https://www.uv.es/investsbd/openaccess/Criteris_APC_2_SPL.pdf) los criterios de aceptación de la financiación.
+
+## Tema 5. Monografías en acceso abierto
+
+[Open Book Publishers](http://www.openbookpublishers.com/) pretende convertirse en un nicho básico para la investigación gratuita revisada por pares en Humanidades y Ciencias Sociales. Los libros se publican en edición de tapa dura, rústica, PDF y libro electrónico, pero también incluyen una edición en línea gratuita que se puede leer a través del sitio web o se puede incrustar en cualquier lugar. El sitio web produce material complementario en línea, incluidos capítulos adicionales, reseñas, enlaces, galerías de imágenes y otros recursos digitales, que se pueden encontrar en la página del producto individual de cada libro.
+
+## Tema 6. Repositorios
