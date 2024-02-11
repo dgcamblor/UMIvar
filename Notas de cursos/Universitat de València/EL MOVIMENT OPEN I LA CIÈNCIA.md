@@ -48,3 +48,16 @@ Hay muchos fraudes editoriales, pero en el área de Ciencias de la Salud son esp
 En el primer caso hablamos de revistas con apariencia normal, pero que funcionan de forma fraudulenta, bien por la carencia de procesos de revisión, por la suplantación de identidad a los comités editoriales, etc., etc. Se trata de una casuística muy amplia, con el objetivo final de quedarse con el dinero abonado por los autores en concepto de tasa APC, sin cumplir con el compromiso editorial acordado.
 
 En el caso de las revistas secuestradas, hablamos de un fraude del tipo [web spoofing](https://es.wikipedia.org/wiki/Web_spoofing), donde un usuario no autorizado suplanta la web de otro para obtener datos o, en este caso, el pago de las tasas para publicar. Se han llegado a [secuestrar webs de revistas](https://link.springer.com/article/10.1007%2Fs12024-016-9785-x) muy importantes como _JAMA_ o la española _Emergencias_.
+
+A continuación, indicamos las fuentes donde se puedes hacer la consulta: si no aparece la revista en ninguna de ellas, salvo que se trate de una revista recién creada, es posible que sea una revista depredadora.
+
+**[MIAR](http://miar.ub.edu/)**  
+[**DOAJ**](https://doaj.org/search/journals?source=%7B%22query%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22size%22%3A50%2C%22sort%22%3A%5B%7B%22created_date%22%3A%7B%22order%22%3A%22desc%22%7D%7D%5D%2C%22track_total_hits%22%3Atrue%7D)  
+[ERIH Plus](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/)  
+[Dialnet](https://dialnet.unirioja.es/revistas)  
+[Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=searchbasic)  
+[Master Journal List – WoS](http://mjl.clarivate.com/)
+
+Si la revista no aparece en los dos primeros de entre los siguientes,  es casi imposible que lo haga en los demás.
+
+La Universitat de València tiene acuerdos con algunos editores para apoyar la publicación en acceso abierto. Gracias a estos acuerdos, los autores de la UV que desean publicar en OA se benefician de ciertos descuentos cuya cuantía es variable dependiendo del editor del que se trate. Puedes consultar [**aquí**](https://www.uv.es/investsbd/openaccess/Criteris_APC_2_SPL.pdf) los criterios de aceptación de la financiación.
