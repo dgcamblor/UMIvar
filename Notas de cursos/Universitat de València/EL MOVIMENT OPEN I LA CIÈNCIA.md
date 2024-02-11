@@ -24,3 +24,11 @@ Por otra parte, el [Real Decreto 99/2011, de 28 de enero, por el que se regulan
 ## Tema 3. Acceso Abierto: concepto, orígenes y finalidad
 
 La Ciencia Abierta también abarca la revisión por pares abierta (RPA) u Open Peer Review.
+
+**Las principales y más tradicionales vías para alcanzar el acceso abierto son la verde y la dorada, establecidas en la Declaración de Budapest.**
+
+- Archivar en repositorios (vía verde). Se basa en la práctica de depositar en un repositorio de acceso abierto los trabajos previamente publicados. El repositorio puede ser institucional (ej. [RODERIC](https://roderic.uv.es/)), temático (ej. [arXiv](https://arxiv.org/)), o generalista (ej. [Zenodo](https://zenodo.org/)). Una publicación se puede depositar en más de un repositorio. 
+	- Las editoriales académicas suelen exigir a los autores que les cedan el copyright de su trabajo durante un tiempo determinado, denominado embargo. 
+	- Cada revista tiene sus propias políticas de cesión de copyright. Éstas marcan la capacidad de autoarchivo de los autores y los permisos sobre qué versiones de los artículos pueden ser depositadas en un repositorio.
+
+- Publicar en revistas de libre acceso (vía dorada). Consiste en que el editor de una revista publica los trabajos en acceso abierto de manera inmediata y perpetua en el tiempo, bajo una licencia en la que el autor mantiene el copyright. Habitualmente, las revistas requieren un pago por costes de publicación, las llamadas APCs (_article processing charges_).
