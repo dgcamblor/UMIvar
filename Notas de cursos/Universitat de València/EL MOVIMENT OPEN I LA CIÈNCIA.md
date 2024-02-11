@@ -32,3 +32,7 @@ La Ciencia Abierta también abarca la revisión por pares abierta (RPA) u Open P
 	- Cada revista tiene sus propias políticas de cesión de copyright. Éstas marcan la capacidad de autoarchivo de los autores y los permisos sobre qué versiones de los artículos pueden ser depositadas en un repositorio.
 
 - Publicar en revistas de libre acceso (vía dorada). Consiste en que el editor de una revista publica los trabajos en acceso abierto de manera inmediata y perpetua en el tiempo, bajo una licencia en la que el autor mantiene el copyright. Habitualmente, las revistas requieren un pago por costes de publicación, las llamadas APCs (_article processing charges_).
+
+## Tema 4. Publicar en revistas de acceso abierto
+
+Puedes encontrar una revista de AA adecuada para tu disciplina buscando en el [Directorio de Revistas de Acceso Abierto](http://doaj.org/) (DOAJ).
