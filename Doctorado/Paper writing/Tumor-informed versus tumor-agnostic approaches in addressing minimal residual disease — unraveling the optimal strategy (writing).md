@@ -56,6 +56,7 @@ A growing body of research has
 
 Studies using non-commercial tumor-informed assays have also rendered insightful results.
 
+[Un momento…](https://www.researchgate.net/publication/361320611_Abstract_1959_Sensitive_detection_of_circulating_tumor_DNA_by_whole_genome_sequencing_Validation_of_MRDetect_using_serial_blood_samples_from_stage_III_colorectal_cancer_patients) -> Claus Lindbjerg, MRDdetect
 
 
 Other studies that have since relied on custom
