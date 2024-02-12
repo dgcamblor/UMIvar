@@ -27,7 +27,7 @@ tags:
 ### DYNAMIC trial (SafeSeqS approach)
 
 > Añadir sobre la capacidad de detección.
-> El primero de TIE van solo a por una y el segundo por al menos una??? revisar
+> El primero de TIE van solo a por una y el segundo por al menos una??? revisar PUEDE QUE SÍ, PORQUE la sensibilidad de deteccion de ctdna es muy baja trackeando solo una mutaciñon.
 
 > Tumor-informed approaches have proven to be the most adopted 
 
@@ -37,6 +37,8 @@ A growing body of research and clinical trial results has revealed the usefulnes
 One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with enhanced error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative ctDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
 
 > The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related clinical trials aimed at evidencing the benefit of ctDNA determination to guide the adjuvant therapy. These prospective studies —DYNAMIC, DYNAMIC-III and DYNAMIC-Rectal— randomized patients with CRC stage II, stage III and locally advanced rectal cancer after receiving surgery into two groups: patients receiving treatment according to their ctDNA status and patients receiving conventional treatment. To determine the ctDNA presence, the studies adopted the aforementioned Safe-SeqS tumor-informed approach.
+
+>
 
 
 The DYNAMIC trial was the first to reveal insightful results 
@@ -74,7 +76,11 @@ Other studies that have since relied on custom
 
 - [ ] Añadir citas
 
-As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations rather than relying on a panel of genes that may or may not be of enough relevance for the patient's tumor. This method also ensures that germline variants and variants related to clonal hematopoiesis of indeterminate potential are directly filtered out of the analysis [@steensmaClonalHematopoiesisIndeterminate2015]. Tumor-informed assays are, however, inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue is not accessible or the available sample is inadequate for genomic characterization, such as after extensive neoadjuvant treatment. Whenever the tumor tissue is available, the tissue biopsy and subsequent sequencing for the creation of a custom assay are time-consuming and costly, and the results are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape and hinder, at least partially, the detection of MRD. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy, entailing an increase of false negatives.
+> The increase in sensitivity can be achieved by allowing for more coverage in regions of interest. Essentially, the search can be narrowed down to more informative regions while increasing the coverage and, thus, the capability of detecting variants. This is evidenced by the use of techniques such as ... ...., as disclosed before.
+
+As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations rather than relying on a panel of genes that may or may not be of enough relevance for the patient's tumor. This method also ensures that germline variants and variants related to clonal hematopoiesis of indeterminate potential are directly filtered out of the analysis [@steensmaClonalHematopoiesisIndeterminate2015]. 
+
+Tumor-informed assays are, however, inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue is not accessible or the available sample is inadequate for genomic characterization, such as after extensive neoadjuvant treatment. Whenever the tumor tissue is available, the tissue biopsy and subsequent sequencing for the creation of a custom assay are time-consuming and costly, and the results are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape and hinder, at least partially, the detection of MRD. Furthermore, new clones carrying additional variants can emerge in response to selective pressures, which may be potentially exacerbated by the administration of adjuvant therapy, entailing an increase of false negatives.
 
 An interesting —although hardly explored— approach to partially circumvent these limitations would be to couple tumor-informed assays with a tumor-agnostic panel to account for uncharacterized or appearing mutations. One study assessed the benefit of adding a small tumor-agnostic panel of 10 CRC-related genes to a tumor-informed assay. In comparison to a conventional tumor-informed method, this combines approached raised the sensitivity of detection (96.0% vs. 88.0%) in a cohort of 34 stage I-IV CRC patients. More research is needed to validate this approach [@chenTumorinformedPatientspecificMRD2023].
 
