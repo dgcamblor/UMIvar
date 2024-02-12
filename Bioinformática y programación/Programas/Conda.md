@@ -34,12 +34,24 @@ To avoid the base conda environment from activating at startup:
 conda config --set auto_activate_base false
 ```
 
-## Creation
+## Environment managing
 
-```
-conda create --name MYENV python=3.7 numpy pandas
+To create a new environment:
+
+```bash
+conda create --name MYENV 
+conda create --name MYENV python=3.7 numpy pandas  # Or start with certain packages
+
 conda activate MYENV
 ```
+
+To remove an environment:
+
+```bash
+conda remove --name MYENV --all  # --all is needed
+```
+
+Specifying `--all` to remove all the dependencies.
 
 ## Installing packages
 

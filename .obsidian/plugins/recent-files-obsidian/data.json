@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Reference genome indexing",
-      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
+      "basename": "Conda",
+      "path": "Bioinformática y programación/Programas/Conda.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "Reference genome indexing",
+      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
     },
     {
       "basename": "Bisulfite conversion processing pipeline",
@@ -51,10 +55,6 @@
     {
       "basename": "GitHub",
       "path": "Bioinformática y programación/GitHub.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Bioinformática y programación/Programas/Conda.md"
     },
     {
       "basename": "Reference genome",
