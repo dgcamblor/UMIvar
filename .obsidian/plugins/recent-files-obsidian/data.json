@@ -9,6 +9,10 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
     },
     {
+      "basename": "Reference genome indexing",
+      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
+    },
+    {
       "basename": "Alignment in epigenomics processing",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-11-13",
       "path": "Notas diarias/2023-11-13.md"
-    },
-    {
-      "basename": "Seqtk",
-      "path": "Bioinformática y programación/Programas/Seqtk.md"
     }
   ],
   "omittedPaths": [],
