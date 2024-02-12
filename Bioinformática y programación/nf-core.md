@@ -11,4 +11,7 @@ nextflow pull nf-core/methylseq
 Some useful pipelines are:
 
 - [methylseq](https://nf-co.re/methylseq)
-- 
+
+## Arguments
+
+nf-core arguments use double-hyphen (`--`), while Nextflow core arguments use a single hyphen (`-`)

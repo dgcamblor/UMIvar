@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "nf-core",
+      "path": "Bioinformática y programación/nf-core.md"
+    },
+    {
+      "basename": "2024-02-12",
+      "path": "Notas diarias/2024-02-12.md"
+    },
+    {
+      "basename": "GitHub",
+      "path": "Bioinformática y programación/GitHub.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -79,10 +91,6 @@
     {
       "basename": "Advice for machine learning beginners — Andrej Karpathy and Lex Fridman",
       "path": "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md"
-    },
-    {
-      "basename": "nf-core",
-      "path": "Bioinformática y programación/nf-core.md"
     },
     {
       "basename": "Bisulfite conversion processing pipeline",
@@ -191,14 +199,6 @@
     {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Liquid biopsy SEQC2",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
-    },
-    {
-      "basename": "VennDiagram",
-      "path": "Bioinformática y programación/R/VennDiagram.md"
     }
   ],
   "omittedPaths": [],
