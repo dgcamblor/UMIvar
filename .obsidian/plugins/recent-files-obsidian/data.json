@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-30",
+      "path": "Notas diarias/2024-01-30.md"
+    },
+    {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Genomic benchmarking resources",
       "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
-    },
-    {
-      "basename": "2023-11-13",
-      "path": "Notas diarias/2023-11-13.md"
     }
   ],
   "omittedPaths": [],
