@@ -9,7 +9,7 @@ The steps of ctDNA WGBS analysis pipeline mostly follow the basics of the [[Bisu
 
 There are three essential approximations:
 
-- Studying cfDNA methylation patterns as a whole, and establishing differential methylation via [[DM analysis]]. For example: [[ctDNA methylation studies — methodologies and results#^af677d]]. This approximation analyzes data as if it were from tissue.
+- Studying cfDNA methylation patterns as a whole, and establishing differential methylation via [[Differential methylation (DM) analysis]]. For example: [[ctDNA methylation studies — methodologies and results#^af677d]]. This approximation analyzes data as if it were from tissue.
 - Deconvolution of cell types.
 - Detecting ctDNA-specific patterns via deconvolution algorithms.
 

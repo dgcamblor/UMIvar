@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-29",
-      "path": "Notas diarias/2024-01-29.md"
+      "basename": "Alignment in epigenomics processing",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
     },
     {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
     {
-      "basename": "GitHub",
-      "path": "Bioinformática y programación/GitHub.md"
+      "basename": "Differential methylation (DM) analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
+    },
+    {
+      "basename": "methylKit",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
     },
     {
       "basename": "2024-02-12",
       "path": "Notas diarias/2024-02-12.md"
+    },
+    {
+      "basename": "2024-01-29",
+      "path": "Notas diarias/2024-01-29.md"
+    },
+    {
+      "basename": "GitHub",
+      "path": "Bioinformática y programación/GitHub.md"
     },
     {
       "basename": "Conda",
@@ -109,14 +121,6 @@
       "path": "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md"
     },
     {
-      "basename": "Alignment in epigenomics processing",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
-    },
-    {
-      "basename": "DM analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/DM analysis.md"
-    },
-    {
       "basename": "Epigenomic deconvolution analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Directional vs. non-directional bisulfite-converted libraries",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Directional vs. non-directional bisulfite-converted libraries.md"
-    },
-    {
-      "basename": "Metilación del ADN",
-      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
     }
   ],
   "omittedPaths": [],

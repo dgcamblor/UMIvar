@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac6d76fbb32f2297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
               }
             }
           },
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-29.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-29.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
               }
             }
           },
@@ -220,8 +232,12 @@
   "active": "9b7027177860968a",
   "lastOpenFiles": [
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
-    "Bioinformática y programación/GitHub.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
     "Notas diarias/2024-02-12.md",
+    "Notas diarias/2024-01-29.md",
+    "Bioinformática y programación/GitHub.md",
     "Bioinformática y programación/Programas/Conda.md",
     "Notas diarias/Reference genome.md",
     "Bioinformática y programación/nf-core.md",
@@ -242,10 +258,6 @@
     "Notas de vídeos/How to Focus to Change Your Brain.md",
     "Notas de vídeos/The Science of Making & Breaking Habits.md",
     "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md",
-    "Otros/Plantillas/Nota de vídeo.md",
-    "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md",
-    "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md",
-    "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md",
     "Notas de charlas",
     "Notas diarias/2024-02-08.md.partial",
     "Notas diarias/2024-02-07.md.partial",

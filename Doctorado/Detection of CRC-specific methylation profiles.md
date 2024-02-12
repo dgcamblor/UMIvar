@@ -13,4 +13,4 @@ Relevant TCGA projects to this case are:
 
 The idea is to compare those tumor samples to a control dataset as similar as posible (age, sex). 
 
-After [[DM analysis]], a series of CRC-speficic methylation markers can be determined. 
+After [[Differential methylation (DM) analysis]], a series of CRC-speficic methylation markers can be determined. 

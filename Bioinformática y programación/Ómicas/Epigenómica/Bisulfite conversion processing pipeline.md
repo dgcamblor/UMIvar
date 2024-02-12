@@ -24,22 +24,7 @@ The quality of the reads must be assessed using the habitual software.
 ![[Alignment in epigenomics processing#Bisulfite conversion-based methods]]
 
 
-For bisulfite sequencing, bisulfite converted DNA does not align directly to the reference genome. Two algorithms are available: wild card and three-letter.
 
-- Wild card algorithm. Both Cs and Ts map into Cs in the reference genome.
-- Three-letter algorithm. Converst all Cs in the reference genome and the reads into Ts, so that standard aligners can be used.
-
-Three-letter aligners seem to outperform wildcard aligners in running time and peak memory usage [@gongAnalysisPerformanceAssessment2022].
-
-Software choices:
-
-- Bismark
-- BS Seeker 2
-- BWA-Meth
-
-
-> [!NOTE] EpiQC study insights
-> The SEQC2 study (and additional studies) seem to suggest that bwa-meth has the highest uniquely mapped read rates and the lowest unmapped reads [@fooxSEQC2EpigenomicsQuality2021; @gongAnalysisPerformanceAssessment2022].
 
 ### Quality control
 
@@ -72,26 +57,27 @@ Software choices:
 
 - [[Bismark]].
 - [[MethylDackel]]. Groups cytosine into CpG, CHG and CHH contexts. Outputs a [[bedGraph]].
+- [[methylKit]]. This R package includes a myriad of functions for clustering, sample quality visualization, [[Differential methylation (DM) analysis]]
 
 If using a [[Directional vs. non-directional bisulfite-converted libraries#Directional bisulfite sequencing|Directional bisulfite sequencing]] method,`MethylDacke mergeContext` can be used to produce one value per CpG dinucleotide.
 
 Additional reference: [@kimMsPIPEPipelineAnalysis2022].
 
-Finally, the called methylation is subject to [[DM analysis]].
+Finally, the called methylation is subject to [[Differential methylation (DM) analysis]].
 
-![[DM analysis]]
+![[Differential methylation (DM) analysis]]
 
 ## Annotation
 
 The genomic sites/regions of interest, such as individual CpGs, differentially methylated CpGs or regions, etc., must be annotated in order to gain functional insights. For this purpose, one can use:
 
 - [[annotatr]] (R package)
-- methylKit
+- [[methylKit]] 
 - methylGSA. Approaches: ORA, GSEA.
 
 ## Data visualization
 
-- methylKit
+- [[methylKit]]
 
 ## References
 
