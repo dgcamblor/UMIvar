@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a35da41fde7b440c",
+        "id": "6dc045b700fcda0c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7027177860968a",
+            "id": "ccfca179679f0f0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-01-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac6d76fbb32f2297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 294.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -121,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-01-30.md"
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
               }
             }
           },
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-01-30.md",
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-01-30.md",
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-01-30.md"
+                "file": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
               }
             }
           },
@@ -229,23 +217,24 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9b7027177860968a",
+  "active": "ccfca179679f0f0a",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
+    "Notas diarias/2024-02-12.md",
+    "Notas diarias/2024-01-30.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Bioinformática y programación/Ómicas/Reference genome indexing.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
     "Bioinformática y programación/Ómicas/Adapter trimming.md",
     "Bioinformática y programación/Ómicas/FASTQ quality control.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
-    "Notas diarias/2024-02-12.md",
     "Notas diarias/2024-01-29.md",
     "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
     "Bioinformática y programación/GitHub.md",
     "Bioinformática y programación/Programas/Conda.md",
     "Notas diarias/Reference genome.md",
     "Bioinformática y programación/nf-core.md",
-    "Dashboard.md",
     "Notas de charlas/Signatera.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
@@ -257,7 +246,6 @@
     "Notas de vídeos/How to Increase Your Willpower & Tenacity.md",
     "Tareas.md",
     "Otros/Plantillas/Literature note.md",
-    "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md",
     "Notas de charlas",
     "Notas diarias/2024-02-08.md.partial",
     "Notas diarias/2024-02-07.md.partial",

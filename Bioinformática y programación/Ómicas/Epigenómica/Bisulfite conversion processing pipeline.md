@@ -58,14 +58,7 @@ Some additional quality control steps are:
 - Filtering out C/T SNPs is highly recommended.
 - Removal of PCR duplicates (by genome position) -> [[GATK#Picard#MarkDuplicates]]
 
-## Methylation annotation
-
-The genomic sites/regions of interest, such as individual CpGs, differentially methylated CpGs or regions, etc., must be annotated in order to gain functional insights. For this purpose, one can use:
-
-- [[annotatr]] (R package)
-- [[methylKit]] 
-- methylGSA. Approaches: ORA, GSEA.
-## Methylation calling
+## Methylation extraction/calling
 
 At each CpG site, the methylation levels are calculated by looking at all the reads that cover that position.
 
@@ -76,14 +69,24 @@ $$
 Software choices: 
 
 - [[Bismark]].
-- [[MethylDackel]]. Groups cytosine into CpG, CHG and CHH contexts. Outputs a [[bedGraph]].
+- [[MethylDackel]]. Groups cytosine into CpG, CHG and CHH contexts.
 - [[methylKit]]. This R package includes a myriad of functions for clustering, sample quality visualization, [[Differential methylation (DM) analysis]]
 
-If using a [[Directional vs. non-directional bisulfite-converted libraries#Directional bisulfite sequencing|Directional bisulfite sequencing]] method,`MethylDacke mergeContext` can be used to produce one value per CpG dinucleotide.
+The most common output of the methylation extraction is a [[bedGraph]].
+
+### Merging sites
+
+If using a [[Directional vs. non-directional bisulfite-converted libraries#Directional bisulfite sequencing|Directional bisulfite sequencing]] method, `MethylDackel mergeContext` can be used to produce one value per CpG dinucleotide.
 
 Additional reference: [@kimMsPIPEPipelineAnalysis2022].
 
-## 
+## Methylation annotation
+
+The genomic sites/regions of interest, such as individual CpGs, differentially methylated CpGs or regions, etc., must be annotated in order to gain functional insights. For this purpose, one can use:
+
+- [[annotatr]] (R package)
+- [[methylKit]] 
+- methylGSA. Approaches: ORA, GSEA.
 
 
 ## Differential methylation analysis

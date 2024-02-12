@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-30",
-      "path": "Notas diarias/2024-01-30.md"
+      "basename": "Reference genome indexing",
+      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Bisulfite conversion processing pipeline",
@@ -13,8 +17,12 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
     },
     {
-      "basename": "Reference genome indexing",
-      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
+      "basename": "2024-02-12",
+      "path": "Notas diarias/2024-02-12.md"
+    },
+    {
+      "basename": "2024-01-30",
+      "path": "Notas diarias/2024-01-30.md"
     },
     {
       "basename": "Alignment in epigenomics processing",
@@ -31,10 +39,6 @@
     {
       "basename": "Genomic processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
-    },
-    {
-      "basename": "2024-02-12",
-      "path": "Notas diarias/2024-02-12.md"
     },
     {
       "basename": "2024-01-29",
@@ -59,10 +63,6 @@
     {
       "basename": "nf-core",
       "path": "Bioinformática y programación/nf-core.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "EL MOVIMENT OPEN I LA CIÈNCIA",
