@@ -13,7 +13,6 @@ Three-letter aligners seem to outperform wildcard aligners in running time and p
 - BS-Seeker2
 - BWA-Meth
 
-
 > [!NOTE] EpiQC study insights
 > The SEQC2 study (and additional studies) seem to suggest that bwa-meth has the highest uniquely mapped read rates and the lowest unmapped reads [@fooxSEQC2EpigenomicsQuality2021; @gongAnalysisPerformanceAssessment2022].
 

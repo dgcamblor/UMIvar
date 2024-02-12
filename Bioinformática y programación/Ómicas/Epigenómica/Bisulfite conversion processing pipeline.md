@@ -7,12 +7,19 @@ nf-core: https://nf-co.re/methylseq
 > To assign:
 > - [GitHub - zhou-lab/biscuit: BISulfite-seq CUI Toolkit](https://github.com/zhou-lab/biscuit). DNA methylation and mutation calling.
 
+The ENCODE Project gathers a series of WGBS data and processing standards at: [Whole-Genome Bisulfite Sequencing Data Standards and Processing Pipeline – ENCODE](https://www.encodeproject.org/data-standards/wgbs/). Some important standards are:
+
+- Each replicate should have 30X [coverage](https://www.encodeproject.org/data-standards/terms/#read-depth).
+- The C to T conversion rate should be ≥98%.
+- The CpG quantification should have a [Pearson correlation](https://www.encodeproject.org/data-standards/terms/#concordance) of ≥0.8 for sites with ≥10X coverage.
 
 ## FASTQ preprocessing and quality control
 
-The quality of the reads must be assessed using the habitual software.
+The quality of the FASTQ reads must be initially assessed using the habitual software.
 
 ![[FASTQ quality control#Software for FASTQ QC]]
+
+
 
 - Adapter trimming: Trimmomatic, Trim Galore, cutadapt.
 - Data visualization: IGV, Methylation plotter, WBSA.
@@ -23,10 +30,7 @@ The quality of the reads must be assessed using the habitual software.
 
 ![[Alignment in epigenomics processing#Bisulfite conversion-based methods]]
 
-
-
-
-### Quality control
+### BAM quality control
 
 Once aligned, control quality is very important in order to avoid miscalled C-T conversions [@huangCellFreeDNAMethylation2019].
 

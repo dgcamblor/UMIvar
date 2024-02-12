@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
               }
             }
           },
@@ -231,8 +231,8 @@
   },
   "active": "9b7027177860968a",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
     "Notas diarias/2024-02-12.md",
