@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "nf-core",
-      "path": "Bioinformática y programación/nf-core.md"
+      "basename": "Reference genome",
+      "path": "Notas diarias/Reference genome.md"
     },
     {
       "basename": "2024-02-12",
       "path": "Notas diarias/2024-02-12.md"
+    },
+    {
+      "basename": "nf-core",
+      "path": "Bioinformática y programación/nf-core.md"
     },
     {
       "basename": "GitHub",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-02",
       "path": "Notas diarias/2024-02-02.md"
-    },
-    {
-      "basename": "Possible controls for ctDNA methylation",
-      "path": "Doctorado/Possible controls for ctDNA methylation.md"
     }
   ],
   "omittedPaths": [],

@@ -14,4 +14,4 @@ Some useful pipelines are:
 
 ## Arguments
 
-nf-core arguments use double-hyphen (`--`), while Nextflow core arguments use a single hyphen (`-`)
+nf-core arguments use double-hyphen (`--input`), while Nextflow core arguments use a single hyphen (`-profile`).
