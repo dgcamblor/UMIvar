@@ -5,16 +5,24 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
     {
-      "basename": "Alignment in epigenomics processing",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
-    },
-    {
       "basename": "Differential methylation (DM) analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
     },
     {
-      "basename": "methylKit",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
+      "basename": "Alignment in epigenomics processing",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
+    },
+    {
+      "basename": "Adapter trimming",
+      "path": "Bioinformática y programación/Ómicas/Adapter trimming.md"
+    },
+    {
+      "basename": "FASTQ quality control",
+      "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
+    },
+    {
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
       "basename": "2024-02-12",
@@ -23,6 +31,10 @@
     {
       "basename": "2024-01-29",
       "path": "Notas diarias/2024-01-29.md"
+    },
+    {
+      "basename": "methylKit",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
     },
     {
       "basename": "GitHub",
@@ -187,18 +199,6 @@
     {
       "basename": "Seqtk",
       "path": "Bioinformática y programación/Programas/Seqtk.md"
-    },
-    {
-      "basename": "Adapter trimming",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Adapter trimming.md"
-    },
-    {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
-    },
-    {
-      "basename": "Directional vs. non-directional bisulfite-converted libraries",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Directional vs. non-directional bisulfite-converted libraries.md"
     }
   ],
   "omittedPaths": [],

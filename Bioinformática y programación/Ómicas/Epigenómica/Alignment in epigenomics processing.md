@@ -9,7 +9,7 @@ Requires special aligners, as the sequence itself has been altered by the bisulf
 
 Three-letter aligners seem to outperform wildcard aligners in running time and peak memory usage [@gongAnalysisPerformanceAssessment2022]. The most popular letter algorithms are:
 
-- [[Bismark]]
+- [[Bismark]]. Extensively used software for the analysis of bisulfite sequencing data, which includes alignment, duplicate removal (requires [[Picard]], samtools), and methylation calling.
 - BS-Seeker2
 - BWA-Meth
 

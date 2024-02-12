@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 223.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -231,12 +231,15 @@
   },
   "active": "9b7027177860968a",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
+    "Bioinformática y programación/Ómicas/Adapter trimming.md",
+    "Bioinformática y programación/Ómicas/FASTQ quality control.md",
+    "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Notas diarias/2024-02-12.md",
     "Notas diarias/2024-01-29.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
     "Bioinformática y programación/GitHub.md",
     "Bioinformática y programación/Programas/Conda.md",
     "Notas diarias/Reference genome.md",
@@ -255,9 +258,6 @@
     "Otros/Plantillas/Literature note.md",
     "Notas de vídeos/Dr. Robert Sapolsky — Science of Stress, Testosterone & Free Will.md",
     "Notas de vídeos/I watch your videos but nothing changes.md",
-    "Notas de vídeos/How to Focus to Change Your Brain.md",
-    "Notas de vídeos/The Science of Making & Breaking Habits.md",
-    "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md",
     "Notas de charlas",
     "Notas diarias/2024-02-08.md.partial",
     "Notas diarias/2024-02-07.md.partial",

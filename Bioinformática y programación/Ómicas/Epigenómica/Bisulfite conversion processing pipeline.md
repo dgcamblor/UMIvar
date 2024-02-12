@@ -15,18 +15,27 @@ The ENCODE Project gathers a series of WGBS data and processing standards at: [W
 
 ## FASTQ preprocessing and quality control
 
+### Initial quality control
+
 The quality of the FASTQ reads must be initially assessed using the habitual software.
 
 ![[FASTQ quality control#Software for FASTQ QC]]
 
+### FASTQ preprocessing
 
+The data from the reads should be processed as needed, using the conventional software: 
 
-- Adapter trimming: Trimmomatic, Trim Galore, cutadapt.
-- Data visualization: IGV, Methylation plotter, WBSA.
+![[Adapter trimming#Software for adapter trimming]]
+
+### Quality control after FASTQ preprocessing
+
+An additional assessment of the FASTQ qualities must be done after preprocessing.
 
 ## Alignment and quality control
 
 ### Alignment
+
+Alignment to the reference genome must be done using special aligners.
 
 ![[Alignment in epigenomics processing#Bisulfite conversion-based methods]]
 
@@ -49,7 +58,14 @@ Some additional quality control steps are:
 - Filtering out C/T SNPs is highly recommended.
 - Removal of PCR duplicates (by genome position) -> [[GATK#Picard#MarkDuplicates]]
 
-## Methylation calling and analysis
+## Methylation annotation
+
+The genomic sites/regions of interest, such as individual CpGs, differentially methylated CpGs or regions, etc., must be annotated in order to gain functional insights. For this purpose, one can use:
+
+- [[annotatr]] (R package)
+- [[methylKit]] 
+- methylGSA. Approaches: ORA, GSEA.
+## Methylation calling
 
 At each CpG site, the methylation levels are calculated by looking at all the reads that cover that position.
 
@@ -67,23 +83,21 @@ If using a [[Directional vs. non-directional bisulfite-converted libraries#Direc
 
 Additional reference: [@kimMsPIPEPipelineAnalysis2022].
 
+## 
+
+
+## Differential methylation analysis
+
 Finally, the called methylation is subject to [[Differential methylation (DM) analysis]].
 
 ![[Differential methylation (DM) analysis]]
 
-## Annotation
-
-The genomic sites/regions of interest, such as individual CpGs, differentially methylated CpGs or regions, etc., must be annotated in order to gain functional insights. For this purpose, one can use:
-
-- [[annotatr]] (R package)
-- [[methylKit]] 
-- methylGSA. Approaches: ORA, GSEA.
-
 ## Data visualization
 
-- [[methylKit]]
+- [[methylKit]], IGV, Methylation plotter, WBSA.
 
 ## References
 
 - Huang, Jinyong, y Liang Wang. «Cell-Free DNA Methylation Profiling Analysis—Technologies and Bioinformatics». _Cancers_ 11, n.o 11 (6 de noviembre de 2019): 1741. [https://doi.org/10.3390/cancers11111741](https://doi.org/10.3390/cancers11111741).
 - Gong, Ting, Heather Borgard, Zao Zhang, Shaoqiu Chen, Zitong Gao, y Youping Deng. «Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies». _Small methods_ 6, n.o 3 (marzo de 2022): e2101251. [https://doi.org/10.1002/smtd.202101251](https://doi.org/10.1002/smtd.202101251).
+- 

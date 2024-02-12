@@ -7,7 +7,7 @@ Some important reviews that assess good practices in variant calling:
 
 - Best practices for variant calling in clinical sequencing [@koboldtBestPracticesVariant2020].
 
-## FASTQ Quality Control and preprocessing
+## FASTQ quality control and preprocessing
 
 ### Initial quality control
 
@@ -24,7 +24,7 @@ Some important reviews that assess good practices in variant calling:
 4. **Filtering out reads with low quality.** A commonly used threshold is `20` (Q20), corresponding to a call accuracy of 99%. Aiming for a quality of `30` (Q30) is ideal for variant calling in critical settings such as clinical research.
 	- [[prinseq]] 
 
-### Quality control after preprocessing
+### Quality control after FASTQ preprocessing
 
 The same QC software used in [[#Initial quality control]] is applied to check that the FASTQ preprocessing steps have been performed correctly.
 

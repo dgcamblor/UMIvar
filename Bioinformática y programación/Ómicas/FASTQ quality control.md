@@ -18,7 +18,8 @@ where $P$ is the probability of the base being called incorrectly. A guide to Ph
 
 - [[FastQC]]
 - Fastq-screen
-- [[MultiQC]]
+
+ Aggregating reports can be done with: [[MultiQC]].
 
 ## References
 
