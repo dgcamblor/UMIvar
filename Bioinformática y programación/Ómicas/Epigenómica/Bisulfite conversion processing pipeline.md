@@ -4,6 +4,9 @@ tags:
   - phd
 nf-core: https://nf-co.re/methylseq
 ---
+> To assign:
+> - [GitHub - zhou-lab/biscuit: BISulfite-seq CUI Toolkit](https://github.com/zhou-lab/biscuit). DNA methylation and mutation calling.
+
 
 ## FASTQ preprocessing and quality control
 
