@@ -34,7 +34,10 @@ tags:
 
 A growing body of research and clinical trial results has revealed the usefulness of tumor-informed approaches to MRD detection. 
 
-One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with enhanced error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative ctDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) [@tieCirculatingTumorDNA2016].
+One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with enhanced error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative ctDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40) 
+
+
+[@tieCirculatingTumorDNA2016].
 
 > The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related clinical trials aimed at evidencing the benefit of ctDNA determination to guide the adjuvant therapy. These prospective studies —DYNAMIC, DYNAMIC-III and DYNAMIC-Rectal— randomized patients with CRC stage II, stage III and locally advanced rectal cancer after receiving surgery into two groups: patients receiving treatment according to their ctDNA status and patients receiving conventional treatment. To determine the ctDNA presence, the studies adopted the aforementioned Safe-SeqS tumor-informed approach.
 
@@ -76,7 +79,7 @@ Other studies that have since relied on custom
 
 - [ ] Añadir citas
 
-> The increase in sensitivity can be achieved by allowing for more coverage in regions of interest. Essentially, the search can be narrowed down to more informative regions while increasing the coverage and, thus, the capability of detecting variants. This is evidenced by the use of techniques such as ... ...., as disclosed before.
+> The increase in sensitivity can be achieved by allowing for more coverage in regions of interest. Essentially, the search can be narrowed down to more informative regions while increasing the coverage and, thus, the capability of detecting variants. This is evidenced by the use of techniques such as ... ...., as disclosed before. Increased turnaround time, also.
 
 As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations rather than relying on a panel of genes that may or may not be of enough relevance for the patient's tumor. This method also ensures that germline variants and variants related to clonal hematopoiesis of indeterminate potential are directly filtered out of the analysis [@steensmaClonalHematopoiesisIndeterminate2015]. 
 
@@ -116,17 +119,19 @@ The advent of efficiency improvements in sequencing technologies and the develop
 
 #### Signatera assay: GALAXY trial and BESPOKE trial
 
+> Each target can achieve an average depth of 100,000x with ultra‑deep sequencing, and this approach has exhibited a sensitivity >98% at 0.01‑0.02% ctDNA concentrations (60). [@chenDetectingLiquidRemnants2023]
+
 The Signatera assay (Natera) has become a prominent advocate of the tumor-informed approach. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach, which is a step beyond the targeted sequencing used by previous studies. A set of 16 or more mutations is worked out and subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is then used to detect ctDNA and monitorize MRD [@SignateraOverview].
 
 One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
 
 Signatera is currently also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study tracks the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
 
-> On the contrary, although increases in panel size have been made, across-the-genome 
+> On the contrary, although increases in panel size have been made, across-the-genome techniques 
 
 ### 2. Epigenomics and beyond
 
-Although ctDNA genomics have by far been the most characterized aspect of this biomarker, an increasing part of the attention 
+> Although ctDNA genomics have by far been the most characterized aspect of this biomarker, an increasing part of the attention has shifted to exploring the epigenomics.
 
 > Talk about Guardant Reveal and Guardant Infinity, which presents results in ASCO 2024, COSMOS study. ### Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence [Guardant Health, Inc. - Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence](https://investors.guardanthealth.com/press-releases/press-releases/2024/Guardant-Health-to-present-data-at-ASCO-GI-supporting-use-of-liquid-biopsy-to-predict-colon-cancer-recurrence/default.aspx)
 
