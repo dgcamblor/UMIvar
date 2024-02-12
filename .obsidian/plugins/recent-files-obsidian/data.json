@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Reference genome",
-      "path": "Notas diarias/Reference genome.md"
+      "basename": "Conda",
+      "path": "Bioinformática y programación/Programas/Conda.md"
     },
     {
       "basename": "2024-02-12",
       "path": "Notas diarias/2024-02-12.md"
+    },
+    {
+      "basename": "Reference genome",
+      "path": "Notas diarias/Reference genome.md"
     },
     {
       "basename": "nf-core",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-01",
       "path": "Notas diarias/2024-02-01.md"
-    },
-    {
-      "basename": "2024-02-02",
-      "path": "Notas diarias/2024-02-02.md"
     }
   ],
   "omittedPaths": [],

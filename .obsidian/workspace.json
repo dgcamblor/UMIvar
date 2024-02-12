@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2009f36796b25d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas diarias/Reference genome.md",
+                "file": "Bioinformática y programación/Programas/Conda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/Reference genome.md"
+                "file": "Bioinformática y programación/Programas/Conda.md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/Reference genome.md",
+                "file": "Bioinformática y programación/Programas/Conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/Reference genome.md",
+                "file": "Bioinformática y programación/Programas/Conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/Reference genome.md"
+                "file": "Bioinformática y programación/Programas/Conda.md"
               }
             }
           },
@@ -230,7 +217,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "b2009f36796b25d4",
+  "active": "9b7027177860968a",
   "lastOpenFiles": [
     "Notas diarias/2024-02-12.md",
     "Notas diarias/Reference genome.md",

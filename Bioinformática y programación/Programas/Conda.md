@@ -37,8 +37,8 @@ conda config --set auto_activate_base false
 ## Creation
 
 ```
-conda create --name myenv python=3.7 numpy pandas
-conda activate myenv
+conda create --name MYENV python=3.7 numpy pandas
+conda activate MYENV
 ```
 
 ## Installing packages
