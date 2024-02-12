@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-29",
+      "path": "Notas diarias/2024-01-29.md"
+    },
+    {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Metilación del ADN",
       "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
-    },
-    {
-      "basename": "2024-02-01",
-      "path": "Notas diarias/2024-02-01.md"
     }
   ],
   "omittedPaths": [],

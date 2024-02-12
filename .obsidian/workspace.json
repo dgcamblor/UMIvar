@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+                "file": "Notas diarias/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+                "file": "Notas diarias/2024-01-29.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "9b7027177860968a",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Bioinformática y programación/GitHub.md",
     "Notas diarias/2024-02-12.md",
     "Bioinformática y programación/Programas/Conda.md",
@@ -246,7 +247,6 @@
     "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md",
     "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md",
     "Notas de charlas",
-    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Notas diarias/2024-02-08.md.partial",
     "Notas diarias/2024-02-07.md.partial",
     "Notas diarias/2024-02-06.md.partial",
