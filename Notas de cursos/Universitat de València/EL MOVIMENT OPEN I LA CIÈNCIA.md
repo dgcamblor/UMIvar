@@ -92,3 +92,9 @@ Para la Organización Mundial de la Propiedad Intelectual (OMPI), la propiedad i
 La primera de ellas, la **propiedad industrial**, se refiere a las invenciones, siendo **objeto de protección las ideas** como soluciones a posibles problemas técnicos. En cambio, en la normativa de **derecho de autor**, que se aplica a obras literarias y artísticas, lo que se protege es la **forma de expresión de las ideas**. _No se debe confundir propiedad industrial con propiedad intelectual. Además de tratar aspectos diferentes, las leyes que los amparan son totalmente diferentes._
 
 **La propiedad intelectual está integrada por derechos morales y derechos patrimoniales**. Los **derechos morales (autoría e integridad) son irrenunciables e intransferibles**, pero **los derechos patrimoniales (reproducción, distribución, comunicación pública y transformación) pueden ser transferidos a terceros**, como ocurre cuando un autor que publica un trabajo cede todos o parte de esos derechos de explotación a la editorial.
+
+[**CC BY**](https://creativecommons.org/licenses/by/4.0/)
+**[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)**
+[**CC BY-NC**](https://creativecommons.org/licenses/by-nc/4.0/)
+[**CC BY-ND**](https://creativecommons.org/licenses/by-nd/4.0/)
+[**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
