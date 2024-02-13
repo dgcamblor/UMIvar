@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash scripting",
+      "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
+    },
+    {
       "basename": "2024-02-13",
       "path": "Notas diarias/2024-02-13.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "2024-02-09",
       "path": "Notas diarias/2024-02-09.md"
-    },
-    {
-      "basename": "Bash scripting",
-      "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
     },
     {
       "basename": "Picard",
