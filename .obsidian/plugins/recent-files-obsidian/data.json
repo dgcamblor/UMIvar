@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UMI-tools",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md"
+    },
+    {
       "basename": "2024-02-13",
       "path": "Notas diarias/2024-02-13.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-06",
       "path": "Notas diarias/2024-02-06.md"
-    },
-    {
-      "basename": "2024-02-07",
-      "path": "Notas diarias/2024-02-07.md"
     }
   ],
   "omittedPaths": [],

@@ -38,9 +38,13 @@ umi_tools dedup -I example.bam -S deduplicated.bam --output-stats=deduplicated
 
 ### group (optional)
 
-Grouping the reads based on the UMI can optionally be done before deduplication.
+Grouping the reads based on the UMI can optionally be done before deduplication. It essentially has two usages:
+
+- To output a tagged BAM file with the groups
+- To output a flatfile that describes read groups (i.e. how many duplicates).
 
 ```bash
-$ umi_tools group -I mapped.bam --paired --output-bam -S mapped_grouped.bam --group-out=groups.tsv
+umi_tools group -I mapped.bam --paired --output-bam -S mapped_grouped.bam --group-out=groups.tsv
 ```
-This can be useful if you want to keep track of the number of reads per UMI.
+
+If `--output-bam` is not specified, only the stats will be outputted. This can be useful if you want to keep track of the number of reads per UMI.
