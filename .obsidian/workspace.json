@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db2cd0b22881ecdc",
+        "id": "066387a3586b37be",
         "type": "tabs",
         "children": [
           {
-            "id": "ab8ab2c82fb67673",
+            "id": "91eca95780c6bc07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-13.md",
+                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-13.md"
+                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-13.md",
+                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-13.md",
+                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-13.md"
+                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md"
               }
             }
           },
@@ -217,13 +217,13 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "ab8ab2c82fb67673",
+  "active": "91eca95780c6bc07",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
     "Otros/Adjuntos/Pasted image 20240213151244.png",
     "Notas diarias/2024-02-13.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md",
-    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
     "Notas diarias/2024-02-12.md",
     "Notas diarias/2024-01-30.md",

@@ -115,3 +115,5 @@ La revisión por pares requiere tiempo y esfuerzo. La revisión por pares que oc
 ![[Pasted image 20240213151244.png]]
 
 Si tu investigación implica trabajar con humanos, es preciso obtener un consentimiento informado. El consentimiento informado debe advertir a los participantes de la investigación sobre cualquier plan que tengas para compartir sus datos (tanto dentro de tu equipo de investigación o fuera de él), así como sobre cualquier plan que tengas relacionado con su preservación a largo plazo para facilitar su reutilización.
+
+Un **Plan de Gestión de Datos** (PGD) o **Data Management Plan** (DMP) es un documento que describe el volumen y los formatos de los datos que se generarán, recopilarán o reutilizarán durante la vida de su proyecto y describe cómo se emplearán y compartirán tanto durante el proyecto como a más largo plazo. Te recomiendo la lectura de la guía del DCC [How to Develop a Data Management Plan](http://www.dcc.ac.uk/sites/default/files/documents/publications/reports/guides/How%20to%20Develop.pdf) si deseas profundizar un poco más.
