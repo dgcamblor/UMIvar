@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-13",
+      "path": "Notas diarias/2024-02-13.md"
+    },
+    {
+      "basename": "2024-02-14",
+      "path": "Notas diarias/2024-02-14.md"
+    },
+    {
       "basename": "Adapter trimming",
       "path": "Bioinformática y programación/Ómicas/Adapter trimming.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Bash scripting",
       "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
-    },
-    {
-      "basename": "2024-02-13",
-      "path": "Notas diarias/2024-02-13.md"
     },
     {
       "basename": "Seqtk",
@@ -31,10 +35,6 @@
     {
       "basename": "2024-02-15",
       "path": "Notas diarias/2024-02-15.md"
-    },
-    {
-      "basename": "2024-02-14",
-      "path": "Notas diarias/2024-02-14.md"
     },
     {
       "basename": "UMI-tools",
