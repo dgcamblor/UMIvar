@@ -114,3 +114,4 @@ La revisión por pares requiere tiempo y esfuerzo. La revisión por pares que oc
 
 ![[Pasted image 20240213151244.png]]
 
+Si tu investigación implica trabajar con humanos, es preciso obtener un consentimiento informado. El consentimiento informado debe advertir a los participantes de la investigación sobre cualquier plan que tengas para compartir sus datos (tanto dentro de tu equipo de investigación o fuera de él), así como sobre cualquier plan que tengas relacionado con su preservación a largo plazo para facilitar su reutilización.
