@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
+                "file": "Notas diarias/2024-02-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md"
+                "file": "Notas diarias/2024-02-13.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
+                "file": "Notas diarias/2024-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
+                "file": "Notas diarias/2024-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md"
+                "file": "Notas diarias/2024-02-13.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "ab8ab2c82fb67673",
   "lastOpenFiles": [
+    "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
     "Notas diarias/2024-02-13.md",
     "Dashboard.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
@@ -238,7 +239,6 @@
     "Bioinformática y programación/nf-core.md",
     "Notas de charlas/Signatera.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
-    "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas de cursos/Universitat de València",
     "Doctorado/Clinical trials/COBRA trial.md",

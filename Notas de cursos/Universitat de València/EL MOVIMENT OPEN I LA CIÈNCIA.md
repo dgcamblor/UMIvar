@@ -93,8 +93,15 @@ La primera de ellas, la **propiedad industrial**, se refiere a las invenciones,
 
 **La propiedad intelectual está integrada por derechos morales y derechos patrimoniales**. Los **derechos morales (autoría e integridad) son irrenunciables e intransferibles**, pero **los derechos patrimoniales (reproducción, distribución, comunicación pública y transformación) pueden ser transferidos a terceros**, como ocurre cuando un autor que publica un trabajo cede todos o parte de esos derechos de explotación a la editorial.
 
-[**CC BY**](https://creativecommons.org/licenses/by/4.0/)
-**[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)**
-[**CC BY-NC**](https://creativecommons.org/licenses/by-nc/4.0/)
-[**CC BY-ND**](https://creativecommons.org/licenses/by-nd/4.0/)
-[**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[**Creative Commons**](https://creativecommons.org/) es una organización sin ánimo de lucro. Ofrece una serie de licencias que pueden utilizarse abiertamente. A continuación se facilita más información sobre cada una de las seis licencias de Creative Commons.
+
+- [**CC BY**](https://creativecommons.org/licenses/by/4.0/)
+- **[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)**
+- [**CC BY-NC**](https://creativecommons.org/licenses/by-nc/4.0/)
+- [**CC BY-ND**](https://creativecommons.org/licenses/by-nd/4.0/)
+- [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- [**CC BY-NC-ND**](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[**CC0**](https://creativecommons.org/publicdomain/zero/1.0/) (también conocido como CC Zero). No es una licencia, sino una herramienta de dedicación pública, que permite a los creadores **renunciar a sus derechos de autor** y poner sus obras en el **dominio público mundial**. CC0 permite a los reutilizadores distribuir, mezclar, adaptar y construir sobre el material en cualquier medio o formato, sin condiciones.
+
+**Las licencias y CC0 no se pueden revocar**. Esto significa que una vez que apliques una licencia CC a tu material, cualquiera que lo reciba puede confiar en esa licencia mientras el material esté protegido por derechos de autor, incluso si luego dejas de distribuirlo.
