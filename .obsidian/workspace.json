@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "066387a3586b37be",
+        "id": "87aa90da4904e87f",
         "type": "tabs",
         "children": [
           {
-            "id": "91eca95780c6bc07",
+            "id": "1aa2b8774848f1cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -108,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,15 +207,16 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "91eca95780c6bc07",
+  "active": "1aa2b8774848f1cc",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Adapter trimming.md",
+    "Dashboard.md",
     "Notas diarias/2024-02-13.md",
     "Bioinformática y programación/Programas/Seqtk.md",
     "Notas diarias/2023-11-13.md",
     "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
     "Notas diarias/2024-02-15.md",
     "Notas diarias/2024-02-14.md",
-    "Dashboard.md",
     "Otros/Adjuntos/Pasted image 20240213151244.png",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
@@ -234,7 +225,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Bioinformática y programación/Ómicas/Reference genome indexing.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
-    "Bioinformática y programación/Ómicas/Adapter trimming.md",
     "Bioinformática y programación/Ómicas/FASTQ quality control.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Notas diarias/2024-01-29.md",

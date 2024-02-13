@@ -1,3 +1,7 @@
+---
+aliases:
+  - Adapter removal
+---
 
 ## Software for adapter trimming
 
@@ -5,7 +9,7 @@ The main adapter trimming software is:
 
 - cutadapt
 - Trimmomatic
-- Trim Galore!
+- Trim Galore! -> A wrapper of [[cutadapt]] and [[FastQC]], that automatically performes adapter trimming and quality control.  It has additional functionality to removed biased methylation in [[RRBS]].
 
 ## Particularities
 

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Adapter trimming",
+      "path": "Bioinformática y programación/Ómicas/Adapter trimming.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Bash scripting",
       "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "2024-02-14",
       "path": "Notas diarias/2024-02-14.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "UMI-tools",
@@ -67,10 +71,6 @@
     {
       "basename": "Alignment in epigenomics processing",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
-    },
-    {
-      "basename": "Adapter trimming",
-      "path": "Bioinformática y programación/Ómicas/Adapter trimming.md"
     },
     {
       "basename": "FASTQ quality control",
