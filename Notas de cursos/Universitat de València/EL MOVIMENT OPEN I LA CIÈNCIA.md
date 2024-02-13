@@ -130,3 +130,4 @@ Según [Wikipedia](https://en.wikipedia.org/wiki/Open-source_software), el soft
 
 [What is Open Source explained in LEGO - YouTube](https://www.youtube.com/watch?v=a8fHgx9mE5U)
 
+[Taverna](https://taverna.incubator.apache.org/) (ahora oficialmente Apache Taverna) es quizás el sistema de gestión de flujo de trabajo científico más conocido y más utilizado. Permite a los investigadores con menos conocimientos técnicos construir, compartir y mantener flujos de trabajo científicos potentes y reproducibles.
