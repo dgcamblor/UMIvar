@@ -117,3 +117,16 @@ La revisión por pares requiere tiempo y esfuerzo. La revisión por pares que oc
 Si tu investigación implica trabajar con humanos, es preciso obtener un consentimiento informado. El consentimiento informado debe advertir a los participantes de la investigación sobre cualquier plan que tengas para compartir sus datos (tanto dentro de tu equipo de investigación o fuera de él), así como sobre cualquier plan que tengas relacionado con su preservación a largo plazo para facilitar su reutilización.
 
 Un **Plan de Gestión de Datos** (PGD) o **Data Management Plan** (DMP) es un documento que describe el volumen y los formatos de los datos que se generarán, recopilarán o reutilizarán durante la vida de su proyecto y describe cómo se emplearán y compartirán tanto durante el proyecto como a más largo plazo. Te recomiendo la lectura de la guía del DCC [How to Develop a Data Management Plan](http://www.dcc.ac.uk/sites/default/files/documents/publications/reports/guides/How%20to%20Develop.pdf) si deseas profundizar un poco más.
+
+[DMPonline](https://dmponline.dcc.ac.uk/) es una herramienta disponible de forma gratuita que ayuda a los equipos de investigación a redactar planes de gestión de datos que cumplan con los requisitos de los organismos de financiación. DMPonline fue desarrollado conjuntamente por el Centro de Curación Digital (DCC) y el Centro de Curación de la Universidad de California (UC3). La herramienta contiene una serie de plantillas que representan los requisitos de diferentes organismos de financiación en toda Europa.
+
+[FAIRsharing](https://fairsharing.org/recommendations/), un servicio desarrollado por el Oxford e-Research Center ofrece una lista de repositorios de temas específicos que han sido recomendados o exigidos por organismos de financiación y editores.
+
+Si no tienes acceso a un repositorio de datos institucional o específico del tema, puedes utilizar un repositorio de datos generalistas como [Dryad](https://datadryad.org/), [Figshare](https://figshare.com/) o [Zenodo](https://zenodo.org/).
+
+## Tema 10. Software de código abierto y sistemas de flujo de trabajo abiertos
+
+Según [Wikipedia](https://en.wikipedia.org/wiki/Open-source_software), el software de código abierto (OSS) es un tipo de software en el que el código fuente se distribuye con una licencia en la que el titular de los derechos de autor permite a los usuarios examinar, modificar y distribuir el software. La [**Open Source Initiative**](https://opensource.org/) explica que la licencia debe permitir a los usuarios realizar modificaciones y trabajos derivados, y debe permitir que los trabajos derivados se distribuyan bajo los mismos términos que la licencia del software original.
+
+[What is Open Source explained in LEGO - YouTube](https://www.youtube.com/watch?v=a8fHgx9mE5U)
+
