@@ -109,3 +109,8 @@ La primera de ellas, la **propiedad industrial**, se refiere a las invenciones,
 ## Tema 8. Revisión por pares abierta
 
 La revisión por pares requiere tiempo y esfuerzo. La revisión por pares que oculta la identidad de los revisores no permite que quienes realizan las revisiones obtengan crédito por su trabajo. Al publicar sus informes de revisión y asignarles un DOI, los hace citables por derecho propio. Al vincular esto con su perfil en [ORCID](https://orcid.org/), se asegura tener siempre un CV actualizado de todas los ámbitos de su trabajo. Aquellos autores que utilizan los servidores de preprints para obtener comentarios tempranos sobre su trabajo también pueden beneficiarse de que su trabajo sea más visible. En algunos casos, las revistas interesadas en publicar sus trabajos se ponen en contacto directamente con los autores que han compartido los primeros resultados a través de servidores de preprints.
+
+## Tema 9. Datos abiertos y datos FAIR
+
+![[Pasted image 20240213151244.png]]
+
