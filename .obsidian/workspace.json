@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-13.md",
+                "file": "Notas diarias/2023-11-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-13.md"
+                "file": "Notas diarias/2023-11-13.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-13.md",
+                "file": "Notas diarias/2023-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-13.md",
+                "file": "Notas diarias/2023-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-13.md"
+                "file": "Notas diarias/2023-11-13.md"
               }
             }
           },
@@ -219,12 +219,13 @@
   },
   "active": "91eca95780c6bc07",
   "lastOpenFiles": [
+    "Bioinformática y programación/Programas/Seqtk.md",
+    "Notas diarias/2024-02-13.md",
     "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
     "Notas diarias/2024-02-15.md",
     "Notas diarias/2024-02-14.md",
     "Dashboard.md",
     "Otros/Adjuntos/Pasted image 20240213151244.png",
-    "Notas diarias/2024-02-13.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
     "Notas diarias/2024-02-12.md",
@@ -246,7 +247,6 @@
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas de cursos/Universitat de València",
     "Doctorado/Clinical trials/COBRA trial.md",
-    "Notas diarias/2024-02-10.md",
     "Notas de charlas",
     "Notas diarias/2024-02-08.md.partial",
     "Notas diarias/2024-02-07.md.partial",
