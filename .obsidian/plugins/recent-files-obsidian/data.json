@@ -5,6 +5,14 @@
       "path": "Notas diarias/2024-02-14.md"
     },
     {
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+    },
+    {
+      "basename": "mosdepth",
+      "path": "Bioinformática y programación/Ómicas/Genómica/mosdepth.md"
+    },
+    {
       "basename": "2024-02-13",
       "path": "Notas diarias/2024-02-13.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "FASTQ quality control",
       "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
-    },
-    {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
       "basename": "2024-01-29",
@@ -195,10 +199,6 @@
     {
       "basename": "VSCode configuration",
       "path": "Bioinformática y programación/VSCode configuration.md"
-    },
-    {
-      "basename": "Trimmomatic",
-      "path": "Bioinformática y programación/Trimmomatic.md"
     }
   ],
   "omittedPaths": [],

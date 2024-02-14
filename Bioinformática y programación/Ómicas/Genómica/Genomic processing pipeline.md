@@ -91,7 +91,8 @@ There are several software that can be used for variant annotation:
 
 ![[Variant calling analysis]]
 
-## Pipeline statistics
+## Pipeline statistics and general information
 
 - samtools idxstats -> Basic BAM stats.
 - Picard CollectAlignmetSummaryMetrics -> More thorough BAM stats.
+- [[mosdepth]] -> An alternative to `samtools depth` that seems far more quicker.

@@ -1,0 +1,6 @@
+
+## Installation
+
+```
+conda install mosdepth
+```
