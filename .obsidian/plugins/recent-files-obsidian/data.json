@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Amino acid code",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
+    },
+    {
       "basename": "2024-02-14",
       "path": "Notas diarias/2024-02-14.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Picard",
       "path": "Bioinformática y programación/Programas/Picard.md"
-    },
-    {
-      "basename": "VSCode configuration",
-      "path": "Bioinformática y programación/VSCode configuration.md"
     }
   ],
   "omittedPaths": [],

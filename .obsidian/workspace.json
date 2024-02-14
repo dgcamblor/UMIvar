@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-14.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-14.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
               }
             }
           },
@@ -218,11 +218,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "86d225e5c6875f6e",
+  "active": "3d8be73498675e13",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-14.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
-    "Notas diarias/2024-02-14.md",
     "Notas diarias/2024-02-13.md",
     "Tareas.md",
     "Dashboard.md",
