@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-02-13",
       "path": "Notas diarias/2024-02-13.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Adapter trimming",
       "path": "Bioinformática y programación/Ómicas/Adapter trimming.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Bash scripting",
