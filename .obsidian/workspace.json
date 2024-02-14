@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SEQC2",
+                "query": "benchmarking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f96d455eabd12c8",
@@ -217,7 +218,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "3d8be73498675e13",
+  "active": "86d225e5c6875f6e",
   "lastOpenFiles": [
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
