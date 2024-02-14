@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-14.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-14.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
               }
             }
           },
@@ -220,10 +220,10 @@
   },
   "active": "3d8be73498675e13",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-14.md",
+    "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
     "Otros/Adjuntos/Pasted image 20240214182751.png",
     "Otros/Adjuntos/Pasted image 20240214182408.png",
-    "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
-    "Notas diarias/2024-02-14.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
     "Notas diarias/2024-02-13.md",
@@ -265,7 +265,6 @@
     "Otros/Adjuntos/Pasted image 20240131110838.jpg",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
     "Otros/Adjuntos/Pasted image 20240129141825.png",
-    "Otros/Adjuntos/Pasted image 20240115223212.jpg",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]
