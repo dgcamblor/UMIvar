@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
+                "file": "Notas diarias/2024-02-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
+                "file": "Notas diarias/2024-02-14.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
+                "file": "Notas diarias/2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
+                "file": "Notas diarias/2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
+                "file": "Notas diarias/2024-02-14.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "3d8be73498675e13",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
     "Notas diarias/2024-02-14.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
@@ -248,7 +249,6 @@
     "Bioinformática y programación/Programas/Conda.md",
     "Notas diarias/Reference genome.md",
     "Bioinformática y programación/nf-core.md",
-    "Notas de charlas/Signatera.md",
     "Notas de cursos/Universitat de València",
     "Notas de charlas",
     "Notas diarias/2024-02-08.md.partial",
