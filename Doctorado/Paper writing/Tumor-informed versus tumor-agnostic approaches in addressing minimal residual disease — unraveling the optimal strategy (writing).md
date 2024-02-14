@@ -79,7 +79,7 @@ Other studies that have since relied on custom
 
 ### Strengths and weaknesses
 
-- [ ] Añadir citas
+> Añadir citas
 
 > The increase in sensitivity can be achieved by allowing for more coverage in regions of interest. Essentially, the search can be narrowed down to more informative regions while increasing the coverage and, thus, the capability of detecting variants. This is evidenced by the use of techniques such as ... ...., as disclosed before. Increased turnaround time, also.
 
