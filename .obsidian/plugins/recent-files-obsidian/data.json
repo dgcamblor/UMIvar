@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Guardant Reveal",
+      "path": "Doctorado/Assays/Guardant Reveal.md"
+    },
+    {
+      "basename": "ASCOLT trial",
+      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "The Biology of Slowing & Reversing Aging — Dr. David Sinclair",
       "path": "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md"
-    },
-    {
-      "basename": "Advice for machine learning beginners — Andrej Karpathy and Lex Fridman",
-      "path": "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md"
-    },
-    {
-      "basename": "Epigenomic deconvolution analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
     }
   ],
   "omittedPaths": [],
