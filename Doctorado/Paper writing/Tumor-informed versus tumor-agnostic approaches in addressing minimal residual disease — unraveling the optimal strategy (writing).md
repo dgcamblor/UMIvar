@@ -136,7 +136,9 @@ Signatera is currently also the centerpiece of the ongoing BESPOKE clinical tria
 
 ### 2. Epigenomics and beyond
 
-Although genetic variants are by far the most assessed marker for detecting ctDNA-MRD, 
+Although genetic variants are by far the most assessed marker for detecting ctDNA-MRD, an increasing part of the attention has shifted to exploring the epigenomic landscape of ctDNA and, in particular, methylation. Indeed, aberrant methylation is a major player in tumorigenesis that, in contrast to tumor mutations, appears to be more consistent across tumors from different patients and stages [@garrigouStudyHypermethylatedCirculating2016; @haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. As a consequence, these biomarkers hold great value for tumor-agnostic approaches.
+
+
 
 Aberrant methylation is one of the earliest changes that occurs 
 

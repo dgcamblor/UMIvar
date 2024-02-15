@@ -5,6 +5,10 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "CORRECT-MRD II",
+      "path": "Doctorado/Clinical trials/CORRECT-MRD II.md"
+    },
+    {
       "basename": "ASCOLT trial",
       "path": "Doctorado/Clinical trials/ASCOLT trial.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health",
       "path": "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md"
-    },
-    {
-      "basename": "The Biology of Slowing & Reversing Aging — Dr. David Sinclair",
-      "path": "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md"
     }
   ],
   "omittedPaths": [],
