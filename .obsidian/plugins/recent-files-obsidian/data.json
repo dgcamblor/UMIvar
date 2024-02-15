@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-14",
-      "path": "Notas diarias/2024-02-14.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -21,6 +13,10 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
     },
     {
+      "basename": "2024-02-14",
+      "path": "Notas diarias/2024-02-14.md"
+    },
+    {
       "basename": "Genomic processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
@@ -31,6 +27,10 @@
     {
       "basename": "2024-02-13",
       "path": "Notas diarias/2024-02-13.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Adapter trimming",

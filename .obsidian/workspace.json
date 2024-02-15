@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Notas diarias/2024-02-14.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas diarias/2024-02-14.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas diarias/2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas diarias/2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas diarias/2024-02-14.md"
               }
             }
           },
@@ -219,15 +219,16 @@
   },
   "active": "355607d83dda65e3",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Genomic general resources.md",
+    "Notas diarias/2024-02-14.md",
+    "Dashboard.md",
     "Tareas.md",
     "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
-    "Notas diarias/2024-02-14.md",
     "Otros/Adjuntos/Pasted image 20240214182751.png",
     "Otros/Adjuntos/Pasted image 20240214182408.png",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
     "Notas diarias/2024-02-13.md",
-    "Dashboard.md",
     "Otros/Adjuntos/vaf_single.png",
     "Otros/Adjuntos/VAFs.tiff",
     "Bioinformática y programación/Ómicas/Adapter trimming.md",
