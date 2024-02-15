@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "82d8cfea0b315396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformática y programación/Programas/bcftools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Programas/bcftools.md"
+                "file": "Notas diarias/2024-02-15.md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Programas/bcftools.md",
+                "file": "Notas diarias/2024-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Programas/bcftools.md",
+                "file": "Notas diarias/2024-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Programas/bcftools.md"
+                "file": "Notas diarias/2024-02-15.md"
               }
             }
           },
@@ -230,8 +217,9 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "82d8cfea0b315396",
+  "active": "00b82cf73fb2b572",
   "lastOpenFiles": [
+    "Bioinformática y programación/Programas/bcftools.md",
     "Notas diarias/2024-02-15.md",
     "Notas diarias/0-based vs. 1-based coordinate systems.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",

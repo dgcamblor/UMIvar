@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "bcftools",
-      "path": "Bioinformática y programación/Programas/bcftools.md"
-    },
-    {
       "basename": "2024-02-15",
       "path": "Notas diarias/2024-02-15.md"
+    },
+    {
+      "basename": "bcftools",
+      "path": "Bioinformática y programación/Programas/bcftools.md"
     },
     {
       "basename": "0-based vs. 1-based coordinate systems",
