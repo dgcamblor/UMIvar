@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "bcftools",
+      "path": "Bioinformática y programación/Programas/bcftools.md"
+    },
+    {
       "basename": "2024-02-15",
       "path": "Notas diarias/2024-02-15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Epigenomic deconvolution analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
-    },
-    {
-      "basename": "Methylated DNA immunoprecipitation analysis pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylated DNA immunoprecipitation analysis pipeline.md"
     }
   ],
   "omittedPaths": [],
