@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Assays/Guardant Reveal.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Assays/Guardant Reveal.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Assays/Guardant Reveal.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Assays/Guardant Reveal.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Assays/Guardant Reveal.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -220,6 +220,7 @@
   "active": "e9fab7d803a78bb8",
   "lastOpenFiles": [
     "Doctorado/Clinical trials/ASCOLT trial.md",
+    "Doctorado/Assays/Guardant Reveal.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Dashboard.md",
     "Bioinformática y programación/Programas/bcftools.md",
@@ -251,7 +252,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
     "Notas diarias/2024-01-30.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Reference genome indexing.md",
     "Notas de cursos/Universitat de València",
     "Notas de charlas",
     "Notas diarias/2024-02-08.md.partial",
