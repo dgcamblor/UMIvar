@@ -136,6 +136,10 @@ Signatera is currently also the centerpiece of the ongoing BESPOKE clinical tria
 
 ### 2. Epigenomics and beyond
 
+Although genetic variants are by far the most assessed marker for detecting ctDNA-MRD, 
+
+Aberrant methylation is one of the earliest changes that occurs 
+
 > Although ctDNA genomics have by far been the most characterized aspect of this biomarker, an increasing part of the attention has shifted to exploring the epigenomics.
 
 > Talk about Guardant Reveal and Guardant Infinity, which presents results in ASCO 2024, COSMOS study. ### Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence [Guardant Health, Inc. - Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence](https://investors.guardanthealth.com/press-releases/press-releases/2024/Guardant-Health-to-present-data-at-ASCO-GI-supporting-use-of-liquid-biopsy-to-predict-colon-cancer-recurrence/default.aspx)
@@ -191,4 +195,6 @@ The study of circulating tumor cells (CTCs) -cancer cells that are released from
 
 > Beyond radiomics, AI also has interesting applications...
 
+## Challenges and future directions
 
+> False negatives and positives, landmark vs sequential...
