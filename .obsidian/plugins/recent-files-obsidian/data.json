@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-15",
+      "path": "Notas diarias/2024-02-15.md"
+    },
+    {
+      "basename": "2024-02-01",
+      "path": "Notas diarias/2024-02-01.md"
+    },
+    {
+      "basename": "2024-02-02",
+      "path": "Notas diarias/2024-02-02.md"
+    },
+    {
+      "basename": "2024-02-07",
+      "path": "Notas diarias/2024-02-07.md"
+    },
+    {
+      "basename": "2024-02-12",
+      "path": "Notas diarias/2024-02-12.md"
+    },
+    {
+      "basename": "2024-02-13",
+      "path": "Notas diarias/2024-02-13.md"
+    },
+    {
+      "basename": "2024-02-14",
+      "path": "Notas diarias/2024-02-14.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -13,24 +45,12 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
     },
     {
-      "basename": "2024-02-14",
-      "path": "Notas diarias/2024-02-14.md"
-    },
-    {
       "basename": "Genomic processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     },
     {
       "basename": "mosdepth",
       "path": "Bioinformática y programación/Ómicas/Genómica/mosdepth.md"
-    },
-    {
-      "basename": "2024-02-13",
-      "path": "Notas diarias/2024-02-13.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Adapter trimming",
@@ -53,10 +73,6 @@
       "path": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md"
     },
     {
-      "basename": "2024-02-15",
-      "path": "Notas diarias/2024-02-15.md"
-    },
-    {
       "basename": "UMI-tools",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md"
     },
@@ -75,10 +91,6 @@
     {
       "basename": "Differential methylation (DM) analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
-    },
-    {
-      "basename": "2024-02-12",
-      "path": "Notas diarias/2024-02-12.md"
     },
     {
       "basename": "2024-01-30",
@@ -187,18 +199,6 @@
     {
       "basename": "Methylation deconvolution in cfDNA",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md"
-    },
-    {
-      "basename": "MethylDackel",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
-    },
-    {
-      "basename": "2024-02-09",
-      "path": "Notas diarias/2024-02-09.md"
-    },
-    {
-      "basename": "Picard",
-      "path": "Bioinformática y programación/Programas/Picard.md"
     }
   ],
   "omittedPaths": [],
