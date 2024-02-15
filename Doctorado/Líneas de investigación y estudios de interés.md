@@ -11,3 +11,6 @@ tags:
 - Los niveles de metilación globales del genoma podrían tratar de correlacionarse con variables clínicas, pronóstico, etc.
 
 - La medición de los niveles de [[Antígeno carcinoembrionario (CAE)]] es el gold-standard de la monitorización de la respuesta a terapia en el cáncer colorrectal metastásico. ¿Podemos mejorar eso?
+
+
+> To our knowledge, there is no biological relation between MetctDNA and the presence of any tested mutation; therefore, the observed correlation suggests that the detection of MetctDNA is owing to the presence of ctDNA. [@garrigouStudyHypermethylatedCirculating2016]

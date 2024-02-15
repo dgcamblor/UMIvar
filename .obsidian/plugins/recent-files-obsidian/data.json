@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-15",
+      "path": "Notas diarias/2024-02-15.md"
+    },
+    {
+      "basename": "2024-02-12",
+      "path": "Notas diarias/2024-02-12.md"
+    },
+    {
+      "basename": "2024-02-13",
+      "path": "Notas diarias/2024-02-13.md"
+    },
+    {
+      "basename": "2024-02-14",
+      "path": "Notas diarias/2024-02-14.md"
+    },
+    {
+      "basename": "2024-01-14",
+      "path": "Notas diarias/2024-01-14.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
     },
     {
       "basename": "CORRECT-MRD II",
@@ -19,10 +43,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "2024-02-15",
-      "path": "Notas diarias/2024-02-15.md"
     },
     {
       "basename": "bcftools",
@@ -43,18 +63,6 @@
     {
       "basename": "2024-02-07",
       "path": "Notas diarias/2024-02-07.md"
-    },
-    {
-      "basename": "2024-02-12",
-      "path": "Notas diarias/2024-02-12.md"
-    },
-    {
-      "basename": "2024-02-13",
-      "path": "Notas diarias/2024-02-13.md"
-    },
-    {
-      "basename": "2024-02-14",
-      "path": "Notas diarias/2024-02-14.md"
     },
     {
       "basename": "Tareas",
@@ -191,14 +199,6 @@
     {
       "basename": "ADHD and How Anyone Can Improve Their Focus",
       "path": "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md"
-    },
-    {
-      "basename": "Nota de vídeo",
-      "path": "Otros/Plantillas/Nota de vídeo.md"
-    },
-    {
-      "basename": "Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health",
-      "path": "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md"
     }
   ],
   "omittedPaths": [],

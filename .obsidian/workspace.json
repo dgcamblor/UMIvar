@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas diarias/2024-02-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Notas diarias/2024-02-15.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas diarias/2024-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Notas diarias/2024-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Notas diarias/2024-02-15.md"
               }
             }
           },
@@ -219,8 +219,13 @@
   },
   "active": "e9fab7d803a78bb8",
   "lastOpenFiles": [
-    "Doctorado/Clinical trials/CORRECT-MRD II.md",
+    "Notas diarias/2024-02-12.md",
+    "Notas diarias/2024-02-13.md",
+    "Notas diarias/2024-02-14.md",
+    "Notas diarias/2024-01-14.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Líneas de investigación y estudios de interés.md",
+    "Doctorado/Clinical trials/CORRECT-MRD II.md",
     "Doctorado/Clinical trials/ASCOLT trial.md",
     "Doctorado/Assays/Guardant Reveal.md",
     "Dashboard.md",
@@ -231,9 +236,6 @@
     "Notas diarias/2024-02-01.md",
     "Notas diarias/2024-02-02.md",
     "Notas diarias/2024-02-07.md",
-    "Notas diarias/2024-02-12.md",
-    "Notas diarias/2024-02-13.md",
-    "Notas diarias/2024-02-14.md",
     "Notas diarias/2024-02-14.md.partial",
     "Bioinformática y programación/Ómicas/Genomic general resources.md",
     "Tareas.md",
@@ -250,8 +252,6 @@
     "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
     "Otros/Adjuntos/Pasted image 20240213151244.png",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
-    "Notas diarias/2024-01-30.md",
     "Notas de cursos/Universitat de València",
     "Notas de charlas",
     "Notas diarias/2024-02-08.md.partial",
