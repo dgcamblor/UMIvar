@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/0-based vs. 1-based coordinate systems.md",
+                "file": "Notas diarias/2024-02-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/0-based vs. 1-based coordinate systems.md"
+                "file": "Notas diarias/2024-02-15.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/0-based vs. 1-based coordinate systems.md",
+                "file": "Notas diarias/2024-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/0-based vs. 1-based coordinate systems.md",
+                "file": "Notas diarias/2024-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/0-based vs. 1-based coordinate systems.md"
+                "file": "Notas diarias/2024-02-15.md"
               }
             }
           },
@@ -232,9 +232,9 @@
   },
   "active": "82d8cfea0b315396",
   "lastOpenFiles": [
+    "Notas diarias/0-based vs. 1-based coordinate systems.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-15.md",
-    "Notas diarias/0-based vs. 1-based coordinate systems.md",
     "Notas diarias/2024-02-01.md",
     "Notas diarias/2024-02-02.md",
     "Notas diarias/2024-02-07.md",
@@ -277,7 +277,6 @@
     "Otros/Adjuntos/Pasted image 20231025224127.png",
     "Otros/Adjuntos/Pasted image 20240131110838.jpg",
     "Otros/Adjuntos/Pasted image 20240129184940.jpg",
-    "Otros/Adjuntos/Pasted image 20240129141825.png",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]
