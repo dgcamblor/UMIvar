@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1af99d24a9b0b044",
+        "id": "a12e6676ca2bc38f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fab7d803a78bb8",
+            "id": "2ab0beb2e6b50442",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,8 +217,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "e9fab7d803a78bb8",
+  "active": "2ab0beb2e6b50442",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-16.md",
+    "Notas diarias/2024-02-15.md",
+    "Dashboard.md",
     "Notas diarias/2024-02-12.md",
     "Notas diarias/2024-02-13.md",
     "Notas diarias/2024-02-14.md",
@@ -228,9 +231,7 @@
     "Doctorado/Clinical trials/CORRECT-MRD II.md",
     "Doctorado/Clinical trials/ASCOLT trial.md",
     "Doctorado/Assays/Guardant Reveal.md",
-    "Dashboard.md",
     "Bioinformática y programación/Programas/bcftools.md",
-    "Notas diarias/2024-02-15.md",
     "Notas diarias/0-based vs. 1-based coordinate systems.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-01.md",
@@ -251,7 +252,6 @@
     "Notas diarias/2023-11-13.md",
     "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md",
     "Otros/Adjuntos/Pasted image 20240213151244.png",
-    "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md",
     "Notas de cursos/Universitat de València",
     "Notas de charlas",
     "Notas diarias/2024-02-08.md.partial",

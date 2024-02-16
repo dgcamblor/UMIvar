@@ -5,6 +5,14 @@
       "path": "Notas diarias/2024-02-15.md"
     },
     {
+      "basename": "2024-02-16",
+      "path": "Notas diarias/2024-02-16.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-02-12",
       "path": "Notas diarias/2024-02-12.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Guardant Reveal",
       "path": "Doctorado/Assays/Guardant Reveal.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "bcftools",
@@ -195,10 +199,6 @@
     {
       "basename": "The Science of Making & Breaking Habits",
       "path": "Notas de vídeos/The Science of Making & Breaking Habits.md"
-    },
-    {
-      "basename": "ADHD and How Anyone Can Improve Their Focus",
-      "path": "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md"
     }
   ],
   "omittedPaths": [],
