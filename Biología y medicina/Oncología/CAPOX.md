@@ -1,0 +1,1 @@
+Combinación de capecitabina y oxaliplatino.

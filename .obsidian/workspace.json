@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md"
               }
             }
           },
@@ -219,15 +219,18 @@
   },
   "active": "fc3b5487de937f44",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "Doctorado/Clinical relevance of ctDNA analysis.md",
+    "Biología y medicina/Oncología/Cáncer colorrectal.md",
+    "Biología y medicina/Oncología/CAPOX.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas diarias/2024-02-17.md",
+    "Dashboard.md",
     "Notas diarias/2024-02-15.md",
     "Notas diarias/2024-02-16.md",
     "Notas diarias/2024-02-12.md",
     "Notas diarias/2024-02-13.md",
     "Notas diarias/2024-02-14.md",
     "Notas diarias/2024-01-14.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
     "Doctorado/Clinical trials/CORRECT-MRD II.md",
     "Doctorado/Clinical trials/ASCOLT trial.md",
@@ -248,9 +251,6 @@
     "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
     "Otros/Adjuntos/vaf_single.png",
     "Otros/Adjuntos/VAFs.tiff",
-    "Bioinformática y programación/Ómicas/Adapter trimming.md",
-    "Bioinformática y programación/Programas/Seqtk.md",
-    "Notas diarias/2023-11-13.md",
     "Otros/Adjuntos/Pasted image 20240213151244.png",
     "Notas de cursos/Universitat de València",
     "Notas de charlas",

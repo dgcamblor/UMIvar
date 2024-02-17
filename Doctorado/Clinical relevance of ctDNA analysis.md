@@ -3,7 +3,12 @@ tags:
   - phd
   - review
 ---
-The detection of ctDNA after treatment generally indicates poor patient prognosis.
+The ctDNA has proven to have potential for the following clinical applications:
+
+- Detecting MRD, as a direct evidence of the tumor presence.
+- Aiding adjuvant therapy decision in resected CRC stage I-III (improving the low-risk / high-risk determination; [[Tratamiento del CCR]])
+- Predicting tratement response to neoadjuvant therapy in LARC [@gongClinicalApplicationsMinimal2021a]
+- Predicting response to therapies in metastatic disease [@gongClinicalApplicationsMinimal2021a].
 
 ## MRD detection
 

@@ -31,10 +31,20 @@ Las principales vías de aparición del CCR, las cuales no son excluyentes, son 
 
 Aproximadamente 15-30% de los pacientes se diagnostican con metástasis ya presentes, y 20-50% de los pacientes con enfermedad inicialmente localizada termina desarrollando metástasis. La localización más frecuente de las metástasis es el hígado, después el pulmón, peritoneo y nodos linfáticos distantes.
 
-## Tratamiento actual
+## Tratamiento actual del cáncer colorrectal
 
 El paradigma de la medicina de precisión en el CCR se centra principalmente en la terapia anti-EGFR, estableciéndose una estratificación de pacientes según el estado de los genes RAS: su mutación activa de forma constitutiva la vía, por lo que confiere resistencia anti-EGFR, mientras que un estado de RAS wild-type es indicativo de respuesta al tratamiento.
 ### Localizado
+
+- Estadio II. La cirugía es el tratamiento estándar, seguido de:
+	- Bajo riesgo y MSI-H. Simple observación.
+	- Alto riesgo. [[CAPOX]]/[[FOLFOX]] por 3/6 meses.
+
+- Estadio III. 
+	- Bajo riesgo. [[CAPOX]] por 3 meses.
+	- Alto riesgo. [[FOLFOX]] por 6 meses.
+
+La clasificación de bajo/alto riesgo se guía por características clínicas que no son óptimas.
 
 ### Metastásico
 
