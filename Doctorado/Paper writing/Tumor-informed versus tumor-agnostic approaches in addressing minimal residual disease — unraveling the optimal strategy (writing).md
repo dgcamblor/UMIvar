@@ -24,17 +24,18 @@ tags:
 	- Protocol: [Circulating tumor DNA guided adjuvant chemotherapy in stage II colon cancer (MEDOCC-CrEATE): study protocol for a trial within a cohort study | BMC Cancer | Full Text](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-07252-y)
 	- Currently enrolling: search for more
 
+Throughout the literature, tumor-informed approaches have by far been the most frequently employed strategy.
+
 ### DYNAMIC trial (SafeSeqS approach)
 
 > Añadir sobre la capacidad de detección.
 > El primero de TIE van solo a por una y el segundo por al menos una??? revisar PUEDE QUE SÍ, PORQUE la sensibilidad de deteccion de ctdna es muy baja trackeando solo una mutaciñon.
 
-> Tumor-informed approaches have proven to be the most adopted 
+One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where postoperative ctDNA-positive status was related to higher risk of recurrence among those patients that were not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40). To discern the presence of ctDNA/MRD, the group initially studied FFPE tumor tissues in search for the variant with the highest allele frequency, using a targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Subsequently, those predominant variantes were tracked using personalized Safe-SeqS
 
 
-A growing body of research and clinical trial results has revealed the usefulness of tumor-informed approaches to MRD detection. 
 
-One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Afterwards, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with enhanced error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative ctDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40). Here, they also reported a sensitivity of 48% and a specificity of 100%, hinting at the need of tracking multiple variants in each patient [@tieCirculatingTumorDNA2016].
+where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Subsequently, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with enhanced error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative ctDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy Here, they also reported a sensitivity of 48% and a specificity of 100%, hinting at the need of tracking multiple variants in each patient [@tieCirculatingTumorDNA2016].
 
 > The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related clinical trials aimed at evidencing the benefit of ctDNA determination to guide the adjuvant therapy. These prospective studies —DYNAMIC, DYNAMIC-III and DYNAMIC-Rectal— randomized patients with CRC stage II, stage III and locally advanced rectal cancer after receiving surgery into two groups: patients receiving treatment according to their ctDNA status and patients receiving conventional treatment. To determine the ctDNA presence, the studies adopted the aforementioned Safe-SeqS tumor-informed approach.
 

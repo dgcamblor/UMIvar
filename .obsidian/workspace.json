@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Tratamientos/Tratamiento del CCR.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -220,6 +220,7 @@
   "active": "fc3b5487de937f44",
   "lastOpenFiles": [
     "Doctorado/Clinical relevance of ctDNA analysis.md",
+    "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
     "Biología y medicina/Oncología/Cáncer colorrectal.md",
     "Biología y medicina/Oncología/CAPOX.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
@@ -248,7 +249,6 @@
     "Otros/Adjuntos/Pasted image 20240214182751.png",
     "Otros/Adjuntos/Pasted image 20240214182408.png",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
     "Otros/Adjuntos/vaf_single.png",
     "Otros/Adjuntos/VAFs.tiff",
     "Otros/Adjuntos/Pasted image 20240213151244.png",
