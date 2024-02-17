@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e84fd879f202fedf",
+        "id": "fa48a8bbf864e1c5",
         "type": "tabs",
         "children": [
           {
-            "id": "fbb8d6e19b03c069",
+            "id": "f4b06f654f942fab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fbb8d6e19b03c069",
+  "active": "f4b06f654f942fab",
   "lastOpenFiles": [
-    "Notas diarias/2024-02-08.md",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Dashboard.md",
+    "Notas diarias/2024-02-08.md",
     "Otros/Plantillas/Daily note.md",
     "Untitled.md",
     "Medium/Writing on Medium.md",
@@ -200,7 +201,6 @@
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
     "Notas Diarias/2023-12-11.md",
     "Notas Diarias/2023-12-19.md",
-    "Notas Diarias/2023-11-27.md",
     "Notas de cursos",
     "Guías y referencias",
     "General",

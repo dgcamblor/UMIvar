@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "A hitchhiker's guide to bioinformatics — tips",
+      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+    },
+    {
       "basename": "2024-02-16",
       "path": "Notas diarias/2024-02-16.md"
     },
     {
       "basename": "2024-02-15",
       "path": "Notas diarias/2024-02-15.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2024-02-12",
@@ -195,10 +199,6 @@
     {
       "basename": "How to Focus to Change Your Brain",
       "path": "Notas de vídeos/How to Focus to Change Your Brain.md"
-    },
-    {
-      "basename": "The Science of Making & Breaking Habits",
-      "path": "Notas de vídeos/The Science of Making & Breaking Habits.md"
     }
   ],
   "omittedPaths": [],
