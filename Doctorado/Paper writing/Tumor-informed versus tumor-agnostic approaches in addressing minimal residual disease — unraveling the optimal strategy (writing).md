@@ -31,11 +31,7 @@ Throughout the literature, tumor-informed approaches have by far been the most f
 > Añadir sobre la capacidad de detección.
 > El primero de TIE van solo a por una y el segundo por al menos una??? revisar PUEDE QUE SÍ, PORQUE la sensibilidad de deteccion de ctdna es muy baja trackeando solo una mutaciñon.
 
-One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where postoperative ctDNA-positive status was related to higher risk of recurrence among those patients that were not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40). To discern the presence of ctDNA/MRD, the group initially studied FFPE tumor tissues in search for the variant with the highest allele frequency, using a targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Subsequently, those predominant variantes were tracked using personalized Safe-SeqS
-
-
-
-where ctDNA detection after resection showed higher risk of recurrence as determined by a CT scan. Initially, the variant with the highest allele frequency in FFPE tumor tissue was determined for each patient using targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Subsequently, those variants were tracked using a personalized Safe-SeqS assay, an UMI-based approach that enables deep sequencing with enhanced error correction [@kindeDetectionQuantificationRare2011]. Patients were then classified as ctDNA-positive or -negative, depending on the finding of said mutations in plasma. The results showed that postoperative ctDNA-positive status was related to higher risk of recurrence among patients not treated with adjuvant chemotherapy Here, they also reported a sensitivity of 48% and a specificity of 100%, hinting at the need of tracking multiple variants in each patient [@tieCirculatingTumorDNA2016].
+One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where postoperative ctDNA-positive status was related to higher risk of recurrence among those patients that were not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40). To discern the presence of ctDNA/MRD, the group initially studied FFPE tumor tissues in search for the variant with the highest allele frequency, using a targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Subsequently, those predominant variants were tracked using personalized Safe-SeqS assays, which rely on the use of Unique Molecular Identifiers (UMIs) to enable enhanced error correction and calling of low frequency variants [@kindeDetectionQuantificationRare2011]. The finding of said mutations was used as the criterion for patient classification into ctDNA-positive or -negative groups. This initial approximation rendered a sensitivity of 48% and a specificity of 100% for predicting recurrence at a timepoint of 36 months, which pointed to the great capacity of tumor-informed assays to discard MRD and hinted at the need of tracking multiple variants in each patient for increasing sensitivity [@tieCirculatingTumorDNA2016].
 
 > The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related clinical trials aimed at evidencing the benefit of ctDNA determination to guide the adjuvant therapy. These prospective studies —DYNAMIC, DYNAMIC-III and DYNAMIC-Rectal— randomized patients with CRC stage II, stage III and locally advanced rectal cancer after receiving surgery into two groups: patients receiving treatment according to their ctDNA status and patients receiving conventional treatment. To determine the ctDNA presence, the studies adopted the aforementioned Safe-SeqS tumor-informed approach.
 
@@ -116,7 +112,7 @@ Few studies have directly compared both approaches.
 
 [brPROPHET May Better Detect ctDNA and Identify MRD in Colorectal Cancer](https://www.targetedonc.com/view/brprophet-may-better-detect-ctdna-and-identify-mrd-in-colorectal-cancer)
 
-### 1. Genomics
+### 1. Breakthroughs in ctDNA genomics
 
 The advent of efficiency improvements in sequencing technologies and the development of new bioinformatic methods have enabled less costly assessments of greater genome regions.
 
@@ -170,7 +166,7 @@ EC:
 
 The potential of 
 
-### 2. Liquid Biopsy Technologies
+### 3. Potential new biomarkers in liquid biopsy
 
 
 Other liquid biopsy analytes beyond ctDNA have begun to be explored to address minimal residual disease, mostly in a tumor-agnostic fashion. A promising biomarker are circulating tumor cells (CTCs) —
