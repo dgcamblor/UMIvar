@@ -5,6 +5,10 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "IMPROVE-IT2 trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-10",
       "path": "Notas diarias/2024-02-10.md"
-    },
-    {
-      "basename": "How to Prevent & Treat Colds & Flu",
-      "path": "Notas de vídeos/How to Prevent & Treat Colds & Flu.md"
     }
   ],
   "omittedPaths": [],
