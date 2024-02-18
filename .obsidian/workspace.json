@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9fe3e33518f6040",
+        "id": "e14cb59ffec51246",
         "type": "tabs",
         "children": [
           {
-            "id": "fc3b5487de937f44",
+            "id": "dd734fe8dd579feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,15 +217,15 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "fc3b5487de937f44",
+  "active": "dd734fe8dd579feb",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
     "Biología y medicina/Oncología/Cáncer colorrectal.md",
     "Biología y medicina/Oncología/CAPOX.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas diarias/2024-02-17.md",
-    "Dashboard.md",
     "Notas diarias/2024-02-15.md",
     "Notas diarias/2024-02-16.md",
     "Notas diarias/2024-02-12.md",

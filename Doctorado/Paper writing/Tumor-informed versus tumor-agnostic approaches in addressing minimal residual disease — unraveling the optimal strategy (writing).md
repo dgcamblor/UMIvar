@@ -24,7 +24,7 @@ tags:
 	- Protocol: [Circulating tumor DNA guided adjuvant chemotherapy in stage II colon cancer (MEDOCC-CrEATE): study protocol for a trial within a cohort study | BMC Cancer | Full Text](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-07252-y)
 	- Currently enrolling: search for more
 
-Throughout the literature, tumor-informed approaches have by far been the most frequently employed strategy.
+Throughout the literature, tumor-informed approaches have by far been the most frequently employed strategy to assess the presence of ctDNA an MRD.
 
 ### SafeSeqS approach: the DYNAMIC studies
 
@@ -51,6 +51,8 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 Several other studies have explored the potential of assessing tumor mutations to inform the tracking of MRD via ctDNA.
 
 Reinert et al. used Signatera, which relies on WES as opposed to PCR-amplicon based methods to characterize the tumor tissue
+
+### WES tissue characterization: Signatera
 
 
 

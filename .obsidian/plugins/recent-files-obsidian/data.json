@@ -5,6 +5,10 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Clinical relevance of ctDNA analysis",
       "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "2024-02-17",
       "path": "Notas diarias/2024-02-17.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "A hitchhiker's guide to bioinformatics — tips",
