@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Detection of CRC-specific methylation profiles",
+      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
+    },
+    {
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Improving INCLIVA ctDNA WES pipeline",
+      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "Methylation in CRC",
+      "path": "Doctorado/Methylation in CRC.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "MRD ctDNA assays in CRC",
+      "path": "Doctorado/MRD ctDNA assays in CRC.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials in CRC",
+      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
+      "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
+    },
+    {
+      "basename": "Clinical relevance of ctDNA analysis",
+      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
+    },
+    {
+      "basename": "ctDNA methylation overview",
+      "path": "Doctorado/ctDNA methylation overview.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
@@ -11,10 +79,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "Clinical relevance of ctDNA analysis",
-      "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
     },
     {
       "basename": "Tratamiento del CCR",
@@ -59,10 +123,6 @@
     {
       "basename": "2024-01-14",
       "path": "Notas diarias/2024-01-14.md"
-    },
-    {
-      "basename": "Líneas de investigación y estudios de interés",
-      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
     },
     {
       "basename": "CORRECT-MRD II",
@@ -139,66 +199,6 @@
     {
       "basename": "Conda",
       "path": "Bioinformática y programación/Programas/Conda.md"
-    },
-    {
-      "basename": "Reference genome indexing",
-      "path": "Bioinformática y programación/Ómicas/Reference genome indexing.md"
-    },
-    {
-      "basename": "Bisulfite conversion processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
-      "basename": "Differential methylation (DM) analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
-    },
-    {
-      "basename": "2024-01-30",
-      "path": "Notas diarias/2024-01-30.md"
-    },
-    {
-      "basename": "Alignment in epigenomics processing",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
-    },
-    {
-      "basename": "FASTQ quality control",
-      "path": "Bioinformática y programación/Ómicas/FASTQ quality control.md"
-    },
-    {
-      "basename": "2024-01-29",
-      "path": "Notas diarias/2024-01-29.md"
-    },
-    {
-      "basename": "methylKit",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
-    },
-    {
-      "basename": "GitHub",
-      "path": "Bioinformática y programación/GitHub.md"
-    },
-    {
-      "basename": "Reference genome",
-      "path": "Notas diarias/Reference genome.md"
-    },
-    {
-      "basename": "nf-core",
-      "path": "Bioinformática y programación/nf-core.md"
-    },
-    {
-      "basename": "Signatera",
-      "path": "Notas de charlas/Signatera.md"
-    },
-    {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
-      "basename": "COBRA trial",
-      "path": "Doctorado/Clinical trials/COBRA trial.md"
-    },
-    {
-      "basename": "2024-02-10",
-      "path": "Notas diarias/2024-02-10.md"
     }
   ],
   "omittedPaths": [],

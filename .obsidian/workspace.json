@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md"
               }
             }
           },
@@ -219,10 +219,25 @@
   },
   "active": "dd734fe8dd579feb",
   "lastOpenFiles": [
-    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Dashboard.md",
+    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+    "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
+    "Doctorado/Líneas de investigación y estudios de interés.md",
+    "Doctorado/Methylation and drug resistance.md",
+    "Doctorado/Methylation in CRC.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/MRD ctDNA assays in CRC.md",
+    "Doctorado/MRD ctDNA clinical trials in CRC.md",
+    "Doctorado/PhD dashboard.md",
+    "Doctorado/Possible controls for ctDNA methylation.md",
+    "Doctorado/Research caveats.md",
+    "Doctorado/Revistas de interés.md",
+    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Doctorado/Clinical relevance of ctDNA analysis.md",
+    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
+    "Doctorado/ctDNA methylation overview.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+    "Dashboard.md",
     "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
     "Biología y medicina/Oncología/Cáncer colorrectal.md",
     "Biología y medicina/Oncología/CAPOX.md",
@@ -230,23 +245,8 @@
     "Notas diarias/2024-02-15.md",
     "Notas diarias/2024-02-16.md",
     "Notas diarias/2024-02-12.md",
-    "Notas diarias/2024-02-13.md",
-    "Notas diarias/2024-02-14.md",
-    "Notas diarias/2024-01-14.md",
-    "Doctorado/Líneas de investigación y estudios de interés.md",
-    "Doctorado/Clinical trials/CORRECT-MRD II.md",
-    "Doctorado/Clinical trials/ASCOLT trial.md",
-    "Doctorado/Assays/Guardant Reveal.md",
-    "Bioinformática y programación/Programas/bcftools.md",
-    "Notas diarias/0-based vs. 1-based coordinate systems.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
-    "Notas diarias/2024-02-01.md",
-    "Notas diarias/2024-02-02.md",
-    "Notas diarias/2024-02-07.md",
     "Notas diarias/2024-02-14.md.partial",
-    "Bioinformática y programación/Ómicas/Genomic general resources.md",
-    "Tareas.md",
-    "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
     "Otros/Adjuntos/Pasted image 20240214182751.png",
     "Otros/Adjuntos/Pasted image 20240214182408.png",
     "Otros/Adjuntos/vaf_single.png",

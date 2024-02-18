@@ -11,6 +11,10 @@ tags:
 > In recently presented results, however, the [[COBRA trial]] was not able to meet its primary endpoint, and was promptly stopped due to futility in achieving statistical significance [@morrisPhaseIIResults2024].
 ### Methylation
 
+[Efficient detection and post-surgical monitoring of colon cancer with a multi-marker DNA methylation liquid biopsy | PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2017421118)
+
+Taieb, J.; Taly, V.; Henriques, J.; Bourreau, C.; Mineur, L.; Bennouna, J.; Desrame, J.; Louvet, C.; Lepere, C.; Mabro, M.; et al. Prognostic value and relation with adjuvant treatment duration of ctDNA in stage III colon cancer: A post-hoc analysis of the PRODIGE-GERCOR IDEA-France trial. Clin. Cancer Res. 2021. [CrossRef] [PubMed]
+
 > Initial studies have explored the potential of single biomarker genes for methylation. (Then, GUARDANT)
 
 [Response prediction by mutation- or methylation-specific detection of ctDNA dynamics in pretreated metastatic colorectal cancer - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10541738/)

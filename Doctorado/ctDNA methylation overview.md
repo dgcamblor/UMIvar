@@ -54,7 +54,7 @@ Studies: [[ctDNA methylation studies — methodologies and results#cfMeDIP]].
 
 MSP is based on the use of two distinct methylation-specific primer sets for detecting the DNA of interest. The methylated primer will amplify bisulfite converted methylated DNA and untreated DNA, while the unmethylated primer is specific for bisulfite converted DNA in an unmethylated condition [@huangCellFreeDNAMethylation2019].
 
-## Relevancia clínica en los procedimientos oncológicos
+## Clinical relevance in different settings
 ### Early diagnosis
 
 Aberrant DNA methylation, in comparison with DNA mutations, has a series of specific advantages that make them more suitable for early cancer detection [@royDiagnosticPowerDNA2020]:
@@ -74,6 +74,8 @@ A good review of current diagnostic tests can be found at: [@royDiagnosticPowerD
 - Epi proColon (see [[ctDNA methylation in CRC — biomarkers]]).
 - Cologuard
 - (...)
+
+One study was able to predict cancer versus normal tissue with more than 95% accuracy in three cohorts.
 ### Tumor-specific methylation detection
 
 As I well know, the ctDNA concentration in cfDNA is generally low in cancer patients. The most promising approach to detect the specific ctDNA methylation patterns is to recover the tumor signal by using **deconvolution algorithms**. 
@@ -84,7 +86,9 @@ Consult more studies in [@huangCellFreeDNAMethylation2019]. #check
 
 ### Detection of the tissue-of-origin
 
-**The pattern of cfDNA methylation is consistent with their originated cells or tissues [@huangCellFreeDNAMethylation2019, @lianidouDetectionRelevanceEpigenetic2021].** Therefore, it can be used to infer the underlying cell type via **deconvolution methods**, and could be used to infer cancer subtypes (with implications in prognosis and treatment). #insight
+**The pattern of cfDNA methylation is consistent with their originated cells or tissues [@huangCellFreeDNAMethylation2019, @lianidouDetectionRelevanceEpigenetic2021].** Therefore, it can be used to infer the underlying cell type via **deconvolution methods**, and it could be used to infer cancer subtypes (with implications in prognosis and treatment). #insight
+
+The tumor growth destroys cells from the normal tissue and therefore increases the cfDNA fraction pertaining to that specific tissue.
 
 ### Detection of Minimal Residual Disease (MRD)
 
