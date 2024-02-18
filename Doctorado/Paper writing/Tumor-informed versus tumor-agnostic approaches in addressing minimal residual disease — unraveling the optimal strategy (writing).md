@@ -63,8 +63,6 @@ A growing body of research has
 
 Studies using non-commercial tumor-informed assays have also rendered insightful results.
 
-[Un momento…](https://www.researchgate.net/publication/361320611_Abstract_1959_Sensitive_detection_of_circulating_tumor_DNA_by_whole_genome_sequencing_Validation_of_MRDetect_using_serial_blood_samples_from_stage_III_colorectal_cancer_patients) -> Claus Lindbjerg, MRDdetect
-
 
 Other studies that have since relied on custom
 
@@ -121,16 +119,25 @@ The advent of efficiency improvements in sequencing technologies and the develop
 
 #### WES for better tumor tissue characterization
 
+Whole exome sequencing (WES) has become a prominent method for variant characterization; this approach aims at capturing the entire coding regions of the genome, which are the most relevant for the tumor landscape. Thus, WES currently represents a good trade-off between the relevance of the genomic regions analyzed and the coverture needed for low-frequency variant determination. 
+
+
+
 As described before, many large-scale prospective clinical trials are being conducted that use Signatera as their method of choice for MRD-ctDNA detection, which will 
 
 #### WES in ctDNA characterization
 
+On the ctDNA front, the use of WES has also been explored in the context of MRD detection. Studies point to a great concordance of WES in circulating tumor DNA an tumor tissue
+
 #### WGS
+
+Whole-genome sequencing (WGS) has also began to be explored in tumor-informed approaches. MRD-Detect is a... [@zviranGenomewideCellfreeDNA2020]
+
+[Un momento…](https://www.researchgate.net/publication/361320611_Abstract_1959_Sensitive_detection_of_circulating_tumor_DNA_by_whole_genome_sequencing_Validation_of_MRDetect_using_serial_blood_samples_from_stage_III_colorectal_cancer_patients) -> Claus Lindbjerg, MRDdetect
 
 #### Signatera assay: GALAXY trial and BESPOKE trial
 
 
-Whole Exome Sequencing currently represents a good trade-off between the relevance of the genomic regions analyzed and the coverture needed for low-frequency variant determination.
 
 
 > Each target can achieve an average depth of 100,000x with ultra‑deep sequencing, and this approach has exhibited a sensitivity >98% at 0.01‑0.02% ctDNA concentrations (60). [@chenDetectingLiquidRemnants2023]
@@ -141,27 +148,14 @@ One key study that employs this approach in CRC is the GALAXY trial (UMIN0000392
 
 Signatera is currently also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study aims to track the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
 
-Whole-genome sequencing (WGS) has also began to be explored in tumor-informed approaches. MRD-Detect is a... [@zviranGenomewideCellfreeDNA2020]
-
-
 > NGS development has also enabled the increase in the size of tumor-agnostic panels, leading to a more relevant capturing of the tumor genomic landscape. However, it is clear 
-> 
-> 
-> On the contrary, although increases in panel size have been made, across-the-genome techniques 
-
-
-> The promise of whole genome sequencing remains to be explored.
 
 ### 2. Epigenomics and beyond
 
-Although genetic variants are by far the most assessed marker for detecting ctDNA-MRD, an increasing part of the attention has shifted to exploring the epigenomic landscape of ctDNA and, in particular, methylation. Indeed, aberrant methylation is a major player in tumorigenesis that, in contrast to tumor mutations, appears to be more consistent across tumors from different patients and stages [@garrigouStudyHypermethylatedCirculating2016; @haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. As a consequence, these biomarkers hold great value for tumor-agnostic approaches.
+Although genetic variants are by far the most assessed marker for detecting ctDNA-MRD, an increasing part of the attention has shifted to exploring the epigenomic landscape of ctDNA and, in particular, methylation. Indeed, aberrant methylation is a major player in tumorigenesis that, in contrast to tumor mutations, appears to be more consistent across tumors from different patients and stages [@garrigouStudyHypermethylatedCirculating2016; @haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. As it can be inferred, the study of the methylome is promising for the agnostic assessment of MRD, in which sensitivity of detection is often hindered by the heterogeneity of the tumor mutational landscape.
 
 
-
-Aberrant methylation is one of the earliest changes that occurs 
-
-> Although ctDNA genomics have by far been the most characterized aspect of this biomarker, an increasing part of the attention has shifted to exploring the epigenomics.
-
+Ou
 > Talk about Guardant Reveal and Guardant Infinity, which presents results in ASCO 2024, COSMOS study. ### Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence [Guardant Health, Inc. - Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence](https://investors.guardanthealth.com/press-releases/press-releases/2024/Guardant-Health-to-present-data-at-ASCO-GI-supporting-use-of-liquid-biopsy-to-predict-colon-cancer-recurrence/default.aspx)
 
 > The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.
