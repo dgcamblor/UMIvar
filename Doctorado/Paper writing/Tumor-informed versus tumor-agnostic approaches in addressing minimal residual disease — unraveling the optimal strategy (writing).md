@@ -3,11 +3,12 @@ tags:
   - paper
   - phd
 ---
-> In recently presented results, however, the [[COBRA trial]] was not able to meet its primary endpoint, and was promptly stopped due to futility in achieving statistical significance [@morrisPhaseIIResults2024].
+
 ## II. Tumor-agnostic strategies
 
 > —also termed tumor-uninformed or tumor-naïve—
 
+> In recently presented results, however, the [[COBRA trial]] was not able to meet its primary endpoint, and was promptly stopped due to futility in achieving statistical significance [@morrisPhaseIIResults2024].
 ### Methylation
 
 > Initial studies have explored the potential of single biomarker genes for methylation. (Then, GUARDANT)
@@ -15,6 +16,8 @@ tags:
 [Response prediction by mutation- or methylation-specific detection of ctDNA dynamics in pretreated metastatic colorectal cancer - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10541738/)
 
 ## III. Tumor-informed strategies
+
+![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Tumor-informed]]
 
 | Study | Approach | Sensitivity | Specificity | Cohort |
 | ---- | ---- | ---- | ---- | ---- |
@@ -35,10 +38,7 @@ One of the earliest key studies that supported this approach was led by Tie et a
 
 The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related clinical trials aimed at evidencing the benefit of ctDNA determination to guide the adjuvant therapy. These prospective studies —DYNAMIC, DYNAMIC-III and DYNAMIC-Rectal— randomized patients with CRC stage II, stage III and locally advanced rectal cancer after receiving surgery into two groups: patients receiving treatment according to their ctDNA status and patients receiving conventional treatment. To determine the presence of ctDNA, the studies adopted the aforementioned Safe-SeqS tumor-informed approach.
 
-The DYNAMIC trial revealed the non-inferiority 
-
-
-The DYNAMIC trial was the first to reveal insightful results 
+The DYNAMIC trial has revealed insightful results 
 
 
 The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000381583), which further studied the possibility of using the postoperative ctDNA status as a basis for making treatment decisions for patients with CRC stage II. By random assignment, patients were assigned to an standard management group (n = 153) or a ctDNA-guided management group (n = 302). In this approximation, patients that were ctDNA-positive at 4 or 7 weeks after surgery were recommended to receive adjuvant oxaliplatin- or fluoropyrimidine-based chemotherapy. Conversely, patients testing negative for ctDNA did not receive adjuvant chemotherapy. The RFS for the ctDNA-guided group was comparable to that of the standard management group (93.5% vs. 92.4%), indicating the suitability of chemotherapy reduction in ctDNA negative patients [@tieCirculatingTumorDNA2022].
@@ -52,20 +52,15 @@ Several other studies have explored the potential of assessing tumor mutations t
 
 Reinert et al. used Signatera, which relies on WES as opposed to PCR-amplicon based methods to characterize the tumor tissue
 
-### WES tissue characterization: Signatera
+### WES in tissue characterization: Signatera
 
+> Each target can achieve an average depth of 100,000x with ultra‑deep sequencing, and this approach has exhibited a sensitivity >98% at 0.01‑0.02% ctDNA concentrations (60). [@chenDetectingLiquidRemnants2023]
 
+The Signatera (Natera) assay has currently become a prominent advocate of the tumor-informed approach, and best exemplifies the harnessing of NGS in this strategy. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach, which is a step beyond the targeted sequencing used by previous studies. A set of 16 or more mutations is worked out and subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is then used to detect ctDNA and monitorize MRD [@SignateraOverview]. The current evidence of its clinical utility has earned it the designation of Breakthrough Device by the Food and Drug Administration in the United States.
 
+One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
 
-![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Tumor-informed]]
-
-A growing body of research has 
-
-Studies using non-commercial tumor-informed assays have also rendered insightful results.
-
-
-Other studies that have since relied on custom
-
+Signatera is currently also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study aims to track the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
 
 
 [Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)
@@ -106,8 +101,8 @@ Few studies have directly compared both approaches.
 - CTCs
 - Imaging techniques (?) (guided by AI?)
 
-> 1. NGS -> Signatera and WES approach. brPROPHET
-> 2. Epigenomics and beyond -> LUNAR-1, Guardant Health (ECLIPSE trial, failure of COBRA, etc.). Incorporation of other molecular markers cfRNA, miRNA...
+
+
 > 3. Liquid biopsy -> CTCs
 > 4. Imaging techniques, guided by AI.
 
@@ -119,43 +114,30 @@ The advent of efficiency improvements in sequencing technologies and the develop
 
 #### WES for better tumor tissue characterization
 
+> 1. NGS -> Signatera and WES approach. brPROPHET
+
 Whole exome sequencing (WES) has become a prominent method for variant characterization; this approach aims at capturing the entire coding regions of the genome, which are the most relevant for the tumor landscape. Thus, WES currently represents a good trade-off between the relevance of the genomic regions analyzed and the coverture needed for low-frequency variant determination. 
 
-
-
-As described before, many large-scale prospective clinical trials are being conducted that use Signatera as their method of choice for MRD-ctDNA detection, which will 
+Signatera. As described before, many large-scale prospective clinical trials are being currently conducted that use Signatera as their method of choice for MRD-ctDNA detection (GALAXY, BESPOKE CRC), which will provide further validation of the method.
 
 #### WES in ctDNA characterization
 
-On the ctDNA front, the use of WES has also been explored in the context of MRD detection. Studies point to a great concordance of WES in circulating tumor DNA an tumor tissue
+On the ctDNA end of tumor characterization, the use of WES has also been explored in the context of MRD detection. Studies point to a great concordance of WES in circulating tumor DNA an tumor tissue, while better attending to intratumoral heterogeneity [@leenanitikulConcordanceWholeExome2023].
 
+> Cite more papers
 #### WGS
 
 Whole-genome sequencing (WGS) has also began to be explored in tumor-informed approaches. MRD-Detect is a... [@zviranGenomewideCellfreeDNA2020]
 
 [Un momento…](https://www.researchgate.net/publication/361320611_Abstract_1959_Sensitive_detection_of_circulating_tumor_DNA_by_whole_genome_sequencing_Validation_of_MRDetect_using_serial_blood_samples_from_stage_III_colorectal_cancer_patients) -> Claus Lindbjerg, MRDdetect
 
-#### Signatera assay: GALAXY trial and BESPOKE trial
-
-
-
-
-> Each target can achieve an average depth of 100,000x with ultra‑deep sequencing, and this approach has exhibited a sensitivity >98% at 0.01‑0.02% ctDNA concentrations (60). [@chenDetectingLiquidRemnants2023]
-
-The Signatera (Natera) assay has currently become a prominent advocate of the tumor-informed approach, and best exemplifies the harnessing of NGS in this strategy. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach, which is a step beyond the targeted sequencing used by previous studies. A set of 16 or more mutations is worked out and subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR, which is then used to detect ctDNA and monitorize MRD [@SignateraOverview]. The current evidence of its clinical utility has earned it the designation of Breakthrough Device by the Food and Drug Administration in the United States.
-
-One key study that employs this approach in CRC is the GALAXY trial (UMIN000039205), part of the CIRCULATE-Japan study. Here, a cohort of 1039 patients with resectable CRC (stages II-IV) was subject to an observational study, with postoperative ctDNA status determination and follow-up to a median of 16.74 months. After surgery, the ctDNA status was used as the criterion for patient assignment to one of two related clinical trials: patients that tested positive for ctDNA were assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients were assigned to the VEGA trial, studying the noninferiority of treatment deescalation. The ctDNA determination exhibited prognostic value, with patients that tested positive at 4 weeks after surgery showing an increased risk of recurrence (HR = 10.0) [@kotaniMolecularResidualDisease2023].
-
-Signatera is currently also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study aims to track the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients.
-
-> NGS development has also enabled the increase in the size of tumor-agnostic panels, leading to a more relevant capturing of the tumor genomic landscape. However, it is clear 
-
 ### 2. Epigenomics and beyond
+
+> 2. Epigenomics and beyond -> LUNAR-1, Guardant Health (ECLIPSE trial, failure of COBRA, etc.). Incorporation of other molecular markers cfRNA, miRNA...
 
 Although genetic variants are by far the most assessed marker for detecting ctDNA-MRD, an increasing part of the attention has shifted to exploring the epigenomic landscape of ctDNA and, in particular, methylation. Indeed, aberrant methylation is a major player in tumorigenesis that, in contrast to tumor mutations, appears to be more consistent across tumors from different patients and stages [@garrigouStudyHypermethylatedCirculating2016; @haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. As it can be inferred, the study of the methylome is promising for the agnostic assessment of MRD, in which sensitivity of detection is often hindered by the heterogeneity of the tumor mutational landscape.
 
 
-Ou
 > Talk about Guardant Reveal and Guardant Infinity, which presents results in ASCO 2024, COSMOS study. ### Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence [Guardant Health, Inc. - Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence](https://investors.guardanthealth.com/press-releases/press-releases/2024/Guardant-Health-to-present-data-at-ASCO-GI-supporting-use-of-liquid-biopsy-to-predict-colon-cancer-recurrence/default.aspx)
 
 > The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.
