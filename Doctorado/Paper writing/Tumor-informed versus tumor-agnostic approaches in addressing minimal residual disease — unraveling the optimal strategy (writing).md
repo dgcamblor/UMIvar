@@ -42,7 +42,7 @@ One approximation extended among the initial studies that assessed ctDNA as a pr
 rack the presence of ctDNA in a cohort of 118 patients, aiming to evaluate the presence of large structural variants
 
 
-The use of ddPCR for the detection of ctDNA is still a method of choice in current research. A recent prospective study in a large cohort of 851 CRC patients stage II-III performed whole-exome sequencing (WES) on tumor tissue and tracked patient specific mutations via ddPCR. Notably, ctDNA detection was based on the consensus of a set of ctDNA-calling algorithms, which they further leveraged in a sub-analysis to establish calling profiles of different trade-offs between sensitivity and specificity.
+The use of ddPCR for the detection of ctDNA is still a method of choice in current research. A recent prospective study in a large cohort of 851 CRC patients stage II-III performed whole-exome sequencing (WES) on tumor tissue and tracked patient specific mutations via ddPCR. Notably, ctDNA detection was based on the consensus of a set of ctDNA-calling algorithms. At the landmark timepoint (a median of 21 days after surgery), this approach reported a sensitivity of 35% and a specificity of 98%.
 
 Several other studies have explored the potential of assessing tumor mutations to inform the tracking of MRD via ctDNA.
 
