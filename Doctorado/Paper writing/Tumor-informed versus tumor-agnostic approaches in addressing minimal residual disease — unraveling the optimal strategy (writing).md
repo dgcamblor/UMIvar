@@ -35,8 +35,14 @@ Throughout the literature, tumor-informed approaches have by far been the most f
 
 ### ddPCR 
 
+One approximation extended among the initial studies that assessed ctDNA as a proxy for MRD detection was the use of droplet digital PCR (ddPCR) to track the presence of specific mutations previously identified in the tumor tissue. A pioneer study by Reinert et al. used a ddPCR-based approach to evaluate the presence of large structural variants found in the tumor tissue in a cohort of 118 patients. Although both the sensitivity and specificity reported for the prediction of recurrence were of 100%, they were based on 6 relapsing and 5-non relapsing patients, which made difficult to draw conclusions by itself. However, the analysis of CEA —the gold-standard biomarker for MRD detection— in the same patients rendered a sensitivity and a specificity of 67% and 100%, respectively, which hinted at a trend that would be later confirmed by larger studies [@reinertAnalysisCirculatingTumour2016].
 
 
+
+rack the presence of ctDNA in a cohort of 118 patients, aiming to evaluate the presence of large structural variants
+
+
+The use of ddPCR for the detection of ctDNA is still a popular choice. A recent prospective study in a large cohort of 851 CRC patients stage II-III performed whole-exome sequencing (WES) 
 
 Several other studies have explored the potential of assessing tumor mutations to inform the tracking of MRD via ctDNA.
 
@@ -47,9 +53,11 @@ Reinert et al. used Signatera, which relies on WES as opposed to PCR-amplicon ba
 > Añadir sobre la capacidad de detección.
 > El primero de TIE van solo a por una y el segundo por al menos una??? revisar PUEDE QUE SÍ, PORQUE la sensibilidad de deteccion de ctdna es muy baja trackeando solo una mutaciñon.
 
+The NGS-based assessment of ctDNA has captured most of the attention of the current literature
+
 One of the earliest key studies that supported this approach was led by Tie et al., and was performed in a prospective cohort of 230 CRC stage II patients (trial ACTRN12612000326897), where postoperative ctDNA-positive status was related to higher risk of recurrence among those patients that were not treated with adjuvant chemotherapy (HR = 18; 95%CI = 7.9-40). To discern the presence of ctDNA/MRD, the group initially studied FFPE tumor tissues in search for the variant with the highest allele frequency, using a targeted multiplex PCR aiming for 15 genes relevant to CRC cancer. Subsequently, those predominant variants were tracked using personalized Safe-SeqS assays, which rely on the use of Unique Molecular Identifiers (UMIs) to enable enhanced error correction and calling of low frequency variants [@kindeDetectionQuantificationRare2011]. The finding of said mutations was used as the criterion for patient classification into ctDNA-positive or -negative groups. This initial approximation rendered a sensitivity of 48% and a specificity of 100% for predicting recurrence at a timepoint of 36 months, which pointed to the great capacity of tumor-informed assays to discard MRD and hinted at the need of tracking multiple variants in each patient for increasing sensitivity [@tieCirculatingTumorDNA2016].
 
-The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related clinical trials aimed at evidencing the benefit of ctDNA determination to guide the adjuvant therapy: escalation of treatment in ctDNA-positive patients and de-escalation in ctDNA-negative patients. These prospective interventional studies —DYNAMIC, DYNAMIC-III and DYNAMIC-Rectal— assess patients with CRC stage II, stage III and locally advanced rectal cancer, respectively, which undergo randomization after surgery into one of two groups: patients receiving treatment according to their ctDNA status and patients receiving conventional treatment. Importantly, to determine the presence of ctDNA, the studies adopted the aforementioned Safe-SeqS tumor-informed approach.
+The growing evidence for the clinical utility of ctDNA in the postoperative setting encouraged the same group to conduct a series of related clinical trials aimed at evidencing the benefit of a ctDNA-guided handling of the adjuvant therapy, comprised of treatment escalation in ctDNA-positive patients and de-escalation in ctDNA-negative patients. These prospective interventional studies —DYNAMIC, DYNAMIC-III and DYNAMIC-Rectal— assess patients with CRC stage II, stage III and locally advanced rectal cancer, respectively, which undergo randomization after surgery into one of two groups: patients receiving treatment according to their ctDNA status and patients receiving conventional treatment. Importantly, to determine the presence of ctDNA, the studies adopted the aforementioned Safe-SeqS tumor-informed approach.
 
 The DYNAMIC trial has revealed insightful results about 
 
