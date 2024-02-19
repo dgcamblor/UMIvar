@@ -9,6 +9,10 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
     },
     {
+      "basename": "MultiQC",
+      "path": "Bioinformática y programación/Ómicas/MultiQC.md"
+    },
+    {
       "basename": "Chimeric alignment",
       "path": "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Guardant Reveal",
       "path": "Doctorado/Assays/Guardant Reveal.md"
-    },
-    {
-      "basename": "bcftools",
-      "path": "Bioinformática y programación/Programas/bcftools.md"
     }
   ],
   "omittedPaths": [],
