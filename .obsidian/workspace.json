@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-19.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 200
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-19.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-19.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-19.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-19.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
               }
             }
           },
@@ -219,8 +219,21 @@
   },
   "active": "5b3ae2979b929f62",
   "lastOpenFiles": [
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md",
+    "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md",
+    "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
+    "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md",
+    "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
+    "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md",
+    "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
+    "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md",
+    "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
+    "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md",
+    "Bioinformática y programación/Ómicas/Genómica/cutadapt.md",
+    "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
+    "Bioinformática y programación/R/annotatr.md",
     "Notas diarias/2024-02-19.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Dashboard.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
@@ -232,19 +245,6 @@
     "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/PhD dashboard.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
-    "Doctorado/Research caveats.md",
-    "Doctorado/Revistas de interés.md",
-    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
-    "Doctorado/Clinical relevance of ctDNA analysis.md",
-    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
-    "Doctorado/ctDNA methylation overview.md",
-    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
-    "Biología y medicina/Oncología/Cáncer colorrectal.md",
-    "Biología y medicina/Oncología/CAPOX.md",
-    "Notas diarias/2024-02-17.md",
-    "Notas diarias/2024-02-15.md",
-    "Notas diarias/2024-02-16.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

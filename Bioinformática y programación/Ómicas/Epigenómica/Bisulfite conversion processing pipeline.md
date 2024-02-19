@@ -80,6 +80,12 @@ If using a [[Directional vs. non-directional bisulfite-converted libraries#Direc
 
 Additional reference: [@kimMsPIPEPipelineAnalysis2022].
 
+## Differential methylation analysis
+
+Finally, the called methylation is subject to [[Differential methylation (DM) analysis]].
+
+![[Differential methylation (DM) analysis]]
+
 ## Methylation annotation
 
 The genomic sites/regions of interest, such as individual CpGs, differentially methylated CpGs or regions, etc., must be annotated in order to gain functional insights. For this purpose, one can use:
@@ -87,13 +93,7 @@ The genomic sites/regions of interest, such as individual CpGs, differentially m
 - [[annotatr]] (R package)
 - [[methylKit]] 
 - methylGSA. Approaches: ORA, GSEA.
-
-
-## Differential methylation analysis
-
-Finally, the called methylation is subject to [[Differential methylation (DM) analysis]].
-
-![[Differential methylation (DM) analysis]]
+- Manual annotation of CpG islands using the UCSC table browser. Group -> Regulation; Track -> CpG Islands.
 
 ## Data visualization
 

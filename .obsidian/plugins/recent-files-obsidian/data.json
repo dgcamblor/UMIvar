@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Bisulfite conversion processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+    },
+    {
+      "basename": "Bisulfite vs. enrichment pipelines",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
+    },
+    {
+      "basename": "Chimeric alignment",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md"
+    },
+    {
+      "basename": "Base Quality Score Recalibration",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
+    },
+    {
+      "basename": "BAMClipper",
+      "path": "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md"
+    },
+    {
+      "basename": "Amino acid code",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
+    },
+    {
+      "basename": "Primer removal alternatives",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md"
+    },
+    {
+      "basename": "mosdepth",
+      "path": "Bioinformática y programación/Ómicas/Genómica/mosdepth.md"
+    },
+    {
+      "basename": "Liquid biopsy SEQC2",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
+    },
+    {
+      "basename": "Hard-clipped",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md"
+    },
+    {
+      "basename": "Genome mapping",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md"
+    },
+    {
+      "basename": "cutadapt",
+      "path": "Bioinformática y programación/Ómicas/Genómica/cutadapt.md"
+    },
+    {
+      "basename": "CHIP filtering",
+      "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
+    },
+    {
+      "basename": "annotatr",
+      "path": "Bioinformática y programación/R/annotatr.md"
+    },
+    {
       "basename": "2024-02-19",
       "path": "Notas diarias/2024-02-19.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "bcftools",
       "path": "Bioinformática y programación/Programas/bcftools.md"
-    },
-    {
-      "basename": "0-based vs. 1-based coordinate systems",
-      "path": "Notas diarias/0-based vs. 1-based coordinate systems.md"
-    },
-    {
-      "basename": "2024-02-01",
-      "path": "Notas diarias/2024-02-01.md"
-    },
-    {
-      "basename": "2024-02-02",
-      "path": "Notas diarias/2024-02-02.md"
-    },
-    {
-      "basename": "2024-02-07",
-      "path": "Notas diarias/2024-02-07.md"
-    },
-    {
-      "basename": "Tareas",
-      "path": "Tareas.md"
-    },
-    {
-      "basename": "Amino acid code",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
-    },
-    {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
-    },
-    {
-      "basename": "mosdepth",
-      "path": "Bioinformática y programación/Ómicas/Genómica/mosdepth.md"
-    },
-    {
-      "basename": "Adapter trimming",
-      "path": "Bioinformática y programación/Ómicas/Adapter trimming.md"
-    },
-    {
-      "basename": "Bash scripting",
-      "path": "Bioinformática y programación/Linux cheatsheets/Bash scripting.md"
-    },
-    {
-      "basename": "Seqtk",
-      "path": "Bioinformática y programación/Programas/Seqtk.md"
-    },
-    {
-      "basename": "2023-11-13",
-      "path": "Notas diarias/2023-11-13.md"
-    },
-    {
-      "basename": "EL MOVIMENT OPEN I LA CIÈNCIA",
-      "path": "Notas de cursos/Universitat de València/EL MOVIMENT OPEN I LA CIÈNCIA.md"
-    },
-    {
-      "basename": "UMI-tools",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md"
     }
   ],
   "omittedPaths": [],
