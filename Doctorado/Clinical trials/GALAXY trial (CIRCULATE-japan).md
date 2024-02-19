@@ -3,7 +3,6 @@ id: UMIN000039205
 url: https://center6.umin.ac.jp/cgi-open-bin/icdr_e/ctr_view.cgi?recptno=R000044197
 trialStatus:
   - Ongoing
-  - Published
 trialPhase: 
 trialApproach: Tumor-informed
 trialAssay: "[[Doctorado/Assays/Signatera]]"

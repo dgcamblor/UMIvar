@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6f191406d661361",
+            "id": "2316840e59e5081d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "423000798a986895",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -217,8 +231,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "d6f191406d661361",
+  "active": "2316840e59e5081d",
   "lastOpenFiles": [
+    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Clinical trials/BESPOKE trial.md",
+    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
     "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
     "Dashboard.md",
@@ -241,10 +259,6 @@
     "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
     "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md",
     "Bioinformática y programación/Ómicas/Genómica/cutadapt.md",
-    "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
-    "Bioinformática y programación/R/annotatr.md",
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

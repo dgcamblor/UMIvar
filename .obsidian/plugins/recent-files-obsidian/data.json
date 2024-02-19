@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
       "basename": "GALAXY trial (CIRCULATE-japan)",
       "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "BESPOKE trial",
+      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
     },
     {
       "basename": "Variant calling analysis",
@@ -105,10 +117,6 @@
       "path": "Bioinformática y programación/R/annotatr.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
-    },
-    {
       "basename": "Detection of CRC-specific methylation profiles",
       "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     },
@@ -169,10 +177,6 @@
       "path": "Doctorado/Clinical relevance of ctDNA analysis.md"
     },
     {
-      "basename": "ctDNA methylation in CRC — biomarkers",
-      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
-    },
-    {
       "basename": "ctDNA methylation overview",
       "path": "Doctorado/ctDNA methylation overview.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-17",
       "path": "Notas diarias/2024-02-17.md"
-    },
-    {
-      "basename": "A hitchhiker's guide to bioinformatics — tips",
-      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
     }
   ],
   "omittedPaths": [],
