@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0976642ad2e541ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -231,13 +219,14 @@
   },
   "active": "5b3ae2979b929f62",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
     "Notas diarias/2024-02-19.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+    "Notas diarias/0-based vs. 1-based coordinate systems.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md",
     "Bioinformática y programación/Ómicas/MultiQC.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
     "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md",
     "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
@@ -256,7 +245,6 @@
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
-    "Doctorado/Methylation and drug resistance.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

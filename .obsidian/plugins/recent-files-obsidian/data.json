@@ -5,8 +5,16 @@
       "path": "Notas diarias/2024-02-19.md"
     },
     {
+      "basename": "Bismark",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md"
+    },
+    {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+    },
+    {
+      "basename": "0-based vs. 1-based coordinate systems",
+      "path": "Notas diarias/0-based vs. 1-based coordinate systems.md"
     },
     {
       "basename": "methylKit",
@@ -23,10 +31,6 @@
     {
       "basename": "Alignment in epigenomics processing",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
-    },
-    {
-      "basename": "Bismark",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md"
     },
     {
       "basename": "bedGraph",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-13",
       "path": "Notas diarias/2024-02-13.md"
-    },
-    {
-      "basename": "2024-02-14",
-      "path": "Notas diarias/2024-02-14.md"
     }
   ],
   "omittedPaths": [],
