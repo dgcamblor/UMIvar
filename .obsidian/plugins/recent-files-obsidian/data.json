@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-19",
+      "path": "Notas diarias/2024-02-19.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Detection of CRC-specific methylation profiles",
       "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "IMPROVE-IT2 trial",
       "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Tratamiento del CCR",
@@ -195,10 +199,6 @@
     {
       "basename": "UMI-tools",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/UMI-tools.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Bioinformática y programación/Programas/Conda.md"
     }
   ],
   "omittedPaths": [],
