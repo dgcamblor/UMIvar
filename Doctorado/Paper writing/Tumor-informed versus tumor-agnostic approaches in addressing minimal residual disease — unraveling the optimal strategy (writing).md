@@ -42,11 +42,11 @@ One approximation extended among the initial studies that assessed ctDNA as a pr
 rack the presence of ctDNA in a cohort of 118 patients, aiming to evaluate the presence of large structural variants
 
 
-The use of ddPCR for the detection of ctDNA is still a popular choice. A recent prospective study in a large cohort of 851 CRC patients stage II-III performed whole-exome sequencing (WES) 
+The use of ddPCR for the detection of ctDNA is still a method of choice in current research. A recent prospective study in a large cohort of 851 CRC patients stage II-III performed whole-exome sequencing (WES) on tumor tissue and tracked patient specific mutations via ddPCR. Notably, to 
 
 Several other studies have explored the potential of assessing tumor mutations to inform the tracking of MRD via ctDNA.
 
-Reinert et al. used Signatera, which relies on WES as opposed to PCR-amplicon based methods to characterize the tumor tissue
+Reinert et al. used Signatera, which relies on WES as opposed to PCR-amplicon based methods to characterize the tumor tissue and tracked 
 
 ### SafeSeqS approach: the DYNAMIC studies
 
@@ -209,9 +209,10 @@ The study of circulating tumor cells (CTCs) -cancer cells that are released from
 
 [@tibermacineRadiomicsModellingRectal2021]
 
-### 4. AI
+### 4. (Bioinformatic methods and) AI
 
 > Beyond radiomics, AI also has interesting applications...
+> (CASTLE,19 Poisson,19,20 ALPACA,19,21 and Dynamic LOB19) [@henriksenUnravelingPotentialClinical2024]
 
 ## Challenges and future directions
 
