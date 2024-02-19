@@ -33,6 +33,15 @@ Taieb, J.; Taly, V.; Henriques, J.; Bourreau, C.; Mineur, L.; Bennouna, J.; Desr
 
 Throughout the literature, tumor-informed approaches have by far been the most frequently employed strategy to assess the presence of ctDNA an MRD.
 
+### ddPCR 
+
+
+
+
+Several other studies have explored the potential of assessing tumor mutations to inform the tracking of MRD via ctDNA.
+
+Reinert et al. used Signatera, which relies on WES as opposed to PCR-amplicon based methods to characterize the tumor tissue
+
 ### SafeSeqS approach: the DYNAMIC studies
 
 > Añadir sobre la capacidad de detección.
@@ -49,12 +58,7 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 > DYNAMIC-II es el que se ha comentado anteriormente. Está también el DYNAMIC-III (ACTRN12617001566325) en pacientes de CCR III, y el DYNAMIC-RECTAL (LARC?).
 
-### ddPCR 
 
-
-Several other studies have explored the potential of assessing tumor mutations to inform the tracking of MRD via ctDNA.
-
-Reinert et al. used Signatera, which relies on WES as opposed to PCR-amplicon based methods to characterize the tumor tissue
 
 ### WES in tissue characterization: Signatera
 
