@@ -32,6 +32,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9a13e5bd5376323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/Research caveats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -234,6 +246,9 @@
   "active": "2316840e59e5081d",
   "lastOpenFiles": [
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
+    "Doctorado/Research caveats.md",
+    "Doctorado/Revistas de interés.md",
+    "Doctorado/Líneas de investigación y estudios de interés.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Clinical trials/BESPOKE trial.md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
@@ -256,9 +271,6 @@
     "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
     "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md",
     "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md",
-    "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
-    "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md",
-    "Bioinformática y programación/Ómicas/Genómica/cutadapt.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

@@ -9,6 +9,18 @@
       "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
     },
     {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
+    },
+    {
       "basename": "BESPOKE trial",
       "path": "Doctorado/Clinical trials/BESPOKE trial.md"
     },
@@ -129,10 +141,6 @@
       "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
     },
     {
-      "basename": "Líneas de investigación y estudios de interés",
-      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
-    },
-    {
       "basename": "Methylation and drug resistance",
       "path": "Doctorado/Methylation and drug resistance.md"
     },
@@ -159,14 +167,6 @@
     {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Research caveats",
-      "path": "Doctorado/Research caveats.md"
-    },
-    {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
     },
     {
       "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
