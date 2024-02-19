@@ -25,3 +25,7 @@ In a cohort of 1039 patients with stage II-IV CRC... [@kotaniMolecularResidualDi
 - WES was perfomed on tumoral tissue (FFPE), and results for each patient were analyzed to design tumor-informed, personalized ctDNA assays ([Molecular residual disease and efficacy of adjuvant chemotherapy in patients with colorectal cancer | Nature Medicine](https://www.nature.com/articles/s41591-022-02115-4)).
 
 [Not published]
+
+## References
+
+[Circulating Tumor DNA Appears Prognostic in Resected Colorectal Cancer - The ASCO Post](https://ascopost.com/issues/february-25-2022/circulating-tumor-dna-appears-prognostic-in-resected-colorectal-cancer/)

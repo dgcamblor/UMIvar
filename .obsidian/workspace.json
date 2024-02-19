@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5dbcf6c5a4efc1",
+        "id": "80b2adfe7997808d",
         "type": "tabs",
         "children": [
           {
-            "id": "5b3ae2979b929f62",
+            "id": "d6f191406d661361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-14.md"
+                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-14.md",
+                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-14.md"
+                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
               }
             }
           },
@@ -201,12 +201,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -217,8 +217,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "5b3ae2979b929f62",
+  "active": "d6f191406d661361",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
+    "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
     "Notas diarias/2024-02-19.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
@@ -241,10 +244,7 @@
     "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
     "Bioinformática y programación/R/annotatr.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Dashboard.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
-    "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
-    "Doctorado/Líneas de investigación y estudios de interés.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

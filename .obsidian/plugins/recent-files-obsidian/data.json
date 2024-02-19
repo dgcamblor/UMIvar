@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "GALAXY trial (CIRCULATE-japan)",
+      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "Variant calling analysis",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
+    },
+    {
+      "basename": "Genomic processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-02-14",
       "path": "Notas diarias/2024-02-14.md"
     },
@@ -93,10 +109,6 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Detection of CRC-specific methylation profiles",
       "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "A hitchhiker's guide to bioinformatics — tips",
       "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
-    },
-    {
-      "basename": "2024-02-16",
-      "path": "Notas diarias/2024-02-16.md"
-    },
-    {
-      "basename": "2024-02-15",
-      "path": "Notas diarias/2024-02-15.md"
-    },
-    {
-      "basename": "2024-02-12",
-      "path": "Notas diarias/2024-02-12.md"
     }
   ],
   "omittedPaths": [],
