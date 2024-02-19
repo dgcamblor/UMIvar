@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-14",
+      "path": "Notas diarias/2024-02-14.md"
+    },
+    {
+      "basename": "mosdepth",
+      "path": "Bioinformática y programación/Ómicas/Genómica/mosdepth.md"
+    },
+    {
       "basename": "2024-02-19",
       "path": "Notas diarias/2024-02-19.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Primer removal alternatives",
       "path": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md"
-    },
-    {
-      "basename": "mosdepth",
-      "path": "Bioinformática y programación/Ómicas/Genómica/mosdepth.md"
     },
     {
       "basename": "Liquid biopsy SEQC2",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-12",
       "path": "Notas diarias/2024-02-12.md"
-    },
-    {
-      "basename": "2024-02-13",
-      "path": "Notas diarias/2024-02-13.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-19.md",
+                "file": "Notas diarias/2024-02-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-19.md"
+                "file": "Notas diarias/2024-02-14.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-19.md",
+                "file": "Notas diarias/2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-19.md",
+                "file": "Notas diarias/2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-19.md"
+                "file": "Notas diarias/2024-02-14.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "5b3ae2979b929f62",
   "lastOpenFiles": [
-    "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
+    "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
     "Notas diarias/2024-02-19.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
     "Notas diarias/0-based vs. 1-based coordinate systems.md",
     "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
@@ -233,7 +234,6 @@
     "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md",
     "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
     "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md",
-    "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
     "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md",
     "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md",
     "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md",
