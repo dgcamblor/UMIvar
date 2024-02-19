@@ -27,4 +27,4 @@ In a cohort of 1039 patients with stage II-IV CRC... [@kotaniMolecularResidualDi
 
 ## References
 
-[Circulating Tumor DNA Appears Prognostic in Resected Colorectal Cancer - The ASCO Post](https://ascopost.com/issues/february-25-2022/circulating-tumor-dna-appears-prognostic-in-resected-colorectal-cancer/)
+- [Circulating Tumor DNA Appears Prognostic in Resected Colorectal Cancer - The ASCO Post](https://ascopost.com/issues/february-25-2022/circulating-tumor-dna-appears-prognostic-in-resected-colorectal-cancer/)
