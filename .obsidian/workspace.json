@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0976642ad2e541ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -93,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -219,9 +231,14 @@
   },
   "active": "5b3ae2979b929f62",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+    "Notas diarias/2024-02-19.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md",
     "Bioinformática y programación/Ómicas/MultiQC.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md",
     "Bioinformática y programación/Ómicas/Genómica/Chimeric alignment.md",
     "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md",
     "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md",
@@ -234,17 +251,12 @@
     "Bioinformática y programación/Ómicas/Genómica/cutadapt.md",
     "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md",
     "Bioinformática y programación/R/annotatr.md",
-    "Notas diarias/2024-02-19.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Dashboard.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
     "Doctorado/Methylation and drug resistance.md",
-    "Doctorado/Methylation in CRC.md",
-    "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/MRD ctDNA assays in CRC.md",
-    "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

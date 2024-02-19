@@ -5,12 +5,32 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
     {
+      "basename": "methylKit",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
+    },
+    {
+      "basename": "2024-02-19",
+      "path": "Notas diarias/2024-02-19.md"
+    },
+    {
       "basename": "Bisulfite vs. enrichment pipelines",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
     },
     {
       "basename": "MultiQC",
       "path": "Bioinformática y programación/Ómicas/MultiQC.md"
+    },
+    {
+      "basename": "Alignment in epigenomics processing",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Alignment in epigenomics processing.md"
+    },
+    {
+      "basename": "Bismark",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md"
+    },
+    {
+      "basename": "bedGraph",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md"
     },
     {
       "basename": "Chimeric alignment",
@@ -59,10 +79,6 @@
     {
       "basename": "annotatr",
       "path": "Bioinformática y programación/R/annotatr.md"
-    },
-    {
-      "basename": "2024-02-19",
-      "path": "Notas diarias/2024-02-19.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
@@ -183,22 +199,6 @@
     {
       "basename": "2024-02-14",
       "path": "Notas diarias/2024-02-14.md"
-    },
-    {
-      "basename": "2024-01-14",
-      "path": "Notas diarias/2024-01-14.md"
-    },
-    {
-      "basename": "CORRECT-MRD II",
-      "path": "Doctorado/Clinical trials/CORRECT-MRD II.md"
-    },
-    {
-      "basename": "ASCOLT trial",
-      "path": "Doctorado/Clinical trials/ASCOLT trial.md"
-    },
-    {
-      "basename": "Guardant Reveal",
-      "path": "Doctorado/Assays/Guardant Reveal.md"
     }
   ],
   "omittedPaths": [],
