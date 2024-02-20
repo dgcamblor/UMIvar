@@ -13,3 +13,6 @@ To increase the statistical power, bins of a certain number of nucleotides can b
 
 ## Bisulfite sequencing
 
+Differential methylation analysis for bisulfite sequencing can be performed with:
+
+- [[methylKit]] -> Designed for RRBS, but also works with WGBS.
