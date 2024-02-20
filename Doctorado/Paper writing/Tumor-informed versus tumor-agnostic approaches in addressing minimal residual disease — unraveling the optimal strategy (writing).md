@@ -197,7 +197,10 @@ The potential of
 - mRNA !!!!!!!!!!!!!!!!
 - cfRNA (gtcS, [Fetching Title#tv5v](https://genomictestingcooperative.com/tumor-informed-vs-tumor-naive/))
 
-Other liquid biopsy analytes beyond ctDNA have begun to be explored to address minimal residual disease, mostly in a tumor-agnostic fashion. A promising biomarker are circulating tumor cells (CTCs) —cells that are shed by the tumor and migrate into the blood circulation, which carry many of its molecular traits.
+Other liquid biopsy analytes beyond ctDNA have begun to be explored to address minimal residual disease, mostly in a tumor-agnostic fashion. 
+
+Circulating tumor cells are also a potential MRD biomarker. These are cells that have shed from the tumor and migrate into the peripheral blood circulation. Research has shown that the detection of CTCs in the postoperative setting is correlated with worse RFS in CRC [@rahbariMetaanalysisShowsThat2010; @hinzDetectionCirculatingTumor2017]. 
+
 
 > Detection of circulating tumor cells with CK20 RT-PCR is an independent negative prognostic marker in colon cancer patients - a prospective study.
 
