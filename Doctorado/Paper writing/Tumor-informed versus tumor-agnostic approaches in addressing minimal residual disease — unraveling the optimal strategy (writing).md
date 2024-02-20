@@ -6,6 +6,8 @@ tags:
 > Regardless of the technique, ctDNA assays for the detection of MRD will require high specificity to escalate adjuvant therapy in patients who wouldf be categorized as low risk according to clinicopathologic factors and would ultimately recur without additional therapy, and high sensitivity to allow safe de-escalation of therapy in those patients who are traditionally treated with intensive chemotherapy and avoidable adverse events. [@jacomeMinimalResidualDisease2023]. 
 > Un poco a colación de lo que dicen Reinert 2024
 
+>In a prospective study with 112 mCRC patients who had undergone liver resection with curative intent, ctDNA positivity by a tumor-informed assay was the most significant prognostic factor for disease-free survival (HR: 5.7, 95% CI 3.3–10.0) [52]. MRD was detected in 61 (54%) patients, of which 59 (97%) presented recurrence at the time of data cutoff.
+
 ## II. Tumor-agnostic strategies
 
 > —also termed tumor-uninformed or tumor-naïve—
@@ -16,6 +18,8 @@ tags:
 [Efficient detection and post-surgical monitoring of colon cancer with a multi-marker DNA methylation liquid biopsy | PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2017421118)
 
 Taieb, J.; Taly, V.; Henriques, J.; Bourreau, C.; Mineur, L.; Bennouna, J.; Desrame, J.; Louvet, C.; Lepere, C.; Mabro, M.; et al. Prognostic value and relation with adjuvant treatment duration of ctDNA in stage III colon cancer: A post-hoc analysis of the PRODIGE-GERCOR IDEA-France trial. Clin. Cancer Res. 2021. [CrossRef] [PubMed]
+
+The use of techniques that detect epigenomic signatures assumes that hypermethylation of promoter regions of some tumor suppressor genes is a common finding in CRC. Hypermethylation of WNT-inhibitor-factor-1 (WIF1) and neuropeptide Y (NPY) has been validated as a marker of both advanced and localized colon cancer [35,36].
 
 > Initial studies have explored the potential of single biomarker genes for methylation. (Then, GUARDANT)
 
@@ -167,6 +171,8 @@ Although genetic variants are by far the most assessed marker for detecting ctDN
 
 > The integration of genomics and epigenomics is best exemplified with guardant reveal, guardant infinity.
 
+> WGBS is starting to be explored in the context of MRD detection (?) Although the relatively high cost makes its implementation
+
 The study of whole genome methylation markers through techniques such as cfMeDIP-seq —which enables high resolution profiling at a relatively low cost when compared with bisulfite methods— is also starting to render insightful results. 
 
 The study of cfDNA fragmentation patterns —a field termed **fragmentomics**— is also starting to gain traction in the setting of tumor-agnostic MRD detection. 
@@ -216,3 +222,5 @@ The study of circulating tumor cells (CTCs) -cancer cells that are released from
 ## Challenges and future directions
 
 > False negatives and positives, landmark vs sequential...
+
+> Importance of the algorithm of ctDNA calling. Which is the cutoff for saying a patient is ctDNA positive?
