@@ -192,17 +192,15 @@ The potential of
 
 ### 3. Potential new biomarkers in liquid biopsy
 
-
-Other liquid biopsy analytes beyond ctDNA have begun to be explored to address minimal residual disease, mostly in a tumor-agnostic fashion. A promising biomarker are circulating tumor cells (CTCs) —
-
-
-
 - CTCs [@marcuelloCirculatingBiomarkersEarly2019]
 - miRNA [@marcuelloCirculatingBiomarkersEarly2019]
 - mRNA !!!!!!!!!!!!!!!!
 - cfRNA (gtcS, [Fetching Title#tv5v](https://genomictestingcooperative.com/tumor-informed-vs-tumor-naive/))
 
-The study of circulating tumor cells (CTCs) -cancer cells that are released from the tumor mass and migrate into preripheral circulation- is currently a hot topic of research.
+Other liquid biopsy analytes beyond ctDNA have begun to be explored to address minimal residual disease, mostly in a tumor-agnostic fashion. A promising biomarker are circulating tumor cells (CTCs) —cells that are shed by the tumor and migrate into the blood circulation, which carry many of its molecular traits.
+
+> Detection of circulating tumor cells with CK20 RT-PCR is an independent negative prognostic marker in colon cancer patients - a prospective study.
+
 
 
 
