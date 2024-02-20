@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "In liquid.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.md"
+                "file": "In liquid.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título.md",
+                "file": "In liquid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título.md",
+                "file": "In liquid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sin título.md"
+                "file": "In liquid.md"
               }
             }
           },
@@ -233,7 +233,7 @@
   "active": "7e92ece2855445a3",
   "lastOpenFiles": [
     "Dashboard.md",
-    "Sin título.md",
+    "In liquid.md",
     "Notas diarias/2024-02-20.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md",
