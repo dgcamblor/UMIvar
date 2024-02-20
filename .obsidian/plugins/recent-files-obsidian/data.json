@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Sin título",
+      "path": "Sin título.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "methylKit",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
@@ -195,10 +199,6 @@
     {
       "basename": "Tratamiento del CCR",
       "path": "Biología y medicina/Tratamientos/Tratamiento del CCR.md"
-    },
-    {
-      "basename": "Cáncer colorrectal",
-      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
     }
   ],
   "omittedPaths": [],
