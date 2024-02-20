@@ -3,6 +3,8 @@ tags:
   - paper
   - phd
 ---
+> Regardless of the technique, ctDNA assays for the detection of MRD will require high specificity to escalate adjuvant therapy in patients who would be categorized as low risk according to clinicopathologic factors and would ultimately recur without additional therapy, and high sensitivity to allow safe de-escalation of therapy in those patients who are traditionally treated with intensive chemotherapy and avoidable adverse events. [@jacomeMinimalResidualDisease2023]. 
+> Un poco a colación de lo que dicen Reinert 2024
 
 ## II. Tumor-agnostic strategies
 
@@ -37,7 +39,7 @@ Throughout the literature, tumor-informed approaches have by far been the most f
 
 One approximation extended among the initial studies that assessed ctDNA as a proxy for MRD detection was the use of droplet digital PCR (ddPCR) to track the presence of specific mutations previously identified in the tumor tissue. A pioneer study by Reinert et al. used a ddPCR-based approach to evaluate the presence of large structural variants found in the tumor tissue in a cohort of 118 patients. Although at the postoperative landmark analysis both the sensitivity and specificity reported for the prediction of recurrence were of 100%, they were based on 6 relapsing and 5-non relapsing patients, which made difficult to draw conclusions by itself. However, the analysis of CEA —the gold-standard biomarker for MRD detection— in the same patients rendered a sensitivity and a specificity of 67% and 100%, respectively, which hinted at a trend that would be later confirmed by larger studies [@reinertAnalysisCirculatingTumour2016].
 
-The use of ddPCR for the detection of ctDNA is still a method of choice in current research. A recent prospective study in a large cohort of 851 CRC patients stage II-III performed whole-exome sequencing (WES) on tumor tissue and tracked patient specific mutations via ddPCR. Notably, ctDNA detection was based on the consensus of a set of ctDNA-calling algorithms. At the landmark timepoint (a median of 21 days after surgery), this approach reported a sensitivity of 35% and a specificity of 98% [@henriksenUnravelingPotentialClinical2024].
+The use of ddPCR for the detection of ctDNA is still a method of choice in current research. A recent prospective study in a large cohort of 851 CRC patients stage II-III performed whole-exome sequencing (WES) on tumor tissue and tracked patient specific mutations via ddPCR. Notably, ctDNA detection on the ddPCR data was based on the consensus of a set of ctDNA-calling algorithms. At the landmark timepoint (a median of 21 days after surgery), this approach reported a sensitivity of 35% and a specificity of 98% [@henriksenUnravelingPotentialClinical2024].
 
 Several other studies have explored the potential of assessing tumor mutations to inform the tracking of MRD via ctDNA.
 
