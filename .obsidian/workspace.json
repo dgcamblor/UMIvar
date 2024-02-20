@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80b2adfe7997808d",
+        "id": "c1110137a66194cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2316840e59e5081d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "423000798a986895",
+            "id": "dac0e71032f88b71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9a13e5bd5376323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/Research caveats.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -135,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -164,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -227,12 +201,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -243,7 +217,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "2316840e59e5081d",
+  "active": "dac0e71032f88b71",
   "lastOpenFiles": [
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Research caveats.md",
