@@ -71,10 +71,12 @@ The same tumor-informed approach was adopted in the DYNAMIC trial (ACTRN12615000
 
 The longitidunal analysis of ctDNA in the surveillance setting reached values of 88% and 98% for sensitivity and specificity, respectively [@reinertAnalysisPlasmaCellFree2019].
 
-The Signatera (Natera) assay has currently become a prominent advocate of the tumor-informed approach, and best exemplifies the harnessing of NGS in this strategy. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach, which is a step beyond the targeted sequencing used by previous studies. A set of 16 or more mutations is worked out and subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR. The results of this test are processed via a propietary software for variant calling, considering 
 
 
-which is then used to detect ctDNA and monitorize MRD [@SignateraOverview]. 
+The commercial assay Signatera (Natera) has currently become a prominent advocate of the tumor-informed approach, which relies on WES and multiplex PCR for detecting the main 16 tumor-specific mutations. 
+
+> Early Reinert works.
+
 
 One key large-scale study that employs this approach in CRC is the GALAXY trial (UMIN000039205), which is an observational part of the CIRCULATE-Japan study to assess the presence of ctDNA in the postoperative setting for a subcohort of stage II-IV patients. Importantly, the ctDNA status is used in the framework of this clinical trial as the criterion for patient assignment to one of two related clinical trials: patients that test positive for ctDNA are assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients are assigned to the VEGA trial, studying the non-inferiority of treatment de-escalation [@taniguchiCIRCULATEJapanCirculatingTumor2021]. The first results reported from the GALAXY trial came from a cohort of 1039 patients spanning the aforementioned stages II-IV. Patients were followed-up postoperatively for up to a median of 16.74 months and, at the landmark timepoint of 4 weeks after surgery, the relapse rate for ctDNA-negative patients was 9.5% (of 852), while for ctDNA-positive patients amounted to 61.4% (of 187) (HR = 10.0; 95% CI = 7.7 - 14.0, p < 0.0001) [@kotaniMolecularResidualDisease2023].
 
@@ -136,7 +138,7 @@ The advent of efficiency improvements in sequencing technologies and the develop
 
 Whole exome sequencing (WES) has become a prominent method for variant characterization; this approach aims at capturing the entire coding regions of the genome, which are the most relevant for the tumor landscape. Thus, WES currently represents a good trade-off between the relevance of the genomic regions analyzed and the coverture needed for low-frequency variant determination. 
 
-Signatera. The current evidence of its clinical utility has earned it the designation of Breakthrough Device by the Food and Drug Administration in the United States. As described before, many large-scale prospective clinical trials are being currently conducted that use Signatera as their method of choice for MRD-ctDNA detection (GALAXY, BESPOKE CRC), which will provide further validation of the method.
+The Signatera (Natera) commercial assay, which is currently offered as a lab service, best exemplifies the harnessing of NGS developments on the tumor characterization end. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach. This broad approachs allows to work out a set of 16 or more mutations that are subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR. Notably, the results of this test are processed via a propietary software for variant calling, considering the concomitant presence of at least 2 variants for ctDNA calling [@SignateraOverview]. The current evidence of its clinical utility has earned it the designation of Breakthrough Device by the Food and Drug Administration in the United States. As described before, many large-scale prospective clinical trials are being currently conducted that use Signatera as their method of choice for MRD-ctDNA detection (GALAXY, BESPOKE CRC), which will provide further evidence of the clinical utility of the method.
 
 #### WES in ctDNA characterization
 
