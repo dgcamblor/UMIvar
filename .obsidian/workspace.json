@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-20.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-20.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-20.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-20.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-20.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "dac0e71032f88b71",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Notas diarias/2024-02-20.md",
+    "Dashboard.md",
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Research caveats.md",
     "Doctorado/Revistas de interés.md",

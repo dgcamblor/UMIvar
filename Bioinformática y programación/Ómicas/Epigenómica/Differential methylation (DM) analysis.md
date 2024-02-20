@@ -10,3 +10,6 @@ Prediction using CpG sites can be performed using [[Lasso regression]], which pe
 ## Binning strategy
 
 To increase the statistical power, bins of a certain number of nucleotides can be considered for the differential methylation analysis. CpGs next to each other are most frequently correlated, therefore it is sensible to group them together in bins, thereby reducing the number of hypothesis tests.
+
+## Bisulfite sequencing
+

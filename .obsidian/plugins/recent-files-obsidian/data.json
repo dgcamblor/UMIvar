@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Differential methylation (DM) analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
+    },
+    {
       "basename": "2024-02-20",
       "path": "Notas diarias/2024-02-20.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cáncer colorrectal",
       "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
-    },
-    {
-      "basename": "CAPOX",
-      "path": "Biología y medicina/Oncología/CAPOX.md"
     }
   ],
   "omittedPaths": [],
