@@ -201,10 +201,7 @@ The potential of
 
 Other liquid biopsy analytes beyond ctDNA have begun to be explored to address minimal residual disease, mostly in a tumor-agnostic fashion. 
 
-Circulating tumor cells are also a potential MRD biomarker. These are cells that have shed from the tumor and migrate into the peripheral blood circulation. Research has shown that the detection of CTCs in the postoperative setting is correlated with worse RFS in CRC [@rahbariMetaanalysisShowsThat2010; @hinzDetectionCirculatingTumor2017]. 
-
-
-> Detection of circulating tumor cells with CK20 RT-PCR is an independent negative prognostic marker in colon cancer patients - a prospective study.
+Circulating tumor cells are also a potential MRD biomarker. These are cells that have shed from the tumor and migrate into the peripheral blood circulation. Research has shown that the detection of CTCs in the postoperative setting is correlated with worse RFS in CRC [@rahbariMetaanalysisShowsThat2010]. Indeed, a prospective study in 130 CRC patients stage II-III hinted at the clinical utility of their use as an independent marker for predicting recurrence (HR = 2.739, 95% CI=1.042 - 7.200, p = 0.041) [@wangPrognosticModelsBased2019].
 
 
 
