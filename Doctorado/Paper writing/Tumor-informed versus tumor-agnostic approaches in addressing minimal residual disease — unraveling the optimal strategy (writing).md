@@ -72,7 +72,10 @@ The DYNAMIC trial (ACTRN12615000381583) was the first to reveal a clinical benef
 
 > Each target can achieve an average depth of 100,000x with ultra‑deep sequencing, and this approach has exhibited a sensitivity >98% at 0.01‑0.02% ctDNA concentrations (60). [@chenDetectingLiquidRemnants2023] The predefined threshold is based on Natera’s proprietary variant calling method wherein detecting at least 2 out of 16 variants ensures the optimal analytical performance of the assay with > 95% sensitivity at 0.01% mean variant allele frequency and with 99.7% specificity [@kotaniMolecularResidualDisease2023].
 
-The commercial assay Signatera (Natera) has currently become a prominent advocate of the tumor-informed approach, which relies on WES and multiplex PCR for detecting the main 16 tumor-specific mutations. A prospective study by Reinert et al., in a total of 130 CRC patients stage I-III reported . In the surveillance setting, the serial analysis of ctDNA reported values of 88% and 98% for sensitivity and specificity, respectively [@reinertAnalysisPlasmaCellFree2019].
+The commercial assay Signatera (Natera) has currently become a prominent advocate of the tumor-informed approach, which relies on WES and multiplex PCR for detecting the main 16 tumor-specific mutations. A prospective study by Reinert et al., in a total of 130 CRC patients stage I-III reported a significantly high RFS for the positive status of ctDNA both at the timepoint of 30 days (HR = 7.2, 95% CI: 2. -19.0, p < .001)
+
+
+. In the surveillance setting, the serial analysis of ctDNA reported values of 88% and 98% for sensitivity and specificity, respectively [@reinertAnalysisPlasmaCellFree2019].
 
 > In a similar cohort...
 
