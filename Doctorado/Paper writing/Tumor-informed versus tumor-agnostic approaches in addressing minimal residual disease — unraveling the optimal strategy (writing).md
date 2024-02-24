@@ -72,13 +72,9 @@ The DYNAMIC trial (ACTRN12615000381583) was the first to reveal a clinical benef
 
 > Each target can achieve an average depth of 100,000x with ultra‑deep sequencing, and this approach has exhibited a sensitivity >98% at 0.01‑0.02% ctDNA concentrations (60). [@chenDetectingLiquidRemnants2023] The predefined threshold is based on Natera’s proprietary variant calling method wherein detecting at least 2 out of 16 variants ensures the optimal analytical performance of the assay with > 95% sensitivity at 0.01% mean variant allele frequency and with 99.7% specificity [@kotaniMolecularResidualDisease2023].
 
-The longitidunal analysis of ctDNA in the surveillance setting reached values of 88% and 98% for sensitivity and specificity, respectively [@reinertAnalysisPlasmaCellFree2019].
+The commercial assay Signatera (Natera) has currently become a prominent advocate of the tumor-informed approach, which relies on WES and multiplex PCR for detecting the main 16 tumor-specific mutations. A prospective study by Reinert et al., in a total of 130 CRC patients stage I-III reported . In the surveillance setting, the serial analysis of ctDNA reported values of 88% and 98% for sensitivity and specificity, respectively [@reinertAnalysisPlasmaCellFree2019].
 
-
-
-The commercial assay Signatera (Natera) has currently become a prominent advocate of the tumor-informed approach, which relies on WES and multiplex PCR for detecting the main 16 tumor-specific mutations. 
-
-> Early Reinert works.
+> In a similar cohort...
 
 
 Based upon the previous studies that reported results with Signatera, large-scale clinical trials employing this approach in CRC have emerged, such as the GALAXY trial (UMIN000039205). This is an observational part of the CIRCULATE-Japan study, and it aims to assess the presence of ctDNA in the postoperative setting for a subcohort of stage II-IV patients. Importantly, the observed ctDNA status is used in the framework of the CIRCULATE-Japan as the criterion for patient assignment to one of two related clinical trials: patients that test positive for ctDNA are assigned to the ALTAIR trial, assessing the adequacy of chemotherapy escalation, and ctDNA-negative patients are assigned to the VEGA trial, studying the non-inferiority of treatment de-escalation [@taniguchiCIRCULATEJapanCirculatingTumor2021]. The first results reported from the GALAXY trial came from an interim analysis on a cohort of 1039 patients spanning the aforementioned stages II-IV. Patients were followed-up postoperatively for up to a median of 16.74 months and, at the landmark timepoint of 4 weeks after surgery, the relapse rate for ctDNA-negative patients was 9.5% (of 852), while for ctDNA-positive patients amounted to 61.4% (of 187) (HR = 10.0; 95% CI = 7.7 - 14.0, p < 0.0001) [@kotaniMolecularResidualDisease2023].
