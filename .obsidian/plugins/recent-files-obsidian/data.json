@@ -9,6 +9,10 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
+      "basename": "brPROPHET MRD",
+      "path": "Doctorado/Assays/brPROPHET MRD.md"
+    },
+    {
       "basename": "DYNAMIC-III trial",
       "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "MRD ctDNA assays in CRC",
       "path": "Doctorado/MRD ctDNA assays in CRC.md"
-    },
-    {
-      "basename": "brPROPHET MRD",
-      "path": "Doctorado/Assays/brPROPHET MRD.md"
     },
     {
       "basename": "IMPROVE-IT trial",

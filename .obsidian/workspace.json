@@ -56,9 +56,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a20664d5ea4faf58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/Assays/brPROPHET MRD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "758730237da73af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -256,13 +280,14 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "845f7a63556bd180",
+  "active": "758730237da73af4",
   "lastOpenFiles": [
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Assays/brPROPHET MRD.md",
+    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
     "Doctorado/Clinical trials/DYNAMIC-III trial.md",
     "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/MRD ctDNA assays in CRC.md",
-    "Doctorado/Assays/brPROPHET MRD.md",
     "Doctorado/Clinical trials/IMPROVE-IT trial.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Dashboard.md",
@@ -283,7 +308,6 @@
     "Doctorado/Líneas de investigación y estudios de interés.md",
     "Doctorado/Clinical trials/BESPOKE trial.md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
-    "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",
