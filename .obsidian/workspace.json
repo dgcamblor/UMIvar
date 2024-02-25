@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7f5fb85399e73122",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85de6f0b3bb16ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/MRD ctDNA clinical trials in CRC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
