@@ -1,8 +1,7 @@
 ---
 id: NCT04084249
 url: https://clinicaltrials.gov/study/NCT04084249
-trialStatus:
-  - Ongoing
+trialStatus: Ongoing
 trialPhase: 
 trialApproach: Tumor-informed
 trialAssay: WES + ddPCR

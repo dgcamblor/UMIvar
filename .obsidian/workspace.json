@@ -22,18 +22,43 @@
             }
           },
           {
-            "id": "587125fc3456cb4e",
+            "id": "85da2c4f8f827733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
+                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb74b51290016ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/MRD ctDNA clinical trials in CRC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "845f7a63556bd180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
               }
             }
           },
@@ -152,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
               }
             }
           },
@@ -231,10 +256,15 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "8907806c6af98b83",
+  "active": "845f7a63556bd180",
   "lastOpenFiles": [
-    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
+    "Doctorado/MRD ctDNA clinical trials in CRC.md",
+    "Doctorado/MRD ctDNA assays in CRC.md",
+    "Doctorado/Assays/brPROPHET MRD.md",
+    "Doctorado/Clinical trials/IMPROVE-IT trial.md",
+    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Dashboard.md",
     "Estadística/Tamaño muestral.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
@@ -254,11 +284,6 @@
     "Doctorado/Clinical trials/BESPOKE trial.md",
     "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
-    "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
-    "Notas diarias/2024-02-19.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
-    "Notas diarias/0-based vs. 1-based coordinate systems.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

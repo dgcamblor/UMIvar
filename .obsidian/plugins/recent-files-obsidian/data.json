@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "DYNAMIC-III trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials in CRC",
+      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
+    },
+    {
+      "basename": "MRD ctDNA assays in CRC",
+      "path": "Doctorado/MRD ctDNA assays in CRC.md"
+    },
+    {
+      "basename": "brPROPHET MRD",
+      "path": "Doctorado/Assays/brPROPHET MRD.md"
+    },
+    {
+      "basename": "IMPROVE-IT trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT trial.md"
     },
     {
       "basename": "IMPROVE-IT2 trial",
@@ -175,30 +199,6 @@
     {
       "basename": "Improving INCLIVA ctDNA WES pipeline",
       "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
-    },
-    {
-      "basename": "Methylation and drug resistance",
-      "path": "Doctorado/Methylation and drug resistance.md"
-    },
-    {
-      "basename": "Methylation in CRC",
-      "path": "Doctorado/Methylation in CRC.md"
-    },
-    {
-      "basename": "MRD ctDNA assays",
-      "path": "Doctorado/MRD ctDNA assays.md"
-    },
-    {
-      "basename": "MRD ctDNA assays in CRC",
-      "path": "Doctorado/MRD ctDNA assays in CRC.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials in CRC",
-      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
-    },
-    {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
     }
   ],
   "omittedPaths": [],
