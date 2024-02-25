@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "318fd41620ceabf5",
+        "id": "5f953f556e8d7dd5",
         "type": "tabs",
         "children": [
           {
-            "id": "0e599ee02d351666",
+            "id": "d63221b728358a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-26.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-26.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-26.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-26.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-26.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -217,7 +217,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "0e599ee02d351666",
+  "active": "d63221b728358a73",
   "lastOpenFiles": [
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Notas diarias/2024-02-26.md",
