@@ -20,21 +20,15 @@
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7f5fb85399e73122",
+        "type": "tabs",
+        "children": [
           {
-            "id": "85da2c4f8f827733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/Clinical trials/DYNAMIC-III trial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb74b51290016ae9",
+            "id": "85de6f0b3bb16ee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,45 +38,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "845f7a63556bd180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a20664d5ea4faf58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/Assays/brPROPHET MRD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "758730237da73af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -201,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
               }
             }
           },
@@ -280,13 +237,13 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "758730237da73af4",
+  "active": "8907806c6af98b83",
   "lastOpenFiles": [
-    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Doctorado/Assays/brPROPHET MRD.md",
-    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
     "Doctorado/MRD ctDNA clinical trials in CRC.md",
+    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+    "Doctorado/Assays/brPROPHET MRD.md",
+    "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Clinical trials/DYNAMIC-III trial.md",
     "Doctorado/MRD ctDNA assays in CRC.md",
     "Doctorado/Clinical trials/IMPROVE-IT trial.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",

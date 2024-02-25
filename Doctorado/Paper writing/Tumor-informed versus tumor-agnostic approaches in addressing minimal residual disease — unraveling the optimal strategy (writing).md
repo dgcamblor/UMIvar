@@ -70,7 +70,12 @@ Based upon the previous studies that reported results with Signatera, large-scal
 
 Signatera is currently also the centerpiece of the ongoing BESPOKE clinical trial (NCT04264702). This multi-center study aims to track the ctDNA status of a prospective cohort of 2000 stage I-IV CRC patients, while assessing how this testing can affect the adjustment of adjuvant chemotherapy and patient outcomes. By using Signatera to detect the ctDNA, the results of this study may further contribute to its validation, and also to expand upon the current evidence of the clinical utility of the tumor-informed approach [@kasiBESPOKEStudyProtocol2021]. Recently presented preliminar data showed promising results in favor of the prognostic value of the test: in a subset of 350 patients (CRC stage II-III) of the BESPOKE cohort, patients with detectable minimal residual disease exhibited a reduced DFS (HR = 20.8; 95%CI: 10.0-43.4; p < 0.0001). Interestingly, while adjuvant chemotherapy proved to increase the median DFS of MRD-positive patients (18.7 vs 6.7 months; HR = 3.9; 95%CI: 1.3-11.5: p = 0.01), the same was not true for MRD-negative patients [@kasiCirculatingTumorDNA2024].
 
+The commercial assay brPROPHET has also leveraged WES for tumor tissue characterization and variant targeting in ctDNA. Cao et al. tracked up to 55 variants in the ctDNA of a cohort 
 
+
+In results from a cohort of 117 patients spanning stages I-IV, Cao et al. tracked up to 55 variants in the ctDNA using brPROPHET  
+
+Interestingly, a direct comparison with fixed panels of 168 was also performed .
 
 
 > Another similar technology is AlphaLiquid Detect [Personalised circulating tumour DNA assay with large-scale mutation coverage for sensitive minimal residual disease detection in colorectal cancer | British Journal of Cancer](https://www.nature.com/articles/s41416-023-02300-3).

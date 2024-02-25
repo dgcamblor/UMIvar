@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "MEDOCC-CrEATE trial",
-      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials in CRC",
+      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
+    },
+    {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
     },
     {
       "basename": "brPROPHET MRD",
@@ -15,10 +19,6 @@
     {
       "basename": "DYNAMIC-III trial",
       "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials in CRC",
-      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
     },
     {
       "basename": "MRD ctDNA assays in CRC",
