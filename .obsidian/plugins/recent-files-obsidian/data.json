@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
-      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+      "basename": "Tamaño muestral",
+      "path": "Estadística/Tamaño muestral.md"
     },
     {
-      "basename": "ctDNA calling software",
-      "path": "Doctorado/ctDNA calling software.md"
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
+      "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
       "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
-      "basename": "Daily note",
-      "path": "Otros/Plantillas/Daily note.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "ctDNA calling software",
+      "path": "Doctorado/ctDNA calling software.md"
+    },
+    {
+      "basename": "Daily note",
+      "path": "Otros/Plantillas/Daily note.md"
     },
     {
       "basename": "Methylation array analysis",
@@ -195,10 +199,6 @@
     {
       "basename": "Possible controls for ctDNA methylation",
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
-    },
-    {
-      "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
-      "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
     }
   ],
   "omittedPaths": [],

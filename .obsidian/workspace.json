@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c57f70078dd7fd",
+        "id": "24a35246b2a87097",
         "type": "tabs",
         "children": [
           {
-            "id": "4081cdb975a25b19",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2681e1b8fab66fc7",
+            "id": "7b7c0ad0b87eb2c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/ctDNA calling software.md",
+                "file": "Estadística/Tamaño muestral.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Estadística/Tamaño muestral.md"
               }
             }
           },
@@ -152,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Estadística/Tamaño muestral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "file": "Estadística/Tamaño muestral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
+                "file": "Estadística/Tamaño muestral.md"
               }
             }
           },
@@ -231,13 +217,13 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "4081cdb975a25b19",
+  "active": "7b7c0ad0b87eb2c2",
   "lastOpenFiles": [
-    "Doctorado/ctDNA calling software.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
-    "Otros/Plantillas/Daily note.md",
     "Dashboard.md",
+    "Doctorado/ctDNA calling software.md",
+    "Otros/Plantillas/Daily note.md",
     "In liquid.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md",
     "Doctorado/ctDNA in mCRC.md",

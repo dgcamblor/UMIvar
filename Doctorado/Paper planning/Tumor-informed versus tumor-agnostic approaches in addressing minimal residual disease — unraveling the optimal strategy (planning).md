@@ -70,7 +70,7 @@ Tumor-naïve assays can't compete in terms of detection sensitivity with tumor-i
 
 - [@wangPrognosticPotentialCirculating2019]
 - [@reinertAnalysisPlasmaCellFree2019]
-- A prospective study on a cohort of 240 CRC patients stage II-III showed decrease 2-year RFS rates for ctDNA-positive patients (HR = 10.98, 95% CI = 5.41-22.72, p < 0.001), a difference that was further exacerbated when performing serial ctDNA analysis in a subcohort of 125 patients (24.0% vs. 96.0%; HR = 32.02, 95 CI = 10.79-95.08, p < 0.001). Importantly, this last analysis exhibited a sensitivity of 82.6% and a specificity of 94.1% for the recurrence detection [@chenPostoperativeCirculatingTumor2021].
+-
 - [@henriksenCirculatingTumorDNA2022]
 
 Importance of ctDNA surveillance, % of patients that still relapse after postoperative (1 month) ctDNA-negative status: 9.1% [@chenPostoperativeCirculatingTumor2021], 11.9% [@reinertAnalysisPlasmaCellFree2019].
