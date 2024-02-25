@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6bf2e476aacb32e7",
+        "id": "318fd41620ceabf5",
         "type": "tabs",
         "children": [
           {
-            "id": "8907806c6af98b83",
+            "id": "0e599ee02d351666",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -219,19 +217,22 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "8907806c6af98b83",
+  "active": "0e599ee02d351666",
   "lastOpenFiles": [
-    "Doctorado/MRD ctDNA clinical trials in CRC.md",
-    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
-    "Doctorado/Assays/brPROPHET MRD.md",
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+    "Doctorado/Clinical trials/PRECISION trial.md",
+    "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
+    "Doctorado/Clinical trials/PGDx elio plasma resolve.md",
+    "Doctorado/Clinical trials/PEGASUS trial.md",
+    "Doctorado/Assays/brPROPHET MRD.md",
+    "Dashboard.md",
+    "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/Clinical trials/DYNAMIC-III trial.md",
     "Doctorado/MRD ctDNA assays in CRC.md",
     "Doctorado/Clinical trials/IMPROVE-IT trial.md",
     "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
-    "Dashboard.md",
     "Estadística/Tamaño muestral.md",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/ctDNA calling software.md",
     "Otros/Plantillas/Daily note.md",
     "In liquid.md",
@@ -244,9 +245,6 @@
     "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Doctorado/Research caveats.md",
     "Doctorado/Revistas de interés.md",
-    "Doctorado/Líneas de investigación y estudios de interés.md",
-    "Doctorado/Clinical trials/BESPOKE trial.md",
-    "Doctorado/ctDNA methylation in CRC — biomarkers.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

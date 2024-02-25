@@ -5,16 +5,36 @@
       "path": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md"
     },
     {
-      "basename": "MRD ctDNA clinical trials in CRC",
-      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+    },
+    {
+      "basename": "PRECISION trial",
+      "path": "Doctorado/Clinical trials/PRECISION trial.md"
     },
     {
       "basename": "MEDOCC-CrEATE trial",
       "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
     },
     {
+      "basename": "PGDx elio plasma resolve",
+      "path": "Doctorado/Clinical trials/PGDx elio plasma resolve.md"
+    },
+    {
+      "basename": "PEGASUS trial",
+      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
+    },
+    {
       "basename": "brPROPHET MRD",
       "path": "Doctorado/Assays/brPROPHET MRD.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials in CRC",
+      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
     },
     {
       "basename": "DYNAMIC-III trial",
@@ -33,16 +53,8 @@
       "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Tamaño muestral",
       "path": "Estadística/Tamaño muestral.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
     },
     {
       "basename": "ctDNA calling software",
@@ -187,18 +199,6 @@
     {
       "basename": "annotatr",
       "path": "Bioinformática y programación/R/annotatr.md"
-    },
-    {
-      "basename": "Detection of CRC-specific methylation profiles",
-      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
-    },
-    {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
-      "basename": "Improving INCLIVA ctDNA WES pipeline",
-      "path": "Doctorado/Improving INCLIVA ctDNA WES pipeline.md"
     }
   ],
   "omittedPaths": [],

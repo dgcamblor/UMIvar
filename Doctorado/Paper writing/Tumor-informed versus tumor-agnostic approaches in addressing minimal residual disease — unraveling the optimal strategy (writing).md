@@ -23,8 +23,6 @@ Taieb, J.; Taly, V.; Henriques, J.; Bourreau, C.; Mineur, L.; Bennouna, J.; Desr
 
 The use of techniques that detect epigenomic signatures assumes that hypermethylation of promoter regions of some tumor suppressor genes is a common finding in CRC. Hypermethylation of WNT-inhibitor-factor-1 (WIF1) and neuropeptide Y (NPY) has been validated as a marker of both advanced and localized colon cancer [35,36].
 
-> Initial studies have explored the potential of single biomarker genes for methylation. (Then, GUARDANT)
-
 [Response prediction by mutation- or methylation-specific detection of ctDNA dynamics in pretreated metastatic colorectal cancer - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10541738/)
 
 ## III. Tumor-informed strategies
@@ -78,43 +76,20 @@ Signatera is currently also the centerpiece of the ongoing BESPOKE clinical tria
 
 ### Strengths and weaknesses
 
-> Añadir citas
+As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations. In simple terms, this is possible because the search is narrowed down to allow for more coverage in informative regions, rather than relying on exploring a panel of genes with less coverage, and which may or may not be of enough relevance for the patient's tumor. This method also ensures that germline variants and variants related to clonal hematopoiesis of indeterminate potential are directly filtered out of the analysis [@steensmaClonalHematopoiesisIndeterminate2015]. Although the same can be achieved in tumor-agnostic methods by also performing paired sequencing in peripheral blood, in the case of CHIP mutations some of them may be unique to cfDNA, causing false positives that will not be sought after in tumor-informed approaches.
 
-> The increase in sensitivity can be achieved by allowing for more coverage in regions of interest. Essentially, the search can be narrowed down to more informative regions while increasing the coverage and, thus, the capability of detecting variants. This is evidenced by the use of techniques such as ... ...., as disclosed before. Increased turnaround time, also.
+Tumor-informed assays are, however, inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue biopsy is not possible, either due to inaccessibility or to the available sample not being adequate for genomic characterization, such as after extensive neoadjuvant treatment. Whenever the tumor tissue is available, the tissue biopsy and subsequent sequencing for the creation of a custom assay are time-consuming and costly, potentially impacting their clinical adequacy. The results are also inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape and hinder, at least partially, the detection of MRD. Furthermore, new clones carrying additional variants can emerge in response to selective pressures —a process exacerbated by the administration of adjuvant therapy— entailing an increase of false negatives.
 
-As shown by the literature, tumor-informed approaches can detect MRD with higher sensitivity and specificity by looking for specific known mutations rather than relying on a panel of genes that may or may not be of enough relevance for the patient's tumor. This method also ensures that germline variants and variants related to clonal hematopoiesis of indeterminate potential are directly filtered out of the analysis [@steensmaClonalHematopoiesisIndeterminate2015]. 
-
-Tumor-informed assays are, however, inherently limited by their reliance on tumor tissue. The most obvious examples in which this approximation is unfeasible are the cases where the tumor tissue biopsy is not possible, either due to inaccessibility 
-
-
-or the available sample is inadequate for genomic characterization, such as after extensive neoadjuvant treatment. Whenever the tumor tissue is available, the tissue biopsy and subsequent sequencing for the creation of a custom assay are time-consuming and costly, and the results are inherently dependent on the specific section of tissue that has been biopsied, which might not accurately reflect the entire tumor landscape and hinder, at least partially, the detection of MRD. Furthermore, new clones carrying additional variants can emerge in response to selective pressures —a process exacerbated by the administration of adjuvant therapy— entailing an increase of false negatives.
-
-An interesting —although hardly explored— approach to partially circumvent these limitations would be to couple tumor-informed assays with a tumor-agnostic panel to account for uncharacterized or appearing mutations. One study assessed the benefit of adding a small tumor-agnostic panel of 10 CRC-related genes to a tumor-informed assay. In comparison to a conventional tumor-informed method, this combines approached raised the sensitivity of detection (96.0% vs. 88.0%) in a cohort of 34 stage I-IV CRC patients. More research is needed to validate this approach [@chenTumorinformedPatientspecificMRD2023].
+An interesting approach —although hardly explored in CRC— to partially circumvent these limitations would be to couple tumor-informed assays with a tumor-agnostic panel to account for uncharacterized or appearing mutations. One study assessed the benefit of adding a small tumor-agnostic panel of 10 CRC-related genes to a tumor-informed assay. In comparison to a conventional tumor-informed method, this combines approached raised the sensitivity of ctDNA detection (96.0% vs. 88.0%) in a cohort of 34 stage I-IV CRC patients [@chenTumorinformedPatientspecificMRD2023]. More research is needed to explore the benefits of this approach.
 
 [@chanTumorinformedTumoragnosticCirculating2023]
-
-[Patient-specific tumor-informed circulating tumor DNA (ctDNA) analysis for molecular residual disease (MRD) detection in surgical patients with stage I-IV colorectal cancer (CRC). | Journal of Clinical Oncology](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.4_suppl.213)
 
 ### Discussion of studies comparing both approaches
 
 Few studies have directly compared both approaches.
 
-![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Studies comparing both approaches]]
 
 ## V. Emerging Technologies and Future Directions
-
-> SaferSEQ???? As an upgrade from SafeSeqS
-
-- Fragmentomics
-- CTCs
-- Imaging techniques (?) (guided by AI?)
-
-
-
-> 3. Liquid biopsy -> CTCs
-> 4. Imaging techniques, guided by AI.
-
-[brPROPHET May Better Detect ctDNA and Identify MRD in Colorectal Cancer](https://www.targetedonc.com/view/brprophet-may-better-detect-ctdna-and-identify-mrd-in-colorectal-cancer)
 
 ### 1. Breakthroughs in ctDNA genomics
 
@@ -122,7 +97,7 @@ With NGS having become the most prevalent method for the molecular characterizat
 
 #### WES for better tumor tissue characterization
 
-Whole exome sequencing (WES) is becoming a established method for variant characterization; this approach aims at capturing the entire coding regions of the genome, which are the most relevant for the tumor landscape. Thus, WES currently represents a good trade-off between the relevance of the genomic regions analyzed and the coverture needed for low-frequency variant determination. 
+Whole exome sequencing (WES) is becoming a established method for variant characterization; this approach aims at capturing the entire coding regions of the genome, which are essentially the most relevant for the tumor landscape. Thus, WES currently represents a good trade-off between the breadth of the genomic regions analyzed and the cost of sequencing them at a suitable coverture for detecting low frequency variants. 
 
 The Signatera (Natera) commercial assay, which is currently offered as a lab service, best exemplifies the harnessing of NGS developments on the tumor characterization end. In brief, initial tumor variants are sought after in both primary tumor tissue and matched normal tissue using a whole exome sequencing approach. This broad approachs allows to work out a set of 16 or more mutations that are subsequently considered for the creation of a bespoke test based on ultradeep multiplex PCR. Notably, the results of this test are processed via a propietary software for variant calling, considering the concomitant presence of at least 2 variants for ctDNA calling [@SignateraOverview]. The current evidence of its clinical utility has earned it the designation of Breakthrough Device by the Food and Drug Administration in the United States. As described before, many large-scale prospective clinical trials are being currently conducted that use Signatera as their method of choice for MRD-ctDNA detection (GALAXY, BESPOKE CRC), which will provide further evidence of the clinical utility of the method.
 
