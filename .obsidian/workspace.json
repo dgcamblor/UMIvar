@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "24a35246b2a87097",
+        "id": "6bf2e476aacb32e7",
         "type": "tabs",
         "children": [
           {
-            "id": "7b7c0ad0b87eb2c2",
+            "id": "8907806c6af98b83",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "587125fc3456cb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,12 +231,13 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "7b7c0ad0b87eb2c2",
+  "active": "8907806c6af98b83",
   "lastOpenFiles": [
-    "Estadística/Tamaño muestral.md",
+    "Doctorado/Clinical trials/IMPROVE-IT2 trial.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Dashboard.md",
+    "Estadística/Tamaño muestral.md",
+    "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/ctDNA calling software.md",
     "Otros/Plantillas/Daily note.md",
     "In liquid.md",
@@ -244,7 +259,6 @@
     "Notas diarias/2024-02-19.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
     "Notas diarias/0-based vs. 1-based coordinate systems.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",
