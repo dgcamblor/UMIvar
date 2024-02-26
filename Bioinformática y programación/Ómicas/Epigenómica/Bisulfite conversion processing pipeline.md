@@ -13,6 +13,11 @@ The ENCODE Project gathers a series of WGBS data and processing standards at: [W
 - The C to T conversion rate should be ≥98%.
 - The CpG quantification should have a [Pearson correlation](https://www.encodeproject.org/data-standards/terms/#concordance) of ≥0.8 for sites with ≥10X coverage.
 
+Some already developed pipelines are:
+
+- [methylseq: Introduction](https://nf-co.re/methylseq)
+- [GitHub - jkimlab/msPIPE](https://github.com/jkimlab/msPIPE)
+
 ## FASTQ preprocessing and quality control
 
 ### Initial quality control
@@ -106,4 +111,4 @@ The genomic sites/regions of interest, such as individual CpGs, differentially m
 
 - Huang, Jinyong, y Liang Wang. «Cell-Free DNA Methylation Profiling Analysis—Technologies and Bioinformatics». _Cancers_ 11, n.o 11 (6 de noviembre de 2019): 1741. [https://doi.org/10.3390/cancers11111741](https://doi.org/10.3390/cancers11111741).
 - Gong, Ting, Heather Borgard, Zao Zhang, Shaoqiu Chen, Zitong Gao, y Youping Deng. «Analysis and performance assessment of the whole genome bisulfite sequencing data workflow: currently available tools and a practical guide to advance DNA methylation studies». _Small methods_ 6, n.o 3 (marzo de 2022): e2101251. [https://doi.org/10.1002/smtd.202101251](https://doi.org/10.1002/smtd.202101251).
-- 
+- [GitHub - jkimlab/msPIPE](https://github.com/jkimlab/msPIPE).

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bisulfite conversion processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+    },
+    {
       "basename": "2024-02-26",
       "path": "Notas diarias/2024-02-26.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "Bisulfite vs. enrichment pipelines",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
-    },
-    {
-      "basename": "Bisulfite conversion processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
     {
       "basename": "GALAXY trial (CIRCULATE-japan)",

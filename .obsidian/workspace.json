@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-02-26.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-02-26.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-02-26.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-02-26.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-02-26.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
               }
             }
           },
@@ -219,9 +219,9 @@
   },
   "active": "a5f3d8a0139fe0ca",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-26.md",
     "Dashboard.md",
     "Doctorado/Paper writing/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing).md",
-    "Notas diarias/2024-02-26.md",
     "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md",
     "Doctorado/Clinical trials/PRECISION trial.md",
     "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md",
