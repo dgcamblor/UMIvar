@@ -146,7 +146,7 @@ A study in 51 metastatic cancer patients from the INSPIRE trial (NCT02644369) th
 
 The integration of multiple omics is certainly a target to pursue for the promise of a more sensitive and specific detection of ctDNA. [Redirecting](https://doi.org/10.1016/j.annonc.2022.07.1744). Similar approaches could be followed for MRD detection, although the high related costs would be currrently unaffordable for the daily clinical practice. 
 
-
+> Discutir el papel de montagut [High accuracy of a blood ctDNA-based multimodal test to detect colorectal cancer - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0923753423040103#bib34)
 
 EC:
 - ECLIPSE
