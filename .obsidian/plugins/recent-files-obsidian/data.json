@@ -5,6 +5,10 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
     {
+      "basename": "Differential methylation (DM) analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
+    },
+    {
       "basename": "2024-02-26",
       "path": "Notas diarias/2024-02-26.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "2024-02-20",
       "path": "Notas diarias/2024-02-20.md"
-    },
-    {
-      "basename": "Differential methylation (DM) analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
     },
     {
       "basename": "Bisulfite vs. enrichment pipelines",

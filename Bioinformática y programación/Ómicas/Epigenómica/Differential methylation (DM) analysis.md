@@ -16,3 +16,4 @@ To increase the statistical power, bins of a certain number of nucleotides can b
 Differential methylation analysis for bisulfite sequencing can be performed with:
 
 - [[methylKit]] -> Designed for RRBS, but also works with WGBS.
+- [methylSig: MethylSig: Differential Methylation Testing for WGBS and RRBS Data version 1.2.0 from Bioconductor](https://rdrr.io/bioc/methylSig/).
