@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Methylation array analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md"
+    },
+    {
+      "basename": "Differential methylation (DM) analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
+    },
+    {
+      "basename": "ctDNA WGBS processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md"
+    },
+    {
       "basename": "2024-02-26",
       "path": "Notas diarias/2024-02-26.md"
     },
     {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
-      "basename": "Differential methylation (DM) analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
     },
     {
       "basename": "Dashboard",
@@ -75,10 +83,6 @@
     {
       "basename": "Daily note",
       "path": "Otros/Plantillas/Daily note.md"
-    },
-    {
-      "basename": "Methylation array analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md"
     },
     {
       "basename": "ctDNA in mCRC",
@@ -195,10 +199,6 @@
     {
       "basename": "cutadapt",
       "path": "Bioinformática y programación/Ómicas/Genómica/cutadapt.md"
-    },
-    {
-      "basename": "CHIP filtering",
-      "path": "Bioinformática y programación/Ómicas/Genómica/CHIP filtering.md"
     }
   ],
   "omittedPaths": [],
