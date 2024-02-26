@@ -1,28 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-26",
-      "path": "Notas diarias/2024-02-26.md"
+      "basename": "Bisulfite conversion processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
     },
     {
-      "basename": "Pipeline list",
-      "path": "Bioinformática y programación/Ómicas/Pipeline list.md"
+      "basename": "annotatr",
+      "path": "Bioinformática y programación/R/annotatr.md"
+    },
+    {
+      "basename": "Bisulfite vs. enrichment pipelines",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
     },
     {
       "basename": "Differential methylation (DM) analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
     },
     {
-      "basename": "Methylation array analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md"
+      "basename": "CpG loci identification",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md"
     },
     {
       "basename": "ctDNA WGBS processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md"
     },
     {
-      "basename": "Bisulfite conversion processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+      "basename": "CpG site analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG site analysis.md"
+    },
+    {
+      "basename": "Directional vs. non-directional bisulfite-converted libraries",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Directional vs. non-directional bisulfite-converted libraries.md"
+    },
+    {
+      "basename": "methylKit",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
+    },
+    {
+      "basename": "MethylDackel",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
+    },
+    {
+      "basename": "Methylation deconvolution in cfDNA",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md"
+    },
+    {
+      "basename": "Methylated DNA immunoprecipitation analysis pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylated DNA immunoprecipitation analysis pipeline.md"
+    },
+    {
+      "basename": "Pipeline list",
+      "path": "Bioinformática y programación/Ómicas/Pipeline list.md"
+    },
+    {
+      "basename": "2024-02-26",
+      "path": "Notas diarias/2024-02-26.md"
     },
     {
       "basename": "Dashboard",
@@ -93,16 +125,8 @@
       "path": "Doctorado/ctDNA in mCRC.md"
     },
     {
-      "basename": "methylKit",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
-    },
-    {
       "basename": "2024-02-20",
       "path": "Notas diarias/2024-02-20.md"
-    },
-    {
-      "basename": "Bisulfite vs. enrichment pipelines",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
     },
     {
       "basename": "GALAXY trial (CIRCULATE-japan)",
@@ -175,30 +199,6 @@
     {
       "basename": "Base Quality Score Recalibration",
       "path": "Bioinformática y programación/Ómicas/Genómica/Base Quality Score Recalibration.md"
-    },
-    {
-      "basename": "BAMClipper",
-      "path": "Bioinformática y programación/Ómicas/Genómica/BAMClipper.md"
-    },
-    {
-      "basename": "Amino acid code",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
-    },
-    {
-      "basename": "Primer removal alternatives",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Primer removal alternatives.md"
-    },
-    {
-      "basename": "Liquid biopsy SEQC2",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
-    },
-    {
-      "basename": "Hard-clipped",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Hard-clipped.md"
-    },
-    {
-      "basename": "Genome mapping",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md"
     }
   ],
   "omittedPaths": [],

@@ -95,7 +95,8 @@ Finally, the called methylation is subject to [[Differential methylation (DM) an
 
 The genomic sites/regions of interest, such as individual CpGs, differentially methylated CpGs or regions, etc., must be annotated in order to gain functional insights. For this purpose, one can use:
 
-- [[annotatr]] (R package)
+- [[annotatr]] 
+- [genomation](https://bioconductor.org/packages/release/bioc/html/genomation.html)
 - [[methylKit]]. Although designed to work with RRBS mainly, it also works with [[Bismark]] [[bedGraph]] files (`cytosineReport`, `coverage`).
 - methylGSA. Approaches: ORA, GSEA.
 - Manual annotation of CpG islands using the UCSC table browser. Group -> Regulation; Track -> CpG Islands.
