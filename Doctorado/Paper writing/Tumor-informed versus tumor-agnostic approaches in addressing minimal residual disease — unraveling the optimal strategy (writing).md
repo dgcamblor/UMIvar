@@ -129,15 +129,11 @@ Following the compelling evidence of the utility of methylation markers in the d
 
 > ¿Añadir falsos positivos?
 
-> In the whole-genome setting, the gold standard for methylation assessment, Whole Genome Bisulfite Sequencing
+> WGBS/cfMEDIP. In the whole-genome setting, the gold standard for methylation assessment, Whole Genome Bisulfite Sequencing
 
 The fragmentation patterns of the cfDNA (fragmentomics) also reveal important epigenomic insights that give away the presence of ctDNA: mainly, cancer-derived fragments are shorter than those of non-cancerous origin, and the specific regions in which the DNA is cleaved can show alterations in nucleosome positioning and chromatin accesibility. A key study in the field of fragmentomics was performed by Cristiano et al., which developed a gradient boosting machine learning model that was able to predict the presence of ctDNA by training on low depth WGS data from 236 patients with different cancer types and 245 healthy controls. The model was able to score an overall AUC of 0.94, and in CRC patients in particular, the sensitivity was of 88% at a specificity of 95% [@cristianoGenomewideCellfreeDNA2019]. Furthermore, a study in 51 metastatic cancer patients from the INSPIRE trial (NCT02644369) that followed a tumor-agnostic approach showed that cancer specific methylation predicted OS and PFS similarly to mutation concentration in ctDNA. When integrating fragmentomics, both OS and PFS prediction surpassed that of mutation concentration [@zhao1664MOTumornaiveMethylomes2022].
 
-
-
-
-
-The study of whole genome methylation markers through techniques such as cfMeDIP-seq —which enables high resolution profiling at a relatively low cost when compared with bisulfite methods— is also starting to render insightful results. 
+As more omic data become increasingly available and accessible, the integration of multiple omics is certainly a target to pursue for the promise of a more sensitive and specific detection of ctDNA. The integration between genomics, epigenomics, fragmentomics and proteomics
 
 
 
