@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+                "file": "Notas diarias/2024-02-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+                "file": "Notas diarias/2024-02-26.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+                "file": "Notas diarias/2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+                "file": "Notas diarias/2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+                "file": "Notas diarias/2024-02-26.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "a5f3d8a0139fe0ca",
   "lastOpenFiles": [
-    "Bioinformática y programación/R/annotatr.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+    "Bioinformática y programación/R/annotatr.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md",
