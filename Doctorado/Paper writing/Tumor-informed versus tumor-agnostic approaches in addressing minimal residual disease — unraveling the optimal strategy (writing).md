@@ -121,18 +121,22 @@ The implementation of WGS in the clinical setting is, however, currently hindere
 
 ### 2. Epigenomics and beyond
 
-> 2. Epigenomics and beyond -> LUNAR-1, Guardant Health (ECLIPSE trial, failure of COBRA, etc.). Incorporation of other molecular markers cfRNA, miRNA...
+> Incorporation of other molecular markers cfRNA, miRNA...
 
 Although genetic variants are by far the most assessed marker for detecting ctDNA/MRD, an increasing part of the attention has shifted to exploring the epigenomic landscape of ctDNA and, in particular, methylation. Indeed, aberrant methylation is a major player in tumorigenesis that, in contrast to tumor mutations, appears to be more consistent across tumors from different patients and stages [@garrigouStudyHypermethylatedCirculating2016; @haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. As it can be inferred, the study of the methylome is promising for the agnostic assessment of MRD, in which sensitivity of detection is often hindered by the heterogeneity of the tumor mutational landscape.
 
+Following the compelling evidence of the utility of methylation markers in the detection of ctDNA, the commercial assay Guardant Reveal (Guardant Health) has been developed to integrate the study of methylation and fragmentomics with the detection of genetic variants. Although the specific targets of the panel have not been disclosed, it spans approximately 500 kb of regions that are relevant to cancer both in terms of genetic and epigenetic alterations. The signal is interpreted by proprietary software, which emits the decision for ctDNA calling. In favour of the use of methylation markers, Parikh et al. reported that the addition of these signatures improved the sensitivity in detecting recurrence by 25-36% [@parikhMinimalResidualDisease2021]. 
+
+> ¿Añadir falsos positivos?
+
 The fragmentation patterns of the cfDNA (fragmentomics) also reveal important epigenomic insights that give away the presence of ctDNA: mainly, cancer-derived fragments are shorter than those of non-cancerous origin, and the specific regions in which the DNA is cleaved can show alterations in nucleosome positioning and chromatin accesibility. A key study in the field of fragmentomics was performed by Cristiano et al., which developed a gradient boosting machine learning model that was able to predict the presence of ctDNA by training on low depth WGS data from 236 patients with different cancer types and 245 healthy controls. The model was able to score an overall AUC of 0.94, and in CRC patients in particular, the sensitivity was of 88% at a specificity of 95% [@cristianoGenomewideCellfreeDNA2019].
 
-Following the compelling evidence of the utility of epigenomic markers in the detection of ctDNA, the commercial assay Guardant Reveal (Guardant Health) has been developed to integrate the study of methylation and fragmentomics with the detection of genetic variants. Although the specific targets of the panel have not been disclosed, it spans approximately 500 kb of regions that are relevant to cancer both in terms of genetic and epigenetic alterations. 
+
+Indeed, it has been reported that the addition of 
 
 
 > Talk about Guardant Reveal and Guardant Infinity, which presents results in ASCO 2024, COSMOS study. ### Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence [Guardant Health, Inc. - Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence](https://investors.guardanthealth.com/press-releases/press-releases/2024/Guardant-Health-to-present-data-at-ASCO-GI-supporting-use-of-liquid-biopsy-to-predict-colon-cancer-recurrence/default.aspx)
 
-> The advent of multi-omic integration most benefits tumor-agnostic assays, as they have shown in recent assays.
 
 > As evidenced by the LUNAR-1 panel, tumor-agnostic assays gain the most benefits of the advent 
 
