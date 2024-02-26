@@ -123,9 +123,9 @@ The implementation of WGS in the clinical setting is, however, currently hindere
 
 > 2. Epigenomics and beyond -> LUNAR-1, Guardant Health (ECLIPSE trial, failure of COBRA, etc.). Incorporation of other molecular markers cfRNA, miRNA...
 
-Although genetic variants are by far the most assessed marker for detecting ctDNA/MRD, an increasing part of the attention has shifted to exploring the epigenomic landscape of ctDNA and, in particular, methylation. Indeed, aberrant methylation is a major player in tumorigenesis that, in contrast to tumor mutations, appears to be more consistent across tumors from different patients and stages [@garrigouStudyHypermethylatedCirculating2016; @haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. As it can be inferred, the study of the methylome is promising for the agnostic assessment of MRD, in which sensitivity of detection is often hindered by the heterogeneity of the tumor mutational landscape. 
+Although genetic variants are by far the most assessed marker for detecting ctDNA/MRD, an increasing part of the attention has shifted to exploring the epigenomic landscape of ctDNA and, in particular, methylation. Indeed, aberrant methylation is a major player in tumorigenesis that, in contrast to tumor mutations, appears to be more consistent across tumors from different patients and stages [@garrigouStudyHypermethylatedCirculating2016; @haoDNAMethylationMarkers2017; @luoCirculatingTumorDNA2020]. As it can be inferred, the study of the methylome is promising for the agnostic assessment of MRD, in which sensitivity of detection is often hindered by the heterogeneity of the tumor mutational landscape.
 
-The fragmentation patterns of the cfDNA (fragmentomics) also reveal important epigenomic insights that give away the presence of ctDNA: mainly, cancer-derived fragments are shorter than those of non-cancerous origin, and the specific regions in which the DNA is cleaved can show alterations in nucleosome positioning and chromatin accesibility. A key study in the field of fragmentomics was performed by Cristiano et al., which developed 
+The fragmentation patterns of the cfDNA (fragmentomics) also reveal important epigenomic insights that give away the presence of ctDNA: mainly, cancer-derived fragments are shorter than those of non-cancerous origin, and the specific regions in which the DNA is cleaved can show alterations in nucleosome positioning and chromatin accesibility. A key study in the field of fragmentomics was performed by Cristiano et al., which developed a gradient boosting machine learning model that was able to predict the presence of ctDNA by training on the WGS data of 
 
 
 > Talk about Guardant Reveal and Guardant Infinity, which presents results in ASCO 2024, COSMOS study. ### Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence [Guardant Health, Inc. - Guardant Health to present data at ASCO GI supporting use of liquid biopsy to predict colon cancer recurrence](https://investors.guardanthealth.com/press-releases/press-releases/2024/Guardant-Health-to-present-data-at-ASCO-GI-supporting-use-of-liquid-biopsy-to-predict-colon-cancer-recurrence/default.aspx)
@@ -140,8 +140,6 @@ The fragmentation patterns of the cfDNA (fragmentomics) also reveal important ep
 
 The study of whole genome methylation markers through techniques such as cfMeDIP-seq —which enables high resolution profiling at a relatively low cost when compared with bisulfite methods— is also starting to render insightful results. 
 
-The study of cfDNA fragmentation patterns —a field termed **fragmentomics**— is also starting to gain traction in the setting of tumor-agnostic MRD detection. 
-
 A study in 51 metastatic cancer patients from the INSPIRE trial (NCT02644369) that followed a tumor-agnostic approach showed that cancer specific methylation predicted OS and PFS similarly to mutation concentration in ctDNA. When integrating fragmentomics, both OS and PFS prediction surpassed that of mutation concentration [@zhao1664MOTumornaiveMethylomes2022].
 
 The integration of multiple omics is certainly a target to pursue for the promise of a more sensitive and specific detection of ctDNA. [Redirecting](https://doi.org/10.1016/j.annonc.2022.07.1744). Similar approaches could be followed for MRD detection, although the high related costs would be currrently unaffordable for the daily clinical practice. 
@@ -150,7 +148,6 @@ The integration of multiple omics is certainly a target to pursue for the promis
 
 EC:
 - ECLIPSE
-- GRAIL ??'
 - MEDAL
 
 The potential of 
