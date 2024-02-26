@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-02-26",
       "path": "Notas diarias/2024-02-26.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Pipeline list",
       "path": "Bioinformática y programación/Ómicas/Pipeline list.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (writing)",
