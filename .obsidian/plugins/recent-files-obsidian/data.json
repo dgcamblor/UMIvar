@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Differential methylation (DM) analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
+      "basename": "2024-02-26",
+      "path": "Notas diarias/2024-02-26.md"
     },
     {
       "basename": "Pipeline list",
       "path": "Bioinformática y programación/Ómicas/Pipeline list.md"
+    },
+    {
+      "basename": "Differential methylation (DM) analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
     },
     {
       "basename": "Methylation array analysis",
@@ -15,10 +19,6 @@
     {
       "basename": "ctDNA WGBS processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md"
-    },
-    {
-      "basename": "2024-02-26",
-      "path": "Notas diarias/2024-02-26.md"
     },
     {
       "basename": "Bisulfite conversion processing pipeline",
