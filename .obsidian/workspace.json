@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
               }
             }
           },
@@ -219,6 +219,8 @@
   },
   "active": "a5f3d8a0139fe0ca",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Pipeline list.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md",
     "Notas diarias/2024-02-26.md",
@@ -240,11 +242,9 @@
     "Doctorado/ctDNA calling software.md",
     "Otros/Plantillas/Daily note.md",
     "In liquid.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md",
     "Doctorado/ctDNA in mCRC.md",
     "Notas diarias/2024-02-20.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md",
-    "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

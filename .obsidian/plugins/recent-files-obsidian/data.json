@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Methylation array analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md"
-    },
-    {
       "basename": "Differential methylation (DM) analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
+    },
+    {
+      "basename": "Pipeline list",
+      "path": "Bioinformática y programación/Ómicas/Pipeline list.md"
+    },
+    {
+      "basename": "Methylation array analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation array analysis.md"
     },
     {
       "basename": "ctDNA WGBS processing pipeline",
@@ -195,10 +199,6 @@
     {
       "basename": "Genome mapping",
       "path": "Bioinformática y programación/Ómicas/Genómica/Genome mapping.md"
-    },
-    {
-      "basename": "cutadapt",
-      "path": "Bioinformática y programación/Ómicas/Genómica/cutadapt.md"
     }
   ],
   "omittedPaths": [],

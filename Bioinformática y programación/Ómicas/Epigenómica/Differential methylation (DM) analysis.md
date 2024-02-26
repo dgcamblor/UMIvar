@@ -11,6 +11,12 @@ Prediction using CpG sites can be performed using [[Lasso regression]], which pe
 
 To increase the statistical power, bins of a certain number of nucleotides can be considered for the differential methylation analysis. CpGs next to each other are most frequently correlated, therefore it is sensible to group them together in bins, thereby reducing the number of hypothesis tests.
 
+## Methylation arrays
+
+The main software to analyze DNA methylation arrays are:
+
+- [minfi](https://bioconductor.org/packages/release/bioc/html/minfi.html) -> For Illumina Infinium arrays.
+
 ## Bisulfite sequencing
 
 Differential methylation analysis for bisulfite sequencing can be performed with:
