@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "annotatr",
-      "path": "Bioinformática y programación/R/annotatr.md"
-    },
-    {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+    },
+    {
+      "basename": "annotatr",
+      "path": "Bioinformática y programación/R/annotatr.md"
     },
     {
       "basename": "Bisulfite vs. enrichment pipelines",
