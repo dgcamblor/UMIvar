@@ -20,5 +20,9 @@ path=$(echo ${input} | sed 's/\..*//')
 
 # Obtaining the FASTQ files from the BAM file
 samtools sort -n ${input} -o ${path}.nsorted.bam
-samtools fastq ${path}.nsorted.bam -1 ${path}_R1.fastq -2 ${path}_R2.fastq -n  # -0 /dev/null -s /dev/null  # Discard unpaired reads 
+
+samtools fastq ${path}.nsorted.bam \
+  -1 ${path}_R1.fastq -2 ${path}_R2.fastq -n \
+  -0 /dev/null -s /dev/null  # Discard unpaired reads 
+
 rm ${path}.nsorted.bam

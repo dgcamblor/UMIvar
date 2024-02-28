@@ -11,7 +11,7 @@
 #-------------------------------------------------------------------------------
 
 __author__ = "@dgcamblor"
-__version__ = "1.0"
+__version__ = "1.1"
 
 import sys, os
 from subprocess import run
@@ -41,7 +41,8 @@ def parse_args():
     parser.add_argument("-v", "--variants", help="CSV/VCF file with the variants to introduce. If a number is provided, that number of random variants will be simulated (requires -f).", required=True)
 
     # Optional arguments
-    parser.add_argument("-o", "--output_bam", help="Output BAM file.", required=False)
+    parser.add_argument("-o", "--output", help="Path to the output file.", required=False, default=None)
+    parser.add_argument("-t", "--output_type", help="Type of the output file (BAM, SORTED_BAM, FASTQ).", required=False, default="BAM")
     parser.add_argument("-b", "--bed", help="BED file with the target regions to delimit the file.", required=False)
     parser.add_argument("-f", "--ref_fasta", help="Reference FASTA file. Optional: only needed in the random generation of variants (numeric input in -v).", required=False)
     parser.add_argument("-e", "--edit_threshold", help="Edit distance threshold for the UMI-tools grouping algorithm.", type=int, required=False)
@@ -97,13 +98,14 @@ def main():
     in_bam_name = args.input_bam.split("/")[-1].split(".")[0]
 
     # Handle output files
-    out_path, out_bam_name, out_bam_path = get_outputs(in_bam_name)
-    out_var_path = out_bam_path.replace(".bam", ".csv")  # Output CSV file with the introduced variants
+    output_dir, sample_name, output_bam = get_outputs(in_bam_name, args.output)
+    output_var = output_bam.replace(".bam", ".csv")  # Output CSV file with the introduced variants
 
     print(f"{BLUE}Sample:{END} {in_bam_name}")
     print(f"{BLUE}Variants:{END} {args.variants} {'(random)' if random_mode else ''}")
-    print(f"{BLUE}Output type:{END} {'on target' if args.bed else 'whole BAM'}")
-    print(f"{BLUE}Output path:{END} {out_bam_path}")
+    print(f"{BLUE}Target type:{END} {'on target' if args.bed else 'whole BAM'}")
+    print(f"{BLUE}Output type:{END} {args.output_type}")
+    print(f"{BLUE}Output path:{END} {output_bam.replace('.bam', '')}")
     print()
 
     step = 1
@@ -139,8 +141,8 @@ def main():
     # Variant simulation
     with (
         pysam.AlignmentFile(in_bam_path, "rb") as in_bam_file,
-        pysam.AlignmentFile(out_bam_path, "wb", template=in_bam_file) as out_bam_file,
-        open(out_var_path, "w") as out_var_file):
+        pysam.AlignmentFile(output_bam, "wb", template=in_bam_file) as out_bam_file,
+        open(output_var, "w") as out_var_file):
 
         out_var_file.write("chr,pos,ref,alt,af,cov,umis,sb\n")
 
@@ -159,17 +161,28 @@ def main():
     print(); print()
 
     # Sort and index the output file
-    print(f"{BLUE}[{step}] Sorting and indexing output file...{END}"); step += 1
-    print()
+    if args.output_type == "SORTED_BAM" or args.output_type == "FASTQ":
+        print(f"{BLUE}[{step}] Sorting and indexing output file...{END}"); step += 1
+        print()
 
-    pysam.sort("-o", f"{out_path}/{out_bam_name}.sorted.bam", out_bam_path)
-    pysam.index(f"{out_path}/{out_bam_name}.sorted.bam")
+        output_bam_sorted = f"{output_dir}/{sample_name}.sorted.bam"
+
+        pysam.sort("-o", output_bam_sorted, output_bam)
+        pysam.index(output_bam_sorted)
+
+        # Remove the unsorted BAM file
+        os.remove(output_bam)
 
     # Produce FASTQ files for the reads
-    print(f"{BLUE}[{step}] Producing FASTQ files...{END}"); step += 1
-    print()
+    if args.output_type == "FASTQ":
+        print(f"{BLUE}[{step}] Producing FASTQ files...{END}"); step += 1
+        print()
 
-    run(f"{TO_FASTQ} -i {out_path}/{out_bam_name}.sorted.bam", shell=True)
+        run(f"{TO_FASTQ} -i {output_bam_sorted}", shell=True)
+
+        # Remove the sorted BAM file
+        os.remove(output_bam_sorted)
+        os.remove(f"{output_bam_sorted}.bai")
 
     t1 = timer()
 
@@ -178,7 +191,7 @@ def main():
     stats["all_vars"] = stats["added_variants"] == stats["total_vars"]
 
     # Print stats
-    print_stats(stats, out_path)
+    print_stats(stats, output_dir)
 
 
 if __name__ == "__main__":

@@ -122,8 +122,9 @@ def get_umi_combination(variant, umis, umis_fwd, umis_rev, umi_blacklist, umi_gr
         umi_combination = []
     
     elif variant.af == 1:
-        umi_combination = [umi for umi in umis if umi not in umi_blacklist]
-        achieved_af = 1 if not umi_blacklist else sum([umis[umi] for umi in umi_combination])
+        # Use all possible UMIs
+        umi_combination = [umi for umi in umis if umi not in umi_blacklist]  # List of all available UMIs
+        achieved_af = 1 if not umi_blacklist else 1 - (len(umi_blacklist) / len(umi_combination))
     
     else:
         ind_freq = 1/len(umis)
@@ -146,6 +147,11 @@ def get_umi_combination(variant, umis, umis_fwd, umis_rev, umi_blacklist, umi_gr
         # If the for loop finishes, use all the UMIs
         else:
             n_umis = len(available_umis)
+
+        if n_umis == 0:
+            achieved_af = ind_freq
+            n_umis = 1
+            print(f"{YELLOW}WARNING: Variant {variant} cannot be introduced at specified AF [too low], increasing AF to minimum ({ind_freq}){END}")
 
         # Get a combination of UMIs that achieves the best target AF
         umi_combination = choose_umis(umis_fwd, umis_rev, n_umis, umi_blacklist)
@@ -221,9 +227,12 @@ def add_variants(bam_file, variants, var_file, stats, umi_groups=None):
     var_record = rec_defaultdict()
     indel_record = rec_defaultdict()
 
+    total_vars = len(variants)
     added_vars = 0
+    processed_vars = 0
 
     for variant in variants:
+        processed_vars += 1
         try:  # Failsafe in case the variant cannot be introduced
             # Get all the reads covering the variant
             covering_reads = [read for read in bam_file.fetch(variant.chr, variant.pos0, variant.pos0 + 1)]
@@ -252,10 +261,7 @@ def add_variants(bam_file, variants, var_file, stats, umi_groups=None):
             # Get the UMIs to be mutated
             umis_to_mutate, achieved_af = get_umi_combination(variant, umis, umis_fwd, umis_rev, umi_blacklist, umi_groups)
 
-            if not umis_to_mutate and umis:
-                print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [too low AF]{END}")
-                continue
-            elif not umis_to_mutate and not umis:
+            if not umis_to_mutate and not umis:
                 print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [no reads]{END}")
                 continue
 
@@ -333,11 +339,9 @@ def add_variants(bam_file, variants, var_file, stats, umi_groups=None):
 
                 bam_file.reset()
 
-        except Exception as ex:
-            print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [internal error: {ex.__class__.__name__}]{END}")
+        except Exception as error:
+            print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [internal error: {error.__class__.__name__}]{END}")
             continue
-
-        added_vars += 1
 
         # Calculate strand bias
         b = mut_strands.count("+")
@@ -345,14 +349,20 @@ def add_variants(bam_file, variants, var_file, stats, umi_groups=None):
         a = len(reads_fwd) - b
         c = len(reads_rev) - d
 
-        strand_bias = calculate_sb(a, b, c, d)
+        try:
+            strand_bias = calculate_sb(a, b, c, d)
+        except ZeroDivisionError as error:
+            print(f"{YELLOW}WARNING: Variant {variant} could not be introduced [internal error: {error.__class__.__name__}]{END}")
+            continue
 
+        # Success
+        added_vars += 1
         bam_file.reset()  # Reset the BAM file to the beginning
 
         if added_vars <= 7:
             print(f"{GREEN}Variant {variant} introduced at frequency {achieved_af:3f} in {len(umis_to_mutate)} UMIs (SB: {strand_bias:3f}){END}")
-        elif added_vars == 8:
-            print(f"{GREEN}More variants introduced... (see {var_file.name}){END}")
+        elif added_vars >= 8:
+            print(f"{GREEN}More variants introduced... (see {var_file.name}) ({processed_vars}/{total_vars})", end="\r")
         
         var_file.write(f"{variant.chr},{variant.pos1},{variant.ref},{variant.alt},{achieved_af},{var_coverage},{len(umis_to_mutate)},{strand_bias}\n")
 
@@ -464,20 +474,32 @@ def change_pos(pos, read):
 
     expanded_cigar = expand_cigar(read.cigarstring)
 
+    search_clipping = True
+
     for elem in expanded_cigar:
-        if elem == "D":
-            new_pos += 0
-            cigar_pos += 1
-        elif elem == "I":
+        if elem == "S" and search_clipping:
             new_pos += 1
             cigar_pos += 1
+
+        elif elem == "D":
+            search_clipping = False
+            new_pos += 0
+            cigar_pos += 1
+
+        elif elem == "I":
+            search_clipping = False
+            new_pos += 1
+            cigar_pos += 1
+
+        else:
+            search_clipping = False    
 
     return new_pos, cigar_pos
 
 
 def check_indel_cigar(cigar):
     """Return True if the CIGAR string contains an indel"""
-    return "I" in cigar or "D" in cigar
+    return "I" in cigar or "D" in cigar or "S" in cigar
 
 
 def change_cigar(cigar, variant, pos):

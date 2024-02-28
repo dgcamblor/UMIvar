@@ -11,28 +11,31 @@ from multiprocessing import cpu_count
 from src.constants import *
 
 
-def get_outputs(bam_name, output_bam=None):
-    """Get the output path and name from the input BAM file.
+def get_outputs(bam_name, output_file=None):
+    """Get the output directory and sample names.
+        - If the output file is not provided, get default values.
+        - If the output file is provided, get the output directory and sample names.
 
     Args:
         bam_name (str): Name of the input BAM file.
-        output_bam (str): Path to the output BAM file.
+        output_file (str): Path to the output file, as provided by the user.
 
     Returns:
-        tuple: Tuple with the output path, output name and output BAM file.
+        tuple: Tuple with the output directory, sample name and output BAM file.
     """
-    if not output_bam:  # Default output path
-        output_path = "results"
-        output_name = f"{bam_name}_UV"
-        if not os.path.exists(output_path):
-            os.mkdir(output_path)
-        output_bam = f"{output_path}/{output_name}.bam"
-    else:  # Custom output path
-        output_path = "/".join(output_bam.split("/")[:-1])
-        output_name = output_bam.split("/")[-1].split(".")[0]
-        output_bam = output_bam
+    if not output_file:  # Default output path
+        output_dir = "results"
+        sample_name = f"{bam_name}_UV"
+        if not os.path.exists(output_dir):
+            os.mkdir(output_dir)
 
-    return output_path, output_name, output_bam
+    else:  # Custom output path
+        output_dir = "/".join(output_file.split("/")[:-1])
+        sample_name = output_file.split("/")[-1].split(".")[0]
+    
+    output_bam = f"{output_dir}/{sample_name}.bam"
+
+    return output_dir, sample_name, output_bam
 
 
 def create_ontarget(bed_file, bam_file):
@@ -67,11 +70,15 @@ def extract_variants(var_file):
             fields = line.rstrip().split(",")
             if not fields[1].isnumeric():  # Check if it is a header (the pos field is not a number)
                 continue
-            variants.append(Variant(chr = fields[0], 
-                                    pos1 = int(fields[1]),
-                                    ref = fields[2], 
-                                    alt = fields[3], 
-                                    af = float(fields[4])))
+
+            try:
+                variants.append(Variant(chr = fields[0], 
+                                        pos1 = int(fields[1]),
+                                        ref = fields[2], 
+                                        alt = fields[3], 
+                                        af = float(fields[4])))
+            except ValueError as e:
+                print(f"{YELLOW}WARNING: Variant threw error: {e}. Skipping variant.{END}")
             
     elif var_file.name.endswith(".vcf"):
         for line in var_file:
@@ -79,11 +86,15 @@ def extract_variants(var_file):
                 continue
             fields = line.rstrip().split("\t")
             af = float(fields[7].split("AF=")[1].split(";")[0])
-            variants.append(Variant(chr = fields[0], 
-                                    pos1 = int(fields[1]),
-                                    ref = fields[3], 
-                                    alt = fields[4], 
-                                    af = af))
+
+            try:
+                variants.append(Variant(chr = fields[0], 
+                                        pos1 = int(fields[1]),
+                                        ref = fields[3], 
+                                        alt = fields[4], 
+                                        af = af))
+            except ValueError as e:
+                print(f"{YELLOW}WARNING: Variant threw error: {e}. Skipping variant.{END}")
             
     else:
         print(f"{RED}ERROR: Variants file must be a CSV or VCF file.{END}")
