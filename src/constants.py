@@ -1,8 +1,10 @@
 import re
+import os
 import numpy as np
 
 # Bash scripts
-TO_FASTQ = "./src/to_fastq.sh"
+SRC_DIRECTORY = os.path.dirname(os.path.realpath(__file__))
+TO_FASTQ = f"{SRC_DIRECTORY}/to_fastq.sh"
 
 # Colored output
 BLUE="\033[94m"

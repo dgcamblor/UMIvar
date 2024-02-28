@@ -70,4 +70,4 @@ class Variant:
         elif len(self.ref) < len(self.alt) and self.ref[0] == self.alt[0]:
             return "INS"
         else:
-            raise ValueError("Invalid variant type")
+            raise ValueError(f"Invalid variant type for variant: {self}. UMIvar only supports SNVs, MNVs, insertions and deletions.")
