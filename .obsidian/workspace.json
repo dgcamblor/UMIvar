@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "830cfdebed49d4ce",
+        "id": "1b115c4aa9e334da",
         "type": "tabs",
         "children": [
           {
-            "id": "64010728fd3a89bf",
+            "id": "092ba1191a74f453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-04.md",
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-04.md"
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-04.md",
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-04.md",
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-04.md"
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
               }
             }
           },
@@ -201,9 +201,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "64010728fd3a89bf",
+  "active": "092ba1191a74f453",
   "lastOpenFiles": [
     "Bio.md",
+    "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
+    "Notas de cursos/Gestión del tiempo.md",
     "Dashboard.md",
     "Notas diarias/2024-02-28.md",
     "Notas diarias/2024-03-04.md",
@@ -229,9 +231,7 @@
     "Notas diarias/2024-02-26.md",
     "Notas diarias/2024-02-27.md",
     "Notas diarias/2024-02-29.md",
-    "Bioinformática y programación/GitHub.md",
     "Doctorado/Paper writing/test.docx",
-    "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/Paper writing/zotero.lua",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
