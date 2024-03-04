@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c9a8b00af77f6b6",
+        "id": "830cfdebed49d4ce",
         "type": "tabs",
         "children": [
           {
-            "id": "77b163b6b3a0b407",
+            "id": "64010728fd3a89bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-04.md",
+                "file": "Bio.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-04.md"
+                "file": "Bio.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-04.md",
+                "file": "Bio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-04.md",
+                "file": "Bio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-04.md"
+                "file": "Bio.md"
               }
             }
           },
@@ -201,11 +201,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "77b163b6b3a0b407",
+  "active": "64010728fd3a89bf",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Notas diarias/2024-02-28.md",
     "Notas diarias/2024-03-04.md",
-    "Dashboard.md",
     "Biología y medicina/Bioquímica/Vías de señalización",
     "Biología y medicina/Oncología/Cáncer colorrectal.md",
     "Biología y medicina/Tratamientos/Tratamiento del CCR.md",

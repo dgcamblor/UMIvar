@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Bio",
+      "path": "Bio.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-03-04",
       "path": "Notas diarias/2024-03-04.md"
     },
@@ -9,16 +17,8 @@
       "path": "Notas diarias/2024-02-28.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Cáncer colorrectal",
       "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
-    },
-    {
-      "basename": "Bio",
-      "path": "Bio.md"
     },
     {
       "basename": "Variant calling analysis",
