@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bio.md",
+                "file": "Notas diarias/2024-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 200
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bio.md"
+                "file": "Notas diarias/2024-03-04.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bio.md",
+                "file": "Notas diarias/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bio.md",
+                "file": "Notas diarias/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bio.md"
+                "file": "Notas diarias/2024-03-04.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "64010728fd3a89bf",
   "lastOpenFiles": [
+    "Bio.md",
     "Dashboard.md",
     "Notas diarias/2024-02-28.md",
     "Notas diarias/2024-03-04.md",
@@ -231,7 +232,6 @@
     "Bioinformática y programación/GitHub.md",
     "Doctorado/Paper writing/test.docx",
     "Doctorado/MRD ctDNA clinical trials in CRC.md",
-    "Doctorado/MRD ctDNA assays in CRC.md",
     "Doctorado/Paper writing/zotero.lua",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Notas diarias/2024-02-14.md.partial",
