@@ -1,104 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-03-04",
-      "path": "Notas diarias/2024-03-04.md"
-    },
-    {
-      "basename": "2024-02-28",
-      "path": "Notas diarias/2024-02-28.md"
+      "basename": "EACR 2024",
+      "path": "Doctorado/Writing and planning/EACR 2024.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
-      "basename": "Cáncer colorrectal",
-      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
-    },
-    {
-      "basename": "Bio",
-      "path": "Bio.md"
-    },
-    {
-      "basename": "Variant calling analysis",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
-    },
-    {
-      "basename": "Zotero configuration",
-      "path": "Bioinformática y programación/Zotero configuration.md"
-    },
-    {
-      "basename": "Genomic benchmarking resources",
-      "path": "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md"
-    },
-    {
-      "basename": "EACR 2024",
-      "path": "Doctorado/Writing and planning/EACR 2024.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
-      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
-    },
-    {
-      "basename": "Liquid biopsy SEQC2",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md"
-    },
-    {
-      "basename": "bcftools",
-      "path": "Bioinformática y programación/Programas/bcftools.md"
-    },
-    {
-      "basename": "2024-03-01",
-      "path": "Notas diarias/2024-03-01.md"
-    },
-    {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
-      "basename": "2024-02-14",
-      "path": "Notas diarias/2024-02-14.md"
-    },
-    {
-      "basename": "mosdepth",
-      "path": "Bioinformática y programación/Ómicas/Genómica/mosdepth.md"
-    },
-    {
-      "basename": "2024-02-15",
-      "path": "Notas diarias/2024-02-15.md"
-    },
-    {
-      "basename": "2024-02-16",
-      "path": "Notas diarias/2024-02-16.md"
-    },
-    {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
-    },
-    {
-      "basename": "2024-02-17",
-      "path": "Notas diarias/2024-02-17.md"
-    },
-    {
-      "basename": "2024-02-19",
-      "path": "Notas diarias/2024-02-19.md"
-    },
-    {
-      "basename": "2024-02-20",
-      "path": "Notas diarias/2024-02-20.md"
-    },
-    {
-      "basename": "2024-02-26",
-      "path": "Notas diarias/2024-02-26.md"
-    },
-    {
-      "basename": "2024-02-27",
-      "path": "Notas diarias/2024-02-27.md"
-    },
-    {
-      "basename": "2024-02-29",
-      "path": "Notas diarias/2024-02-29.md"
+      "basename": "2024-02-28",
+      "path": "Notas diarias/2024-02-28.md"
     },
     {
       "basename": "2023-11-17",
@@ -123,6 +35,10 @@
     {
       "basename": "2024-01-24",
       "path": "Notas diarias/2024-01-24.md"
+    },
+    {
+      "basename": "2024-02-27",
+      "path": "Notas diarias/2024-02-27.md"
     },
     {
       "basename": "Signatera",
@@ -151,6 +67,10 @@
     {
       "basename": "scRNA-seq analysis",
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
+    },
+    {
+      "basename": "2024-02-26",
+      "path": "Notas diarias/2024-02-26.md"
     },
     {
       "basename": "Bisulfite conversion processing pipeline",
@@ -199,6 +119,86 @@
     {
       "basename": "Pipeline list",
       "path": "Bioinformática y programación/Ómicas/Pipeline list.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)",
+      "path": "Doctorado/Paper planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning).md"
+    },
+    {
+      "basename": "PRECISION trial",
+      "path": "Doctorado/Clinical trials/PRECISION trial.md"
+    },
+    {
+      "basename": "MEDOCC-CrEATE trial",
+      "path": "Doctorado/Clinical trials/MEDOCC-CrEATE trial.md"
+    },
+    {
+      "basename": "PGDx elio plasma resolve",
+      "path": "Doctorado/Clinical trials/PGDx elio plasma resolve.md"
+    },
+    {
+      "basename": "PEGASUS trial",
+      "path": "Doctorado/Clinical trials/PEGASUS trial.md"
+    },
+    {
+      "basename": "brPROPHET MRD",
+      "path": "Doctorado/Assays/brPROPHET MRD.md"
+    },
+    {
+      "basename": "DYNAMIC-III trial",
+      "path": "Doctorado/Clinical trials/DYNAMIC-III trial.md"
+    },
+    {
+      "basename": "IMPROVE-IT trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT trial.md"
+    },
+    {
+      "basename": "IMPROVE-IT2 trial",
+      "path": "Doctorado/Clinical trials/IMPROVE-IT2 trial.md"
+    },
+    {
+      "basename": "Tamaño muestral",
+      "path": "Estadística/Tamaño muestral.md"
+    },
+    {
+      "basename": "ctDNA calling software",
+      "path": "Doctorado/ctDNA calling software.md"
+    },
+    {
+      "basename": "Daily note",
+      "path": "Otros/Plantillas/Daily note.md"
+    },
+    {
+      "basename": "ctDNA in mCRC",
+      "path": "Doctorado/ctDNA in mCRC.md"
+    },
+    {
+      "basename": "2024-02-20",
+      "path": "Notas diarias/2024-02-20.md"
+    },
+    {
+      "basename": "GALAXY trial (CIRCULATE-japan)",
+      "path": "Doctorado/Clinical trials/GALAXY trial (CIRCULATE-japan).md"
+    },
+    {
+      "basename": "Research caveats",
+      "path": "Doctorado/Research caveats.md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
+    },
+    {
+      "basename": "BESPOKE trial",
+      "path": "Doctorado/Clinical trials/BESPOKE trial.md"
+    },
+    {
+      "basename": "ctDNA methylation in CRC — biomarkers",
+      "path": "Doctorado/ctDNA methylation in CRC — biomarkers.md"
+    },
+    {
+      "basename": "Variant calling analysis",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
     }
   ],
   "omittedPaths": [],

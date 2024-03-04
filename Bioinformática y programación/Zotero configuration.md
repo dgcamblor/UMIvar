@@ -1,4 +1,8 @@
 
+## General settings
+
+View -> Show items from subcollections
+
 ## Extensiones
 
 - [Zotfile](https://github.com/jlegewie/zotfile)
@@ -13,7 +17,11 @@ Documentación disponible en: [ZotFile - Advanced PDF management for Zotero](htt
 
 #### Enlazar con el dual-boot
 
+Para que se pueda acceder a un mismo conjunto de documentos enlazados (por ejemplo, creados con Zotfile) es necesario que estos estén todos en una carpeta que los contenga en los diferentes ordenadores. Se puede apuntar a esta carpeta desde Zotero para que los encuentre:
+
 > In Zotero (not Zotfile) preferences go to Advanced > Files and Folders. Make sure that Linked Attachment Base Directory is the same folder.
+
+El ajuste es: `Change base directory setting`.
 
 [Zotfile on multiple OS - Zotero Forums](https://forums.zotero.org/discussion/73148/zotfile-on-multiple-os)
 #### Opciones ocultas

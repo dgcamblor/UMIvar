@@ -17,7 +17,7 @@ Según los datos de [Globocan 2020](https://gco.iarc.fr/today/data/factsheets/ca
 
 Las principales vías de aparición del CCR, las cuales no son excluyentes, son [@tariqColorectalCancerCarcinogenesis2016]:
 
-- Inestabilidad cromosómica (CIN) (vía supresora). Es la más común y representa un 85% de los CCR esporádicos. Sigue la secuencia pólipo-adenoma-adenocarcinoma, con una sucesión de eventos de mutación descrita originalmente por Vogelstein et al.:
+- Inestabilidad cromosómica (CIN) (vía supresora). Es la más común y representa un 85% de los CCR esporádicos. Son de microsatélites estables (MSS). Sigue la secuencia pólipo-adenoma-adenocarcinoma, con una sucesión de eventos de mutación descrita originalmente por Vogelstein et al.:
 	1. La mutación inactivadora del gen [[APC]] actúa como principal driver.
 	2. Se produce la mutación en otros oncogenes (como [[KRAS]], SMAD4, TP53).
 
@@ -34,7 +34,12 @@ Aproximadamente 15-30% de los pacientes se diagnostican con metástasis ya prese
 ## Tratamiento actual del cáncer colorrectal
 
 El paradigma de la medicina de precisión en el CCR se centra principalmente en la terapia anti-EGFR, estableciéndose una estratificación de pacientes según el estado de los genes RAS: su mutación activa de forma constitutiva la vía, por lo que confiere resistencia anti-EGFR, mientras que un estado de RAS wild-type es indicativo de respuesta al tratamiento.
-### Localizado
+
+Resumen de los principales fármacos para el tratamiento del CCR ([Redirecting](https://doi.org/10.1016/j.bbcan.2021.188623)):
+
+![[Pasted image 20231213145047.jpg]]
+
+### Tratamiento del CCR localizado
 
 - Estadio II. La cirugía es el tratamiento estándar, seguido de:
 	- Bajo riesgo y MSI-H. Simple observación.
@@ -46,7 +51,7 @@ El paradigma de la medicina de precisión en el CCR se centra principalmente en 
 
 La clasificación de bajo/alto riesgo se guía por características clínicas que no son óptimas.
 
-### Metastásico
+### Tratamiento del CCR metastásico
 
 Si se encuentran localizadas, la cirugía es el tratamiento principal de las metástasis hepáticas y pulmonares.
 

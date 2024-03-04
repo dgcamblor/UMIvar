@@ -10,7 +10,7 @@ This command is used to put together files that come from **different samples or
 ## norm (variant normalization)
 
 ```bash
-bcftools norm -f ref.fa -O z -m any variants.vcf
+bcftools norm -f ref.fa -O z -m-any variants.vcf
 ```
 
 - `-m`: Normalization method. `any` allows any indel to be left-aligned (even if it is not parsimonious).

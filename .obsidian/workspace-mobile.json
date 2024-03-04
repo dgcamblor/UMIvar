@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa48a8bbf864e1c5",
+        "id": "485ed3283f0f97b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f4b06f654f942fab",
+            "id": "b56c8f8fca7b10f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       },
@@ -163,10 +165,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4b06f654f942fab",
+  "active": "b56c8f8fca7b10f8",
   "lastOpenFiles": [
-    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Dashboard.md",
+    "Notas diarias/2024-02-27.md",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Notas diarias/2024-02-08.md",
     "Otros/Plantillas/Daily note.md",
     "Untitled.md",
@@ -199,8 +203,6 @@
     "Otros/Adjuntos/Pasted image 20231202224052.png",
     "Otros/Adjuntos/kras-signaling-pathway.svg",
     "Otros/Adjuntos/guillermo-ferla-kEEl9csCutg-unsplash.jpg",
-    "Notas Diarias/2023-12-11.md",
-    "Notas Diarias/2023-12-19.md",
     "Notas de cursos",
     "Guías y referencias",
     "General",

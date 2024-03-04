@@ -49,13 +49,8 @@
   "Notas de libros": "FasBook",
   "Bioinformática y programación/Ómicas": "FasDna",
   "Música": "FasMusic",
-  "Dashboard.md": "FasHouseChimney",
-  "Tareas.md": "FasListCheck",
   "Notas de lecturas": "FabReadme",
-  "Notas de charlas": {
-    "iconName": "FasUsers",
-    "inheritanceIcon": "FasUsers"
-  },
+  "Notas de charlas": "FasUsers",
   "Bioinformática y programación/Databases": "FasDatabase",
   "Bioinformática y programación/Programas": "FasBarsProgress"
 }
