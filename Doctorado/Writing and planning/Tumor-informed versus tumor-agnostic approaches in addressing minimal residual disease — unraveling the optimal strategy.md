@@ -14,7 +14,6 @@ tags:
 
 > In recently presented results, however, the [[COBRA trial]] was not able to meet its primary endpoint, and was promptly stopped due to futility in achieving statistical significance [@morrisPhaseIIResults2024].
 
- A prospective study on a cohort of 240 CRC patients stage II-III showed decrease 2-year RFS rates for ctDNA-positive patients (HR = 10.98, 95% CI = 5.41-22.72, p < 0.001), a difference that was further exacerbated when performing serial ctDNA analysis in a subcohort of 125 patients (24.0% vs. 96.0%; HR = 32.02, 95 CI = 10.79-95.08, p < 0.001). Importantly, this last analysis exhibited a sensitivity of 82.6% and a specificity of 94.1% for the recurrence detection [@chenPostoperativeCirculatingTumor2021].
 ### Methylation
 
 [Efficient detection and post-surgical monitoring of colon cancer with a multi-marker DNA methylation liquid biopsy | PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2017421118)
