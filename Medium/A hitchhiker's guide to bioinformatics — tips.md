@@ -38,19 +38,10 @@ I personally prefer inline code completers more than good ol' chatgpt, mainly be
 
 # Writing
 
-Bioinformatics ~~is an exciting field that~~ combines the best of a myriad of disciplines. I guess it's not too hard to figure out the first two —biology and informatics— but statistics, mathematics, etc. are also players in this game. The recent shift to data generation and omics has made bioinformatics a field more relevant than ever, and it is no wonder that many biologists are now interested in learning about it.
+Bioinformatics combines the best of a myriad of disciplines. I guess it's not too hard to figure out the first two —biology and informatics— but statistics, mathematics, etc. are also players in this game. The recent shift to data generation and omics has made bioinformatics a field more relevant than ever, and it is no wonder that many biologists are now interested in learning about it.
 
-My career path was always clear to me - I wanted to become a biologist. But I grew practically attached to a computer, which made me also like that field. When I learned about bioinformatics, I sort of found my Ikigai. Along my career path, I've made a lot of mistakes, but learned an equivalent amount of insights.
-
-
-[Paragraph about myself]. If you are a biologist who is curious about, in need of or comitted to learning bioinformatics, I want to share you with you my knowledge!
-
+My career path was always clear to me - I wanted to become a biologist. But I grew practically attached to a computer, which made me also like that field. That is why when I learned about bioinformatics, I sort of found my Ikigai. Along my career path, I've made a lot of mistakes, but learned an equivalent amount of insights. If you are a biologist who is curious about, in need of or comitted to learning bioinformatics, I want to share you with you my knowledge!
 
 ## Get yourself a comfortable (computing) environment
 
-You will probably know (if not, I am telling you now) that most bioinformatic tools are developed for Unix-like systems (say, Linux or MacOS). If you are not a MacOS user, the easiest way to get into Linux is by installing Ubuntu: [easy](), clean, beautiful.
-
-However, if you are too in love with Windows (or you are a hardcore PC gamer), don't panic! 
-
-
- This means that you will have to get yourself comfortable in an OS like Ubuntu or MacOS. If you are a Windows user, you can use WSL (Windows Subsystem for Linux) or a virtual machine. If you are a MacOS user, you are already set. If you are a Linux user, you are already set. If you are a VIM user, you may not be able to leave.
+You will probably know (if not, I am telling you now) that most bioinformatic tools are developed for Unix-like systems (say, Linux or MacOS). If you are not a MacOS user, the easiest way to get into Linux is by installing Ubuntu: it is just easy to do, and you get a greatly accessible environment to play with. However, if you are too in love with Windows (or you are a hardcore PC gamer), don't panic! There are plenty of options for you nowadays. You can use the WSL (Windows Subsystem for Linux) or a virtual machine. If you are a MacOS user, you are already set. If you are a Linux user, you are already set. If you are a VIM user, you may not be able to leave.

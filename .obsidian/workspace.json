@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-05.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 200
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-05.md"
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-05.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-05.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-05.md"
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
               }
             }
           },
@@ -203,12 +203,14 @@
   },
   "active": "d7d4d9d2fe67bc17",
   "lastOpenFiles": [
+    "Medium/().md",
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+    "Notas diarias/2024-03-05.md",
     "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Dashboard.md",
     "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (plann.md",
     "Tareas.md",
     "Estadística/Machine Learning/Mutual information.md",
-    "Notas diarias/2024-03-05.md",
     "Bioinformática y programación/Joining two datasets.md",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
     "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
@@ -230,8 +232,6 @@
     "Bioinformática y programación/Ómicas/Genómica/mosdepth.md",
     "Notas diarias/2024-02-15.md",
     "Notas diarias/2024-02-16.md",
-    "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md",
-    "Notas diarias/2024-02-17.md",
     "Doctorado/Paper writing/test.docx",
     "Doctorado/Paper writing/zotero.lua",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",

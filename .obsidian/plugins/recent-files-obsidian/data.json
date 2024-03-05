@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A hitchhiker's guide to bioinformatics — tips",
+      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+    },
+    {
       "basename": "2024-03-05",
       "path": "Notas diarias/2024-03-05.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "ctDNA WGBS processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md"
-    },
-    {
-      "basename": "CpG site analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG site analysis.md"
     }
   ],
   "omittedPaths": [],
