@@ -27,7 +27,7 @@ The use of techniques that detect epigenomic signatures assumes that hypermethyl
 
 ## III. Tumor-informed strategies
 
-![[Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (planning)#Tumor-informed]]
+Importance of ctDNA surveillance, % of patients that still relapse after postoperative (1 month) ctDNA-negative status: 9.1% [@chenPostoperativeCirculatingTumor2021], 11.9% [@reinertAnalysisPlasmaCellFree2019].
 
 | Study | Approach | Sensitivity | Specificity | Cohort |
 | ---- | ---- | ---- | ---- | ---- |
@@ -73,6 +73,28 @@ Signatera is currently also the centerpiece of the ongoing BESPOKE clinical tria
 
 
 ## IV. Comparison
+
+- Tumor-informed assays demand more time than tumor-naïve approaches for personalization.
+- As the tumor-informed approach employs a tissue sample for variant analysis, this enables the filtering of CHIP mutations found in cfDNA (decreasing false positive rates).
+- Tumor-informed assays are reported to have greater sensitivity than tumor-naive panels, even when they use large gene panels [@kasiImpactCirculatingTumor2022]. A tumor-naïve panel may not cover variants found in some patients.
+- Currently, the development of tumorinformed assays is challenging in the clinical setting given the high cost, the mandatory requirement for tumor and germline samples, and the time required for patient-specific assay development [@santonjaComparisonTumorinformedTumornaive2023].
+
+The body of research in CRC:
+
+- Circulating Tumor DNA As A MRD Assessment And Recurrence Risk In Patients Undergoing Curative Intent Resection With Or Without Adjuvant Chemotherapy In Colorectal Cancer: A Meta-analysis [@chidharlaCirculatingTumorDNA2022].
+	- Meta-analysis of studies detecting ctDNA as a proxy for MRD in Stage I-IV CRC patients after curative-intent surgery.
+	- They perform a subgroup analysis for tumor-informed vs. tumor-agnostic studies, favoring the former over the later.
+
+- Tumor-informed or tumor-agnostic circulating tumor DNA as a biomarker for risk of recurrence in resected colorectal cancer patients [@chanTumorinformedTumoragnosticCirculating2023].
+	- They use both a tumor-agnostic and a tumor-informed approach to determine their sensitivity.
+	- Utilizing the tumor-agnostic approach reduced the recurrence detection sensitivity to 67%.
+
+Studies in other types of cancer:
+
+- Comparison of tumor-informed and tumor-naïve sequencing assays for ctDNA detection in breast cancer [@santonjaComparisonTumorinformedTumornaive2023]. 
+	- Uses whole-genome rather than whole-exome for somatic mutation identification in the tumor-informed approach.
+
+>
 
 ### Strengths and weaknesses
 
