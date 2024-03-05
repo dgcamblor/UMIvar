@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "639a405e8b8de7cc",
+        "id": "ae9bf10f390381c1",
         "type": "tabs",
         "children": [
           {
-            "id": "6c4ab08b7848a66a",
+            "id": "af58762e1624b47a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,7 +201,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "6c4ab08b7848a66a",
+  "active": "af58762e1624b47a",
   "lastOpenFiles": [
     "Dashboard.md",
     "Tareas.md",
