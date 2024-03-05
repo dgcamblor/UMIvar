@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-05",
+      "path": "Notas diarias/2024-03-05.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-03-04",
       "path": "Notas diarias/2024-03-04.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Gestión del tiempo",
       "path": "Notas de cursos/Gestión del tiempo.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2024-02-28",
@@ -195,10 +199,6 @@
     {
       "basename": "methylKit",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
-    },
-    {
-      "basename": "MethylDackel",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
     }
   ],
   "omittedPaths": [],
