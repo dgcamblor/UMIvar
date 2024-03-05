@@ -14,3 +14,7 @@ Scikit-learn has two mutual information metrics in its `feature_selection` mod
 ## R
 
 MI can be computed with the `infotheo` package.
+
+## References
+
+- [Mutual Information based Feature Selection Based for Ml | Medium](https://guhanesvar.medium.com/feature-selection-based-on-mutual-information-gain-for-classification-and-regression-d0f86ea5262a)

@@ -9,6 +9,14 @@
       "path": "Dashboard.md"
     },
     {
+      "basename": "Tareas",
+      "path": "Tareas.md"
+    },
+    {
+      "basename": "Mutual information",
+      "path": "Estadística/Machine Learning/Mutual information.md"
+    },
+    {
       "basename": "2024-03-04",
       "path": "Notas diarias/2024-03-04.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "CpG site analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG site analysis.md"
-    },
-    {
-      "basename": "Directional vs. non-directional bisulfite-converted libraries",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Directional vs. non-directional bisulfite-converted libraries.md"
-    },
-    {
-      "basename": "methylKit",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
     }
   ],
   "omittedPaths": [],
