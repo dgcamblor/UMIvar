@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Análisis de supervivencia.md",
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Análisis de supervivencia.md"
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Análisis de supervivencia.md",
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Análisis de supervivencia.md",
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Análisis de supervivencia.md"
+                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   "active": "9060e71c70f8a3a9",
   "lastOpenFiles": [
     "Notas diarias/2024-03-07.md",
+    "Estadística/Análisis de supervivencia.md",
     "Notas diarias/2024-03-06.md",
     "Notas diarias/2024-03-07.md.partial",
     "Notas diarias/2024-03-07-daniel-Latitude.md",
