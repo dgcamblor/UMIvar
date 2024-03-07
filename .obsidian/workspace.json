@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Estadística/Análisis de supervivencia/DFS.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Estadística/Análisis de supervivencia/DFS.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Estadística/Análisis de supervivencia/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Estadística/Análisis de supervivencia/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Estadística/Análisis de supervivencia/DFS.md"
               }
             }
           },
@@ -211,17 +211,25 @@
   },
   "active": "93a5160886047d83",
   "lastOpenFiles": [
+    "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (PFS).md",
+    "Estadística/Análisis de supervivencia.md",
+    "Estadística/Random Survival Forests.md",
+    "Estadística/Análisis de supervivencia/Método de Kaplan-Meier.md",
+    "Estadística/Criterio de información de Akaike (AIC).md",
+    "Estadística/Transformación de Box-Cox.md",
+    "Estadística/Residual Sum of Squares.md",
+    "Estadística/Análisis de supervivencia/Regresión de Cox.md",
+    "Estadística/Análisis de supervivencia",
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
     "Notas diarias/2024-03-07.md",
     "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
-    "Estadística/Análisis de supervivencia.md",
     "Notas diarias/2024-03-06.md",
     "Notas diarias/2024-03-07.md.partial",
     "Notas diarias/2024-03-07-daniel-Latitude.md",
     "Notas diarias/2024-03-06.md.partial",
     "Notas de cursos/Universitat de València/Jornadas de Formación en Doctorado de Medicina.md",
     "Notas de cursos/Universitat de València/Jornadas de Formación en Doctorado de Medicina.md.partial",
-    "Dashboard.md",
     "Medium/A hitchhiker's guide to bioinformatics — tips.md.partial",
     "Notas diarias/2024-03-05.md.partial",
     "Medium/().md",
@@ -236,19 +244,11 @@
     "Bio.md",
     "Notas de cursos/Gestión del tiempo.md",
     "Notas diarias/2024-02-28.md",
-    "Notas diarias/2024-03-04.md",
     "Biología y medicina/Bioquímica/Vías de señalización",
-    "Biología y medicina/Oncología/Cáncer colorrectal.md",
-    "Biología y medicina/Tratamientos/Tratamiento del CCR.md",
-    "Doctorado/Writing and planning/EACR 2024.md",
-    "Bioinformática y programación/Ómicas/Genomic benchmarking resources.md",
-    "Bioinformática y programación/Ómicas/Genómica/Liquid biopsy SEQC2.md",
-    "Bioinformática y programación/Programas/bcftools.md",
     "Doctorado/Writing and planning",
     "Doctorado/Paper writing/test.docx",
     "Doctorado/Paper writing/zotero.lua",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
-    "Notas diarias/2024-02-14.md.partial",
     "Otros/Adjuntos/Pasted image 20240214182751.png",
     "Otros/Adjuntos/Pasted image 20240214182408.png",
     "Otros/Adjuntos/vaf_single.png",

@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "DFS",
+      "path": "Estadística/Análisis de supervivencia/DFS.md"
+    },
+    {
+      "basename": "Supervivencia libre de enfermedad (PFS)",
+      "path": "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (PFS).md"
+    },
+    {
+      "basename": "Análisis de supervivencia",
+      "path": "Estadística/Análisis de supervivencia.md"
+    },
+    {
+      "basename": "Random Survival Forests",
+      "path": "Estadística/Random Survival Forests.md"
+    },
+    {
+      "basename": "Método de Kaplan-Meier",
+      "path": "Estadística/Análisis de supervivencia/Método de Kaplan-Meier.md"
+    },
+    {
+      "basename": "Criterio de información de Akaike (AIC)",
+      "path": "Estadística/Criterio de información de Akaike (AIC).md"
+    },
+    {
+      "basename": "Transformación de Box-Cox",
+      "path": "Estadística/Transformación de Box-Cox.md"
+    },
+    {
+      "basename": "Residual Sum of Squares",
+      "path": "Estadística/Residual Sum of Squares.md"
+    },
+    {
+      "basename": "Regresión de Cox",
+      "path": "Estadística/Análisis de supervivencia/Regresión de Cox.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -15,10 +51,6 @@
     {
       "basename": "Análisis de supervivencia - Curso de R INCLIVA",
       "path": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
-    },
-    {
-      "basename": "Análisis de supervivencia",
-      "path": "Estadística/Análisis de supervivencia.md"
     },
     {
       "basename": "2024-03-06",
@@ -167,38 +199,6 @@
     {
       "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
       "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
-    },
-    {
-      "basename": "PhD dashboard",
-      "path": "Doctorado/PhD dashboard.md"
-    },
-    {
-      "basename": "Revistas de interés",
-      "path": "Doctorado/Revistas de interés.md"
-    },
-    {
-      "basename": "Configurar correo UV",
-      "path": "Guías y referencias/Configurar correo UV.md"
-    },
-    {
-      "basename": "scRNA-seq analysis",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
-    },
-    {
-      "basename": "Bisulfite conversion processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
-      "basename": "annotatr",
-      "path": "Bioinformática y programación/R/annotatr.md"
-    },
-    {
-      "basename": "Bisulfite vs. enrichment pipelines",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
-    },
-    {
-      "basename": "Differential methylation (DM) analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
     }
   ],
   "omittedPaths": [],
