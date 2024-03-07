@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
+                "file": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   "active": "9060e71c70f8a3a9",
   "lastOpenFiles": [
     "Notas diarias/2024-03-07.md",
+    "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
     "Estadística/Análisis de supervivencia.md",
     "Notas diarias/2024-03-06.md",
     "Notas diarias/2024-03-07.md.partial",
@@ -231,7 +232,6 @@
     "Estadística/Machine Learning/Mutual information.md",
     "Bioinformática y programación/Joining two datasets.md",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
-    "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
     "Bio.md",
     "Notas de cursos/Gestión del tiempo.md",
     "Notas diarias/2024-02-28.md",
