@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "scRNA-seq integration",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Cell type deconvolution methods",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
+    },
+    {
       "basename": "Supervivencia global (OS)",
       "path": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "Regresión de Cox",
       "path": "Estadística/Análisis de supervivencia/Regresión de Cox.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2024-03-07",
@@ -191,14 +199,6 @@
     {
       "basename": "Signatera",
       "path": "Notas de charlas/Signatera.md"
-    },
-    {
-      "basename": "Activo",
-      "path": "Economía/Activo.md"
-    },
-    {
-      "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
-      "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
     }
   ],
   "omittedPaths": [],

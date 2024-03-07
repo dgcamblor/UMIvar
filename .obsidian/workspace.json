@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "badc795b40104458",
+        "id": "e4c79903fbbc6348",
         "type": "tabs",
         "children": [
           {
-            "id": "93a5160886047d83",
+            "id": "78d7f75b0af17f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md"
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md"
+                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md"
               }
             }
           },
@@ -209,10 +209,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "93a5160886047d83",
+  "active": "78d7f75b0af17f25",
   "lastOpenFiles": [
-    "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (DFS).md",
+    "Dashboard.md",
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md",
     "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
+    "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (DFS).md",
     "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (PFS).md",
     "Estadística/Análisis de supervivencia.md",
     "Estadística/Random Survival Forests.md",
@@ -222,7 +224,6 @@
     "Estadística/Residual Sum of Squares.md",
     "Estadística/Análisis de supervivencia/Regresión de Cox.md",
     "Estadística/Análisis de supervivencia",
-    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md",
     "Notas diarias/2024-03-07.md",
     "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md",
@@ -243,7 +244,6 @@
     "Estadística/Machine Learning/Mutual information.md",
     "Bioinformática y programación/Joining two datasets.md",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
-    "Bio.md",
     "Biología y medicina/Bioquímica/Vías de señalización",
     "Doctorado/Writing and planning",
     "Doctorado/Paper writing/test.docx",

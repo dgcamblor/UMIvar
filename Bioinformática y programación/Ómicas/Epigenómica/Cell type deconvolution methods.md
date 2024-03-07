@@ -7,9 +7,7 @@
 
 ## Transcriptomic deconvolution
 
-A fundamental R package is [[immunedeconv]], which gathers all of these methodologies.
-
-The main transcriptomic deconvolution methodologies are the following.
+A fundamental R package is [[immunedeconv]], which gathers the main methodologies for bulk-RNAseq deconvolution-based immunophenotyping. The main transcriptomic deconvolution methodologies are gathered here.
 
 ### Intrasample comparation
 
