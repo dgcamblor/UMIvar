@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "scRNA-seq analysis",
+      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
+    },
+    {
       "basename": "scRNA-seq integration",
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-01-24",
       "path": "Notas diarias/2024-01-24.md"
-    },
-    {
-      "basename": "Signatera",
-      "path": "Notas de charlas/Signatera.md"
     }
   ],
   "omittedPaths": [],
