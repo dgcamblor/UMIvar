@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CUDA",
+      "path": "Bioinformática y programación/CUDA.md"
+    },
+    {
       "basename": "scRNA-seq analysis",
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MRD ctDNA assays in CRC",
       "path": "Doctorado/MRD ctDNA assays in CRC.md"
-    },
-    {
-      "basename": "2024-01-24",
-      "path": "Notas diarias/2024-01-24.md"
     }
   ],
   "omittedPaths": [],

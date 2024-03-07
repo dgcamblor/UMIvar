@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
+                "file": "Bioinformática y programación/CUDA.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
+                "file": "Bioinformática y programación/CUDA.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
+                "file": "Bioinformática y programación/CUDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
+                "file": "Bioinformática y programación/CUDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
+                "file": "Bioinformática y programación/CUDA.md"
               }
             }
           },
@@ -211,6 +211,8 @@
   },
   "active": "78d7f75b0af17f25",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
+    "Bioinformática y programación/CUDA.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md",
     "Dashboard.md",
     "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
@@ -241,8 +243,6 @@
     "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy (plann.md",
     "Tareas.md",
-    "Estadística/Machine Learning/Mutual information.md",
-    "Bioinformática y programación/Joining two datasets.md",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
     "Biología y medicina/Bioquímica/Vías de señalización",
     "Doctorado/Writing and planning",
