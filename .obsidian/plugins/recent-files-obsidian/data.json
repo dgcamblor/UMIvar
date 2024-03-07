@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-07",
+      "path": "Notas diarias/2024-03-07.md"
+    },
+    {
       "basename": "2024-03-06",
       "path": "Notas diarias/2024-03-06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CpG loci identification",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md"
-    },
-    {
-      "basename": "ctDNA WGBS processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/ctDNA WGBS processing pipeline.md"
     }
   ],
   "omittedPaths": [],
