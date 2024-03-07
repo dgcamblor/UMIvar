@@ -1,1 +1,0 @@
-En el contexto del [[Análisis de supervivencia]], la supervivencia libre de progresión (PFS) se suele definir como el tiempo que pasa desde que un paciente es incorporado a un estudio o sometido a una determinada intervención hasta que se detecta por cualquier método que su cáncer ha sufrido una progresión o muere por cualquier causa.

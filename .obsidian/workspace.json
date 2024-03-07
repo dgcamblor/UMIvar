@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/DFS.md",
+                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/DFS.md"
+                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/DFS.md",
+                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/DFS.md",
+                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Análisis de supervivencia/DFS.md"
+                "file": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md"
               }
             }
           },
@@ -211,6 +211,8 @@
   },
   "active": "93a5160886047d83",
   "lastOpenFiles": [
+    "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (DFS).md",
+    "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
     "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (PFS).md",
     "Estadística/Análisis de supervivencia.md",
     "Estadística/Random Survival Forests.md",
@@ -242,8 +244,6 @@
     "Bioinformática y programación/Joining two datasets.md",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
     "Bio.md",
-    "Notas de cursos/Gestión del tiempo.md",
-    "Notas diarias/2024-02-28.md",
     "Biología y medicina/Bioquímica/Vías de señalización",
     "Doctorado/Writing and planning",
     "Doctorado/Paper writing/test.docx",
