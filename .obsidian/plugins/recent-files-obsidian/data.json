@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Análisis de supervivencia",
+      "path": "Estadística/Análisis de supervivencia.md"
+    },
+    {
       "basename": "2024-03-07",
       "path": "Notas diarias/2024-03-07.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Differential methylation (DM) analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Differential methylation (DM) analysis.md"
-    },
-    {
-      "basename": "CpG loci identification",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/CpG loci identification.md"
     }
   ],
   "omittedPaths": [],

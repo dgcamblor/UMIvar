@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-07.md",
+                "file": "Estadística/Análisis de supervivencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-07.md"
+                "file": "Estadística/Análisis de supervivencia.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-07.md",
+                "file": "Estadística/Análisis de supervivencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-07.md",
+                "file": "Estadística/Análisis de supervivencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-07.md"
+                "file": "Estadística/Análisis de supervivencia.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "9060e71c70f8a3a9",
   "lastOpenFiles": [
-    "Notas diarias/2024-03-06.md",
     "Notas diarias/2024-03-07.md",
+    "Notas diarias/2024-03-06.md",
     "Notas diarias/2024-03-07.md.partial",
     "Notas diarias/2024-03-07-daniel-Latitude.md",
     "Notas diarias/2024-03-06.md.partial",
