@@ -39,7 +39,6 @@ Mutation enrichment analysis consists on determining the top genes that contain 
 ## SNV clonality
 
 [Clonal evolution of chemotherapy-resistant urothelial carcinoma | Nature Genetics](http://dx.doi.org/10.1038/ng.3692)
-
 ## SNV nucleotide variant signatures
 
 SNVs are partitioned into six mutation classes corresponding to six types of base pair substitution: C>A, C>G, C>T, T >A, T>C, T>G.
