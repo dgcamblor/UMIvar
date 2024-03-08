@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "A hitchhiker's guide to bioinformatics — tips",
-      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+      "basename": "2024-03-08",
+      "path": "Notas diarias/2024-03-08.md"
+    },
+    {
+      "basename": "2024-03-07",
+      "path": "Notas diarias/2024-03-07.md"
+    },
+    {
+      "basename": "2024-03-06",
+      "path": "Notas diarias/2024-03-06.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "A hitchhiker's guide to bioinformatics — tips",
+      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
     },
     {
       "basename": "CUDA",
@@ -61,20 +73,12 @@
       "path": "Estadística/Análisis de supervivencia/Regresión de Cox.md"
     },
     {
-      "basename": "2024-03-07",
-      "path": "Notas diarias/2024-03-07.md"
-    },
-    {
       "basename": "Variant calling analysis",
       "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
     },
     {
       "basename": "Análisis de supervivencia - Curso de R INCLIVA",
       "path": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
-    },
-    {
-      "basename": "2024-03-06",
-      "path": "Notas diarias/2024-03-06.md"
     },
     {
       "basename": "2024-03-05",
@@ -195,10 +199,6 @@
     {
       "basename": "MRD ctDNA clinical trials in CRC",
       "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
-    },
-    {
-      "basename": "MRD ctDNA assays in CRC",
-      "path": "Doctorado/MRD ctDNA assays in CRC.md"
     }
   ],
   "omittedPaths": [],
