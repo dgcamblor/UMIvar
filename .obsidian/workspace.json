@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
+                "file": "Notas diarias/2024-03-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
+                "file": "Notas diarias/2024-03-08.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
+                "file": "Notas diarias/2024-03-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
+                "file": "Notas diarias/2024-03-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
+                "file": "Notas diarias/2024-03-08.md"
               }
             }
           },
@@ -211,9 +211,10 @@
   },
   "active": "dba55fff1b3aa218",
   "lastOpenFiles": [
-    "Notas de libros/No soy mi ADN - Manel Esteller.md",
-    "Notas diarias/2024-03-08.md",
     "Dashboard.md",
+    "Notas diarias/2024-03-08.md",
+    "Notas de libros/No soy mi ADN - Manel Esteller.md",
+    "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md",
     "Notas diarias/2024-03-07.md",
     "Notas diarias/2024-03-06.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
@@ -242,7 +243,6 @@
     "Medium/().md",
     "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Notas diarias/2024-03-05.md",
-    "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
     "Biología y medicina/Bioquímica/Vías de señalización",
     "Doctorado/Writing and planning",
