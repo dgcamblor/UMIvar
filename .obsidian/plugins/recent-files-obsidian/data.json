@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Amino acid code",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
+    },
+    {
+      "basename": "No soy mi ADN - Manel Esteller",
+      "path": "Notas de libros/No soy mi ADN - Manel Esteller.md"
+    },
+    {
       "basename": "2024-03-08",
       "path": "Notas diarias/2024-03-08.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2023-11-17",
       "path": "Notas diarias/2023-11-17.md"
-    },
-    {
-      "basename": "GitHub",
-      "path": "Bioinformática y programación/GitHub.md"
-    },
-    {
-      "basename": "MRD ctDNA clinical trials in CRC",
-      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
     }
   ],
   "omittedPaths": [],
