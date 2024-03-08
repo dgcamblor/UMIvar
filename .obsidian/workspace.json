@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4c79903fbbc6348",
+        "id": "3df243157306298e",
         "type": "tabs",
         "children": [
           {
-            "id": "78d7f75b0af17f25",
+            "id": "da40fa4053af3be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/CUDA.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/CUDA.md"
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/CUDA.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/CUDA.md",
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/CUDA.md"
+                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
               }
             }
           },
@@ -209,12 +209,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "78d7f75b0af17f25",
+  "active": "da40fa4053af3be8",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md",
     "Bioinformática y programación/CUDA.md",
     "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md",
-    "Dashboard.md",
     "Estadística/Análisis de supervivencia/Supervivencia global (OS).md",
     "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (DFS).md",
     "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (PFS).md",

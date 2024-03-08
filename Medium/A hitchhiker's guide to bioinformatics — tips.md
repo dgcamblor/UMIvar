@@ -48,11 +48,13 @@ You will probably know (if not, I am telling you now) that most bioinformatic to
 
 Once tha matter of the OS is settled, you should get yourself a good code editor. Editors like Vim, Nano or Emacs can be great, but the steep learning curve is bound to make you give up, so I would only recommend you to use the first two for quick edits. A great beginner-friendly editor that is equally powerful and with a great community behind it is Visual Studio Code. It is available for all major OSs, and it has a vast ecosystem of plugins that make it highly customizable. And if you are working in a remote server, you can easily use it to connect to it and explore and edit your files. Although VSCode helps in writing in any language, for writing in R, RStudio is a more recommendable option, as it comes with a lot of features that are specific to the language (you can get them with VSCode, but needs a bit of tweaking).
 
-Ah, let me not forget about mentioning the good ol' debate about the best language for bioinformatics. But I will be brief by mentioning that Bash, Python and R are specifically good for scripting, general purpose programming and statistics and data analysis, respectively. You do you, but it is probable that you will end up using all of them to some extent. If learning a language for the first time, Python is the easiest to 
+Ah, let me not forget about mentioning the good ol' debate about the best language for bioinformatics. I will, however, be brief by mentioning that Bash, Python and R are specifically good for scripting, general purpose programming and statistics and data analysis, respectively. You do you, but it is probable that you will end up using all of them to some extent. If learning a language for the first time, Python is the easiest to 
 
 ## Learn the ways of scripting and follow good programming practices
 
-Scripts are the greatest power you have as a bioinformatician, and one you should embrace. 
+Scripts are the greatest power you have as a bioinformatician, and one you should embrace. They not only offer you the ability to automate a set of steps, but they allow you to: 1) a record of each command you have launched, with the potential for debugging that so implies; and 2) offer a reproducible (or at least partially) way of reproducing a file processing or analysis you have conducted. Even if you think you will perform a set of steps just once, you should write them in a script. And chances are, you are going to perform them more times.
+
+The documentation of the code you write helps both you and those who read it. In fact, documentation is one of 
 
 ## Have a journal close to you
 
