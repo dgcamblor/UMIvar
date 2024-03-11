@@ -46,18 +46,29 @@ My career path was always clear to me - I wanted to become a biologist. But I gr
 
 You will probably know (if not, I am telling you now) that most bioinformatic tools are developed for Unix-like systems (say, Linux or MacOS), so you should get confortable with them. If you are not a MacOS user, the easiest way to get into Linux is by installing Ubuntu: it is just easy to do, and you get a greatly accessible environment to play with. However, if you are too in love with Windows (or you are a hardcore PC gamer), don't panic! There are plenty of options for you nowadays. You can use the WSL (Windows Subsystem for Linux) or set up a virtual machine (for which ther are plenty of tutorials online, I would personally recommend you to use VirtualBox).
 
-Once tha matter of the OS is settled, you should get yourself a good code editor. Editors like Vim, Nano or Emacs can be great, but the steep learning curve is bound to make you give up, so I would only recommend you to use the first two for quick edits. A great beginner-friendly editor that is equally powerful and with a great community behind it is Visual Studio Code. It is available for all major OSs, and it has a vast ecosystem of plugins that make it highly customizable. And if you are working in a remote server, you can easily use it to connect to it and explore and edit your files. Although VSCode helps in writing in any language, for writing in R, RStudio is a more recommendable option, as it comes with a lot of features that are specific to the language (you can get them with VSCode, but needs a bit of tweaking).
+Once the matter of the OS is settled, you should get yourself a good code editor. Editors like Vim, Nano or Emacs can be great, but the steep learning curve is bound to make you give up, so I would only recommend you to use the first two for quick edits. A great beginner-friendly editor that is equally powerful and with a great community behind it is Visual Studio Code. It is available for all major OSs, and it has a vast ecosystem of plugins that make it highly customizable. And if you are working in a remote server, you can easily use it to connect to it and explore and edit your files. Although VSCode helps in writing in any language, for writing in R, RStudio is a more recommendable option, as it comes with a lot of features that are specific to the language (you can get them with VSCode, but needs a bit of tweaking).
 
 Ah, let me not forget about mentioning the good ol' debate about the best language for bioinformatics. I will, however, be brief by mentioning that Bash, Python and R are specifically good for scripting, general purpose programming and statistics and data analysis, respectively. You do you, but it is probable that you will end up using all of them to some extent. If learning a language for the first time, Python is the easiest to 
 
+## Have a journal close to you
+
+When you are learning —and that will hopefully be every day of your life—, having a journal where you keep track of the steps you have taken can be greatly useful. This is particularly true in bioinformatics, where writing down the commands you use, the problems you encounter and the solutions you find can help you remember things and learn from your mistakes. Say you just found that the command to convert a SAM file to a BAM file is `samtools view -bS FILE.sam > FILE.bam`. You can write it down in your journal, and the next time you
+
+
+
+the commands you use, the problems you encounter and the solutions you find is a good idea. This will help you to remember things and to learn from your mistakes. It is also a good idea to keep a cheatsheet of the commands you use the most. I personally use Obsidian for this purpose, but a plain notebook is just suficient. 
+
 ## Learn the ways of scripting and follow good programming practices
 
-Scripts are the greatest power you have as a bioinformatician, and one you should embrace. They not only offer you the ability to automate a set of steps, but they allow you to: 1) a record of each command you have launched, with the potential for debugging that so implies; and 2) offer a reproducible (or at least partially) way of reproducing a file processing or analysis you have conducted. Even if you think you will perform a set of steps just once, you should write them in a script. And chances are, you are going to perform them more times.
+Scripts are the greatest power you have as a bioinformatician, and one you should embrace. They not only offer you the ability to automate a set of commands, but they allow you to: 1) a record of each command you have launched, with the potential for debugging that so implies; and 2) offer a reproducible (or at least partially) way of reproducing a file processing or analysis you have conducted. Even if you think you will perform a set of steps just once, you should write them in a script. And chances are, you are going to perform them more times.
+
+In the same line, you 
 
 The documentation of the code you write helps both you and those who read it. In fact, documentation is one of 
 
-## Have a journal close to you
+The use of workflow managers such as Nextflow or Snakemake is an advanced but powerful . They are programming languages by themselves, 
+
+
 
 ## Keep up to date with the latest technologies
 
-Following the compelling evidence of the utility of methylation markers in the detection of ctDNA, the commercial assay Guardant Reveal (Guardant Health) has been developed to integrate the study of methylation and fragmentomics with the detection of genetic variants. Although the specific targets of the panel have not been disclosed, it spans approximately 500 kb of regions that are relevant to cancer both in terms of genetic and epigenetic alterations. The signal is interpreted by proprietary software, which emits the decision for ctDNA calling. Regarding the use of methylation markers in Guardant Reveal, Parikh et al. reported that the addition of these signatures improved the sensitivity in detecting recurrence by 25-36% [42]. The first results that have been presented from the PEGASUS trial may offer, however, potential concerns about the implementation of methylation in the assay: the rate of postoperative ctDNA-positive patients was 26% (35/135), higher than what would be expected from the literature, and only 34% (12/35) of them recurred, suggesting the occurrence of false positives. Further results are needed to 
