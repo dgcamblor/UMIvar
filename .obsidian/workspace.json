@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6e6b1bdba5387a8",
+        "id": "28cb06a78d4ef73b",
         "type": "tabs",
         "children": [
           {
-            "id": "dba55fff1b3aa218",
+            "id": "6fd96fb7f8cfe1b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-08.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-08.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-08.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-08.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-08.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -209,7 +209,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "dba55fff1b3aa218",
+  "active": "6fd96fb7f8cfe1b7",
   "lastOpenFiles": [
     "Dashboard.md",
     "Notas diarias/2024-03-08.md",
