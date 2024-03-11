@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Random Survival Forests",
+      "path": "Estadística/Random Survival Forests.md"
+    },
+    {
       "basename": "2024-03-11",
       "path": "Notas diarias/2024-03-11.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Análisis de supervivencia",
       "path": "Estadística/Análisis de supervivencia.md"
-    },
-    {
-      "basename": "Random Survival Forests",
-      "path": "Estadística/Random Survival Forests.md"
     },
     {
       "basename": "Método de Kaplan-Meier",
