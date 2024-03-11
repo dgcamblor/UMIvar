@@ -1,3 +1,8 @@
+---
+aliases:
+  - Combine plots
+---
+
 ## Base R graphics
 
 Base R provides several functions for creating multiple plots in a single figure. These include:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Random Survival Forests.md",
+                "file": "Bioinformática y programación/R/Multiple plots in one figure in R.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Random Survival Forests.md"
+                "file": "Bioinformática y programación/R/Multiple plots in one figure in R.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Random Survival Forests.md",
+                "file": "Bioinformática y programación/R/Multiple plots in one figure in R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Random Survival Forests.md",
+                "file": "Bioinformática y programación/R/Multiple plots in one figure in R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Random Survival Forests.md"
+                "file": "Bioinformática y programación/R/Multiple plots in one figure in R.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   },
   "active": "6fd96fb7f8cfe1b7",
   "lastOpenFiles": [
+    "Estadística/Random Survival Forests.md",
     "Notas diarias/2024-03-11.md",
     "Dashboard.md",
     "Biología y medicina/Declaración de Helsinki.md",
@@ -236,7 +237,6 @@
     "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (DFS).md",
     "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (PFS).md",
     "Estadística/Análisis de supervivencia.md",
-    "Estadística/Random Survival Forests.md",
     "Estadística/Análisis de supervivencia/Método de Kaplan-Meier.md",
     "Estadística/Criterio de información de Akaike (AIC).md",
     "Estadística/Transformación de Box-Cox.md",
