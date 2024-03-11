@@ -3,7 +3,7 @@ tags:
   - paper
   - phd
 ---
-> Regardless of the technique, ctDNA assays for the detection of MRD will require high specificity to escalate adjuvant therapy in patients who wouldf be categorized as low risk according to clinicopathologic factors and would ultimately recur without additional therapy, and high sensitivity to allow safe de-escalation of therapy in those patients who are traditionally treated with intensive chemotherapy and avoidable adverse events. [@jacomeMinimalResidualDisease2023]. 
+> Regardless of the technique, ctDNA assays for the detection of MRD will require high specificity to escalate adjuvant therapy in patients who would be categorized as low risk according to clinicopathologic factors and would ultimately recur without additional therapy, and high sensitivity to allow safe de-escalation of therapy in those patients who are traditionally treated with intensive chemotherapy and avoidable adverse events. [@jacomeMinimalResidualDisease2023]. 
 > Un poco a colación de lo que dicen Reinert 2024
 
 >In a prospective study with 112 mCRC patients who had undergone liver resection with curative intent, ctDNA positivity by a tumor-informed assay was the most significant prognostic factor for disease-free survival (HR: 5.7, 95% CI 3.3–10.0) [52]. MRD was detected in 61 (54%) patients, of which 59 (97%) presented recurrence at the time of data cutoff.
@@ -30,12 +30,16 @@ Importance of ctDNA surveillance, % of patients that still relapse after postope
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
 
+- [ ] Añadir estudios a la tabla comparativa
+
 ### ddPCR 
 
 ### SafeSeqS approach: the DYNAMIC studies
 
 > [Program Guide – ASCO Meeting Program Guide](https://meetings.asco.org/abstracts-presentations/228859) 
 > [Studies Confirm the Utility of ctDNA in Guiding Adjuvant Chemotherapy in CRC | ASCO Daily News](https://dailynews.ascopubs.org/do/studies-confirm-utility-ctdna-guiding-adjuvant-chemotherapy-crc)
+
+>
 
 ### WES in tissue characterization: Signatera
 
@@ -70,15 +74,19 @@ Studies in other types of cancer:
 
 ## V. Emerging Technologies and Future Directions
 
-### 1. Breakthroughs in ctDNA genomics
+- [ ] Añadir metodología de MAESTRO
 
-#### WES for better tumor tissue characterization
+### 1. Breakthroughs in ctDNA genomics
 
 > [FoundationOne Tracker | Foundation Medicine](https://www.foundationmedicine.com/test/foundationone-tracker) [Study Details | | ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT04259944)
 
-#### WES in ctDNA characterization
 
-#### WGS
+
+[CODEC]
+
+[MAESTRO]
+
+ lowering of sequencing costs, the emergence of new technologies for low-frequency variant enrichment (e.g., MAESTRO [36]) and background noise error correction and the developments in the field of bioinformatics.
 
 ### 2. Epigenomics and beyond
 
@@ -87,6 +95,8 @@ Studies in other types of cancer:
 > ¿Añadir falsos positivos?
 
 > WGBS/cfMEDIP. In the whole-genome setting, the gold standard for methylation assessment, Whole Genome Bisulfite Sequencing
+
+- [ ] Discutir el tema de los falsos positivos en Guardant Reveal.
 
 ### 3. Potential new biomarkers in liquid biopsy
 
