@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Create ssh key for passwordless server authentication",
+      "path": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
+    },
+    {
+      "basename": "2024-02-28",
+      "path": "Notas diarias/2024-02-28.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-03-12",
       "path": "Notas diarias/2024-03-12.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "2024-03-11",
       "path": "Notas diarias/2024-03-11.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Multiple plots in one figure in R",
@@ -129,10 +137,6 @@
       "path": "Notas de cursos/Gestión del tiempo.md"
     },
     {
-      "basename": "2024-02-28",
-      "path": "Notas diarias/2024-02-28.md"
-    },
-    {
       "basename": "Cáncer colorrectal",
       "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-20",
       "path": "Notas diarias/2024-02-20.md"
-    },
-    {
-      "basename": "2024-02-26",
-      "path": "Notas diarias/2024-02-26.md"
     }
   ],
   "omittedPaths": [],

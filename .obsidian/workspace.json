@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e789830237438708",
+        "id": "4b37f1661fe10641",
         "type": "tabs",
         "children": [
           {
-            "id": "40b17587d1caf043",
+            "id": "5bd693612556f6e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-12.md",
+                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-12.md"
+                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-12.md",
+                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-12.md",
+                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-12.md"
+                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
               }
             }
           },
@@ -209,8 +209,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "40b17587d1caf043",
+  "active": "5bd693612556f6e2",
   "lastOpenFiles": [
+    "Notas diarias/2024-02-28.md",
+    "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
+    "Dashboard.md",
     "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Notas diarias/2024-03-12.md",
     "Bioinformática y programación/Programas/CancerLocator.md",
@@ -234,9 +237,6 @@
     "Estadística/Machine Learning/Hyperparameter tuning.md",
     "Estadística/Machine Learning/Natural Language Processing (NLP).md",
     "Economía/Productos/Futuros.md",
-    "Notas diarias/2024-03-11.md",
-    "Dashboard.md",
-    "Estadística/Random Survival Forests.md",
     "Biología y medicina/Declaración de Helsinki.md.partial",
     "Notas diarias/2024-03-11.md.partial",
     "Notas de vídeos/How to make smart decisions more easily.md.partial",
