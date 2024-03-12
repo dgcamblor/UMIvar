@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+                "file": "Notas diarias/2024-03-12.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
+                "file": "Notas diarias/2024-03-12.md"
               }
             }
           },
@@ -211,6 +211,8 @@
   },
   "active": "40b17587d1caf043",
   "lastOpenFiles": [
+    "Medium/A hitchhiker's guide to bioinformatics — tips.md",
+    "Notas diarias/2024-03-12.md",
     "Bioinformática y programación/Programas/CancerLocator.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/Untitled 1.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/Untitled.md",
@@ -235,10 +237,8 @@
     "Notas diarias/2024-03-11.md",
     "Dashboard.md",
     "Estadística/Random Survival Forests.md",
-    "Biología y medicina/Declaración de Helsinki.md",
     "Biología y medicina/Declaración de Helsinki.md.partial",
     "Notas diarias/2024-03-11.md.partial",
-    "Notas de vídeos/How to make smart decisions more easily.md",
     "Notas de vídeos/How to make smart decisions more easily.md.partial",
     "Notas diarias/2024-03-09.md.partial",
     "Notas diarias/2024-03-08.md.partial",
