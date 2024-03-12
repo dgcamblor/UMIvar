@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
+                "file": "Notas diarias/2024-03-12.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Create ssh key for passwordless server authentication.md"
+                "file": "Notas diarias/2024-03-12.md"
               }
             }
           },
@@ -211,9 +211,9 @@
   },
   "active": "5bd693612556f6e2",
   "lastOpenFiles": [
-    "Notas diarias/2024-02-28.md",
-    "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
     "Dashboard.md",
+    "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
+    "Notas diarias/2024-02-28.md",
     "Medium/A hitchhiker's guide to bioinformatics — tips.md",
     "Notas diarias/2024-03-12.md",
     "Bioinformática y programación/Programas/CancerLocator.md",
