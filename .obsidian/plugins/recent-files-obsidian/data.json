@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "PRECISION trial",
-      "path": "Doctorado/Clinical trials/PRECISION trial.md"
+      "basename": "Personas relevantes",
+      "path": "Doctorado/Personas relevantes.md"
     },
     {
       "basename": "2024-03-12",
       "path": "Notas diarias/2024-03-12.md"
+    },
+    {
+      "basename": "PRECISION trial",
+      "path": "Doctorado/Clinical trials/PRECISION trial.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-17",
       "path": "Notas diarias/2024-02-17.md"
-    },
-    {
-      "basename": "2024-02-19",
-      "path": "Notas diarias/2024-02-19.md"
     }
   ],
   "omittedPaths": [],

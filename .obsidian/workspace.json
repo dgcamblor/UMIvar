@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Clinical trials/PRECISION trial.md",
+                "file": "Doctorado/Personas relevantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Clinical trials/PRECISION trial.md"
+                "file": "Doctorado/Personas relevantes.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Clinical trials/PRECISION trial.md",
+                "file": "Doctorado/Personas relevantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Clinical trials/PRECISION trial.md",
+                "file": "Doctorado/Personas relevantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Clinical trials/PRECISION trial.md"
+                "file": "Doctorado/Personas relevantes.md"
               }
             }
           },
@@ -212,6 +212,8 @@
   "active": "5bd693612556f6e2",
   "lastOpenFiles": [
     "Notas diarias/2024-03-12.md",
+    "Doctorado/Personas relevantes.md",
+    "Doctorado/Clinical trials/PRECISION trial.md",
     "Dashboard.md",
     "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
     "Notas diarias/2024-02-28.md",
@@ -235,8 +237,6 @@
     "Estadística/Tabla de contingencia.md",
     "Estadística/Machine Learning/Tuning grid.md",
     "Estadística/Machine Learning/Hyperparameter tuning.md",
-    "Estadística/Machine Learning/Natural Language Processing (NLP).md",
-    "Economía/Productos/Futuros.md",
     "Biología y medicina/Declaración de Helsinki.md.partial",
     "Notas diarias/2024-03-11.md.partial",
     "Notas de vídeos/How to make smart decisions more easily.md.partial",
