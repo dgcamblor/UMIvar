@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Personas relevantes.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Personas relevantes.md"
+                "file": "Notas diarias/2024-03-12.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Personas relevantes.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Personas relevantes.md",
+                "file": "Notas diarias/2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Personas relevantes.md"
+                "file": "Notas diarias/2024-03-12.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "5bd693612556f6e2",
   "lastOpenFiles": [
-    "Notas diarias/2024-03-12.md",
     "Doctorado/Personas relevantes.md",
+    "Notas diarias/2024-03-12.md",
     "Doctorado/Clinical trials/PRECISION trial.md",
     "Dashboard.md",
     "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
