@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-12.md",
+                "file": "Doctorado/Clinical trials/PRECISION trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-12.md"
+                "file": "Doctorado/Clinical trials/PRECISION trial.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-12.md",
+                "file": "Doctorado/Clinical trials/PRECISION trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-12.md",
+                "file": "Doctorado/Clinical trials/PRECISION trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-12.md"
+                "file": "Doctorado/Clinical trials/PRECISION trial.md"
               }
             }
           },
@@ -211,11 +211,11 @@
   },
   "active": "5bd693612556f6e2",
   "lastOpenFiles": [
+    "Notas diarias/2024-03-12.md",
     "Dashboard.md",
     "Bioinformática y programación/Create ssh key for passwordless server authentication.md",
     "Notas diarias/2024-02-28.md",
     "Medium/A hitchhiker's guide to bioinformatics — tips.md",
-    "Notas diarias/2024-03-12.md",
     "Bioinformática y programación/Programas/CancerLocator.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/Untitled 1.md",
     "Bioinformática y programación/Ómicas/Genómica/Read deduplication/Untitled.md",
