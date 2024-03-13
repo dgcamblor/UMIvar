@@ -27,10 +27,12 @@ The use of techniques that detect epigenomic signatures assumes that hypermethyl
 Importance of ctDNA surveillance, % of patients that still relapse after postoperative (1 month) ctDNA-negative status: 9.1% [@chenPostoperativeCirculatingTumor2021], 11.9% [@reinertAnalysisPlasmaCellFree2019].
 
 | Study | Approach | Sensitivity | Specificity | Cohort |
-| ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
+| ----- | -------- | ----------- | ----------- | ------ |
+|       |          |             |             |        |
 
-- [ ] Añadir estudios a la tabla comparativa
+>Chan et al. “After the exclusion of CH mutations, 37% (14/38) of the evaluated patients harbor at least one tumor-derived mutation from plasma cfDNA for longitudinal monitoring.” “In contrast to the tumor-agnostic approach, up to 84% (32/38) of the patients harbor at least one mutation from the tumor tissue for subsequent plasma cfDNA monitoring (Figure 3A).”  Interestingly, ctDNA was detected in all three metastatic patients from our study cohort using both the tumor-informed and tumor-agnostic approach, highlighting that the impact of assay sensitivity is more prominent in patients with localized CRC.
+
+>Another direct comparison although at a smaller scale came from a prospective study by Chan et al....
 
 ### ddPCR 
 
