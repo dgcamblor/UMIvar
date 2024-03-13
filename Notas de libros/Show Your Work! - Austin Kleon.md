@@ -28,3 +28,6 @@ good nam name, eventually that name will be its own currency.
 ## Open up your cabinet of curiosities
 
 When you find things you genuinely enjoy, don't let anyone cse make you feel bad about it. Don't feel guilty about the pleasure you take in the things you enjoy. Celebrate them.
+
+## 6. TEACH WHAT YOU KNOW
+

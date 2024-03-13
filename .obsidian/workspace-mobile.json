@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "485ed3283f0f97b9",
+        "id": "5aa59a47a479a204",
         "type": "tabs",
         "children": [
           {
-            "id": "b56c8f8fca7b10f8",
+            "id": "f3b44090f44dd116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "Notas de libros/Show Your Work! - Austin Kleon.md"
           }
         }
       },
@@ -165,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b56c8f8fca7b10f8",
+  "active": "f3b44090f44dd116",
   "lastOpenFiles": [
     "Dashboard.md",
     "Notas diarias/2024-02-27.md",

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-13",
+      "path": "Notas diarias/2024-03-13.md"
+    },
+    {
+      "basename": "2024-03-11",
+      "path": "Notas diarias/2024-03-11.md"
+    },
+    {
+      "basename": "2024-03-09",
+      "path": "Notas diarias/2024-03-09.md"
+    },
+    {
+      "basename": "2024-03-08",
+      "path": "Notas diarias/2024-03-08.md"
+    },
+    {
+      "basename": "2024-03-07",
+      "path": "Notas diarias/2024-03-07.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Multiple plots in one figure in R",
       "path": "Bioinformática y programación/R/Multiple plots in one figure in R.md"
     },
@@ -9,28 +33,12 @@
       "path": "Estadística/Random Survival Forests.md"
     },
     {
-      "basename": "2024-03-11",
-      "path": "Notas diarias/2024-03-11.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "2024-03-08",
-      "path": "Notas diarias/2024-03-08.md"
-    },
-    {
       "basename": "No soy mi ADN - Manel Esteller",
       "path": "Notas de libros/No soy mi ADN - Manel Esteller.md"
     },
     {
       "basename": "Amino acid code",
       "path": "Bioinformática y programación/Ómicas/Genómica/Amino acid code.md"
-    },
-    {
-      "basename": "2024-03-07",
-      "path": "Notas diarias/2024-03-07.md"
     },
     {
       "basename": "2024-03-06",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-02-20",
       "path": "Notas diarias/2024-02-20.md"
-    },
-    {
-      "basename": "2024-02-26",
-      "path": "Notas diarias/2024-02-26.md"
-    },
-    {
-      "basename": "2024-02-27",
-      "path": "Notas diarias/2024-02-27.md"
     }
   ],
   "omittedPaths": [],
