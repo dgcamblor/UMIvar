@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
+                "file": "Bioinformática y programación/Databases/Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Detection of CRC-specific methylation profiles.md"
+                "file": "Bioinformática y programación/Databases/Databases.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
+                "file": "Bioinformática y programación/Databases/Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
+                "file": "Bioinformática y programación/Databases/Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Detection of CRC-specific methylation profiles.md"
+                "file": "Bioinformática y programación/Databases/Databases.md"
               }
             }
           },
@@ -211,6 +211,8 @@
   },
   "active": "8621894876046b66",
   "lastOpenFiles": [
+    "Doctorado/Detection of CRC-specific methylation profiles.md",
+    "Bioinformática y programación/Databases/Databases.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
@@ -241,12 +243,10 @@
     "Estadística/Random Survival Forests.md",
     "Biología y medicina/Declaración de Helsinki.md",
     "Biología y medicina/Declaración de Helsinki.md.partial",
-    "Notas de vídeos/How to make smart decisions more easily.md",
     "Notas de vídeos/How to make smart decisions more easily.md.partial",
     "Notas diarias/2024-03-09.md.partial",
     "Notas diarias/2024-03-08.md.partial",
     "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md.partial",
-    "Notas de libros/No soy mi ADN - Manel Esteller.md",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Otros/Adjuntos/Pasted image 20240214182751.png",

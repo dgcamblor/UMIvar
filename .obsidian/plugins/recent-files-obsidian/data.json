@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Databases",
+      "path": "Bioinformática y programación/Databases/Databases.md"
+    },
+    {
       "basename": "Detection of CRC-specific methylation profiles",
       "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Joining two datasets",
       "path": "Bioinformática y programación/Joining two datasets.md"
-    },
-    {
-      "basename": "Gestión del tiempo",
-      "path": "Notas de cursos/Gestión del tiempo.md"
     }
   ],
   "omittedPaths": [],
