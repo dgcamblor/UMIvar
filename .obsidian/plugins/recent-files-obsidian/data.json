@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Retreat methylation processing and analysis",
+      "path": "Doctorado/Writing and planning/Retreat methylation processing and analysis.md"
+    },
+    {
+      "basename": "2024-03-13",
+      "path": "Notas diarias/2024-03-13.md"
+    },
+    {
       "basename": "2023-11-13",
       "path": "Notas diarias/2023-11-13.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Regularization",
       "path": "Estadística/Machine Learning/Regularization.md"
-    },
-    {
-      "basename": "2024-03-13",
-      "path": "Notas diarias/2024-03-13.md"
     },
     {
       "basename": "2024-03-08",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-15",
       "path": "Notas diarias/2024-02-15.md"
-    },
-    {
-      "basename": "2024-02-16",
-      "path": "Notas diarias/2024-02-16.md"
     }
   ],
   "omittedPaths": [],
