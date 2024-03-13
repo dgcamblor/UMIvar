@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "TCGA",
+      "path": "Bioinformática y programación/Databases/TCGA.md"
+    },
+    {
       "basename": "Retreat methylation processing and analysis",
       "path": "Doctorado/Writing and planning/Retreat methylation processing and analysis.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "2024-03-07",
       "path": "Notas diarias/2024-03-07.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Multiple plots in one figure in R",
@@ -195,10 +199,6 @@
     {
       "basename": "mosdepth",
       "path": "Bioinformática y programación/Ómicas/Genómica/mosdepth.md"
-    },
-    {
-      "basename": "2024-02-15",
-      "path": "Notas diarias/2024-02-15.md"
     }
   ],
   "omittedPaths": [],
