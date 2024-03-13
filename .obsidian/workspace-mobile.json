@@ -11,12 +11,17 @@
             "id": "f3b44090f44dd116",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> origin/master
             }
           }
         ]
@@ -105,7 +110,11 @@
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
             "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
+=======
+            "file": "Notas diarias/2024-03-11.md",
+>>>>>>> origin/master
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +131,11 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+<<<<<<< HEAD
             "file": "Notas de libros/Show Your Work! - Austin Kleon.md",
+=======
+            "file": "Notas diarias/2024-03-11.md",
+>>>>>>> origin/master
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +147,11 @@
         "state": {
           "type": "outline",
           "state": {
+<<<<<<< HEAD
             "file": "Notas de libros/Show Your Work! - Austin Kleon.md"
+=======
+            "file": "Notas diarias/2024-03-11.md"
+>>>>>>> origin/master
           }
         }
       },
