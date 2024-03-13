@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Databases/Databases.md",
+                "file": "Notas diarias/2024-03-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Databases/Databases.md"
+                "file": "Notas diarias/2024-03-13.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Databases/Databases.md",
+                "file": "Notas diarias/2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Databases/Databases.md",
+                "file": "Notas diarias/2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Databases/Databases.md"
+                "file": "Notas diarias/2024-03-13.md"
               }
             }
           },
@@ -211,8 +211,10 @@
   },
   "active": "8621894876046b66",
   "lastOpenFiles": [
-    "Doctorado/Detection of CRC-specific methylation profiles.md",
+    "Notas diarias/2024-03-14.md",
+    "Notas diarias/2024-03-13.md",
     "Bioinformática y programación/Databases/Databases.md",
+    "Doctorado/Detection of CRC-specific methylation profiles.md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
@@ -225,7 +227,6 @@
     "Doctorado/Clinical relevance of ctDNA analysis.md",
     "Dashboard.md",
     "Doctorado/Writing and planning/Retreat methylation processing and analysis.md",
-    "Notas diarias/2024-03-13.md",
     "Notas diarias/2023-11-13.md",
     "Estadística/Machine Learning/Regression/Lasso regression.md",
     "Estadística/Machine Learning/Regularization.md",
@@ -241,7 +242,6 @@
     "Notas diarias/2024-03-09.md",
     "Notas diarias/2024-03-07.md",
     "Estadística/Random Survival Forests.md",
-    "Biología y medicina/Declaración de Helsinki.md",
     "Biología y medicina/Declaración de Helsinki.md.partial",
     "Notas de vídeos/How to make smart decisions more easily.md.partial",
     "Notas diarias/2024-03-09.md.partial",
