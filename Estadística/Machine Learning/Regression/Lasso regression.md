@@ -14,3 +14,8 @@ Lasso regression can make coefficients go to 0 as we increase the lambda paramet
 Lasso regression in R can be performed using the `glmnet` package. Documentation can be found at: [CRAN - Package glmnet](https://cran.r-project.org/web/packages/glmnet/).
 
 It admits fitting a Generalized Linear Model (GLM) with regularization via [[Lasso regression]] or [[Elastic net]]. Admits models such as [[Regresión de Cox]].
+
+```
+# Use alpha = 1 for LASSO
+cl_fit <- glmnet(x = predictor_matrix, y = surv_obj, family = "cox", alpha = 1)
+```
