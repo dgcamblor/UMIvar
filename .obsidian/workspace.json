@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadística/Machine Learning/Regression/Lasso regression.md",
+                "file": "Notas diarias/2023-11-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística/Machine Learning/Regression/Lasso regression.md"
+                "file": "Notas diarias/2023-11-13.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística/Machine Learning/Regression/Lasso regression.md",
+                "file": "Notas diarias/2023-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística/Machine Learning/Regression/Lasso regression.md",
+                "file": "Notas diarias/2023-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Estadística/Machine Learning/Regression/Lasso regression.md"
+                "file": "Notas diarias/2023-11-13.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "f0e0d7a9b2d0c0fb",
   "lastOpenFiles": [
-    "Estadística/Machine Learning/Regularization.md",
     "Estadística/Machine Learning/Regression/Lasso regression.md",
+    "Estadística/Machine Learning/Regularization.md",
     "Notas diarias/2024-03-13.md",
     "conflict-files-obsidian-git.md",
     "Notas diarias/2024-03-08.md",

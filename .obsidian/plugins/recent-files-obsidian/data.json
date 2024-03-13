@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-13",
+      "path": "Notas diarias/2023-11-13.md"
+    },
+    {
       "basename": "Lasso regression",
       "path": "Estadística/Machine Learning/Regression/Lasso regression.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-16",
       "path": "Notas diarias/2024-02-16.md"
-    },
-    {
-      "basename": "Genomic processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Genomic processing pipeline.md"
     }
   ],
   "omittedPaths": [],
