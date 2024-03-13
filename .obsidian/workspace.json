@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-13.md",
+                "file": "Estadística/Machine Learning/Regression/Lasso regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-13.md"
+                "file": "Estadística/Machine Learning/Regression/Lasso regression.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-13.md",
+                "file": "Estadística/Machine Learning/Regression/Lasso regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-13.md",
+                "file": "Estadística/Machine Learning/Regression/Lasso regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-13.md"
+                "file": "Estadística/Machine Learning/Regression/Lasso regression.md"
               }
             }
           },
@@ -211,8 +211,10 @@
   },
   "active": "f0e0d7a9b2d0c0fb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Estadística/Machine Learning/Regularization.md",
+    "Estadística/Machine Learning/Regression/Lasso regression.md",
     "Notas diarias/2024-03-13.md",
+    "conflict-files-obsidian-git.md",
     "Notas diarias/2024-03-08.md",
     "Notas diarias/2024-03-12.md",
     "Notas diarias/2024-03-11.md",
@@ -245,8 +247,6 @@
     "Estadística/Análisis de supervivencia.md",
     "Estadística/Análisis de supervivencia/Método de Kaplan-Meier.md",
     "Estadística/Criterio de información de Akaike (AIC).md",
-    "Estadística/Transformación de Box-Cox.md",
-    "Estadística/Residual Sum of Squares.md",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Otros/Adjuntos/Pasted image 20240214182751.png",
