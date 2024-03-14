@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+      "basename": "brPROPHET MRD",
+      "path": "Doctorado/Assays/brPROPHET MRD.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
       "basename": "2024-03-13",
@@ -195,10 +199,6 @@
     {
       "basename": "Mutual information",
       "path": "Estadística/Machine Learning/Mutual information.md"
-    },
-    {
-      "basename": "2024-03-04",
-      "path": "Notas diarias/2024-03-04.md"
     }
   ],
   "omittedPaths": [],
