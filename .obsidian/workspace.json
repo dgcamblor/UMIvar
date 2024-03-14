@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Assays/brPROPHET MRD.md",
+                "file": "Notas diarias/2024-03-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Assays/brPROPHET MRD.md"
+                "file": "Notas diarias/2024-03-14.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Assays/brPROPHET MRD.md",
+                "file": "Notas diarias/2024-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Assays/brPROPHET MRD.md",
+                "file": "Notas diarias/2024-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Assays/brPROPHET MRD.md"
+                "file": "Notas diarias/2024-03-14.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   "active": "6fabd2f9cc7556ff",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Doctorado/Assays/brPROPHET MRD.md",
     "Notas diarias/2024-03-14.md",
     "Notas diarias/2024-03-13.md",
     "Bioinformática y programación/Databases/Databases.md",
@@ -241,7 +242,6 @@
     "Medium/A hitchhiker's guide to bioinformatics — tips.md.partial",
     "Notas diarias/2024-03-09.md",
     "Notas diarias/2024-03-07.md",
-    "Estadística/Random Survival Forests.md",
     "Biología y medicina/Declaración de Helsinki.md.partial",
     "Notas de vídeos/How to make smart decisions more easily.md.partial",
     "Notas diarias/2024-03-09.md.partial",
