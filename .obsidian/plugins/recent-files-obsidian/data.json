@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-15",
+      "path": "Notas diarias/2024-03-15.md"
+    },
+    {
+      "basename": "2024-03-14",
+      "path": "Notas diarias/2024-03-14.md"
+    },
+    {
+      "basename": "2024-03-13",
+      "path": "Notas diarias/2024-03-13.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "brPROPHET MRD",
       "path": "Doctorado/Assays/brPROPHET MRD.md"
     },
@@ -29,20 +45,8 @@
       "path": "Doctorado/Assays/Signatera.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "2024-03-14",
-      "path": "Notas diarias/2024-03-14.md"
-    },
-    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
-    },
-    {
-      "basename": "2024-03-13",
-      "path": "Notas diarias/2024-03-13.md"
     },
     {
       "basename": "Databases",
@@ -195,10 +199,6 @@
     {
       "basename": "Transformación de Box-Cox",
       "path": "Estadística/Transformación de Box-Cox.md"
-    },
-    {
-      "basename": "Residual Sum of Squares",
-      "path": "Estadística/Residual Sum of Squares.md"
     }
   ],
   "omittedPaths": [],
