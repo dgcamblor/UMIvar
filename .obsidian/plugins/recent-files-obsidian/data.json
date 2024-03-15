@@ -5,16 +5,16 @@
       "path": "Notas diarias/2024-03-15.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "2024-03-14",
       "path": "Notas diarias/2024-03-14.md"
     },
     {
       "basename": "2024-03-13",
       "path": "Notas diarias/2024-03-13.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "brPROPHET MRD",
@@ -99,10 +99,6 @@
     {
       "basename": "TCGA",
       "path": "Bioinformática y programación/Databases/TCGA.md"
-    },
-    {
-      "basename": "Retreat methylation processing and analysis",
-      "path": "Doctorado/Writing and planning/Retreat methylation processing and analysis.md"
     },
     {
       "basename": "2023-11-13",
