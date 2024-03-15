@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-03-14",
-      "path": "Notas diarias/2024-03-14.md"
+      "basename": "brPROPHET MRD",
+      "path": "Doctorado/Assays/brPROPHET MRD.md"
+    },
+    {
+      "basename": "FoundationOne Tracker",
+      "path": "Doctorado/Assays/FoundationOne Tracker.md"
+    },
+    {
+      "basename": "Guardant INFINITY",
+      "path": "Doctorado/Assays/Guardant INFINITY.md"
+    },
+    {
+      "basename": "Guardant Reveal",
+      "path": "Doctorado/Assays/Guardant Reveal.md"
+    },
+    {
+      "basename": "Guardant360",
+      "path": "Doctorado/Assays/Guardant360.md"
+    },
+    {
+      "basename": "SafeSeqS",
+      "path": "Doctorado/Assays/SafeSeqS.md"
+    },
+    {
+      "basename": "Signatera",
+      "path": "Doctorado/Assays/Signatera.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
-      "basename": "brPROPHET MRD",
-      "path": "Doctorado/Assays/brPROPHET MRD.md"
+      "basename": "2024-03-14",
+      "path": "Notas diarias/2024-03-14.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
@@ -175,30 +199,6 @@
     {
       "basename": "Residual Sum of Squares",
       "path": "Estadística/Residual Sum of Squares.md"
-    },
-    {
-      "basename": "Regresión de Cox",
-      "path": "Estadística/Análisis de supervivencia/Regresión de Cox.md"
-    },
-    {
-      "basename": "Variant calling analysis",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Variant calling analysis.md"
-    },
-    {
-      "basename": "Análisis de supervivencia - Curso de R INCLIVA",
-      "path": "Notas de cursos/Análisis de supervivencia - Curso de R INCLIVA.md"
-    },
-    {
-      "basename": "2024-03-05",
-      "path": "Notas diarias/2024-03-05.md"
-    },
-    {
-      "basename": "Tareas",
-      "path": "Tareas.md"
-    },
-    {
-      "basename": "Mutual information",
-      "path": "Estadística/Machine Learning/Mutual information.md"
     }
   ],
   "omittedPaths": [],
