@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
+      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+    },
+    {
       "basename": "2024-03-15",
       "path": "Notas diarias/2024-03-15.md"
+    },
+    {
+      "basename": "Asociaciones y congresos de interés",
+      "path": "Doctorado/Asociaciones y congresos de interés.md"
+    },
+    {
+      "basename": "Consejos para un póster científico",
+      "path": "Doctorado/Consejos para un póster científico.md"
+    },
+    {
+      "basename": "ctDNA calling software",
+      "path": "Doctorado/ctDNA calling software.md"
     },
     {
       "basename": "Dashboard",
@@ -183,18 +199,6 @@
     {
       "basename": "Análisis de supervivencia",
       "path": "Estadística/Análisis de supervivencia.md"
-    },
-    {
-      "basename": "Método de Kaplan-Meier",
-      "path": "Estadística/Análisis de supervivencia/Método de Kaplan-Meier.md"
-    },
-    {
-      "basename": "Criterio de información de Akaike (AIC)",
-      "path": "Estadística/Criterio de información de Akaike (AIC).md"
-    },
-    {
-      "basename": "Transformación de Box-Cox",
-      "path": "Estadística/Transformación de Box-Cox.md"
     }
   ],
   "omittedPaths": [],
