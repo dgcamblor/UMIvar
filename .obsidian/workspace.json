@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -209,7 +210,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "1136e79022d48ae8",
+  "active": "49c97c5289b16da1",
   "lastOpenFiles": [
     "Dashboard.md",
     "Notas diarias/2024-03-15.md",
