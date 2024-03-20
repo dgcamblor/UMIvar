@@ -2,7 +2,7 @@ La 5-hidroximetilcitosina o 5hmC se genera por oxidación de la [[5mC]], en una 
 
 A epigenetic marker found most frequently in the brain.
 
-5hmC is resistant to [[Conversión de bisulfito]], the same as 5mC. Bisulfite conversion, therefore, cannot diferentiate between these two epigenetic marks.
+5hmC is resistant to [[Secuenciación por conversión de bisulfito]], the same as 5mC. Bisulfite conversion, therefore, cannot diferentiate between these two epigenetic marks.
 
 Los niveles totales de 5hmC tienden a ser mayores con la edad [Alterations in 5hmC level and genomic distribution in aging-related epigenetic drift in human adipose stem cells | Epigenomics](https://doi.org/10.2217/epi-2019-0131).
 

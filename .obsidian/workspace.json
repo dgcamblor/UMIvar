@@ -32,9 +32,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e16e21a405aa72fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f8acba898a5bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
               }
             }
           },
@@ -145,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
               }
             }
           },
@@ -224,10 +247,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "f4977e6a6598bf58",
+  "active": "650c1687a87b799a",
   "lastOpenFiles": [
-    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+    "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
     "Biología y medicina/Epigenética/Arrays de metilación.md",
     "Biología y medicina/Epigenética/Metilación del ADN.md",
     "Biología y medicina/Epigenética/Epigenética y cáncer.md",
@@ -251,7 +275,6 @@
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
-    "Doctorado/MRD ctDNA assays.md",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
     "Notas diarias/2024-03-11.md.partial",
