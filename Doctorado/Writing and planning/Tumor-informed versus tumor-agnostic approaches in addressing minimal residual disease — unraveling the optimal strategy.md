@@ -26,6 +26,9 @@ The use of techniques that detect epigenomic signatures assumes that hypermethyl
 
 Importance of ctDNA surveillance, % of patients that still relapse after postoperative (1 month) ctDNA-negative status: 9.1% [@chenPostoperativeCirculatingTumor2021], 11.9% [@reinertAnalysisPlasmaCellFree2019].
 
+[Comparing single‐target and multitarget approaches for postoperative circulating tumour DNA detection in stage II–III colorectal cancer patients - Henriksen - 2022 - Molecular Oncology - Wiley Online Library](https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.13294) -> Comparison between ST and MT strategies.
+[Study Details | | ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT03748680)
+
 | Study | Approach | Sensitivity | Specificity | Cohort |
 | ----- | -------- | ----------- | ----------- | ------ |
 |       |          |             |             |        |
