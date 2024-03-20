@@ -10,16 +10,31 @@
           {
             "id": "650c1687a87b799a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Epigenética/Metilación del ADN.md",
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f4977e6a6598bf58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Metilación del ADN.md"
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
               }
             }
           },
@@ -130,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Metilación del ADN.md",
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Metilación del ADN.md",
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Metilación del ADN.md"
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
               }
             }
           },
@@ -209,13 +224,14 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "650c1687a87b799a",
+  "active": "f4977e6a6598bf58",
   "lastOpenFiles": [
-    "Biología y medicina/Epigenética/Epigenética y cáncer.md",
+    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+    "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
     "Biología y medicina/Epigenética/Arrays de metilación.md",
     "Biología y medicina/Epigenética/Metilación del ADN.md",
+    "Biología y medicina/Epigenética/Epigenética y cáncer.md",
     "Biología y medicina/Epigenética/Methylation microarray.md",
-    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Dashboard.md",
     "Notas diarias/2024-03-15.md",
     "Doctorado/Asociaciones y congresos de interés.md",
@@ -236,7 +252,6 @@
     "Doctorado/Improving INCLIVA ctDNA WES pipeline.md",
     "Doctorado/Líneas de investigación y estudios de interés.md",
     "Doctorado/MRD ctDNA assays.md",
-    "Doctorado/MRD ctDNA clinical trials in CRC.md",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
     "Notas diarias/2024-03-11.md.partial",

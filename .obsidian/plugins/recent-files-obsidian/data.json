@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Metilación del ADN",
-      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
+      "basename": "Inmunoprecipitación del ADN metilado",
+      "path": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
     },
     {
-      "basename": "Epigenética y cáncer",
-      "path": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
+      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
+      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
     {
       "basename": "Arrays de metilación",
       "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
     },
     {
-      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
-      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+      "basename": "Metilación del ADN",
+      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
+    },
+    {
+      "basename": "Epigenética y cáncer",
+      "path": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "scRNA-seq integration",
       "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq integration.md"
-    },
-    {
-      "basename": "Cell type deconvolution methods",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
     }
   ],
   "omittedPaths": [],
