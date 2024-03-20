@@ -11,12 +11,14 @@ Los **arrays de metilación** proporcionan información de la metilación en sit
 
 La química de los arrays de Infinium depende de una [[Conversión por bisulfito]] previa de la muestra. Tras una amplificación del genoma completo, las citosinas no metiladas son convertidas a timinas con un intermediario de uracilo.
 
-En el chip, cada posición es interrogada por dos tipos de sondas que tienen ambas una secuencia de 50 nucleótidos con: 1) un tramo común complementario a la secuencia previa al sitio CpG; 2) un nucleótido final complementario o bien a la secuencia metilada tras secuenciación de bisulfito (una T) o bien a la secuencia no metilada (una C). De esta forma:
+En el chip, cada posición es interrogada por dos tipos de sondas que tienen ambas una secuencia de 50 nucleótidos con: 1) un tramo común complementario a la secuencia previa al sitio CpG; 2) un nucleótido final complementario o bien a la secuencia metilada tras secuenciación de bisulfito (una T) o bien a la secuencia no metilada (una C). La muestra de ADN tratada con bisulfito se hace hibridar con la sondas en los pocillos del chip. Se realiza una extensión de cadena única en la que las sondas actúan como cebadores para una reacción de extensión de una base utilizando terminadores de cadena marcados con fluorescente. Los terminadores T y A tienen fluorescentes rojos, y los terminadores G y C tienen fluorescentes verdes. De esta forma, en cada sitio:
 
-- Methylation (M) leads to red fluorescent signal.
-- Unmethylation (U) leads to green fluorescent signal.
+- La metilación (M) lleva a señal fluorescente roja.
+- La no methylation (U, unmethylation) lleva a señal fluorescente verde.
 
 ![[Pasted image 20231129144129.png]]
+
+La relación rojo/verde será indicativa del grado de metilación del sitio en una muestra. Los datos crudos de intensidad de señal vienen en [[IDAT format]].
 
 The output is an [[IDAT format]] file.
 
