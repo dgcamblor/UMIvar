@@ -56,8 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5a3b61665da565f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md"
               }
             }
           },
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md"
               }
             }
           },
@@ -247,10 +260,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "650c1687a87b799a",
+  "active": "c5a3b61665da565f",
   "lastOpenFiles": [
-    "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+    "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
     "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
     "Biología y medicina/Epigenética/Arrays de metilación.md",
     "Biología y medicina/Epigenética/Metilación del ADN.md",
