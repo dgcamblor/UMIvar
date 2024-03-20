@@ -1,3 +1,9 @@
+---
+aliases:
+  - Methylation microarrays
+---
+
+
 Methylation microarrays or chips provide information at individual CPG stites, spread across the genome.
 
 Illumina chips are some of the most frequently used. The output is an [[IDAT format]] file.

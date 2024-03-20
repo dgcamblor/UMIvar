@@ -1,5 +1,16 @@
 [Epigenetics in cancer - PubMed](https://pubmed.ncbi.nlm.nih.gov/18337604/)
 
+## Metilación aberrante del ADN en cáncer
+
+En los tumores, se observa un patrón de metilación concreto en las regiones promotoras:
+
+- Hipermetilación de genes supresores de tumores
+- Hipometilación de protooncogenes.
+
+Además, generalmente los tumores sufren una hipometilación global. 
+
+Comparado con las mutaciones, las modificaciones epigenéticas tienen una mayor concordancia en el cáncer. Mientras que dos tumores del mismo tipo comparten muy pocas mutaciones, los perfiles epigenéticos son mucho más similares. ^677262
+
 ## Resistencia a fármacos
 
 En cáncer colorrectal:

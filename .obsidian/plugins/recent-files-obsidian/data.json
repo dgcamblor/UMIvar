@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+      "basename": "Metilación del ADN",
+      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
+    },
+    {
+      "basename": "Epigenética y cáncer",
+      "path": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
+    },
+    {
+      "basename": "Arrays de metilación",
+      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
     },
     {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
@@ -11,6 +19,10 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
       "basename": "2024-03-15",
@@ -187,18 +199,6 @@
     {
       "basename": "Cell type deconvolution methods",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Cell type deconvolution methods.md"
-    },
-    {
-      "basename": "Supervivencia global (OS)",
-      "path": "Estadística/Análisis de supervivencia/Supervivencia global (OS).md"
-    },
-    {
-      "basename": "Supervivencia libre de enfermedad (DFS)",
-      "path": "Estadística/Análisis de supervivencia/Supervivencia libre de enfermedad (DFS).md"
-    },
-    {
-      "basename": "Análisis de supervivencia",
-      "path": "Estadística/Análisis de supervivencia.md"
     }
   ],
   "omittedPaths": [],
