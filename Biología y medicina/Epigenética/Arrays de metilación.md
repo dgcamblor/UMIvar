@@ -11,18 +11,14 @@ Los **arrays de metilación** proporcionan información de la metilación en sit
 
 La química de los arrays de Infinium depende de una [[Conversión por bisulfito]] previa de la muestra. Tras una amplificación del genoma completo, las citosinas no metiladas son convertidas a timinas con un intermediario de uracilo.
 
-En el chip, cada posición es interrogada por dos tipos de sondas que tienen ambas una secuencia de 50 nucleótidos co: 1) un tramo común
-
-Methylation microarrays or chips provide information at individual CPG stites, spread across the genome.
-
-Illumina chips are some of the most frequently used. The output is an [[IDAT format]] file.
+En el chip, cada posición es interrogada por dos tipos de sondas que tienen ambas una secuencia de 50 nucleótidos con: 1) un tramo común complementario a la secuencia previa al sitio CpG; 2) un nucleótido final complementario o bien a la secuencia metilada tras secuenciación de bisulfito (una T) o bien a la secuencia no metilada (una C). De esta forma:
 
 - Methylation (M) leads to red fluorescent signal.
 - Unmethylation (U) leads to green fluorescent signal.
 
 ![[Pasted image 20231129144129.png]]
 
-Los arrays más populares son los de Illumina. 
+The output is an [[IDAT format]] file.
 
 ## References
 
