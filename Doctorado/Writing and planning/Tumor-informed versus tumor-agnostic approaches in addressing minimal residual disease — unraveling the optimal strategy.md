@@ -6,11 +6,39 @@ tags:
 TP -> ctDNA+ and recurring
 FP -> ctDNA+ and not recurring
 TN -> ctDNA- and not recurring
-FN -> ctDNA- and not recurring
+FN -> ctDNA- and recurring
 
+---
 
+$$
+Sensibilidad = TP/(TP+FN)
+$$
+$$
+Especificidad = TN/(TN+FP)
+$$
+$$
+VPP = TP/(TP+FP)
+$$
+$$
+VPN = TN/(TN+FN)
+$$
 
+---
 
+$$
+Assay sensitivity = Recurring\ ctDNA+/\ Total\ recurring
+$$
+$$
+Assay specificity = Non-recurring\ ctDNA-/\ Total\ non-recurring
+$$
+$$
+VPP = Recurring\ ctDNA+/\ Total\ ctDNA+
+$$
+$$
+VPN = Non-recurring\ ctDNA-/\ Total\ ctDNA-
+$$
+
+---
 
 Regardless of the technique, ctDNA assays for the detection of MRD will require high specificity to escalate adjuvant therapy in patients who would be categorized as low risk according to clinicopathologic factors and would ultimately recur without additional therapy, and high sensitivity to allow safe de-escalation of therapy in those patients who are traditionally treated with intensive chemotherapy and avoidable adverse events. [@jacomeMinimalResidualDisease2023]. 
 > Un poco a colación de lo que dicen Reinert 2024
