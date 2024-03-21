@@ -50,19 +50,20 @@ Once the matter of the OS is settled, you should get yourself a good code editor
 
 Ah, let me not forget about mentioning the good ol' debate about the best language for bioinformatics. I will, however, be brief by mentioning that Bash, Python and R are specifically good for scripting, general purpose programming and statistics and data analysis, respectively. You do you, but it is probable that you will end up using all of them to some extent. If learning a language for the first time, Python is the easiest to 
 
+> Maybe I should expand programming languages, R Markdown, Jupyter Notebooks, etc.
+
 ## Have a journal close to you
 
-When you are learning —and that will hopefully be every day of your life—, having a journal where you keep track of the steps you have taken can be greatly useful. This is particularly true in bioinformatics, where writing down the commands you use, the problems you encounter and the solutions you find can help you remember things and learn from your mistakes. Say you just found that the command to convert a SAM file to a BAM file is `samtools view -bS FILE.sam > FILE.bam`. You can write it down in your journal, and the next time you
+When you are learning —and that will hopefully be every day of your life—, having a journal where you keep track of the steps you have taken can be greatly useful. This is particularly true in bioinformatics, where writing down the commands you use, the problems you encounter and the solutions you find can help you remember things and learn from your mistakes. Say you just found that the command to convert a SAM file to a BAM file is `samtools view -bS FILE.sam > FILE.bam`. You can write it down in your journal, and the next time you need it but can't remember it, you can just look it up. With repetition, you will eventually remember it.
 
+A plain notebook is just suficient for this purpose, and if you are a digital person, you can use a note-taking app. I personally use Obsidian, which is a plain text note editor that allows you to link notes to each other, making it easy to navigate through them. Notes are written in Markdown, which is a simple, easy-to-learn markup language that has become something of a standard in many programming applications. 
 
-
-the commands you use, the problems you encounter and the solutions you find is a good idea. This will help you to remember things and to learn from your mistakes. It is also a good idea to keep a cheatsheet of the commands you use the most. I personally use Obsidian for this purpose, but a plain notebook is just suficient. 
 
 ## Learn the ways of scripting and follow good programming practices
 
 Scripts are the greatest power you have as a bioinformatician, and one you should embrace. They not only offer you the ability to automate a set of commands, but they allow you to: 1) a record of each command you have launched, with the potential for debugging that so implies; and 2) offer a reproducible (or at least partially) way of reproducing a file processing or analysis you have conducted. Even if you think you will perform a set of steps just once, you should write them in a script. And chances are, you are going to perform them more times.
 
-In the same line, you 
+Programming is not just about writing code, but also about writing good code. Although programming languages admit much flexibility in the way you write code, each language has style guides that enhance the readability of the code. 
 
 The documentation of the code you write helps both you and those who read it. In fact, documentation is one of 
 
