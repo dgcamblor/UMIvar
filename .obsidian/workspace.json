@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee00fc5a669d5a7",
+        "id": "ced7ce46743828f9",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb1f10469d19f4d",
+            "id": "d611b804063be75a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Oncología/Cáncer colorrectal.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "ef98f8cd31504d1b",
+            "id": "11fc0392ba5e59e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -222,7 +222,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "ef98f8cd31504d1b",
+  "active": "11fc0392ba5e59e4",
   "lastOpenFiles": [
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Biología y medicina/Inmunología/Linfocitos T.md",

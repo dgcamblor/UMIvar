@@ -5,16 +5,16 @@
       "path": "Notas diarias/2024-03-21.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Arrays de metilación",
       "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
     },
     {
       "basename": "Cáncer colorrectal",
       "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
