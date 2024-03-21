@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2024-03-21.md",
+                "file": "Estadística/Matriz de confusión.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2024-03-21.md"
+                "file": "Estadística/Matriz de confusión.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2024-03-21.md",
+                "file": "Estadística/Matriz de confusión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2024-03-21.md",
+                "file": "Estadística/Matriz de confusión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notas diarias/2024-03-21.md"
+                "file": "Estadística/Matriz de confusión.md"
               }
             }
           },
@@ -224,6 +224,8 @@
   },
   "active": "11fc0392ba5e59e4",
   "lastOpenFiles": [
+    "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Notas diarias/2024-03-21.md",
     "Estadística/Machine Learning/Tuning grid.md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Biología y medicina/Inmunología/Linfocitos T.md",
@@ -233,7 +235,6 @@
     "Estadística/Machine Learning/Natural Language Processing (NLP).md",
     "Estadística/Tabla de contingencia.md",
     "Biología y medicina/Epigenética/Arrays de metilación.md",
-    "Notas diarias/2024-03-21.md",
     "conflict-files-obsidian-git.md",
     "Biología y medicina/Oncología/Cáncer colorrectal.md",
     "Dashboard.md",
@@ -249,7 +250,6 @@
     "Doctorado/ctDNA calling software.md",
     "Notas diarias/2024-03-14.md",
     "Notas diarias/2024-03-13.md",
-    "Doctorado/Assays/FoundationOne Tracker.md",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
     "Notas diarias/2024-03-11.md.partial",

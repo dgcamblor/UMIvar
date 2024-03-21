@@ -3,7 +3,16 @@ tags:
   - paper
   - phd
 ---
-> Regardless of the technique, ctDNA assays for the detection of MRD will require high specificity to escalate adjuvant therapy in patients who would be categorized as low risk according to clinicopathologic factors and would ultimately recur without additional therapy, and high sensitivity to allow safe de-escalation of therapy in those patients who are traditionally treated with intensive chemotherapy and avoidable adverse events. [@jacomeMinimalResidualDisease2023]. 
+TP -> ctDNA+ and recurring
+FP -> ctDNA+ and not recurring
+TN -> ctDNA- and not recurring
+FN -> ctDNA- and not recurring
+
+
+
+
+
+Regardless of the technique, ctDNA assays for the detection of MRD will require high specificity to escalate adjuvant therapy in patients who would be categorized as low risk according to clinicopathologic factors and would ultimately recur without additional therapy, and high sensitivity to allow safe de-escalation of therapy in those patients who are traditionally treated with intensive chemotherapy and avoidable adverse events. [@jacomeMinimalResidualDisease2023]. 
 > Un poco a colación de lo que dicen Reinert 2024
 
 >In a prospective study with 112 mCRC patients who had undergone liver resection with curative intent, ctDNA positivity by a tumor-informed assay was the most significant prognostic factor for disease-free survival (HR: 5.7, 95% CI 3.3–10.0) [52]. MRD was detected in 61 (54%) patients, of which 59 (97%) presented recurrence at the time of data cutoff.
