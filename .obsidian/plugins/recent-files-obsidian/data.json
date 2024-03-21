@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Arrays de metilación",
       "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
+    },
+    {
+      "basename": "Cáncer colorrectal",
+      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
@@ -191,14 +195,6 @@
     {
       "basename": "A hitchhiker's guide to bioinformatics — tips",
       "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
-    },
-    {
-      "basename": "CUDA",
-      "path": "Bioinformática y programación/CUDA.md"
-    },
-    {
-      "basename": "scRNA-seq analysis",
-      "path": "Bioinformática y programación/Ómicas/Transcriptómica/Single-cell RNA-seq/scRNA-seq analysis.md"
     }
   ],
   "omittedPaths": [],
