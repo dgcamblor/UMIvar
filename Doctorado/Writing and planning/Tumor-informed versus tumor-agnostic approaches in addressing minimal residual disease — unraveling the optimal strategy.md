@@ -47,10 +47,6 @@ Regardless of the technique, ctDNA assays for the detection of MRD will require 
 
 ## II. Tumor-agnostic strategies
 
-> —also termed tumor-uninformed or tumor-naïve—
-
-> In recently presented results, however, the [[COBRA trial]] was not able to meet its primary endpoint, and was promptly stopped due to futility in achieving statistical significance [@morrisPhaseIIResults2024].
-
 ### Methylation
 
 [Efficient detection and post-surgical monitoring of colon cancer with a multi-marker DNA methylation liquid biopsy | PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2017421118)
@@ -65,10 +61,6 @@ Importance of ctDNA surveillance, % of patients that still relapse after postope
 
 [Comparing single‐target and multitarget approaches for postoperative circulating tumour DNA detection in stage II–III colorectal cancer patients - Henriksen - 2022 - Molecular Oncology - Wiley Online Library](https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.13294) -> Comparison between ST and MT strategies.
 [Study Details | | ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT03748680)
-
-| Study | Approach | Sensitivity | Specificity | Cohort |
-| ----- | -------- | ----------- | ----------- | ------ |
-|       |          |             |             |        |
 
 >Chan et al. “After the exclusion of CH mutations, 37% (14/38) of the evaluated patients harbor at least one tumor-derived mutation from plasma cfDNA for longitudinal monitoring.” “In contrast to the tumor-agnostic approach, up to 84% (32/38) of the patients harbor at least one mutation from the tumor tissue for subsequent plasma cfDNA monitoring (Figure 3A).”  Interestingly, ctDNA was detected in all three metastatic patients from our study cohort using both the tumor-informed and tumor-agnostic approach, highlighting that the impact of assay sensitivity is more prominent in patients with localized CRC.
 
