@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hormesis",
+      "path": "Hormesis.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2024-03-22",
       "path": "Notas diarias/2024-03-22.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "A hitchhiker's guide to bioinformatics — tips",
@@ -195,10 +199,6 @@
     {
       "basename": "Random Survival Forests",
       "path": "Estadística/Random Survival Forests.md"
-    },
-    {
-      "basename": "No soy mi ADN - Manel Esteller",
-      "path": "Notas de libros/No soy mi ADN - Manel Esteller.md"
     }
   ],
   "omittedPaths": [],
