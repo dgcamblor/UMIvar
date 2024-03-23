@@ -1,4 +1,4 @@
-
 ```dataview
 TABLE
+FROM Medium
 ```
