@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guías y referencias/Configurar correo Universitat de València (UV).md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guías y referencias/Configurar correo Universitat de València (UV).md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guías y referencias/Configurar correo Universitat de València (UV).md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guías y referencias/Configurar correo Universitat de València (UV).md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guías y referencias/Configurar correo Universitat de València (UV).md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -211,8 +211,9 @@
   },
   "active": "6f0694cae141062f",
   "lastOpenFiles": [
-    "Guías y referencias/Statement.md",
     "Guías y referencias/Configurar correo Universitat de València (UV).md",
+    "Biología y medicina/Epigenética/Arrays de metilación-daniel-Latitude.md",
+    "Guías y referencias/Statement.md",
     "Dashboard.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
@@ -236,7 +237,6 @@
     "Estadística/Tabla de contingencia.md",
     "Biología y medicina/Oncología/Genes supresores de tumores.md",
     "Biología y medicina/Oncología/Cáncer de páncreas.md",
-    "Doctorado/Assays/SafeSeqS.md",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
     "Notas diarias/2024-03-11.md.partial",
