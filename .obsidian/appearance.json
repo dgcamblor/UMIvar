@@ -6,9 +6,9 @@
     "underline_h1",
     "underline_h2",
     "bp_outside",
-    "justify",
     "dashboard",
-    "reading_properties"
+    "reading_properties",
+    "justify"
   ],
   "translucency": false,
   "cssTheme": "",

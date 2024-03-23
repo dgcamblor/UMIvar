@@ -5,6 +5,34 @@
       "path": "Notas de vídeos/Tools to Enhance Working Memory & Attention.md"
     },
     {
+      "basename": "Hormesis",
+      "path": "Hormesis.md"
+    },
+    {
+      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
+      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+    },
+    {
+      "basename": "EACR 2024",
+      "path": "Doctorado/Writing and planning/EACR 2024.md"
+    },
+    {
+      "basename": "Ensayos clínicos",
+      "path": "Biología y medicina/Ensayos clínicos.md"
+    },
+    {
+      "basename": "Declaración de Helsinki",
+      "path": "Biología y medicina/Declaración de Helsinki.md"
+    },
+    {
+      "basename": "Metabolismo del alcohol",
+      "path": "Biología y medicina/Bioquímica/Metabolismo/Metabolismo del alcohol.md"
+    },
+    {
+      "basename": "What Alcohol Does to Your Body, Brain & Health",
+      "path": "Notas de vídeos/What Alcohol Does to Your Body, Brain & Health.md"
+    },
+    {
       "basename": "2024-03-22",
       "path": "Notas diarias/2024-03-22.md"
     },
@@ -27,10 +55,6 @@
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
       "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
-    },
-    {
-      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
-      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
     {
       "basename": "A hitchhiker's guide to bioinformatics — tips",
@@ -175,30 +199,6 @@
     {
       "basename": "Lasso regression",
       "path": "Estadística/Machine Learning/Regression/Lasso regression.md"
-    },
-    {
-      "basename": "Regularization",
-      "path": "Estadística/Machine Learning/Regularization.md"
-    },
-    {
-      "basename": "2024-03-08",
-      "path": "Notas diarias/2024-03-08.md"
-    },
-    {
-      "basename": "2024-03-12",
-      "path": "Notas diarias/2024-03-12.md"
-    },
-    {
-      "basename": "2024-03-11",
-      "path": "Notas diarias/2024-03-11.md"
-    },
-    {
-      "basename": "2024-03-09",
-      "path": "Notas diarias/2024-03-09.md"
-    },
-    {
-      "basename": "2024-03-07",
-      "path": "Notas diarias/2024-03-07.md"
     }
   ],
   "omittedPaths": [],
