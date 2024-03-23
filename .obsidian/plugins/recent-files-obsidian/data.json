@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Hormesis",
-      "path": "Hormesis.md"
+      "basename": "Configurar correo Universitat de València (UV)",
+      "path": "Guías y referencias/Configurar correo Universitat de València (UV).md"
+    },
+    {
+      "basename": "Statement",
+      "path": "Guías y referencias/Statement.md"
     },
     {
       "basename": "Dashboard",
@@ -105,10 +109,6 @@
       "path": "Doctorado/Assays/Guardant360.md"
     },
     {
-      "basename": "SafeSeqS",
-      "path": "Doctorado/Assays/SafeSeqS.md"
-    },
-    {
       "basename": "Databases",
       "path": "Bioinformática y programación/Databases/Databases.md"
     },
@@ -191,14 +191,6 @@
     {
       "basename": "2024-03-07",
       "path": "Notas diarias/2024-03-07.md"
-    },
-    {
-      "basename": "Multiple plots in one figure in R",
-      "path": "Bioinformática y programación/R/Multiple plots in one figure in R.md"
-    },
-    {
-      "basename": "Random Survival Forests",
-      "path": "Estadística/Random Survival Forests.md"
     }
   ],
   "omittedPaths": [],
