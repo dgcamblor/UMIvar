@@ -1,4 +1,0 @@
-```dataview
-TABLE
-FROM Medium
-```

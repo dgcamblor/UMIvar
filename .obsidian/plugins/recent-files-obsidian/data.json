@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "@ Own stories",
-      "path": "Medium/@ Own stories.md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Hormesis",
+      "path": "Biología y medicina/Hormesis.md"
+    },
+    {
+      "basename": "Tareas",
+      "path": "Tareas.md"
     },
     {
       "basename": "Suplementos",
@@ -69,10 +77,6 @@
       "path": "Biología y medicina/Ensayos clínicos.md"
     },
     {
-      "basename": "Hormesis",
-      "path": "Hormesis.md"
-    },
-    {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
       "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
@@ -91,14 +95,6 @@
     {
       "basename": "2024-03-22",
       "path": "Notas diarias/2024-03-22.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "Tareas",
-      "path": "Tareas.md"
     },
     {
       "basename": "Configurar correo Universitat de València (UV)",

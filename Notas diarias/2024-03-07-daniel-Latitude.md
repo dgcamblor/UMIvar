@@ -4,7 +4,7 @@ tags:
 ---
 # Tareas
 
-- [ ] Pasarle los documentos de la FPU a Victoria
+- [x] Pasarle los documentos de la FPU a Victoria ✅ 2024-03-23
 
 # Notas
 

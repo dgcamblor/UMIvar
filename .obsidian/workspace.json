@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medium/@ Own stories.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medium/@ Own stories.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medium/@ Own stories.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medium/@ Own stories.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Medium/@ Own stories.md"
+                "file": "Dashboard.md"
               }
             }
           },
@@ -211,9 +211,12 @@
   },
   "active": "095c02fc7f9d768d",
   "lastOpenFiles": [
-    "Medium/Own stories.md",
-    "Medium/@ Own stories.md",
+    "Biología y medicina/Hormesis.md",
+    "Dashboard.md",
+    "Tareas.md",
     "Dieta y hábitos/Suplementos.md",
+    "Medium/@ Own stories.md",
+    "Medium/Own stories.md",
     "Doctorado/@.md",
     "Doctorado/Doctorado.md",
     "Dieta y hábitos/Dieta y hábitos.md",
@@ -231,12 +234,9 @@
     "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md",
     "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md",
     "Biología y medicina/Ensayos clínicos.md",
-    "Hormesis.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Doctorado/Writing and planning/EACR 2024.md",
     "Biología y medicina/Declaración de Helsinki.md",
-    "Biología y medicina/Bioquímica/Metabolismo/Metabolismo del alcohol.md",
-    "Economía/Productos/Futuros.md",
     "Biología y medicina/Bioquímica/Metabolismo",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
