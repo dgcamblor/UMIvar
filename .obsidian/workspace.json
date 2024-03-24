@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79f14f66047c9ffd",
+        "id": "5dbbf38e31e2ef9d",
         "type": "tabs",
         "children": [
           {
-            "id": "095c02fc7f9d768d",
+            "id": "6d4afbb92f0c32fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Guías y referencias/Configuración de Playnite.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Guías y referencias/Configuración de Playnite.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Guías y referencias/Configuración de Playnite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Guías y referencias/Configuración de Playnite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Guías y referencias/Configuración de Playnite.md"
               }
             }
           },
@@ -209,10 +209,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "095c02fc7f9d768d",
+  "active": "6d4afbb92f0c32fc",
   "lastOpenFiles": [
-    "Biología y medicina/Hormesis.md",
     "Dashboard.md",
+    "Guías y referencias/Configuración de Playnite.md",
+    "Biología y medicina/Hormesis.md",
     "Tareas.md",
     "Dieta y hábitos/Suplementos.md",
     "Medium/@ Own stories.md",
@@ -236,7 +237,6 @@
     "Biología y medicina/Ensayos clínicos.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Doctorado/Writing and planning/EACR 2024.md",
-    "Biología y medicina/Declaración de Helsinki.md",
     "Biología y medicina/Bioquímica/Metabolismo",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
