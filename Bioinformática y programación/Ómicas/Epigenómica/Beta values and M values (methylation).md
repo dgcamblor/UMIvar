@@ -24,6 +24,25 @@ cg_5      0.3       0.6
 cg_6      0.1       0.4
 ```
 
+## M values
+
+M values are also computed using the methylation (M) and unmethylation (U) signals, and use the logit transformation:
+
+$$
+M = \log_2\left(\frac{M}{U}\right)
+$$
+
+M values are continuous variables that can take any value between $-\infty$ and $\infty$.
+
+## Comparison
+
+The paper [**Comparison of Beta-value and M-value methods for quantifying methylation levels by microarray analysis**](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-587) compares the two methods and concludes that:
+
+- Beta values are more intuitive and easier to interpret in a biological context.
+- M values are more statistically valid and are more appropriate for statistical analysis. This is because the distribution of M values is more symmetric and homoscedastic than that of Beta values.
+
+```text
 For **microarray data**, the average methylation level of all CpG sites in a cluster is used to represent methylation level of that cluster. A cluster’s methylation level is marked as “not available” (NA) if less than half of its CpG sites have methylation measurements.
 
 For **WGBS data**, the methylation level of a CpG cluster is calculated as the ratio between the number of methylated cytosines and the total number of cytosines within the cluster. However, if the total number of cytosines in the reads aligned to a CpG cluster is less than a given threshold (30 as used in the paper), the methylation level of this cluster is considered as NA.
+```

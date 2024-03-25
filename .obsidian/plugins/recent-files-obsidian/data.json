@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+      "basename": "Methylation microarray processing and analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
     },
     {
       "basename": "Beta values and M values (methylation)",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md"
     },
     {
-      "basename": "Methylation microarray processing and analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Revisión de estudios de metilación en ctDNA",
+      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
     {
       "basename": "Arrays de metilación",
@@ -191,14 +199,6 @@
     {
       "basename": "ctDNA calling software",
       "path": "Doctorado/ctDNA calling software.md"
-    },
-    {
-      "basename": "2024-03-14",
-      "path": "Notas diarias/2024-03-14.md"
-    },
-    {
-      "basename": "2024-03-13",
-      "path": "Notas diarias/2024-03-13.md"
     }
   ],
   "omittedPaths": [],

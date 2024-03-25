@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
               }
             }
           },
@@ -212,6 +212,9 @@
   "active": "d8e44ca4944e2414",
   "lastOpenFiles": [
     "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md",
+    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+    "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
+    "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/IDAT.md",
     "Biología y medicina/Epigenética/Arrays de metilación.md",
@@ -238,8 +241,6 @@
     "Dieta y hábitos/Autoexploración de la piel.md",
     "Notas de vídeos/Why Your Brain Fog Never Goes Away (and How To Get Clarity).md",
     "Notas de vídeos/What Alcohol Does to Your Body, Brain & Health.md",
-    "Notas de vídeos/Tools to Enhance Working Memory & Attention.md",
-    "Notas de vídeos/How to make smart decisions more easily.md",
     "Biología y medicina/Bioquímica/Metabolismo",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",

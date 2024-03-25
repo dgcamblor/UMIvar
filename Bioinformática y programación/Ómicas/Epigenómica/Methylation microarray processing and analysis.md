@@ -5,6 +5,12 @@ Although Illumina provides the GenomeStudio software to analyze Infinium methyla
 - wateRmelon
 - minfi
 
+Some microarray concepts for their bioinformatic analysis are:
+
+- Array -> One sample.
+- Slide -> Physical slide containing 12 arrays (6 x 2 grid).
+- Plate -> Physical plate containing at most 8 slides (96 arrays). The plate determines the batch
+
 ## Processing
 
 From now on, we will be working with `minfi`, although similar steps are to be followed in other  packages. The input for `minfi` are [[IDAT format|IDAT]] files.
@@ -13,7 +19,14 @@ From now on, we will be working with `minfi`, although similar steps are to be f
 
 ### Reading the data
 
-The [[IDAT format|IDAT]] files are 
+The [[IDAT format|IDAT]] files are read by `minfi` using their filenames or the directory path. The user can also read from a sample sheet.
+
+The result is a `RGChannelSet` object, the initial `minfi` object that contains the raw intensities in the green and red channels. This object also contains the intensities of the internal control probes.
+
+```
+pheno_data <- pData(RGSet) 
+pheno_data[,1:6]
+```
 
 ### Filtering problematic probes
 
