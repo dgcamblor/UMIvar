@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Conversión de bisulfito",
+      "path": "Biología y medicina/Epigenética/Conversión de bisulfito.md"
+    },
+    {
+      "basename": "Secuenciación por conversión de bisulfito",
+      "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
+    },
+    {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
       "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
@@ -145,10 +153,6 @@
       "path": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
     },
     {
-      "basename": "Secuenciación por conversión de bisulfito",
-      "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
-    },
-    {
       "basename": "Metilación del ADN",
       "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Guardant Reveal",
       "path": "Doctorado/Assays/Guardant Reveal.md"
-    },
-    {
-      "basename": "Guardant360",
-      "path": "Doctorado/Assays/Guardant360.md"
     }
   ],
   "omittedPaths": [],
