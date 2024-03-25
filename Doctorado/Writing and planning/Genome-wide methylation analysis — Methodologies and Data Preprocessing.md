@@ -8,6 +8,11 @@ Objectives:
 
 ![[Metilación del ADN]]
 
+## Introduction: DNA methylation
+
+![[Metilación del ADN]]
+
+
 ## Introduction: Main methylome analysis methodologies
 
 - [[Arrays de metilación|Methylation microarrays]]
