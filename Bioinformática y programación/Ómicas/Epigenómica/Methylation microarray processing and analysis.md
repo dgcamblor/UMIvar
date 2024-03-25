@@ -30,8 +30,10 @@ pheno_data[,1:6]
 
 ### Filtering problematic probes
 
-- C/T SNPs
-- Probes located in sex chromosomes
+Several probes are known to be problematic due to a myriad of reasons, and it is advisable to remove them from the analysis. 
+
+- C/T SNPs -> Probes with a common SNP at the CpG site, which can lead to a false positive signal. They can be identified with the `getSNPs()` function.
+- Probes located in sex chromosomes -> They can trigger false positives in the differential methylation analysis. They can be identified with the `getSex()` function.
 - Cross-reactive
 - Multimapping probes
 - Probes with detection p-values > 0.05 (0.01)
@@ -43,6 +45,12 @@ Normalization procedures currently available for correcting output include:
 - Quantile normalization (QN)
 - Beta-mixture quantile normalization (BMIQ)
 - Subset-quantiles within microarray normalization (SWAN)
+- Peak-based correction (PBC)
+- Functional normalization (Funnorm)
+- Normal-exponential convolution using out-of-band probes (Noob)
+- Single-sample noov (SSnoob)
+
+For 450K data BMIQ appears to be the most effective normalization method for probe-type bias.
 
 ## References
 
