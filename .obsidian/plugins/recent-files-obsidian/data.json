@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Methylation microarray processing and analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+    },
+    {
       "basename": "Arrays de metilación",
       "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
+    },
+    {
+      "basename": "IDAT format",
+      "path": "Bioinformática y programación/Ómicas/IDAT format.md"
+    },
+    {
+      "basename": "DNA methylation beta values",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/DNA methylation beta values.md"
     },
     {
       "basename": "Conversión por bisulfito",
@@ -187,18 +199,6 @@
     {
       "basename": "brPROPHET MRD",
       "path": "Doctorado/Assays/brPROPHET MRD.md"
-    },
-    {
-      "basename": "FoundationOne Tracker",
-      "path": "Doctorado/Assays/FoundationOne Tracker.md"
-    },
-    {
-      "basename": "Guardant INFINITY",
-      "path": "Doctorado/Assays/Guardant INFINITY.md"
-    },
-    {
-      "basename": "Guardant Reveal",
-      "path": "Doctorado/Assays/Guardant Reveal.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 503.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Arrays de metilación.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Arrays de metilación.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
               }
             }
           },
@@ -211,8 +211,13 @@
   },
   "active": "d8e44ca4944e2414",
   "lastOpenFiles": [
-    "Biología y medicina/Epigenética/Conversión por bisulfito.md",
     "Biología y medicina/Epigenética/Arrays de metilación.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+    "Bioinformática y programación/Ómicas/IDAT format.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/DNA methylation beta values.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/IDAT.md",
+    "Otros/Adjuntos/Pasted image 20240325191901.png",
+    "Biología y medicina/Epigenética/Conversión por bisulfito.md",
     "Otros/Adjuntos/Pasted image 20240325182755.png",
     "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
@@ -234,10 +239,6 @@
     "Notas de vídeos/Tools to Enhance Working Memory & Attention.md",
     "Notas de vídeos/How to make smart decisions more easily.md",
     "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md",
-    "Notas de vídeos/Dr. Matthew Walker — The Science & Practice of Perfecting Your Sleep.md",
-    "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md",
-    "Notas de vídeos/Coffee & Sleep — How Does Caffeine Work & Its Effects on Sleep.md",
-    "Notas de vídeos/How to Focus to Change Your Brain.md",
     "Biología y medicina/Bioquímica/Metabolismo",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
@@ -256,7 +257,6 @@
     "Otros/Adjuntos/Pasted image 20240213151244.png",
     "Otros/Adjuntos/Pasted image 20240207133553.png",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
-    "Otros/Adjuntos/Pasted image 20231025224127.png",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]
