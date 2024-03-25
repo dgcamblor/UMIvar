@@ -1,4 +1,14 @@
 
+Two commonly used measures are used to report the methylation levels: Beta values and M values
+
+## Beta values
+
+Beta values are computed using the methylation (M) and unmethylation (U) signals:
+
+$$
+\beta = \frac{M}{M+U+100}
+$$
+
 DNA methylation beta values are continuous variables measured between 0 and 1.
 
 - A number close to 0 indicates non methylation of the region.

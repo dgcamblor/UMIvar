@@ -11,3 +11,7 @@ A partir de esto:
 1. Extraer las posiciones genómicas de las sondas en los arrays de metilación.
 2. Calcular la metilación en dichas posiciones en los datos de WGBS.
 3. Hacer la comparativa. Una idea sería realizar una gráfica de correlación, del estilo de: [@chenCellfreeDNAMethylome2022].
+
+## Artículos que hagan evaluación cruzada
+
+[Un momento…](https://www.tandfonline.com/doi/full/10.1080/15592294.2022.2144574)

@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Arrays de metilación",
-      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Beta values and M values (methylation)",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md"
     },
     {
       "basename": "Methylation microarray processing and analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
     },
     {
-      "basename": "IDAT format",
-      "path": "Bioinformática y programación/Ómicas/IDAT format.md"
+      "basename": "Arrays de metilación",
+      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
     },
     {
-      "basename": "DNA methylation beta values",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/DNA methylation beta values.md"
+      "basename": "IDAT format",
+      "path": "Bioinformática y programación/Ómicas/IDAT format.md"
     },
     {
       "basename": "Conversión por bisulfito",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-03-13",
       "path": "Notas diarias/2024-03-13.md"
-    },
-    {
-      "basename": "brPROPHET MRD",
-      "path": "Doctorado/Assays/brPROPHET MRD.md"
     }
   ],
   "omittedPaths": [],
