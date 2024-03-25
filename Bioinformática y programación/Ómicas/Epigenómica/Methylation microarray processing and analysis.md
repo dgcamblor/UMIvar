@@ -33,9 +33,13 @@ pheno_data[,1:6]
 Several probes are known to be problematic due to a myriad of reasons, and it is advisable to remove them from the analysis. 
 
 - C/T SNPs -> Probes with a common SNP at the CpG site, which can lead to a false positive signal. They can be identified with the `getSNPs()` function.
+
 - Probes located in sex chromosomes -> They can trigger false positives in the differential methylation analysis. They can be identified with the `getSex()` function.
+
 - Cross-reactive
+
 - Multimapping probes
+
 - Probes with detection p-values > 0.05 (0.01)
 
 ### Normalization
@@ -55,3 +59,4 @@ For 450K data BMIQ appears to be the most effective normalization method for pro
 ## References
 
 - [Analysis of 450k data using minfi](https://bioconductor.org/help/course-materials/2015/BioC2015/methylation450k.html)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985842/

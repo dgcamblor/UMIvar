@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 264.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+                "file": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
               }
             }
           },
@@ -211,11 +211,12 @@
   },
   "active": "d8e44ca4944e2414",
   "lastOpenFiles": [
+    "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
     "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
     "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/IDAT.md",
     "Biología y medicina/Epigenética/Arrays de metilación.md",
     "Otros/Adjuntos/Pasted image 20240325195052.png",
@@ -227,7 +228,6 @@
     "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Notas diarias/2024-03-25.md",
-    "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Dashboard.md",
     "Guías y referencias/Configuración de Playnite.md",
     "Biología y medicina/Hormesis.md",

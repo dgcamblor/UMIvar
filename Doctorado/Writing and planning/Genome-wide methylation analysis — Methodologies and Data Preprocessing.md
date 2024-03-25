@@ -8,10 +8,9 @@ Objectives:
 
 ![[Metilación del ADN]]
 
-## Introduction: DNA methylation
+## Introduction: Bisulfite treatment
 
-![[Metilación del ADN]]
-
+![[Conversión por bisulfito]]
 
 ## Introduction: Main methylome analysis methodologies
 
@@ -26,6 +25,8 @@ Objectives:
 ![[Arrays de metilación]]
 
 ### Bioinformatic processing
+
+![[Methylation microarray processing and analysis]]
 
 ## Bisulfite conversion sequencing
 
