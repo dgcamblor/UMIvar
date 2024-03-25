@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5dbbf38e31e2ef9d",
+        "id": "3552d8a16ff4a175",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4afbb92f0c32fc",
+            "id": "d8e44ca4944e2414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guías y referencias/Configuración de Playnite.md",
+                "file": "Notas diarias/2024-03-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guías y referencias/Configuración de Playnite.md"
+                "file": "Notas diarias/2024-03-25.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guías y referencias/Configuración de Playnite.md",
+                "file": "Notas diarias/2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guías y referencias/Configuración de Playnite.md",
+                "file": "Notas diarias/2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guías y referencias/Configuración de Playnite.md"
+                "file": "Notas diarias/2024-03-25.md"
               }
             }
           },
@@ -209,9 +209,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "6d4afbb92f0c32fc",
+  "active": "d8e44ca4944e2414",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Notas diarias/2024-03-25.md",
     "Guías y referencias/Configuración de Playnite.md",
     "Biología y medicina/Hormesis.md",
     "Tareas.md",
@@ -236,7 +237,6 @@
     "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md",
     "Biología y medicina/Ensayos clínicos.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
-    "Doctorado/Writing and planning/EACR 2024.md",
     "Biología y medicina/Bioquímica/Metabolismo",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
