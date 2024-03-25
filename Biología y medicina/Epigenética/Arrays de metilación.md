@@ -12,6 +12,14 @@ Los **arrays de metilación** proporcionan información de la metilación en sit
 
 La química de los arrays de Infinium depende de una [[Conversión por bisulfito]] previa de la muestra. Tras una amplificación del genoma completo, las citosinas no metiladas son convertidas a timinas con un intermediario de uracilo.
 
+Las sondas presentan regiones de 50 bases complementarias a la secuencia convertida por bisulfito, con el sitio CpG que se va ensayar en el extremo 3' de la secuencia. Tras la hibridación con la secuencia de DNA convertida por bisulfito, se hace una extensión de base única en presencia de terminadores ddNTP marcados con fluorescencia.
+
+Los principales arrays mencionados combinan dos tipos de sondas:
+
+- Infinium I. 
+
+En los microarrays de Infinium se juntan dos tecnologías
+
 En el chip, cada posición es interrogada por dos tipos de sondas que tienen ambas una secuencia de 50 nucleótidos con: 1) un tramo común complementario a la secuencia previa al sitio CpG; 2) un nucleótido final complementario o bien a la secuencia metilada tras secuenciación de bisulfito (una T) o bien a la secuencia no metilada (una C). De esta forma:
 
 - Methylation (M) leads to red fluorescent signal.
