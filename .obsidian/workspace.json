@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión de bisulfito.md",
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión de bisulfito.md"
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión de bisulfito.md",
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión de bisulfito.md",
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión de bisulfito.md"
+                "file": "Biología y medicina/Epigenética/Arrays de metilación.md"
               }
             }
           },
@@ -211,8 +211,10 @@
   },
   "active": "d8e44ca4944e2414",
   "lastOpenFiles": [
+    "Biología y medicina/Epigenética/Conversión por bisulfito.md",
+    "Biología y medicina/Epigenética/Arrays de metilación.md",
+    "Otros/Adjuntos/Pasted image 20240325182755.png",
     "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
-    "Biología y medicina/Epigenética/Conversión de bisulfito.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Notas diarias/2024-03-25.md",
     "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
@@ -236,7 +238,6 @@
     "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md",
     "Notas de vídeos/Coffee & Sleep — How Does Caffeine Work & Its Effects on Sleep.md",
     "Notas de vídeos/How to Focus to Change Your Brain.md",
-    "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md",
     "Biología y medicina/Bioquímica/Metabolismo",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
@@ -256,7 +257,6 @@
     "Otros/Adjuntos/Pasted image 20240207133553.png",
     "Otros/Adjuntos/Pasted image 20231018133455.jpg",
     "Otros/Adjuntos/Pasted image 20231025224127.png",
-    "Otros/Adjuntos/Pasted image 20240131110838.jpg",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]

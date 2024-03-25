@@ -1,1 +1,0 @@
-La gran mayoría de las técnicas de estudio de la metilación 

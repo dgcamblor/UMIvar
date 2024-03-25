@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Conversión de bisulfito",
-      "path": "Biología y medicina/Epigenética/Conversión de bisulfito.md"
+      "basename": "Arrays de metilación",
+      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
+    },
+    {
+      "basename": "Conversión por bisulfito",
+      "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
     },
     {
       "basename": "Secuenciación por conversión de bisulfito",
@@ -139,10 +143,6 @@
     {
       "basename": "Matriz de confusión",
       "path": "Estadística/Matriz de confusión.md"
-    },
-    {
-      "basename": "Arrays de metilación",
-      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
     },
     {
       "basename": "Cáncer colorrectal",
