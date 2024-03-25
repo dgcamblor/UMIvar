@@ -1,6 +1,8 @@
 Although Illumina provides the GenomeStudio software to analyze Infinium methylation microarrays, the most versatility can be achieved using R packages from Bioconductor:
 
 - SeSAMe
+- RnBeads
+- wateRmelon
 - minfi
 
 ## Processing

@@ -7,7 +7,7 @@ url: https://www.illumina.com/techniques/microarrays/methylation-arrays.html
 Los **arrays de metilación** proporcionan información de la metilación en sitios CpG específicos (también algunos no CpG) de todo el genoma (genome-wide). Los arrays más populares son los fabricados por Illumina, que se diferencian en el número de sitios CpG interrogados:
 
 - Infinium HumanMethylation450K BeadChip (popular en datos del TCGA)
-- Infinium HumanMethylationEPIC BeadChip (850K)
+- Infinium HumanMethylationEPIC v1.0 BeadChip (850K)
 - [Infinium HumanMethylationEPIC v2.0 BeadChip](https://emea.illumina.com/products/by-type/microarray-kits/infinium-methylation-epic.html) (900K)
 
 La química de los arrays de Infinium depende de una [[Conversión por bisulfito]] previa de la muestra. Tras una amplificación del genoma completo, las citosinas no metiladas son convertidas a timinas con un intermediario de uracilo.
