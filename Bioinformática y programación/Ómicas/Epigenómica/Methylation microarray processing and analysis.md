@@ -49,6 +49,8 @@ Normalization is an important step in the analysis of the methylation microarray
 - Probe-type bias (within-array): Corrects for the differences in the signal between the two probe types (Infinium I and II). Type I probes are known to have a higher dynamic range than type II probes. Infinium II assays use the same bead to measure both the methylated and unmethylated signal, so the measurement of one signal can affect the measurement of the other signal.
 - Batch/array-specific effects (between-arrays): Corrects for the differences in the signal between the arrays. These differences can be due to the batch in which the arrays were processed, the slide, or the position of the array in the slide.
 
+#### Within-array normalization
+
 For within-array normalization, the key point is that the Infinium I/II type bias seems to be the one it is most crucial to correct. All techniques that adequately correct for this bias
 
 Normalization procedures currently available for correcting output include:
@@ -74,6 +76,14 @@ For 450K data BMIQ appears to be the most effective normalization method for pro
 Some bibliography:
 
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10008016/
+
+#### Between-array normalization
+
+Between-array normalization is often not considered at the preprocessing step, but it is taken into account in the differential methylation analysis. This is done by adding as covariates possible experimental confounders (batch, center if the data comes from multiple centers, etc.) to the linear model.
+
+## Conversion of beta values to M values
+
+The beta values are a measure of the methylation level of a CpG site, ranging from 0 (unmethylated) to 1 (methylated). The M values are the logit transformation of the beta values, and they are more appropriate for statistical analysis. The beta values can be logit-transformed using the `beta2m` function of the `lumi` package.
 
 ## References
 
