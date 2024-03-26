@@ -36,9 +36,9 @@ Several probes are known to be problematic due to a myriad of reasons, and it is
 
 - Probes located in sex chromosomes -> They can trigger false positives in the differential methylation analysis. They can be identified with the `getSex()` function.
 
-- Cross-reactive/multimapping probes -> Some of the probes can map to multiple locations in the genome, leading to confounding signals. Cross reactive probes have been documented in the literature (Chen et al., 2013; Pidsley et al., 2016)
+- Cross-reactive/multimapping probes -> Some of the probes can map to multiple locations in the genome, leading to confounding signals. Cross reactive probes have been documented in the literature ([Chen et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23314698/); [Pidsley et al., 2016](https://pubmed.ncbi.nlm.nih.gov/23314698/)). Some packages like `maxprobes` allow for easy removal in `minfi` objects.
 
-- Probes with detection p-values > 0.05 (0.01)
+- Probes with detection p-values > 0.05 (0.01). The detection p-value is a measure of the confidence in the signal of a probe, calacu
 
 ### Normalization
 
