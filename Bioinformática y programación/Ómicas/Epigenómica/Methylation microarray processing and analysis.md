@@ -46,8 +46,10 @@ Normalization is an important step in the analysis of the methylation microarray
 
 - Background signal (within-array): Background signal in the arrays
 - Color bias (within-array): Differences  in the intensity measurement fidelity between the two dyes.
-- Probe-type bias (within-array) (most important within-array bias): Corrects for the differences in the signal between the two probe types (Infinium I and II). Type I probes are known to have a higher dynamic range than type II probes. Infinium II assays use the same bead to measure both the methylated and unmethylated signal, so the measurement of one signal can affect the measurement of the other signal.
+- Probe-type bias (within-array): Corrects for the differences in the signal between the two probe types (Infinium I and II). Type I probes are known to have a higher dynamic range than type II probes. Infinium II assays use the same bead to measure both the methylated and unmethylated signal, so the measurement of one signal can affect the measurement of the other signal.
 - Batch/array-specific effects (between-arrays): Corrects for the differences in the signal between the arrays. These differences can be due to the batch in which the arrays were processed, the slide, or the position of the array in the slide.
+
+For within-array normalization, the key point is that the Infinium I/II type bias seems to be the one it is most crucial to correct. All techniques that adequately correct for this bias
 
 Normalization procedures currently available for correcting output include:
 
@@ -55,7 +57,7 @@ Normalization procedures currently available for correcting output include:
 
 - Quantile normalization (QN)
 
-- Beta-mixture quantile normalization (BMIQ)
+- Beta-mixture quantile normalization (BMIQ). One of the most pop
 
 - Subset-quantiles within microarray normalization (SWAN). Within-array normalization method that corrects for probe-type bias (Infinium I and II).
 
