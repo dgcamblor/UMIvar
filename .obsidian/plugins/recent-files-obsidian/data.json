@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Methylation microarray processing and analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+    },
+    {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
       "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "fgbio",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
-    },
-    {
-      "basename": "Methylation microarray processing and analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
     },
     {
       "basename": "Beta values and M values (methylation)",

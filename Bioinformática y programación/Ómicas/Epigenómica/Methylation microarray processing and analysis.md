@@ -13,7 +13,7 @@ Some microarray concepts for their bioinformatic analysis are:
 
 ## Processing
 
-From now on, we will be working with `minfi`, although similar steps are to be followed in other  packages. The input for `minfi` are [[IDAT format|IDAT]] files.
+From now on, we will be working with `minfi`, although similar steps are to be followed in other packages. This package is highly compatible with other packages. The input for `minfi` are [[IDAT format|IDAT]] files.
 
 ![[Pasted image 20240325195052.png]]
 
@@ -59,4 +59,4 @@ For 450K data BMIQ appears to be the most effective normalization method for pro
 ## References
 
 - [Analysis of 450k data using minfi](https://bioconductor.org/help/course-materials/2015/BioC2015/methylation450k.html)
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985842/
+- [Maternal obesity and gestational diabetes reprogram the methylome of offspring beyond birth by inducing epigenetic signatures in metabolic and developmental pathways - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985842/)
