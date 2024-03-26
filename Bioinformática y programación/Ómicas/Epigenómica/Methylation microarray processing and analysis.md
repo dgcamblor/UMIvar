@@ -44,8 +44,10 @@ Several probes are known to be problematic due to a myriad of reasons, and it is
 
 Normalization is an important step in the analysis of the methylation microarray data to correct for technical biases:
 
-- Background signal: Corrects for the background signal in the arrays
-- Probe-type bias: Corrects for the differences in the signal between the two probe types (Infinium I and II). Type I probes are known to have a higher signal ra
+- Background signal (within-array): Background signal in the arrays
+- Color bias (within-array): Differences  in the intensity measurement fidelity between the two dyes.
+- Probe-type bias (within-array) (most important within-array bias): Corrects for the differences in the signal between the two probe types (Infinium I and II). Type I probes are known to have a higher dynamic range than type II probes. Infinium II assays use the same bead to measure both the methylated and unmethylated signal, so the measurement of one signal can affect the measurement of the other signal.
+- Batch/array-specific effects (between-arrays): Corrects for the differences in the signal between the arrays. These differences can be due to the batch in which the arrays were processed, the slide, or the position of the array in the slide.
 
 Normalization procedures currently available for correcting output include:
 
@@ -73,6 +75,7 @@ Some bibliography:
 
 ## References
 
+- https://academic.oup.com/bib/article/15/6/929/179607 -> Filtering and normalization
 - [Analysis of 450k data using minfi](https://bioconductor.org/help/course-materials/2015/BioC2015/methylation450k.html)
 - [Maternal obesity and gestational diabetes reprogram the methylome of offspring beyond birth by inducing epigenetic signatures in metabolic and developmental pathways - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985842/)
 - https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationArray/Array_Tutorial.html
