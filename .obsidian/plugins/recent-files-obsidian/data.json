@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "EACR 2024",
+      "path": "Doctorado/Writing and planning/EACR 2024.md"
+    },
+    {
+      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
+      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+    },
+    {
       "basename": "fgbio",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
-      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
-    },
-    {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
     },
     {
       "basename": "Methylation microarray processing and analysis",
@@ -135,10 +139,6 @@
     {
       "basename": "Ensayos clínicos",
       "path": "Biología y medicina/Ensayos clínicos.md"
-    },
-    {
-      "basename": "EACR 2024",
-      "path": "Doctorado/Writing and planning/EACR 2024.md"
     },
     {
       "basename": "Declaración de Helsinki",

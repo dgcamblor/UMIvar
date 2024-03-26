@@ -40,6 +40,15 @@ $$
 
 ---
 
+Quizás deberíamos de desarrollar este párrafo un poco más porque veo que el 91% de sensibilidad ese es un poco muy polémico. En el estudio de Parikh, reportan:  
+  
+- Landmark: 55.6% sensibilidad, 100% especificidad.  
+- Longitudinal: 69% sensibilidad, 100% especificidad.  
+- Surveillance (metodología de Reinert et al., considerando muestras sacadas en un rango de 4 meses de la recurrencia): 91% sin reporte de especificidad.
+
+Natera y Guardant Health entraron en disputas legales sobre este punto, de si es misleading etc., dejo aquí una contestación de Natera: [https://www.natera.com/company/news/natera-responds-to-meritless-lawsuit-and-files-false-advertising-claim-against-guardant-for-misleading-oncologists-2/](https://www.google.com/url?q=https://www.natera.com/company/news/natera-responds-to-meritless-lawsuit-and-files-false-advertising-claim-against-guardant-for-misleading-oncologists-2/&sa=D&source=docs&ust=1711445708106011&usg=AOvVaw2fxanPE3uYK-80L6UcUb_s)
+Podemos poner ambos valores de sensibilidad en la tabla (69% y 91%) y poner este último con asterisco por las particularidades con las que se ha calculado.
+
 Regardless of the technique, ctDNA assays for the detection of MRD will require high specificity to escalate adjuvant therapy in patients who would be categorized as low risk according to clinicopathologic factors and would ultimately recur without additional therapy, and high sensitivity to allow safe de-escalation of therapy in those patients who are traditionally treated with intensive chemotherapy and avoidable adverse events. [@jacomeMinimalResidualDisease2023]. 
 > Un poco a colación de lo que dicen Reinert 2024
 

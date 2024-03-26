@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md",
+                "file": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
+                "file": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md",
+                "file": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md",
+                "file": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
+                "file": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
               }
             }
           },
@@ -211,9 +211,12 @@
   },
   "active": "16b6855a5ceffb13",
   "lastOpenFiles": [
+    "Doctorado/Writing and planning/EACR 2024.md",
+    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+    "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
+    "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md",
     "Notas diarias/2024-03-26.md",
     "Dashboard.md",
-    "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md",
     "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
@@ -228,7 +231,6 @@
     "Biología y medicina/Epigenética/Conversión por bisulfito.md",
     "Otros/Adjuntos/Pasted image 20240325182755.png",
     "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
-    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Notas diarias/2024-03-25.md",
     "Guías y referencias/Configuración de Playnite.md",
     "Biología y medicina/Hormesis.md",
@@ -239,8 +241,6 @@
     "Doctorado/@.md",
     "Doctorado/Doctorado.md",
     "Dieta y hábitos/Dieta y hábitos.md",
-    "Dieta y hábitos/Autoexploración de la piel.md",
-    "Notas de vídeos/Why Your Brain Fog Never Goes Away (and How To Get Clarity).md",
     "Biología y medicina/Bioquímica/Metabolismo",
     "Doctorado/Personas relevantes.md.partial",
     "Notas diarias/2024-03-12.md.partial",
