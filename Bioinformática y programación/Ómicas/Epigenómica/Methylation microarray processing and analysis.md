@@ -38,23 +38,41 @@ Several probes are known to be problematic due to a myriad of reasons, and it is
 
 - Cross-reactive/multimapping probes -> Some of the probes can map to multiple locations in the genome, leading to confounding signals. Cross reactive probes have been documented in the literature ([Chen et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23314698/); [Pidsley et al., 2016](https://pubmed.ncbi.nlm.nih.gov/23314698/)). Some packages like `maxprobes` allow for easy removal in `minfi` objects.
 
-- Probes with detection p-values > 0.05 (0.01). The detection p-value is a measure of the confidence in the signal of a probe, calacu
+- Probes with detection p-values > 0.01. The detection p-value is a measure of the confidence in the signal of a probe, comparing the total signal at the probe (Methylated + Unmethylated) with the background signal (estimated from the negative control probes). Probes with detection p-values > 0.01 (or 0.05) are considered unreliable.
 
 ### Normalization
 
+Normalization is an important step in the analysis of the methylation microarray data to correct for technical biases:
+
+- Background signal: Corrects for the background signal in the arrays
+- Probe-type bias: Corrects for the differences in the signal between the two probe types (Infinium I and II). Type I probes are known to have a higher signal ra
+
 Normalization procedures currently available for correcting output include:
 
+- Illumina normalization (GenomeStudio). Background correction and control normalization. Implemented in the `preprocessIllumina` function (reverse-engineered from GenomeStudio).
+
 - Quantile normalization (QN)
+
 - Beta-mixture quantile normalization (BMIQ)
-- Subset-quantiles within microarray normalization (SWAN)
+
+- Subset-quantiles within microarray normalization (SWAN). Within-array normalization method that corrects for probe-type bias (Infinium I and II).
+
 - Peak-based correction (PBC)
+
 - Functional normalization (Funnorm)
+
 - Normal-exponential convolution using out-of-band probes (Noob)
+
 - Single-sample noov (SSnoob)
 
 For 450K data BMIQ appears to be the most effective normalization method for probe-type bias.
+
+Some bibliography:
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10008016/
 
 ## References
 
 - [Analysis of 450k data using minfi](https://bioconductor.org/help/course-materials/2015/BioC2015/methylation450k.html)
 - [Maternal obesity and gestational diabetes reprogram the methylome of offspring beyond birth by inducing epigenetic signatures in metabolic and developmental pathways - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985842/)
+- https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationArray/Array_Tutorial.html
