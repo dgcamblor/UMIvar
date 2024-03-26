@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "fgbio",
+      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
+    },
+    {
       "basename": "2024-03-26",
       "path": "Notas diarias/2024-03-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Asociaciones y congresos de interés",
       "path": "Doctorado/Asociaciones y congresos de interés.md"
-    },
-    {
-      "basename": "Consejos para un póster científico",
-      "path": "Doctorado/Consejos para un póster científico.md"
     }
   ],
   "omittedPaths": [],
