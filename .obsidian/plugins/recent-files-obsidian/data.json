@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-26",
+      "path": "Notas diarias/2024-03-26.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
       "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "2024-03-25",
       "path": "Notas diarias/2024-03-25.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Configuración de Playnite",
@@ -195,10 +199,6 @@
     {
       "basename": "Consejos para un póster científico",
       "path": "Doctorado/Consejos para un póster científico.md"
-    },
-    {
-      "basename": "ctDNA calling software",
-      "path": "Doctorado/ctDNA calling software.md"
     }
   ],
   "omittedPaths": [],
