@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "MeDIP-seq processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md"
+    },
+    {
+      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
+      "path": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+    },
+    {
+      "basename": "2024-03-28",
+      "path": "Notas diarias/2024-03-28.md"
+    },
+    {
       "basename": "MultiQC",
       "path": "Bioinformática y programación/Software/MultiQC.md"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "Methylation microarray processing and analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
-    },
-    {
-      "basename": "MeDIP-seq processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md"
-    },
-    {
-      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
-      "path": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
     {
       "basename": "Revisión de estudios de metilación en ctDNA",
@@ -195,10 +199,6 @@
     {
       "basename": "IDAT format",
       "path": "Bioinformática y programación/Ómicas/IDAT format.md"
-    },
-    {
-      "basename": "Configuración de Playnite",
-      "path": "Guías y referencias/Configuración de Playnite.md"
     }
   ],
   "omittedPaths": [],
