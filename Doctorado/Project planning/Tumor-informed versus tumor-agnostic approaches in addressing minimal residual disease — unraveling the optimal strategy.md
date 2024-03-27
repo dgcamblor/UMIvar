@@ -117,7 +117,7 @@ Studies in other types of cancer:
 
 ## V. Emerging Technologies and Future Directions
 
-- [ ] Añadir metodología de MAESTRO
+- [x] Añadir metodología de MAESTRO ✅ 2024-03-27
 
 ### 1. Breakthroughs in ctDNA genomics
 
@@ -139,7 +139,7 @@ Studies in other types of cancer:
 
 > WGBS/cfMEDIP. In the whole-genome setting, the gold standard for methylation assessment, Whole Genome Bisulfite Sequencing
 
-- [ ] Discutir el tema de los falsos positivos en Guardant Reveal.
+- [x] Discutir el tema de los falsos positivos en Guardant Reveal. ✅ 2024-03-27
 
 ### 3. Potential new biomarkers in liquid biopsy
 

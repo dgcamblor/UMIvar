@@ -82,7 +82,7 @@ Normalization procedures currently available for correcting output include:
 
 - **Normal-exponential convolution using out-of-band probes (Noob).** A method for background correction. Along with Normexp, it uses out-of-band intensities (i.e. the Infinium I probes in the color channels opposite to their designed base extension) to calibrate
 
-- **Single-sample noov (SSnoob)**
+- **Single-sample noob (SSnoob)**
 
 For within-array normalization, the key point is that the Infinium I/II type bias seems to be the one it is most crucial to correct (as it is influenced by both the background and color biases), and therefore the techniques that correct for this bias are the most effective.
 
@@ -94,7 +94,7 @@ A systematic evaluaion of normalization methods for Infinium EPIC arrays can be 
 
 Between-array normalization is often not considered at the preprocessing step, but it is taken into account in the differential methylation analysis. This is done by adding as covariates possible experimental confounders (batch, center if the data comes from multiple centers, etc.) to the linear model.
 
-## Conversion of beta values to M values
+### Conversion of beta values to M values
 
 The beta values are a measure of the methylation level of a CpG site, ranging from 0 (unmethylated) to 1 (methylated). The M values are the logit transformation of the beta values, and they are more appropriate for statistical analysis. The beta values can be logit-transformed using the `beta2m` function of the `lumi` package.
 

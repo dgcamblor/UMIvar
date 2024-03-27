@@ -5,8 +5,32 @@
       "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
     },
     {
+      "basename": "Conversión por bisulfito",
+      "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
+    },
+    {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
-      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+      "path": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+    },
+    {
+      "basename": "Methylation microarray processing and analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+    },
+    {
+      "basename": "Revisión de estudios de metilación en ctDNA",
+      "path": "Doctorado/Project planning/Revisión de estudios de metilación en ctDNA.md"
+    },
+    {
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Project planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
+      "path": "Doctorado/Project planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "Secuenciación de inmunoprecipitación del ADN metilado",
@@ -29,20 +53,12 @@
       "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
     },
     {
-      "basename": "Conversión por bisulfito",
-      "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
-    },
-    {
       "basename": "Epigenetic clock",
       "path": "Biología y medicina/Epigenética/Epigenetic clock.md"
     },
     {
       "basename": "Bisulfite conversion processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
-    },
-    {
-      "basename": "Methylation microarray processing and analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
     },
     {
       "basename": "MethylDackel",
@@ -105,10 +121,6 @@
       "path": "Notas diarias/2024-03-27.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "Beta values and M values (methylation)",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md"
     },
@@ -145,28 +157,12 @@
       "path": "Notas diarias/2024-03-26.md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
-    },
-    {
       "basename": "2024-03-25",
       "path": "Notas diarias/2024-03-25.md"
     },
     {
-      "basename": "EACR 2024",
-      "path": "Doctorado/Writing and planning/EACR 2024.md"
-    },
-    {
       "basename": "fgbio",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
-    },
-    {
-      "basename": "Revisión de estudios de metilación en ctDNA",
-      "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
-    },
-    {
-      "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
-      "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
     {
       "basename": "IDAT format",
@@ -195,10 +191,6 @@
     {
       "basename": "Autoexploración de la piel",
       "path": "Dieta y hábitos/Autoexploración de la piel.md"
-    },
-    {
-      "basename": "Why Your Brain Fog Never Goes Away (and How To Get Clarity)",
-      "path": "Notas de vídeos/Why Your Brain Fog Never Goes Away (and How To Get Clarity).md"
     }
   ],
   "omittedPaths": [],
