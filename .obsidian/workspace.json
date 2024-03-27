@@ -10,13 +10,15 @@
           {
             "id": "e907a1b8da2d72d5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+                "file": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 688.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
+                "file": "Bioinformática y programación/Software/MultiQC.md"
               }
             }
           },
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+                "file": "Bioinformática y programación/Software/MultiQC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+                "file": "Bioinformática y programación/Software/MultiQC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
+                "file": "Bioinformática y programación/Software/MultiQC.md"
               }
             }
           },
@@ -209,21 +211,27 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "e907a1b8da2d72d5",
+  "active": "49c97c5289b16da1",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Multiómica/Multi-omics data integration overview.md",
+    "Bioinformática y programación/Ómicas/FastQC.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylated DNA immunoprecipitation analysis pipeline.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md",
+    "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+    "Doctorado/Project planning/Revisión de estudios de metilación en ctDNA.md",
+    "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+    "Otros/Adjuntos/Pasted image 20240327202318.png",
     "Otros/Adjuntos/Pasted image 20240327201733.png",
     "Otros/Adjuntos/Pasted image 20240327201038.png",
     "Biología y medicina/Epigenética/5-hmC.md",
     "Biología y medicina/Epigenética/5-mC.md",
-    "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Biología y medicina/Epigenética/Conversión por bisulfito.md",
     "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
     "Otros/Adjuntos/Pasted image 20240327195734.png",
     "Otros/Adjuntos/Pasted image 20240327195240.png",
-    "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
-    "Doctorado/Project planning/Revisión de estudios de metilación en ctDNA.md",
     "Doctorado/Project planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
     "Doctorado/Project planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Doctorado/Project planning/EACR 2024.md",
@@ -237,10 +245,6 @@
     "Biología y medicina/Epigenética/Arrays de metilación-daniel-Latitude.md",
     "Biología y medicina/Epigenética/Epigenetic clock.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/R packages for DNA methylation analysis.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/SEQC2 epigenomics study.md",
     "Otros/Adjuntos/Pasted image 20240325195052.png",
     "Otros/Adjuntos/descarga.pdf",
     "Otros/Adjuntos/Pasted image 20240325191901.png",
@@ -255,8 +259,6 @@
     "Notas de vídeos/How to make smart decisions more easily.md.partial",
     "Otros/Adjuntos/Pasted image 20240304134200.jpg",
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
-    "Otros/Adjuntos/Pasted image 20240214182751.png",
-    "Otros/Adjuntos/Pasted image 20240214182408.png",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]

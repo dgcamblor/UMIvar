@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "MultiQC",
+      "path": "Bioinformática y programación/Software/MultiQC.md"
+    },
+    {
+      "basename": "Multi-omics data integration overview",
+      "path": "Bioinformática y programación/Ómicas/Multiómica/Multi-omics data integration overview.md"
+    },
+    {
+      "basename": "FastQC",
+      "path": "Bioinformática y programación/Ómicas/FastQC.md"
+    },
+    {
+      "basename": "Methylation deconvolution in cfDNA",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md"
+    },
+    {
+      "basename": "Methylation microarray processing and analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+    },
+    {
+      "basename": "MeDIP-seq processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md"
+    },
+    {
+      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
+      "path": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+    },
+    {
+      "basename": "Revisión de estudios de metilación en ctDNA",
+      "path": "Doctorado/Project planning/Revisión de estudios de metilación en ctDNA.md"
+    },
+    {
       "basename": "Inmunoprecipitación del ADN metilado",
       "path": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
     },
@@ -23,18 +55,6 @@
     {
       "basename": "Secuenciación por conversión de bisulfito",
       "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
-    },
-    {
-      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
-      "path": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
-    },
-    {
-      "basename": "Methylation microarray processing and analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
-    },
-    {
-      "basename": "Revisión de estudios de metilación en ctDNA",
-      "path": "Doctorado/Project planning/Revisión de estudios de metilación en ctDNA.md"
     },
     {
       "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
@@ -74,11 +94,11 @@
     },
     {
       "basename": "MethylDackel",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
+      "path": "Bioinformática y programación/Software/MethylDackel.md"
     },
     {
       "basename": "methylKit",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
+      "path": "Bioinformática y programación/methylKit.md"
     },
     {
       "basename": "R packages for DNA methylation analysis",
@@ -138,19 +158,15 @@
     },
     {
       "basename": "bedGraph",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md"
+      "path": "Bioinformática y programación/Ómicas/bedGraph.md"
     },
     {
       "basename": "Bismark",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md"
+      "path": "Bioinformática y programación/Software/Bismark.md"
     },
     {
       "basename": "Bisulfite vs. enrichment pipelines",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
-    },
-    {
-      "basename": "Methylation deconvolution in cfDNA",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md"
     },
     {
       "basename": "GSEA for methylation data",
@@ -183,22 +199,6 @@
     {
       "basename": "Configuración de Playnite",
       "path": "Guías y referencias/Configuración de Playnite.md"
-    },
-    {
-      "basename": "Hormesis",
-      "path": "Biología y medicina/Hormesis.md"
-    },
-    {
-      "basename": "Tareas",
-      "path": "Tareas.md"
-    },
-    {
-      "basename": "Suplementos",
-      "path": "Dieta y hábitos/Suplementos.md"
-    },
-    {
-      "basename": "Dieta y hábitos",
-      "path": "Dieta y hábitos/Dieta y hábitos.md"
     }
   ],
   "omittedPaths": [],

@@ -15,4 +15,7 @@ Esta técnica cubre CpGs (y no CpGs) distribuidos a lo largo del genoma, en todo
 
 Cuando la técnica MeDIP se complementa con NGS, se conoce como MeDIP-seq. Mediante la secuenciación de los fragmentos de ADN inmunoprecipitados y s u mapeo al genoma, la cobertura de las regiones se utiliza para estimar el nivel de metilación de cada una de ellas.
 
-- Cuando una región tiene mayor cobe
+- Cuando una región tiene mayor cobertura, esto es que se han inmunoprecipitado más fragmentos, lo que a su vez depende de que tenga elevados niveles de metilación.
+- Y viceversa.
+
+![[Pasted image 20240327202318.png]]

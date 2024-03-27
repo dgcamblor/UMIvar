@@ -21,5 +21,5 @@ Allows for filtering the raw variant calling output of mutect2.
 
 Starting with version 4.0, GATK contains a copy of the [Picard](http://broadinstitute.github.io/picard/) toolkit, so all Picard tools are available from within GATK itself.
 
-![[Bioinformática y programación/Programas/Picard]]
+![[Picard]]
 

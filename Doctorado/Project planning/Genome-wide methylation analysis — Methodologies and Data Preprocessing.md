@@ -46,4 +46,4 @@ Objectives:
 
 ### Bioinformatic preprocessing
 
-![[MEDIP]]
+![[MeDIP-seq processing pipeline]]

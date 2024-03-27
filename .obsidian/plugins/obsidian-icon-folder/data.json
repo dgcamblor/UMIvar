@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCode",
       "FasUserPen",
       "FasBarsProgress",
       "FasDatabase",
-      "FasUsers",
-      "FabReadme"
+      "FasUsers"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,6 +52,6 @@
   "Notas de lecturas": "FabReadme",
   "Notas de charlas": "FasUsers",
   "Bioinformática y programación/Databases": "FasDatabase",
-  "Bioinformática y programación/Programas": "FasBarsProgress",
-  "Doctorado/Project planning": "FasUserPen"
+  "Doctorado/Project planning": "FasUserPen",
+  "Bioinformática y programación/Software": "FasCode"
 }
