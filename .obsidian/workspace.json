@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a496fac280f3ddd2",
+        "id": "9ef35d4f85bbdbbf",
         "type": "tabs",
         "children": [
           {
-            "id": "e18eca87b79a1010",
+            "id": "dd1eef1156fe51db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,12 +193,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-vscode:VSCode": false,
@@ -209,8 +209,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "e18eca87b79a1010",
+  "active": "dd1eef1156fe51db",
   "lastOpenFiles": [
+    "Notas diarias/2024-03-27.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+    "Dashboard.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md",
     "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
@@ -223,12 +227,8 @@
     "Bioinformática y programación/Ómicas/Epigenómica/GSEA for methylation data.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Epigenomics learning resources.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md",
-    "Dashboard.md",
     "Notas diarias/2024-03-26.md",
     "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
-    "Notas diarias/2024-03-27.md",
     "Notas diarias/2024-03-25.md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Biología y medicina/Inmunología/Linfocitos T.md",
