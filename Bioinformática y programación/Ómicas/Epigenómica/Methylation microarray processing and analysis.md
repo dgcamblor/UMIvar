@@ -15,7 +15,16 @@ Some microarray concepts for their bioinformatic analysis are:
 
 From now on, we will be working with `minfi`, although similar steps are to be followed in other packages. This package is highly compatible with other packages. The input for `minfi` are [[IDAT format|IDAT]] files.
 
+The general workflow with minfi is:
+
 ![[Pasted image 20240325195052.png]]
+
+The main classes in `minfi` are:
+
+- `RGChannelSet`: Contains the raw intensities of the green and red channels.
+- `MethylSet`: Contains data organized at the probe level, with two channels: methylated and unmethylated.
+- 
+
 
 ### Reading the data
 

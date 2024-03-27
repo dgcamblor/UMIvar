@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Detection of CRC-specific methylation profiles",
-      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
+      "basename": "Methylation microarray processing and analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+    },
+    {
+      "basename": "MethylDackel",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
+    },
+    {
+      "basename": "methylKit",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
+    },
+    {
+      "basename": "R packages for DNA methylation analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/R packages for DNA methylation analysis.md"
+    },
+    {
+      "basename": "SEQC2 epigenomics study",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/SEQC2 epigenomics study.md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
     },
     {
       "basename": "Evaluación cruzada entre WGBS y array de metilación",
       "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
     },
     {
-      "basename": "Líneas de investigación y estudios de interés",
-      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
+      "basename": "Detection of CRC-specific methylation profiles",
+      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
     },
     {
       "basename": "Methylation and drug resistance",
@@ -41,10 +61,6 @@
       "path": "Doctorado/Possible controls for ctDNA methylation.md"
     },
     {
-      "basename": "Methylation microarray processing and analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
-    },
-    {
       "basename": "2024-03-27",
       "path": "Notas diarias/2024-03-27.md"
     },
@@ -71,22 +87,6 @@
     {
       "basename": "Bisulfite vs. enrichment pipelines",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
-    },
-    {
-      "basename": "MethylDackel",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
-    },
-    {
-      "basename": "methylKit",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
-    },
-    {
-      "basename": "R packages for DNA methylation analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/R packages for DNA methylation analysis.md"
-    },
-    {
-      "basename": "SEQC2 epigenomics study",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/SEQC2 epigenomics study.md"
     },
     {
       "basename": "Methylation deconvolution in cfDNA",
