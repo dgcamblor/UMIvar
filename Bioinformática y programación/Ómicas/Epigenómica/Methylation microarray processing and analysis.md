@@ -56,25 +56,25 @@ Normalization is an important step in the analysis of the methylation microarray
 
 Normalization procedures currently available for correcting output include:
 
-- Illumina normalization (GenomeStudio). Background correction and control normalization. Implemented in the `preprocessIllumina` function (reverse-engineered from GenomeStudio).
+- **Illumina normalization (GenomeStudio).** Background correction and control normalization. Implemented in the `preprocessIllumina` function (reverse-engineered from GenomeStudio).
 
-- Quantile normalization (QN)
+- **Quantile normalization (QN)**
 
-- Beta-mixture quantile normalization (BMIQ). One of the most popular normalization methods for probe-type bias. This method decomposes the density profile of the Infinium I and II probes into two mixtures of three beta-distributions corresponding to the three methylation states: unmethylated (close to 0), partially methylated (close to 0.5) and fully methylated (close to 1). Then it uses QN to fit each beta-distribution of the Infinium II profile to the corresponding beta-distribution of the Infinium I profile.
+- **Beta-mixture quantile normalization (BMIQ).** One of the most popular normalization methods for probe-type bias. This method decomposes the density profile of the Infinium I and II probes into two mixtures of three beta-distributions corresponding to the three methylation states: unmethylated (close to 0), partially methylated (close to 0.5) and fully methylated (close to 1). Then it uses QN to fit each beta-distribution of the Infinium II profile to the corresponding beta-distribution of the Infinium I profile.
 
-- Subset-quantiles within microarray normalization (SWAN). Within-array normalization method that corrects for probe-type bias (Infinium I and II).
+- **Subset-quantiles within microarray normalization (SWAN).** Within-array normalization method that corrects for probe-type bias (Infinium I and II).
 
-- Peak-based correction (PBC)
+- **Peak-based correction (PBC)**
 
-- Functional normalization (Funnorm)
+- **Functional normalization (Funnorm)**
 
-- Normal-exponential convolution using out-of-band probes (Noob). A method for background correction.
+- **Normal-exponential convolution using out-of-band probes (Noob).** A method for background correction. Along with Normexp, it uses out-of-band intensities (i.e. the Infinium I probes in the color channels opposite to their designed base extension) to calibrate
 
-- Single-sample noov (SSnoob)
+- **Single-sample noov (SSnoob)**
 
 For within-array normalization, the key point is that the Infinium I/II type bias seems to be the one it is most crucial to correct (as it is influenced by both the background and color biases), and therefore the techniques that correct for this bias are the most effective.
 
-For 450K data, **BMIQ** appears to be the most effective normalization method for probe-type bias. This method is implemented in the `BMIQ` function of the `wateRmelon` package, which requires a `MethylSet` object as input. Therefore, just using this method is effective for within-array normalization. The BMIQ normalization is often coupled with 
+For 450K data, **BMIQ** appears to be the most effective normalization method for probe-type bias. This method is implemented in the `BMIQ` function of the `wateRmelon` package, which requires a `MethylSet` object as input. Therefore, just using this method is effective for within-array normalization. The BMIQ normalization is often coupled with the Noob method to increase background error correction.
 
 A systematic evaluaion of normalization methods for Infinium EPIC arrays can be found at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10008016/.
 
