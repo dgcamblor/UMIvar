@@ -9,5 +9,5 @@ La metilación del ADN en mamíferos se produce casi exclusivamente en contextos
 
 Las principales formas de metilación del ADN son:
 
-- [[5mC]]
-- [[5hmC]]
+- [[5-mC]]
+- [[5-hmC]]

@@ -1,4 +1,4 @@
-La 5-hidroximetilcitosina o 5hmC se genera por oxidación de la [[5mC]], en una reacción catalizada por las [[enzimas TET]].
+La 5-hidroximetilcitosina o 5-hmC se genera por oxidación de la [[5-mC]], en una reacción catalizada por las [[enzimas TET]].
 
 A epigenetic marker found most frequently in the brain.
 
@@ -9,4 +9,4 @@ Los niveles totales de 5hmC tienden a ser mayores con la edad [Alterations in 5h
 ## 5hmC y cáncer
 
 
-Se ha propuesto el uso de 5hmC en cfDNA para la predicción del tipo tumoral y estadio; de hecho, los niveles de este marcador en células sanguíneas son muy bajos, lo que proporcionaría un background mucho menor en plasma (a diferencia del caso de la [[5mC]]).
+Se ha propuesto el uso de 5hmC en cfDNA para la predicción del tipo tumoral y estadio; de hecho, los niveles de este marcador en células sanguíneas son muy bajos, lo que proporcionaría un background mucho menor en plasma (a diferencia del caso de la [[5-mC]]).

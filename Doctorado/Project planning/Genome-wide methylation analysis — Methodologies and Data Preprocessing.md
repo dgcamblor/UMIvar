@@ -16,7 +16,7 @@ Objectives:
 
 - [[Arrays de metilación|Methylation microarrays]]
 - [[Secuenciación por conversión de bisulfito|Bisulfite sequencing]] (WGBS, RRBS)
-- [[Secuenciación de inmunoprecipitación del ADN metilado|Methylated DNA immunoprecipitation]] (a.k.a. MeDIP)
+- [[Inmunoprecipitación del ADN metilado|Methylated DNA immunoprecipitation]] (a.k.a. MeDIP)
 
 ## Methylation microarrays
 
@@ -42,7 +42,7 @@ Objectives:
 
 ### Technique
 
-![[Secuenciación de inmunoprecipitación del ADN metilado]]
+![[Inmunoprecipitación del ADN metilado]]
 
 ### Bioinformatic preprocessing
 

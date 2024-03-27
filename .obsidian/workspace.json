@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
+                "file": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
               }
             }
           },
@@ -211,9 +211,15 @@
   },
   "active": "e907a1b8da2d72d5",
   "lastOpenFiles": [
-    "Otros/Adjuntos/Pasted image 20240327195734.png",
+    "Otros/Adjuntos/Pasted image 20240327201733.png",
+    "Otros/Adjuntos/Pasted image 20240327201038.png",
+    "Biología y medicina/Epigenética/5-hmC.md",
+    "Biología y medicina/Epigenética/5-mC.md",
+    "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
+    "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
     "Biología y medicina/Epigenética/Conversión por bisulfito.md",
     "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
+    "Otros/Adjuntos/Pasted image 20240327195734.png",
     "Otros/Adjuntos/Pasted image 20240327195240.png",
     "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
@@ -224,7 +230,6 @@
     "Doctorado/Writing and planning/Sin título",
     "Dashboard.md",
     "Doctorado/Presentaciones/Presentación del proyecto de doctorado.md",
-    "Biología y medicina/Epigenética/Secuenciación de inmunoprecipitación del ADN metilado.md",
     "Biología y medicina/Epigenética/Metilación del ADN.md",
     "Biología y medicina/Epigenética/Pirosecuenciación.md",
     "Biología y medicina/Epigenética/Epigenética y cáncer.md",
@@ -236,9 +241,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
     "Bioinformática y programación/Ómicas/Epigenómica/R packages for DNA methylation analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/SEQC2 epigenomics study.md",
-    "Doctorado/Líneas de investigación y estudios de interés.md",
-    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
-    "Doctorado/Detection of CRC-specific methylation profiles.md",
     "Otros/Adjuntos/Pasted image 20240325195052.png",
     "Otros/Adjuntos/descarga.pdf",
     "Otros/Adjuntos/Pasted image 20240325191901.png",
@@ -255,8 +257,6 @@
     "Otros/Adjuntos/Pasted image 20240215101737.jpg",
     "Otros/Adjuntos/Pasted image 20240214182751.png",
     "Otros/Adjuntos/Pasted image 20240214182408.png",
-    "Otros/Adjuntos/vaf_single.png",
-    "Otros/Adjuntos/Pasted image 20240213151244.png",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]

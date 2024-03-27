@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Secuenciación por conversión de bisulfito",
-      "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
+      "basename": "Inmunoprecipitación del ADN metilado",
+      "path": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
+    },
+    {
+      "basename": "5-hmC",
+      "path": "Biología y medicina/Epigenética/5-hmC.md"
+    },
+    {
+      "basename": "5-mC",
+      "path": "Biología y medicina/Epigenética/5-mC.md"
+    },
+    {
+      "basename": "Epigenética y envejecimiento",
+      "path": "Biología y medicina/Epigenética/Epigenética y envejecimiento.md"
     },
     {
       "basename": "Conversión por bisulfito",
       "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
+    },
+    {
+      "basename": "Secuenciación por conversión de bisulfito",
+      "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
     },
     {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
@@ -31,10 +47,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "Secuenciación de inmunoprecipitación del ADN metilado",
-      "path": "Biología y medicina/Epigenética/Secuenciación de inmunoprecipitación del ADN metilado.md"
     },
     {
       "basename": "Metilación del ADN",
@@ -187,10 +199,6 @@
     {
       "basename": "Dieta y hábitos",
       "path": "Dieta y hábitos/Dieta y hábitos.md"
-    },
-    {
-      "basename": "Autoexploración de la piel",
-      "path": "Dieta y hábitos/Autoexploración de la piel.md"
     }
   ],
   "omittedPaths": [],
