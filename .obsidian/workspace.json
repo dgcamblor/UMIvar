@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 470.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+                "file": "Doctorado/Detection of CRC-specific methylation profiles.md"
               }
             }
           },
@@ -211,8 +211,17 @@
   },
   "active": "dd1eef1156fe51db",
   "lastOpenFiles": [
-    "Notas diarias/2024-03-27.md",
+    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
+    "Doctorado/Líneas de investigación y estudios de interés.md",
+    "Doctorado/Methylation and drug resistance.md",
+    "Doctorado/MRD ctDNA assays.md",
+    "Doctorado/MRD ctDNA clinical trials in CRC.md",
+    "Doctorado/PhD dashboard.md",
+    "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
+    "Doctorado/Revistas de interés.md",
+    "Doctorado/Possible controls for ctDNA methylation.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+    "Notas diarias/2024-03-27.md",
     "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Dashboard.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md",
@@ -228,15 +237,6 @@
     "Bioinformática y programación/Ómicas/Epigenómica/Epigenomics learning resources.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md",
     "Notas diarias/2024-03-26.md",
-    "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md",
-    "Notas diarias/2024-03-25.md",
-    "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
-    "Biología y medicina/Inmunología/Linfocitos T.md",
-    "Bioinformática y programación/Trimmomatic.md",
-    "Doctorado/Writing and planning/EACR 2024.md",
-    "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md",
-    "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md",
-    "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md",
     "Otros/Adjuntos/Pasted image 20240325195052.png",
     "Otros/Adjuntos/descarga.pdf",
     "Otros/Adjuntos/Pasted image 20240325191901.png",

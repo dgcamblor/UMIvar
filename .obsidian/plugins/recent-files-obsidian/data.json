@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Detection of CRC-specific methylation profiles",
+      "path": "Doctorado/Detection of CRC-specific methylation profiles.md"
+    },
+    {
+      "basename": "Evaluación cruzada entre WGBS y array de metilación",
+      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
+    },
+    {
+      "basename": "Líneas de investigación y estudios de interés",
+      "path": "Doctorado/Líneas de investigación y estudios de interés.md"
+    },
+    {
+      "basename": "Methylation and drug resistance",
+      "path": "Doctorado/Methylation and drug resistance.md"
+    },
+    {
+      "basename": "MRD ctDNA assays",
+      "path": "Doctorado/MRD ctDNA assays.md"
+    },
+    {
+      "basename": "MRD ctDNA clinical trials in CRC",
+      "path": "Doctorado/MRD ctDNA clinical trials in CRC.md"
+    },
+    {
+      "basename": "PhD dashboard",
+      "path": "Doctorado/PhD dashboard.md"
+    },
+    {
+      "basename": "Tumor-informed and tumor-agnostic approaches to MRD detection",
+      "path": "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md"
+    },
+    {
+      "basename": "Revistas de interés",
+      "path": "Doctorado/Revistas de interés.md"
+    },
+    {
+      "basename": "Possible controls for ctDNA methylation",
+      "path": "Doctorado/Possible controls for ctDNA methylation.md"
+    },
+    {
       "basename": "Methylation microarray processing and analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
     },
@@ -85,10 +125,6 @@
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
     },
     {
-      "basename": "Evaluación cruzada entre WGBS y array de metilación",
-      "path": "Doctorado/Evaluación cruzada entre WGBS y array de metilación.md"
-    },
-    {
       "basename": "Revisión de estudios de metilación en ctDNA",
       "path": "Doctorado/Presentaciones/Revisión de estudios de metilación en ctDNA.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Advice for machine learning beginners — Andrej Karpathy and Lex Fridman",
       "path": "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md"
-    },
-    {
-      "basename": "Coffee & Sleep — How Does Caffeine Work & Its Effects on Sleep",
-      "path": "Notas de vídeos/Coffee & Sleep — How Does Caffeine Work & Its Effects on Sleep.md"
-    },
-    {
-      "basename": "How to Focus to Change Your Brain",
-      "path": "Notas de vídeos/How to Focus to Change Your Brain.md"
-    },
-    {
-      "basename": "The Biology of Slowing & Reversing Aging — Dr. David Sinclair",
-      "path": "Notas de vídeos/The Biology of Slowing & Reversing Aging — Dr. David Sinclair.md"
-    },
-    {
-      "basename": "Using Your Nervous System to Enhance Your Immune System",
-      "path": "Notas de vídeos/Using Your Nervous System to Enhance Your Immune System.md"
-    },
-    {
-      "basename": "Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health",
-      "path": "Notas de vídeos/Mental Health Toolkit — Tools to Bolster Your Mood & Mental Health.md"
-    },
-    {
-      "basename": "Ensayos clínicos",
-      "path": "Biología y medicina/Ensayos clínicos.md"
-    },
-    {
-      "basename": "Declaración de Helsinki",
-      "path": "Biología y medicina/Declaración de Helsinki.md"
-    },
-    {
-      "basename": "Metabolismo del alcohol",
-      "path": "Biología y medicina/Bioquímica/Metabolismo/Metabolismo del alcohol.md"
-    },
-    {
-      "basename": "2024-03-22",
-      "path": "Notas diarias/2024-03-22.md"
     }
   ],
   "omittedPaths": [],
