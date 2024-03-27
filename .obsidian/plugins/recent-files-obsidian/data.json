@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Secuenciación por conversión de bisulfito",
+      "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
+    },
+    {
+      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
+      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+    },
+    {
+      "basename": "Secuenciación de inmunoprecipitación del ADN metilado",
+      "path": "Biología y medicina/Epigenética/Secuenciación de inmunoprecipitación del ADN metilado.md"
+    },
+    {
+      "basename": "Metilación del ADN",
+      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
+    },
+    {
+      "basename": "Pirosecuenciación",
+      "path": "Biología y medicina/Epigenética/Pirosecuenciación.md"
+    },
+    {
+      "basename": "Epigenética y cáncer",
+      "path": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
+    },
+    {
+      "basename": "Arrays de metilación",
+      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
+    },
+    {
+      "basename": "Conversión por bisulfito",
+      "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
+    },
+    {
+      "basename": "Epigenetic clock",
+      "path": "Biología y medicina/Epigenética/Epigenetic clock.md"
+    },
+    {
+      "basename": "Bisulfite conversion processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md"
+    },
+    {
       "basename": "Methylation microarray processing and analysis",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
     },
@@ -63,10 +103,6 @@
     {
       "basename": "2024-03-27",
       "path": "Notas diarias/2024-03-27.md"
-    },
-    {
-      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
-      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
     {
       "basename": "Dashboard",
@@ -133,20 +169,8 @@
       "path": "Doctorado/Paper planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
     },
     {
-      "basename": "Arrays de metilación",
-      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
-    },
-    {
       "basename": "IDAT format",
       "path": "Bioinformática y programación/Ómicas/IDAT format.md"
-    },
-    {
-      "basename": "Conversión por bisulfito",
-      "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
-    },
-    {
-      "basename": "Secuenciación por conversión de bisulfito",
-      "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
     },
     {
       "basename": "Configuración de Playnite",
@@ -175,30 +199,6 @@
     {
       "basename": "Why Your Brain Fog Never Goes Away (and How To Get Clarity)",
       "path": "Notas de vídeos/Why Your Brain Fog Never Goes Away (and How To Get Clarity).md"
-    },
-    {
-      "basename": "What Alcohol Does to Your Body, Brain & Health",
-      "path": "Notas de vídeos/What Alcohol Does to Your Body, Brain & Health.md"
-    },
-    {
-      "basename": "Tools to Enhance Working Memory & Attention",
-      "path": "Notas de vídeos/Tools to Enhance Working Memory & Attention.md"
-    },
-    {
-      "basename": "How to make smart decisions more easily",
-      "path": "Notas de vídeos/How to make smart decisions more easily.md"
-    },
-    {
-      "basename": "ADHD and How Anyone Can Improve Their Focus",
-      "path": "Notas de vídeos/ADHD and How Anyone Can Improve Their Focus.md"
-    },
-    {
-      "basename": "Dr. Matthew Walker — The Science & Practice of Perfecting Your Sleep",
-      "path": "Notas de vídeos/Dr. Matthew Walker — The Science & Practice of Perfecting Your Sleep.md"
-    },
-    {
-      "basename": "Advice for machine learning beginners — Andrej Karpathy and Lex Fridman",
-      "path": "Notas de vídeos/Advice for machine learning beginners — Andrej Karpathy and Lex Fridman.md"
     }
   ],
   "omittedPaths": [],

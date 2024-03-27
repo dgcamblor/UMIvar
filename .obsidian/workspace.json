@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+                "file": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
               }
             }
           },
@@ -211,6 +211,18 @@
   },
   "active": "dd1eef1156fe51db",
   "lastOpenFiles": [
+    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
+    "Biología y medicina/Epigenética/Secuenciación de inmunoprecipitación del ADN metilado.md",
+    "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
+    "Biología y medicina/Epigenética/Metilación del ADN.md",
+    "Biología y medicina/Epigenética/Pirosecuenciación.md",
+    "Biología y medicina/Epigenética/Epigenética y cáncer.md",
+    "Biología y medicina/Epigenética/Arrays de metilación.md",
+    "Biología y medicina/Epigenética/Arrays de metilación-daniel-Latitude.md",
+    "Biología y medicina/Epigenética/Conversión por bisulfito.md",
+    "Biología y medicina/Epigenética/Epigenetic clock.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite conversion processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
     "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md",
     "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md",
     "Bioinformática y programación/Ómicas/Epigenómica/R packages for DNA methylation analysis.md",
@@ -225,18 +237,6 @@
     "Doctorado/Tumor-informed and tumor-agnostic approaches to MRD detection.md",
     "Doctorado/Revistas de interés.md",
     "Doctorado/Possible controls for ctDNA methylation.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
-    "Notas diarias/2024-03-27.md",
-    "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
-    "Dashboard.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md",
-    "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/GSEA for methylation data.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Epigenomics learning resources.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md",
     "Otros/Adjuntos/Pasted image 20240325195052.png",
     "Otros/Adjuntos/descarga.pdf",
     "Otros/Adjuntos/Pasted image 20240325191901.png",

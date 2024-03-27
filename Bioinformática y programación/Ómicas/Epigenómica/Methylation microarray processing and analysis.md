@@ -22,9 +22,8 @@ The general workflow with minfi is:
 The main classes in `minfi` are:
 
 - `RGChannelSet`: Contains the raw intensities of the green and red channels.
-- `MethylSet`: Contains data organized at the probe level, with two channels: methylated and unmethylated.
-- 
-
+- `MethylSet`: Contains data organized at the probe level, with two channels: methylated and unmethylated. If mapped to a genome: `GenomicMethylSet`.
+- `RatioSet`: Contains methylation levels in the form of beta values and/or M values (logit-transformed beta values). If mapped to a genome: `GenomicRatioSet`. 
 
 ### Reading the data
 
@@ -32,10 +31,14 @@ The [[IDAT format|IDAT]] files are read by `minfi` using their filenames or the 
 
 The result is a `RGChannelSet` object, the initial `minfi` object that contains the raw intensities in the green and red channels. This object also contains the intensities of the internal control probes.
 
+To perform initial exploration on the data of the `RGChannelSet` object:
+
 ```
-pheno_data <- pData(RGSet) 
-pheno_data[,1:6]
+pheno_data <- pData(RGSet)  # Access the experimental design and sample characteristics; edit it if necessary
+manifest <- getManifest(RGSet)  # Access the manifest file
 ```
+
+The manifest file contains the information about the probes in the array (e.g. probe type, etc.).
 
 ### Filtering problematic probes
 
