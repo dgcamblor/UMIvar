@@ -15,5 +15,6 @@ En comparación con los [[Arrays de metilación]]:
 
 ## Reduced-Representation Bisulfite Sequencing (RRBS)
 
-La RRBS representa una variación con respecto al protocolo de WGBS que permite enriquecer las regiones analizadas en sitios más informativos para un análisis más coste-efectivo. En la preparación de la librería se integra un paso de digestión con el enzima de restricción *Msp*I.
+La RRBS representa una variación con respecto al protocolo de WGBS que permite enriquecer las regiones analizadas en sitios más informativos para un análisis más coste-efectivo. En el protocolo más básico, durante la preparación de la librería se integra un paso de digestión con el enzima de restricción *Msp*I.
 
+La enzima de restricción MspI corta el DNA en todos los sitios 5′-CCGG-3′ (independientemente del estado de metilación). Esta secuencia es muy frecuente en regiones del genoma ricas en CpG, como las islas CpG. El paso que permite el enriquecimiento es la selección de fragmentos de DNA en un rango de 40-220 pares de bases. Tras la digestión, los sitios ricos en CpG tienden a producir fragmentos de menor tamaño.
