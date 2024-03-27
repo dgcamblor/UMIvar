@@ -5,20 +5,76 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
     },
     {
-      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
-      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+      "basename": "Beta values and M values (methylation)",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md"
     },
     {
-      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
-      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+      "basename": "bedGraph",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/bedGraph.md"
+    },
+    {
+      "basename": "Bismark",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bismark.md"
+    },
+    {
+      "basename": "Bisulfite vs. enrichment pipelines",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Bisulfite vs. enrichment pipelines.md"
+    },
+    {
+      "basename": "MethylDackel",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/MethylDackel.md"
+    },
+    {
+      "basename": "methylKit",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/methylKit.md"
+    },
+    {
+      "basename": "R packages for DNA methylation analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/R packages for DNA methylation analysis.md"
+    },
+    {
+      "basename": "SEQC2 epigenomics study",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/SEQC2 epigenomics study.md"
+    },
+    {
+      "basename": "Methylation deconvolution in cfDNA",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md"
+    },
+    {
+      "basename": "GSEA for methylation data",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/GSEA for methylation data.md"
+    },
+    {
+      "basename": "Epigenomics learning resources",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomics learning resources.md"
+    },
+    {
+      "basename": "Epigenomic deconvolution analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "2024-03-26",
       "path": "Notas diarias/2024-03-26.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy",
+      "path": "Doctorado/Writing and planning/Tumor-informed versus tumor-agnostic approaches in addressing minimal residual disease — unraveling the optimal strategy.md"
+    },
+    {
+      "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
+      "path": "Doctorado/Writing and planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
+    },
+    {
+      "basename": "2024-03-27",
+      "path": "Notas diarias/2024-03-27.md"
+    },
+    {
+      "basename": "2024-03-25",
+      "path": "Notas diarias/2024-03-25.md"
     },
     {
       "basename": "EACR 2024",
@@ -27,10 +83,6 @@
     {
       "basename": "fgbio",
       "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
-    },
-    {
-      "basename": "Beta values and M values (methylation)",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Beta values and M values (methylation).md"
     },
     {
       "basename": "Evaluación cruzada entre WGBS y array de metilación",
@@ -59,10 +111,6 @@
     {
       "basename": "Secuenciación por conversión de bisulfito",
       "path": "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md"
-    },
-    {
-      "basename": "2024-03-25",
-      "path": "Notas diarias/2024-03-25.md"
     },
     {
       "basename": "Configuración de Playnite",
@@ -151,54 +199,6 @@
     {
       "basename": "2024-03-22",
       "path": "Notas diarias/2024-03-22.md"
-    },
-    {
-      "basename": "Configurar correo Universitat de València (UV)",
-      "path": "Guías y referencias/Configurar correo Universitat de València (UV).md"
-    },
-    {
-      "basename": "Statement",
-      "path": "Guías y referencias/Statement.md"
-    },
-    {
-      "basename": "A hitchhiker's guide to bioinformatics — tips",
-      "path": "Medium/A hitchhiker's guide to bioinformatics — tips.md"
-    },
-    {
-      "basename": "My career",
-      "path": "Medium/My career.md"
-    },
-    {
-      "basename": "2024-03-21",
-      "path": "Notas diarias/2024-03-21.md"
-    },
-    {
-      "basename": "Matriz de confusión",
-      "path": "Estadística/Matriz de confusión.md"
-    },
-    {
-      "basename": "Cáncer colorrectal",
-      "path": "Biología y medicina/Oncología/Cáncer colorrectal.md"
-    },
-    {
-      "basename": "Inmunoprecipitación del ADN metilado",
-      "path": "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md"
-    },
-    {
-      "basename": "Metilación del ADN",
-      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
-    },
-    {
-      "basename": "Epigenética y cáncer",
-      "path": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
-    },
-    {
-      "basename": "2024-03-15",
-      "path": "Notas diarias/2024-03-15.md"
-    },
-    {
-      "basename": "Asociaciones y congresos de interés",
-      "path": "Doctorado/Asociaciones y congresos de interés.md"
     }
   ],
   "omittedPaths": [],

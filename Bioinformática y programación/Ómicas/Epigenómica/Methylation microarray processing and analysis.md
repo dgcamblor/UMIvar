@@ -45,13 +45,14 @@ Several probes are known to be problematic due to a myriad of reasons, and it is
 Normalization is an important step in the analysis of the methylation microarray data to correct for technical biases:
 
 - Background signal (within-array): Background signal in the arrays
+
 - Color bias (within-array): Differences  in the intensity measurement fidelity between the two dyes.
+
 - Probe-type bias (within-array): Corrects for the differences in the signal between the two probe types (Infinium I and II). Type I probes are known to have a higher dynamic range than type II probes. Infinium II assays use the same bead to measure both the methylated and unmethylated signal, so the measurement of one signal can affect the measurement of the other signal.
+
 - Batch/array-specific effects (between-arrays): Corrects for the differences in the signal between the arrays. These differences can be due to the batch in which the arrays were processed, the slide, or the position of the array in the slide.
 
 #### Within-array normalization
-
-For within-array normalization, the key point is that the Infinium I/II type bias seems to be the one it is most crucial to correct. All techniques that adequately correct for this bias
 
 Normalization procedures currently available for correcting output include:
 
@@ -59,7 +60,7 @@ Normalization procedures currently available for correcting output include:
 
 - Quantile normalization (QN)
 
-- Beta-mixture quantile normalization (BMIQ). One of the most pop
+- Beta-mixture quantile normalization (BMIQ). One of the most popular normalization methods for probe-type bias. This method decomposes the density profile of the Infinium I and II probes #write
 
 - Subset-quantiles within microarray normalization (SWAN). Within-array normalization method that corrects for probe-type bias (Infinium I and II).
 
@@ -71,7 +72,9 @@ Normalization procedures currently available for correcting output include:
 
 - Single-sample noov (SSnoob)
 
-For 450K data BMIQ appears to be the most effective normalization method for probe-type bias.
+For within-array normalization, the key point is that the Infinium I/II type bias seems to be the one it is most crucial to correct (as it is influenced by both the background and color biases), and therefore the techniques that correct for this bias are the most effective.
+
+For 450K data **BMIQ** appears to be the most effective normalization method for probe-type bias. This method is implemented in the `BMIQ` function of the `wateRmelon` package, which requires a `MethylSet` object as input. 
 
 Some bibliography:
 
