@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Metilación del ADN",
-      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
-    },
-    {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
       "path": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
     },
@@ -53,6 +49,10 @@
       "path": "Biología y medicina/Epigenética/5-mC.md"
     },
     {
+      "basename": "Epigenética y envejecimiento",
+      "path": "Biología y medicina/Epigenética/Epigenética y envejecimiento.md"
+    },
+    {
       "basename": "Conversión por bisulfito",
       "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
     },
@@ -67,6 +67,10 @@
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
       "path": "Doctorado/Project planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
+    },
+    {
+      "basename": "Metilación del ADN",
+      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
     },
     {
       "basename": "Pirosecuenciación",
