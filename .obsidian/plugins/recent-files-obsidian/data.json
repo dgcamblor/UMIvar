@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Metilación del ADN",
-      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
+      "basename": "Conversión por bisulfito",
+      "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
     },
     {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
@@ -11,6 +11,10 @@
     {
       "basename": "Revisión de estudios de metilación en ctDNA",
       "path": "Doctorado/Project planning/Revisión de estudios de metilación en ctDNA.md"
+    },
+    {
+      "basename": "Metilación del ADN",
+      "path": "Biología y medicina/Epigenética/Metilación del ADN.md"
     },
     {
       "basename": "Dashboard",
@@ -51,10 +55,6 @@
     {
       "basename": "5-mC",
       "path": "Biología y medicina/Epigenética/5-mC.md"
-    },
-    {
-      "basename": "Conversión por bisulfito",
-      "path": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
     },
     {
       "basename": "Secuenciación por conversión de bisulfito",
