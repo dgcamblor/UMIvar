@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "MeDIP-seq processing pipeline",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Comparative analysis of UMI deduplication software in variant calling error correction (planning)",
       "path": "Doctorado/Project planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "Metilación del ADN",
