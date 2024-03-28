@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Notas diarias/2024-03-28.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas diarias/2024-03-28.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas diarias/2024-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notas diarias/2024-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notas diarias/2024-03-28.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   },
   "active": "a1b65535417ead5b",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Notas diarias/2024-03-28.md",
     "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md",
@@ -237,7 +238,6 @@
     "Doctorado/Project planning/Comparative analysis of UMI deduplication software in variant calling error correction (planning).md",
     "Doctorado/Project planning/EACR 2024.md",
     "Doctorado/Writing and planning/Sin título",
-    "Dashboard.md",
     "Doctorado/Presentaciones/Presentación del proyecto de doctorado.md",
     "Biología y medicina/Epigenética/Metilación del ADN.md",
     "Biología y medicina/Epigenética/Pirosecuenciación.md",
