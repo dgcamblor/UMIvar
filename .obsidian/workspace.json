@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b0e25ca35c9410c9",
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 480.5
   },
   "right": {
     "id": "6c6881b70b3db1d2",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Untitled.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+                "file": "Bioinformática y programación/Ómicas/Epigenómica/Untitled.md"
               }
             }
           },
@@ -212,18 +211,22 @@
   },
   "active": "a1b65535417ead5b",
   "lastOpenFiles": [
+    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Untitled.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq analysis pipeline.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Epigenomics learning resources.md",
+    "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md",
     "Biología y medicina/Epigenética/Arrays de metilación.md",
     "Notas diarias/2024-03-28.md",
     "Dashboard.md",
     "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md",
     "Otros/Adjuntos/Pasted image 20240327204620.jpg",
     "Bioinformática y programación/Software/MultiQC.md",
     "Bioinformática y programación/Ómicas/Multiómica/Multi-omics data integration overview.md",
     "Bioinformática y programación/Ómicas/FastQC.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md",
     "Bioinformática y programación/Ómicas/Epigenómica/Methylated DNA immunoprecipitation analysis pipeline.md",
-    "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md",
     "Doctorado/Project planning/Revisión de estudios de metilación en ctDNA.md",
     "Biología y medicina/Epigenética/Inmunoprecipitación del ADN metilado.md",
     "Otros/Adjuntos/Pasted image 20240327202318.png",
@@ -241,10 +244,6 @@
     "Doctorado/Project planning/EACR 2024.md",
     "Doctorado/Writing and planning/Sin título",
     "Doctorado/Presentaciones/Presentación del proyecto de doctorado.md",
-    "Biología y medicina/Epigenética/Metilación del ADN.md",
-    "Biología y medicina/Epigenética/Pirosecuenciación.md",
-    "Biología y medicina/Epigenética/Epigenética y cáncer.md",
-    "Biología y medicina/Epigenética/Arrays de metilación-daniel-Latitude.md",
     "Otros/Adjuntos/Pasted image 20240325195052.png",
     "Otros/Adjuntos/descarga.pdf",
     "Otros/Adjuntos/Pasted image 20240325191901.png",

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Methylation microarray processing and analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+      "basename": "Untitled",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Untitled.md"
+    },
+    {
+      "basename": "Methylation microarray processing",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing.md"
+    },
+    {
+      "basename": "MeDIP-seq processing pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md"
+    },
+    {
+      "basename": "MeDIP-seq analysis pipeline",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq analysis pipeline.md"
+    },
+    {
+      "basename": "Epigenomics learning resources",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomics learning resources.md"
+    },
+    {
+      "basename": "Epigenomic deconvolution analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
     },
     {
       "basename": "Arrays de metilación",
@@ -15,10 +35,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "MeDIP-seq processing pipeline",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/MeDIP-seq processing pipeline.md"
     },
     {
       "basename": "Genome-wide methylation analysis — Methodologies and Data Preprocessing",
@@ -177,28 +193,12 @@
       "path": "Bioinformática y programación/Ómicas/Epigenómica/GSEA for methylation data.md"
     },
     {
-      "basename": "Epigenomics learning resources",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomics learning resources.md"
-    },
-    {
-      "basename": "Epigenomic deconvolution analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Epigenomic deconvolution analysis.md"
-    },
-    {
       "basename": "2024-03-26",
       "path": "Notas diarias/2024-03-26.md"
     },
     {
       "basename": "2024-03-25",
       "path": "Notas diarias/2024-03-25.md"
-    },
-    {
-      "basename": "fgbio",
-      "path": "Bioinformática y programación/Ómicas/Genómica/Read deduplication/fgbio.md"
-    },
-    {
-      "basename": "IDAT format",
-      "path": "Bioinformática y programación/Ómicas/IDAT format.md"
     }
   ],
   "omittedPaths": [],

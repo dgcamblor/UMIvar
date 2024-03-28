@@ -26,7 +26,7 @@ Objectives:
 
 ### Bioinformatic processing
 
-![[Methylation microarray processing and analysis]]
+![[Methylation microarray processing]]
 
 ## Bisulfite conversion sequencing
 
