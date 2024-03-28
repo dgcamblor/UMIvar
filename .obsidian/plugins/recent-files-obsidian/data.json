@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Methylation microarray processing and analysis",
+      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
+    },
+    {
+      "basename": "Arrays de metilación",
+      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
+    },
+    {
       "basename": "2024-03-28",
       "path": "Notas diarias/2024-03-28.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Methylation deconvolution in cfDNA",
       "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation deconvolution in cfDNA.md"
-    },
-    {
-      "basename": "Methylation microarray processing and analysis",
-      "path": "Bioinformática y programación/Ómicas/Epigenómica/Methylation microarray processing and analysis.md"
     },
     {
       "basename": "Revisión de estudios de metilación en ctDNA",
@@ -83,10 +87,6 @@
     {
       "basename": "Epigenética y cáncer",
       "path": "Biología y medicina/Epigenética/Epigenética y cáncer.md"
-    },
-    {
-      "basename": "Arrays de metilación",
-      "path": "Biología y medicina/Epigenética/Arrays de metilación.md"
     },
     {
       "basename": "Epigenetic clock",

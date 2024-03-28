@@ -40,18 +40,6 @@ manifest <- getManifest(RGSet)  # Access the manifest file
 
 The manifest file contains the information about the probes in the array (e.g. probe type, etc.).
 
-### Filtering problematic probes
-
-Several probes are known to be problematic due to a myriad of reasons, and it is advisable to remove them from the analysis. 
-
-- C/T SNPs -> Probes with a common SNP at the CpG site, which can lead to a false positive signal. They can be identified with the `getSNPs()` function.
-
-- Probes located in sex chromosomes -> They can trigger false positives in the differential methylation analysis. They can be identified with the `getSex()` function.
-
-- Cross-reactive/multimapping probes -> Some of the probes can map to multiple locations in the genome, leading to confounding signals. Cross reactive probes have been documented in the literature ([Chen et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23314698/); [Pidsley et al., 2016](https://pubmed.ncbi.nlm.nih.gov/23314698/)). Some packages like `maxprobes` allow for easy removal in `minfi` objects.
-
-- Probes with detection p-values > 0.01. The detection p-value is a measure of the confidence in the signal of a probe, comparing the total signal at the probe (Methylated + Unmethylated) with the background signal (estimated from the negative control probes). Probes with detection p-values > 0.01 (or 0.05) are considered unreliable.
-
 ### Normalization
 
 Normalization is an important step in the analysis of the methylation microarray data to correct for technical biases:
@@ -94,13 +82,29 @@ A systematic evaluaion of normalization methods for Infinium EPIC arrays can be 
 
 Between-array normalization is often not considered at the preprocessing step, but it is taken into account in the differential methylation analysis. This is done by adding as covariates possible experimental confounders (batch, center if the data comes from multiple centers, etc.) to the linear model.
 
+**### Filtering problematic probes
+
+Several probes are known to be problematic due to a myriad of reasons, and it is advisable to remove them from the analysis. 
+
+- C/T SNPs -> Probes with a common SNP at the CpG site, which can lead to a false positive signal. They can be identified with the `getSNPs()` function.
+
+- Probes located in sex chromosomes -> They can trigger false positives in the differential methylation analysis. They can be identified with the `getSex()` function.
+
+- Cross-reactive/multimapping probes -> Some of the probes can map to multiple locations in the genome, leading to confounding signals. Cross reactive probes have been documented in the literature ([Chen et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23314698/); [Pidsley et al., 2016](https://pubmed.ncbi.nlm.nih.gov/23314698/)). Some packages like `maxprobes` allow for easy removal in `minfi` objects.
+
+- Probes with detection p-values > 0.01. The detection p-value is a measure of the confidence in the signal of a probe, comparing the total signal at the probe (Methylated + Unmethylated) with the background signal (estimated from the negative control probes). Probes with detection p-values > 0.01 (or 0.05) are considered unreliable.**
+
 ### Conversion of beta values to M values
 
 The beta values are a measure of the methylation level of a CpG site, ranging from 0 (unmethylated) to 1 (methylated). The M values are the logit transformation of the beta values, and they are more appropriate for statistical analysis. The beta values can be logit-transformed using the `beta2m` function of the `lumi` package.
+
+## Enrichment analysis
+
+- `missMethyl`
 
 ## References
 
 - https://academic.oup.com/bib/article/15/6/929/179607 -> Filtering and normalization
 - [Analysis of 450k data using minfi](https://bioconductor.org/help/course-materials/2015/BioC2015/methylation450k.html)
-- [Maternal obesity and gestational diabetes reprogram the methylome of offspring beyond birth by inducing epigenetic signatures in metabolic and developmental pathways - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985842/)
+- [Maternal obesity and gestational diabetes reprogram the methylome of offspring beyond birth by inducing epigenetic signatures in metabolic and developmental pathways - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985842/). Example case of microarray analysis.
 - https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationArray/Array_Tutorial.html
