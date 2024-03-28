@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión por bisulfito.md",
+                "file": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
+                "file": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión por bisulfito.md",
+                "file": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión por bisulfito.md",
+                "file": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Biología y medicina/Epigenética/Conversión por bisulfito.md"
+                "file": "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md"
               }
             }
           },
@@ -211,8 +211,9 @@
   },
   "active": "7373258313f703c6",
   "lastOpenFiles": [
-    "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Doctorado/Project planning/Revisión de estudios de metilación en ctDNA.md",
+    "Biología y medicina/Epigenética/Conversión por bisulfito.md",
+    "Doctorado/Project planning/Genome-wide methylation analysis — Methodologies and Data Preprocessing.md",
     "Biología y medicina/Epigenética/Metilación del ADN.md",
     "Otros/Adjuntos/Pasted image 20240328170047.png",
     "Otros/Adjuntos/Pasted image 20240328163757.png",
@@ -235,7 +236,6 @@
     "Biología y medicina/Epigenética/5-hmC.md",
     "Biología y medicina/Epigenética/5-mC.md",
     "Biología y medicina/Epigenética/Epigenética y envejecimiento.md",
-    "Biología y medicina/Epigenética/Conversión por bisulfito.md",
     "Biología y medicina/Epigenética/Secuenciación por conversión de bisulfito.md",
     "Otros/Adjuntos/Pasted image 20240327195734.png",
     "Otros/Adjuntos/Pasted image 20240327195240.png",
