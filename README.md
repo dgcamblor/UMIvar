@@ -13,27 +13,28 @@ UMIvar is specifically designed to be used for the benchmarking of variant calli
 
 ## Installation
 
-UMIvar is written in Python 3 (works for Python 3.10+) and requires the following python packages:
+UMIvar is written in Python 3 (works for Python 3.10+). It requires the following python packages:
 
 - pysam
 - numpy
 - umi_tools (only for the `--edit_threshold` parameter)
 - pyfaidx (only if using random variants)
 
-Installation of these dependencies can be easily done using pip:
+And also the [samtools](http://www.htslib.org/) executable to be in the PATH (installation instructions [here](http://www.htslib.org/download/)).
+
+Installation of these dependencies can be easily done by creating a conda environment with the provided `environment.yml` file:
 
 ```bash
-pip3 install -r requirements.txt
+conda env create -f environment.yml
 ```
-
-It also requires the [samtools](http://www.htslib.org/) executable to be in the PATH. Check the installation instructions [here](http://www.htslib.org/download/).
 
 ## Input
 
-UMIvar takes as an input an NGS sample in the form of a **BAM file**, which must have its index (`.bai` file) in the same folder. This file must contain UMI tagged reads, with the UMI tag included at the end of each query name, separated from the rest of the metainformation by a non letter character (e.g. "_" or ":"). For example, a read with the following query name would be valid:
+UMIvar takes as an input an NGS sample in the form of a **BAM file**, which must have its index (`.bai` file) in the same folder. This file must contain UMI tagged reads, with the UMI tag included at the end of each query name, separated from the rest of the metainformation by a non letter character (e.g. "_" or ":"). For example, reads with the following query names would be valid:
 
 ```text
 @MISEQ:177:C3Y1KACXX:2:1101:1465:1937_GATTAGATT
+@MISEQ:177:C3Y1KACXX:2:1101:1465:1937:GATTAGATT
 ```
 
 On the other hand, the program reads the variants to be introduced from a **CSV** or a **VCF file**. If variants are stored in a CSV file, it must contain the following columns:

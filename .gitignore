@@ -1,7 +1,6 @@
-designs
-results
-samples
-src/__pycache__
-tests
-tmp
-variants
+/src/__pycache__
+/test_data/*
+!/test_data/test_target.bed
+!/test_data/test_vars.csv
+!/test_data/test.bam*
+/tmp

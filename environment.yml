@@ -1,0 +1,12 @@
+name: umivar
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.9
+  - numpy
+  - pysam
+  - umi_tools
+  - pyfaidx
+  - samtools
